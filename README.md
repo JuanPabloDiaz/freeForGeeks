@@ -66,6 +66,7 @@ Developers and Open Source authors now have many services offering free tiers, b
 
 ## GitHub (done)
 
+-  https://github.com/DenverCoder1/readme-typing-svg
 - [gitHub-profile-badges](https://home.aveek.io/GitHub-Profile-Badges/)
 
 ## Images (done)
