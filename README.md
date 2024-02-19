@@ -40,43 +40,43 @@ Developers and Open Source authors now have many services offering free tiers, b
 
 ---
 
-# LinksHub Contribution
+# LinksHub Contribution (all done ✔️)
 
-## Icons (done)
+## Icons
 
 - [twemoji](https://twemoji.twitter.com/)
 - [zondicons](http://www.zondicons.com/)
 - [octicons](https://primer.style/octicons/)
 - [radix](https://www.radix-ui.com/icons)
 
-## Blogs (done)
+## Blogs
 
 - [SitePoint](https://www.sitepoint.com/)
 - [chat.zulip](https://chat.zulip.org/)
 - [a list apart](https://alistapart.com/)
 - [speckyboy](https://speckyboy.com/)
 
-## Colors (done)
+## Colors
 
 - [colorwave](https://colorwave.dev/)
 
-## Favicons (done)
+## Favicons
 
 - [realfavicongenerator](https://realfavicongenerator.net/)
 
-## GitHub (done)
+## GitHub
 
 -  https://github.com/DenverCoder1/readme-typing-svg
 - [gitHub-profile-badges](https://home.aveek.io/GitHub-Profile-Badges/)
 
-## Images (done)
+## Images
 
 - [compress jpeg](https://compressjpeg.com/)
 - [picresize](https://picresize.com/)
 - [tinypng](https://tinypng.com/)
 - [imagecompressor](https://www.imagecompressor.com/)
 
-## Tools (done)
+## Tools
 
 - [compress jpg](https://compressjpg.net/)
 - [free convert](https://www.freeconvert.com/)
@@ -84,14 +84,14 @@ Developers and Open Source authors now have many services offering free tiers, b
 - [Figma](https://www.figma.com/)
 - [Sketch](https://www.sketch.com/)
 
-## CSS Games (done)
+## CSS Games
 
 - [css grid garden](https://cssgridgarden.com/)
 - [flex box froggy](https://flexboxfroggy.com/)
 - [flukeout](https://flukeout.github.io/)
 - [coding fantasy](https://codingfantasy.com/)
 
-## UI Components (done)
+## UI Components
 
 - [meraki ui](https://merakiui.com/)
 - [tailwind components](https://tailwindcomponents.com/)
