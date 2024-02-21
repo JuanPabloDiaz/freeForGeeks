@@ -4,29 +4,56 @@ Developers and Open Source authors now have many services offering free tiers, b
 
 # Table of Contents
 
-## Colors (done)
+## Colors
 
 - [colorwave](https://colorwave.dev/)
 
-## Tools (done)
+## Dev Tools
 
-- [gitHub profile badges](https://home.aveek.io/GitHub-Profile-Badges/)
-- [compress jpeg](https://compressjpeg.com/)
-- [free convert](https://www.freeconvert.com/)
-- [compress jpg](https://compressjpg.net/)
-- [picresize](https://picresize.com/)
-- [tinypng](https://tinypng.com/)
-- [imagecompressor](https://www.imagecompressor.com/)
-- [pdftoimage](https://pdftoimage.com/)
-- [cssgridgarden](https://cssgridgarden.com/)
-- [flexboxfroggy](https://flexboxfroggy.com/)
-- [flukeout](https://flukeout.github.io/)
-- [codingfantasy](https://codingfantasy.com/)
-- [Material Design](https://m3.material.io/)
+- [Dr. Link Check](https://www.drlinkcheck.com/) is a valuable web-based service designed to help website owners and administrators identify and address broken links on their websites. | Freemiun
+
+      ### GitHub
+
+      - [gitHub profile badges](https://home.aveek.io/GitHub-Profile-Badges/)
+      - [contrib.rocks](https://contrib.rocks/)
+
+  ## emojis
+
+  - [gitmoji](https://gitmoji.dev/)
+  - [emojicopy](https://www.emojicopy.com/)
+  - [emojipedia](https://emojipedia.org/)
+  - [emojicombos](https://emojicombos.com/)
+
+  - ## File Converters
+
+    - [free file convert](https://www.freeconvert.com/)
+    - [pdftoimage](https://pdftoimage.com/)
 
 - [Figma](https://www.figma.com/)
 - [Sketch](https://www.sketch.com/)
 - [Canva](https://www.canva.com/)
+
+      ## Tools to edit Images
+
+      - [compress jpeg](https://compressjpeg.com/)
+      - [compress jpg](https://compressjpg.net/)
+      - [picresize](https://picresize.com/)
+      - [tinypng](https://tinypng.com/)
+      - [image compressor](https://www.imagecompressor.com/)
+
+      ## others
+
+      - [Material Design](https://m3.material.io/)
+
+## Competitive programming > platforms (done)
+
+- [beecrowd](https://judge.beecrowd.com/)
+- [hackerrank](https://www.hackerrank.com/)
+- [leetcode](https://leetcode.com/)
+- [codeforces](https://codeforces.com/)
+- [geeksforgeeks](https://www.geeksforgeeks.org/)
+- [topcoder](https://www.topcoder.com/)
+- [codechef](https://www.codechef.com/)
 
 ## Components (done)
 
@@ -44,7 +71,6 @@ Developers and Open Source authors now have many services offering free tiers, b
 
 ## Icons
 
-- [twemoji](https://twemoji.twitter.com/)
 - [zondicons](http://www.zondicons.com/)
 - [octicons](https://primer.style/octicons/)
 - [radix](https://www.radix-ui.com/icons)
@@ -56,33 +82,9 @@ Developers and Open Source authors now have many services offering free tiers, b
 - [a list apart](https://alistapart.com/)
 - [speckyboy](https://speckyboy.com/)
 
-## Colors
-
-- [colorwave](https://colorwave.dev/)
-
 ## Favicons
 
-- [realfavicongenerator](https://realfavicongenerator.net/)
-
-## GitHub
-
--  https://github.com/DenverCoder1/readme-typing-svg
-- [gitHub-profile-badges](https://home.aveek.io/GitHub-Profile-Badges/)
-
-## Images
-
-- [compress jpeg](https://compressjpeg.com/)
-- [picresize](https://picresize.com/)
-- [tinypng](https://tinypng.com/)
-- [imagecompressor](https://www.imagecompressor.com/)
-
-## Tools
-
-- [compress jpg](https://compressjpg.net/)
-- [free convert](https://www.freeconvert.com/)
-- [Material Design](https://m3.material.io/)
-- [Figma](https://www.figma.com/)
-- [Sketch](https://www.sketch.com/)
+- [real favicon generator](https://realfavicongenerator.net/)
 
 ## CSS Games
 
@@ -99,13 +101,13 @@ Developers and Open Source authors now have many services offering free tiers, b
 - [tailwind toolbox](https://www.tailwindtoolbox.com/)
 - [tailwind ui](https://tailwindui.com/)
 
+## Ui Libraries
+
+- [floatui](https://floatui.com/)
+
 ---
 
 # New Contributions to LinksHub
-
-## Ui Libraries (done)
-
-- [floatui](https://floatui.com/)
 
 ## Blogs
 
@@ -135,12 +137,3 @@ Developers and Open Source authors now have many services offering free tiers, b
 - [Free APIs](https://free-apis.github.io/) - https://free-apis.com/#/
 - [fakerjs](https://fakerjs.dev/)
 - [api.publicapis](https://api.publicapis.org/)
-
-## competitive programming > platforms
-
-- [beecrowd](https://judge.beecrowd.com/)
-
-## GitHub
-
-- [gitmoji](https://gitmoji.dev/)
-- [contrib.rocks](https://contrib.rocks/)
