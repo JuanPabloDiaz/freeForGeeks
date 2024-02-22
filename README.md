@@ -92,8 +92,20 @@ Developers and Open Source authors now have many services offering free tiers, b
 
 ### GitHub
 
-- [gitHub profile badges](https://home.aveek.io/GitHub-Profile-Badges/)
-- [contrib.rocks](https://contrib.rocks/)
+- [Best Github readme Generator](https://gprm.itsvg.in): A tool to generate GitHub profile READMEs using a simple UI.
+- [GitHub readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/): A tool to generate GitHub profile READMEs using a simple UI.
+- [GitHub Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/): A tool to generate GitHub profile badges.
+- [Github readme Stats](github-readme-stats.vercel.app): A tool to generate GitHub profile READMEs with stats.
+- [Contrib.Rocks](https://contrib.rocks/): A tool to visualize GitHub contributions.
+- [Skill icons](https://skillicons.dev/): A tool to generate skill icons for your GitHub profile.
+- [raw.githubusercontent.com/](https://raw.githubusercontent.com/): A tool to get raw files from GitHub.
+- [GitHub Gist](https://gist.github.com/rxaviers/7360908): A tool to create emojis for markdown files.
+- [Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F1diazdev%2F1diazdev&label=VISITORS&labelColor=%23000&countColor=%230A0209): A tool to generate visitor badges for your GitHub profile.
+
+### Icons
+
+- [Devicon](https://devicon.dev/): A collection of icons for popular programming languages, frameworks, and tools.
+- [Dimple icons](https://simpleicons.org/): A collection of SVG logos for popular brands.
 
 ### emojis
 
