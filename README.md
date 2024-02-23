@@ -92,6 +92,7 @@ Developers and Open Source authors now have many services offering free tiers, b
 
 ### GitHub
 
+- [github typing](https://readme-typing-svg.demolab.com/demo/)
 - [Best Github readme Generator](https://gprm.itsvg.in): A tool to generate GitHub profile READMEs using a simple UI.
 - [GitHub readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/): A tool to generate GitHub profile READMEs using a simple UI.
 - [GitHub Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/): A tool to generate GitHub profile badges.
