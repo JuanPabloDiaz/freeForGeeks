@@ -48,6 +48,7 @@ Developers and Open Source authors now have many services offering free tiers, b
 - [tuk](https://tuk.dev/)
 - [tailwind toolbox](https://www.tailwindtoolbox.com/)
 - [tailwind ui](https://tailwindui.com/)
+- [tremor](https://www.tremor.so/): React components to build charts and dashboard
 
 ### Ui Libraries
 
