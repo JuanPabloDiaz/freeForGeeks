@@ -29,6 +29,7 @@ Developers and Open Source authors now have many services offering free tiers, b
 ### Colors
 
 - [colorwave](https://colorwave.dev/)
+- [aicolors](https://aicolors.co/)
 
 ### Components
 
