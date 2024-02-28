@@ -53,7 +53,7 @@ Developers and Open Source authors now have many services offering free tiers, b
 - [tailwind ui](https://tailwindui.com/)
 - [tremor](https://www.tremor.so/): React components to build charts and dashboard
 - [daisyUI](https://daisyui.com/)
-- 
+- [Nivo](https://nivo.rocks/)
 
 ### Ui Libraries
 
