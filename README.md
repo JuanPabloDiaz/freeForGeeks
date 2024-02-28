@@ -41,23 +41,20 @@ Developers and Open Source authors now have many services offering free tiers, b
 - [tailwind toolbox](https://www.tailwindtoolbox.com/)
 - [tailwind ui](https://tailwindui.com/)
 - [shoelace](https://shoelace.style)
-- 
-
 
 ### UI Components
 
 - [meraki ui](https://merakiui.com/)
+- [floatui](https://floatui.com/)
 - [tailwind components](https://tailwindcomponents.com/)
 - [tuk](https://tuk.dev/)
 - [tailwind toolbox](https://www.tailwindtoolbox.com/)
 - [tailwind ui](https://tailwindui.com/)
 - [tremor](https://www.tremor.so/): React components to build charts and dashboard
 - [daisyUI](https://daisyui.com/)
+#### Data Visualization Components
 - [Nivo](https://nivo.rocks/)
-
-### Ui Libraries
-
-- [floatui](https://floatui.com/)
+- [D3](https://d3js.org/)
 
 ### Icons
 
