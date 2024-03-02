@@ -188,3 +188,9 @@ https://nivo.rocks/
 - [geeksforgeeks](https://www.geeksforgeeks.org/)
 - [topcoder](https://www.topcoder.com/)
 - [codechef](https://www.codechef.com/)
+
+
+## Security
+
+- [Snyk](https://snyk.io) specializes in **JavaScript security**
+- [Trivy](https://trivy.dev) is a container security scanner designed specifically for **Docker images**.
