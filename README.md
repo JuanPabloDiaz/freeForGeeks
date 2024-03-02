@@ -194,3 +194,7 @@ https://nivo.rocks/
 
 - [Snyk](https://snyk.io) specializes in **JavaScript security**
 - [Trivy](https://trivy.dev) is a container security scanner designed specifically for **Docker images**.
+
+## CI
+
+- Travis-ci
