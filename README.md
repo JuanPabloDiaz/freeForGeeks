@@ -19,6 +19,16 @@ Developers and Open Source authors now have many services offering free tiers, b
 
 - [ReactPlay](https://reactplay.io)
 
+### JS Charts
+
+https://www.chartjs.org/
+https://d3js.org/
+https://www.highcharts.com/
+https://plotly.com/javascript/
+https://www.amcharts.com/
+https://developers.google.com/chart/
+https://nivo.rocks/
+
 ### CSS Games
 
 - [css grid garden](https://cssgridgarden.com/)
