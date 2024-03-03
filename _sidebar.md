@@ -1,7 +1,0 @@
-- [Frontend](#frontend)
-- [Backend](#backend)
-- [DevOps](#devops)
-- [Open Source](#open-source)
-- [Others](#others)
-- [Resources](#resources)
-- [Competitive programming](#competitive-programming)
