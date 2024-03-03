@@ -232,6 +232,10 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [Travis CI](https://travis-ci.org) is a **continuous integration** service used to build and test software projects hosted at GitHub.
 - [Circle CI](https://circleci.com) is a modern, **developer-friendly** continuous integration and continuous delivery (CI/CD) platform.
 
+## CDN
+
+- [CDN js](https://github.com/cdnjs/cdnjs) is a community-driven **content delivery network** for web-related libraries. 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
+
 ---
 
 ## Other JS libraries
