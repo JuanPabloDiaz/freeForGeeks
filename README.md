@@ -1,11 +1,12 @@
 # [DevKit](https://juanpablodiaz.github.io/devkit)
 
-Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
+DevKit is a collection of tools and resources for developers. It is a curated list of tools, resources, and other valuable information that can help you build better software and improve your development workflow.
 
 ## Table of Contents
 
 - [Frontend](#frontend)
 - [Backend](#backend)
+- [DevOps](#devops)
 - [Open Source](#open-source)
 - [Others](#others)
 - [Resources](#resources)
@@ -15,67 +16,46 @@ Developers and Open Source authors now have many services offering free tiers, b
 
 ## Frontend
 
+### UI Component Libraries
+
+- [Mamba-UI](https://mambaui.com/) is a free, open-source collection of UI components and templates based on Tailwind CSS.
+- [Meraki UI](https://merakiui.com/) is a collection of responsive Tailwind CSS components that enhance the user experience of your website. with support for RTL languages, and a sleek Dark Mode.
+- [Chakra UI](https://chakra-ui.com/) is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+- [Tailwind Components](https://tailwindcomponents.com/) is an Open source Tailwind UI components and templates to bootstrap your new apps, projects or landing sites!
+- [Tuk](https://tuk.dev/) is a UI component library to build captivating experiences with accessible, fully responsive, drop-in-ready Tailwind CSS components and fast track your workflow. Get started FREE with 250 COMPONENTS
+- [Tailwind Toolbox](https://www.tailwindtoolbox.com/) is a free Tailwind CSS Templates, Components and Resources.
+- [Tailwind UI](https://tailwindui.com/) is a collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects.
+- [Shoelace](https://shoelace.style) is a forward-thinking library of web components.
+- [Float UI](https://floatui.com/) offers all the vital building blocks you need to transform your idea into a great-looking startup.
+- [DaisyUI](https://daisyui.com/) is a component library for Tailwind CSS.
+
+#### Data Visualization Components
+
+- [Recharts](https://recharts.org/en-US/) is a composable charting library built on React components. Redefined chart library built with `React` and `D3`.
+- [D3 js](https://d3js.org/) is a JavaScript library for bespoke data visualization.
+- [Chart js](https://www.chartjs.org/) is a simple yet flexible JavaScript charting library for designers and developers.
+- [Nivo](https://nivo.rocks/) provides a rich set of dataviz components, built on top of D3 and React.
+- [Tremor](https://www.tremor.so/): React components to build charts and dashboards.
+- [HighCharts](https://www.highcharts.com/) makes it easy for developers to create charts and dashboards for web and mobile platforms.
+- [Plotly](https://plotly.com/javascript/) is a JavaScript Open Source Graphing Library that makes interactive, publication-quality graphs online.
+- [AM Charts](https://www.amcharts.com/) is a JavaScript library for creating charts and maps.
+- [Google Chart](https://developers.google.com/chart/) tools are powerful, simple to use, and free. Try out our rich gallery of interactive charts and data tools.
+- [ApexCharts](https://apexcharts.com/) is a modern charting library that helps developers to create beautiful and interactive visualizations for web pages.
+
 ### React
 
-- [ReactPlay](https://reactplay.io)
-
-### JS Charts
-
-https://www.chartjs.org/
-https://d3js.org/
-https://www.highcharts.com/
-https://plotly.com/javascript/
-https://www.amcharts.com/
-https://developers.google.com/chart/
-https://nivo.rocks/
-
-### CSS Games
-
-- [css grid garden](https://cssgridgarden.com/)
-- [flex box froggy](https://flexboxfroggy.com/)
-- [flukeout](https://flukeout.github.io/)
-- [coding fantasy](https://codingfantasy.com/)
+- [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos.
 
 ### Colors
 
-- [colorwave](https://colorwave.dev/)
-- [aicolors](https://aicolors.co/)
+- [AI Colors](https://aicolors.co/) is a tool to generate color palettes using AI.
 
-### Components
+### CSS Games
 
-- [mamba-ui](https://mamba-ui.com/)
-- [merakiui](https://merakiui.com/)
-- [chakra-ui](https://chakra-ui.com/)
-- [tailwind components](https://tailwindcomponents.com/)
-- [tuk](https://tuk.dev/)
-- [tailwind toolbox](https://www.tailwindtoolbox.com/)
-- [tailwind ui](https://tailwindui.com/)
-- [shoelace](https://shoelace.style)
-
-### UI Components
-
-- [meraki ui](https://merakiui.com/)
-- [floatui](https://floatui.com/)
-- [tailwind components](https://tailwindcomponents.com/)
-- [tuk](https://tuk.dev/)
-- [tailwind toolbox](https://www.tailwindtoolbox.com/)
-- [tailwind ui](https://tailwindui.com/)
-- [tremor](https://www.tremor.so/): React components to build charts and dashboard
-- [daisyUI](https://daisyui.com/)
-#### Data Visualization Components
-- [Nivo](https://nivo.rocks/)
-- [D3](https://d3js.org/)
-
-### Icons
-
-- [zondicons](http://www.zondicons.com/)
-- [octicons](https://primer.style/octicons/)
-- [radix](https://www.radix-ui.com/icons)
-
-### Favicons
-
-- [real favicon generator](https://realfavicongenerator.net/)
-- [Favicon](https://favicon.io/)
+- [CSS Grid Garden](https://cssgridgarden.com/) is a game for learning CSS grid layout.
+- [Flex Box Froggy](https://flexboxfroggy.com/) is a game for learning CSS flexbox layout.
+- [Flukeout](https://flukeout.github.io/) is a game for learning CSS selectors.
+- [Coding Fantasy](https://codingfantasy.com/) is a game for learning CSS.
 
 <!-- Backend -->
 
@@ -85,12 +65,16 @@ https://nivo.rocks/
 
 - [Public APIs](https://publicapis.dev/)
 - [Free APIs](https://free-apis.github.io/) - https://free-apis.com/#/
-- [fakerjs](https://fakerjs.dev/)
-- [api.publicapis](https://api.publicapis.org/)
+- [Fakerjs](https://fakerjs.dev/)
+- [Api.publicapis](https://api.publicapis.org/)
+
+<!-- DevOps -->
+
+## DevOps
 
 ### Testing
 
-- [playwright](https://playwright.dev/)
+- [PlayWright](https://playwright.dev/) enables reliable end-to-end testing for modern web apps.
 
 <!-- Open Source  -->
 
@@ -102,7 +86,7 @@ https://nivo.rocks/
 
 ### Tools
 
-- [Material Design](https://m3.material.io/)
+- [Material Design](https://m3.material.io/) is a collection of tools and resources for developers to build high-quality digital experiences.
 
 ### GitHub
 
@@ -116,31 +100,39 @@ https://nivo.rocks/
 - [raw.githubusercontent.com/](https://raw.githubusercontent.com/) is a tool to **serve files** directly from GitHub. It is useful for **serving images** in your GitHub README file. You can generate the URL of the image by clicking on the `Raw` button in the file view.
 - [GitHub Gist](https://gist.github.com/rxaviers/7360908) is a simple emoji **cheat sheet** to use when writing your GitHub README file.
 - [Visitor Badge](https://visitorbadge.io/) is a **valuable tool** for any GitHub user who wants to **track their online presence** and build community around their projects.
+- [Octicons](https://primer.style/octicons/) is a scalable set of icons handcrafted by GitHub.
 
 ### Icons
 
-- [Devicon](https://devicon.dev/): A collection of icons for popular programming languages, frameworks, and tools.
-- [Dimple icons](https://simpleicons.org/): A collection of SVG logos for popular brands.
+- [Devicon](https://devicon.dev/) is a collection of icons for popular programming languages, frameworks, and tools.
+- [Dimple icons](https://simpleicons.org/) is a collection of SVG logos for popular brands.
+- [Zondicons](http://www.zondicons.com/) is a set of free premium SVG icons for you to use on your digital products.
+- [Radix](https://www.radix-ui.com/icons)
+
+### Favicons
+
+- [Real Favicon Generator](https://realfavicongenerator.net/)
+- [Favicon](https://favicon.io/)
 
 ### emojis
 
-- [gitmoji](https://gitmoji.dev/)
-- [emojicopy](https://www.emojicopy.com/)
-- [emojipedia](https://emojipedia.org/)
-- [emojicombos](https://emojicombos.com/)
+- [Gitmoji](https://gitmoji.dev/)
+- [Emojicopy](https://www.emojicopy.com/)
+- [Emojipedia](https://emojipedia.org/)
+- [Emojicombos](https://emojicombos.com/)
 
 ### File Converters
 
-- [free file convert](https://www.freeconvert.com/)
-- [pdftoimage](https://pdftoimage.com/)
+- [Free File Convert](https://www.freeconvert.com/)
+- [PDF To Image](https://pdftoimage.com/)
 
 ### Tools to edit Images
 
-- [compress jpeg](https://compressjpeg.com/)
-- [compress jpg](https://compressjpg.net/)
-- [picresize](https://picresize.com/)
-- [tinypng](https://tinypng.com/)
-- [image compressor](https://www.imagecompressor.com/)
+- [Compress jpeg](https://compressjpeg.com/)
+- [Compress jpg](https://compressjpg.net/)
+- [Picresize](https://picresize.com/)
+- [Tiny png](https://tinypng.com/)
+- [Image Compressor](https://www.imagecompressor.com/)
 
 <!-- Others -->
 
@@ -156,6 +148,12 @@ https://nivo.rocks/
 
 ## Resources
 
+### Free Resources
+
+- [free-for dev](https://free-for.dev/) is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+- [LinksHub](https://www.linkshub.dev/) aims to provide people access to a wide range of free resources and tools that they can use to learn and develop their tech skills. These resources include links to free software, libraries, frameworks, and other tools that can be used to build and deploy applications, website, and other projects.
+- [freesets](https://freesets.vercel.app/) is a Collection of free resources like icons, images, illustrations, components, libraries and more.
+
 ### Tech News
 
 - [Hacker Tab](https://hackertab.dev/)
@@ -165,10 +163,15 @@ https://nivo.rocks/
 
 ### Documentation
 
-- jsDoc
-- typedoc
-- Docsify
-- Docusaurus
+- [DevDocs](https://devdocs.io/)
+- [jsdoc](https://jsdoc.app/)
+- [typedoc](https://typedoc.org/)
+- [Docsify](https://docsify.js.org/)
+- [Docusaurus](https://docusaurus.io/)
+- [Read the Docs](https://readthedocs.org/)
+- [GitBook](https://www.gitbook.com/)
+- [MkDocs](https://www.mkdocs.org/)
+- [VuePress](https://vuepress.vuejs.org/)
 
 ### Official Docs
 
@@ -178,9 +181,9 @@ https://nivo.rocks/
 ### Blogs
 
 - [SitePoint](https://www.sitepoint.com/)
-- [chat.zulip](https://chat.zulip.org/)
-- [a list apart](https://alistapart.com/)
-- [speckyboy](https://speckyboy.com/)
+- [Chat.zulip](https://chat.zulip.org/)
+- [A list apart](https://alistapart.com/)
+- [Speckyboy](https://speckyboy.com/)
 
 <!-- Competitive programming -->
 
@@ -188,14 +191,13 @@ https://nivo.rocks/
 
 ### platforms
 
-- [beecrowd](https://judge.beecrowd.com/)
-- [hackerrank](https://www.hackerrank.com/)
-- [leetcode](https://leetcode.com/)
-- [codeforces](https://codeforces.com/)
-- [geeksforgeeks](https://www.geeksforgeeks.org/)
-- [topcoder](https://www.topcoder.com/)
-- [codechef](https://www.codechef.com/)
-
+- [Beecrowd](https://judge.beecrowd.com/)
+- [Hacker Rank](https://www.hackerrank.com/)
+- [Leetcode](https://leetcode.com/)
+- [Codeforces](https://codeforces.com/)
+- [Geeks For Geeks](https://www.geeksforgeeks.org/)
+- [Top Coder](https://www.topcoder.com/)
+- [Code Chef](https://www.codechef.com/)
 
 ## Security
 
@@ -204,4 +206,5 @@ https://nivo.rocks/
 
 ## CI
 
-- Travis-ci
+- [Travis CI](https://travis-ci.org) is a **continuous integration** service used to build and test software projects hosted at GitHub.
+- [Circle CI](https://circleci.com) is a modern, **developer-friendly** continuous integration and continuous delivery (CI/CD) platform.
