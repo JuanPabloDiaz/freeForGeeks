@@ -42,6 +42,31 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [Google Chart](https://developers.google.com/chart/) tools are powerful, simple to use, and free. Try out our rich gallery of interactive charts and data tools.
 - [ApexCharts](https://apexcharts.com/) is a modern charting library that helps developers to create beautiful and interactive visualizations for web pages.
 
+## Utility libraries for JavaScript
+
+<!-- https://open.spotify.com/episode/0XmsXLsgcgdv8xC5tQKtU1?si=0P6GsmiTS-2AtLtKtR95w&nd=1&dlsi=57403f542550491f -->
+
+- [Lodash](https://lodash.com/) is a modern JavaScript utility library delivering modularity, performance & extras.
+- [Moment.js](https://momentjs.com/) is a JavaScript date library for parsing, validating, manipulating, and formatting dates.
+- [Date-fns](https://date-fns.org/) is a modern JavaScript date utility library.
+- [Async](https://caolan.github.io/async/v3/) is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
+- [Day.js](https://day.js.org/) is a minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API.
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) provides an interface for fetching resources (including across the network).
+- [Axios](https://axios-http.com/) is a promise-based HTTP client for the browser and Node.js.
+- [Ramda](https://ramdajs.com/) is a practical functional library for JavaScript programmers.
+- [Store.js](https://github.com/marcuswestin/store.js) is Cross-browser storage for all use cases, used across the web.
+- [Cookiejar](https://www.npmjs.com/package/cookiejar) is a simple, lightweight, and fast cookie manipulation library for JavaScript.
+- [cross-storage](https://github.com/zendesk/cross-storage) is a Cross domain local storage, with permissions
+
+## Other JS libraries
+
+- [Video.js](https://videojs.com/) is an open-source HTML5 video player.
+- [P5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else.
+- [Three.js](https://threejs.org/) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser.
+- [Pixi.js](https://www.pixijs.com/) is a fast, lightweight 2D library that works across all devices.
+- [nuclear.js.org](https://nuclear.js.org/) Streaming music player that finds free music for you
+- [Howler.js](https://howlerjs.com/) is a JavaScript audio library for the modern web.
+
 ### React
 
 - [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos.
@@ -238,14 +263,6 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [jsDelivr](https://www.jsdelivr.com/) is a free **Open Source CDN** for open source projects.
 
 ---
-
-## Other JS libraries
-
-- [Video.js](https://videojs.com/) is an open-source HTML5 video player.
-- [P5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else.
-- [Three.js](https://threejs.org/) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser.
-- [Pixi.js](https://www.pixijs.com/) is a fast, lightweight 2D library that works across all devices.
-- [nuclear.js.org](https://nuclear.js.org/) Streaming music player that finds free music for you
 
 ---
 
