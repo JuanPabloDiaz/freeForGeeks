@@ -204,6 +204,16 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [Snyk](https://snyk.io) specializes in **JavaScript security**
 - [Trivy](https://trivy.dev) is a container security scanner designed specifically for **Docker images**.
 
+## Testing Frameworks
+
+- [Jest](https://jestjs.io/) is a delightful JavaScript Testing Framework with a focus on simplicity.
+- [Mocha](https://mochajs.org/) is a feature-rich JavaScript test framework running on Node.js and in the browser.
+- [Jasmine](https://jasmine.github.io/) is a behavior-driven development framework for testing JavaScript code.
+- [Cypress](https://www.cypress.io/) is a **JavaScript End to End Testing Framework**.
+- [Puppeteer](https://pptr.dev/) is a **Node library** which provides a high-level API over the Chrome DevTools Protocol.
+- [Karma](https://karma-runner.github.io/latest/index.html) is a simple tool that allows you to execute JavaScript code in multiple real browsers.
+- [WebdriverIO](https://webdriver.io/) is a **Next-gen browser and mobile automation test framework** for Node.js.
+
 ## CI
 
 - [Travis CI](https://travis-ci.org) is a **continuous integration** service used to build and test software projects hosted at GitHub.
