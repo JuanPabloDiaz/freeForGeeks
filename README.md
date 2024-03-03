@@ -235,6 +235,7 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 ## CDN
 
 - [CDN js](https://github.com/cdnjs/cdnjs) is a community-driven **content delivery network** for web-related libraries. 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
+- [jsDelivr](https://www.jsdelivr.com/) is a free **Open Source CDN** for open source projects.
 
 ---
 
