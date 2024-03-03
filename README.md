@@ -61,6 +61,11 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 ## Backend
 
+### Serverless Frameworks
+
+- [Serverless](https://www.serverless.com/) Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
+- [Serverless Stack](https://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications.
+
 ### API
 
 - [Public APIs](https://publicapis.dev/)
@@ -213,8 +218,26 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [Puppeteer](https://pptr.dev/) is a **Node library** which provides a high-level API over the Chrome DevTools Protocol.
 - [Karma](https://karma-runner.github.io/latest/index.html) is a simple tool that allows you to execute JavaScript code in multiple real browsers.
 - [WebdriverIO](https://webdriver.io/) is a **Next-gen browser and mobile automation test framework** for Node.js.
+- [Stryker js](https://stryker-mutator.io/) is a mutation testing framework for JavaScript.
+- [Ava](https://github.com/avajs/ava) is a Node.js test runner that lets you develop with confidence 🚀
+
+## Form Validation Frameworks
+
+- [Vest](https://vestjs.dev/) is a form validations framework that performs **form validations** and **provides feedback** to the user.
+- [Joi](https://joi.dev/) is a powerful schema description language and data validator for JavaScript.
+- [Formik](https://formik.org/) is a small library that helps you with the 3 most annoying parts: getting values in and out of form state, validation, and handling form submission.
 
 ## CI
 
 - [Travis CI](https://travis-ci.org) is a **continuous integration** service used to build and test software projects hosted at GitHub.
 - [Circle CI](https://circleci.com) is a modern, **developer-friendly** continuous integration and continuous delivery (CI/CD) platform.
+
+---
+
+## Other JS libraries
+
+- [Video.js](https://videojs.com/) is an open-source HTML5 video player.
+- [P5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else.
+- [Three.js](https://threejs.org/) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser.
+- [Pixi.js](https://www.pixijs.com/) is a fast, lightweight 2D library that works across all devices.
+- [nuclear.js.org](https://nuclear.js.org/) Streaming music player that finds free music for you
