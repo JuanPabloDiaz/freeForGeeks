@@ -93,10 +93,6 @@
         name: "DevKit",
         repo: "JuanPabloDiaz/jp-resources",
         search: ["/"],
-        loadSidebar: true,
-        alias: {
-          "/.*/_sidebar.md": "/_sidebar.md",
-        },
         routerMode: "history", // dont use hash in url
         darklightTheme: {
           siteFont: "Source Sans Pro, Helvetica Neue",
@@ -104,8 +100,6 @@
           codeFontFamily: "Roboto Mono, Monaco, courier, monospace",
           bodyFontSize: "15px",
         },
-        sidebarDisplayLevel: 1, // set sidebar display level
-        subMaxLevel: 3,
       };
     </script>
 
@@ -115,8 +109,6 @@
       src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
       type="text/javascript"
     ></script>
-    <!-- plugins -->
-    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 
     <style>
       blockquote:first-of-type {
