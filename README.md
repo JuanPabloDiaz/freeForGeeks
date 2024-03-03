@@ -245,3 +245,9 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [Three.js](https://threejs.org/) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser.
 - [Pixi.js](https://www.pixijs.com/) is a fast, lightweight 2D library that works across all devices.
 - [nuclear.js.org](https://nuclear.js.org/) Streaming music player that finds free music for you
+
+---
+
+## Other Great Resources
+
+- [Electron](https://www.electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
