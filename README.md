@@ -116,23 +116,23 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 ### emojis
 
-- [Gitmoji](https://gitmoji.dev/)
-- [Emojicopy](https://www.emojicopy.com/)
-- [Emojipedia](https://emojipedia.org/)
-- [Emojicombos](https://emojicombos.com/)
+- [EmojiDB](https://emojidb.org/) is a database of emojis.
+- [Gitmoji](https://gitmoji.dev/) is an emoji guide for your commit messages.
+- [Emojicopy](https://www.emojicopy.com/) is a tool to copy and paste emojis.
+- [Emojipedia](https://emojipedia.org/) is a comprehensive resource for emojis.
 
 ### File Converters
 
-- [Free File Convert](https://www.freeconvert.com/)
-- [PDF To Image](https://pdftoimage.com/)
+- [Free File Convert](https://www.freeconvert.com/) is a tool to convert files from one format to another.
+- [PDF To Image](https://pdftoimage.com/) is a tool to convert PDF files to images.
 
 ### Tools to edit Images
 
-- [Compress jpeg](https://compressjpeg.com/)
-- [Compress jpg](https://compressjpg.net/)
-- [Picresize](https://picresize.com/)
-- [Tiny png](https://tinypng.com/)
-- [Image Compressor](https://www.imagecompressor.com/)
+- [Compress jpeg](https://compressjpeg.com/) is a tool to compress and resize your images.
+- [Compress jpg](https://compressjpg.net/) is a tool to compress and resize your images.
+- [Tiny png](https://tinypng.com/) is a tool to compress your images.
+- [Picresize](https://picresize.com/) is a tool to resize, shrink, and crop your pictures online.
+- [Image Compressor](https://www.imagecompressor.com/) is a tool to compress your images.
 
 <!-- Others -->
 
@@ -140,9 +140,9 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 ### Tools
 
-- [Figma](https://www.figma.com/)
-- [Sketch](https://www.sketch.com/)
-- [Canva](https://www.canva.com/)
+- [Figma](https://www.figma.com/) is a web-based graphics editing and user interface design app.
+- [Sketch](https://www.sketch.com/) is a design toolkit for macOS.
+- [Canva](https://www.canva.com/) is a **free-to-use online graphic design tool** that simplifies the process of creating visual content
 
 <!-- Resources -->
 
@@ -156,34 +156,34 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 ### Tech News
 
-- [Hacker Tab](https://hackertab.dev/)
-- [Reddit Programming](https://www.reddit.com/r/programming/)
-- [TLDR Newsletter](https://tldr.tech/)
-- [GitHub trending](https://github.com/trending)
+- [Hacker Tab](https://hackertab.dev/) is a **new tab extension** that shows you the latest news from Hacker News, Designer News, Product Hunt, GitHub, and Reddit.
+- [Reddit Programming](https://www.reddit.com/r/programming/) is a subreddit for discussion and news about computer programming.
+- [TLDR Newsletter](https://tldr.tech/) is a daily newsletter with links and TLDRs of the most interesting stories in tech.
+- [GitHub trending](https://github.com/trending) is a daily snapshot of the most popular projects on GitHub by the number of stars.
 
 ### Documentation
 
-- [DevDocs](https://devdocs.io/)
-- [jsdoc](https://jsdoc.app/)
-- [typedoc](https://typedoc.org/)
-- [Docsify](https://docsify.js.org/)
-- [Docusaurus](https://docusaurus.io/)
-- [Read the Docs](https://readthedocs.org/)
-- [GitBook](https://www.gitbook.com/)
-- [MkDocs](https://www.mkdocs.org/)
-- [VuePress](https://vuepress.vuejs.org/)
+- [DevDocs](https://devdocs.io/) is a free and open-source tool for developers that combines **multiple API documentations** in a fast, organized, and searchable interface.
+- [jsdoc](https://jsdoc.app/) is an API **documentation generator for JavaScript**. It `automatically generates` documentation from your code.
+- [typedoc](https://typedoc.org/) is a **documentation generator for TypeScript** projects. it `automatically generates` documentation from your code.
+- [Docsify](https://docsify.js.org/) is a simple and lightweight **documentation site generator**.
+- [Docusaurus](https://docusaurus.io/) is a modern **documentation site generator** by Facebook.
+- [GitBook](https://www.gitbook.com/) is a knowledge management tool for engineering teams.
+- [MkDocs](https://www.mkdocs.org/) is a simple static site generator for building project documentation.
+- [VuePress](https://vuepress.vuejs.org/) is a **minimalistic static site generator** with a Vue-powered theming system.
+- [Docz](https://www.docz.site/) is a tool for building **documentation websites**.
 
 ### Official Docs
 
-- [Filamentphp](https://filamentphp.com/)
-- [Pkl lang](https://pkl-lang.org/)
+- [Filamentphp](https://filamentphp.com/) is a beautifully designed **open-source admin panel** for Laravel.
+- [Pkl lang](https://pkl-lang.org/) is a **configuration-as-code language** that offers rich validation and tooling.
 
 ### Blogs
 
-- [SitePoint](https://www.sitepoint.com/)
-- [Chat.zulip](https://chat.zulip.org/)
-- [A list apart](https://alistapart.com/)
-- [Speckyboy](https://speckyboy.com/)
+- [SitePoint](https://www.sitepoint.com/) is a hub for web developers to share their passion for building incredible Internet things.
+- [Chat.zulip](https://chat.zulip.org/) is a powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
+- [A list apart](https://alistapart.com/) is a webzine that explores the design, development, and meaning of web content, with a special focus on web standards and best practices.
+- [Speckyboy](https://speckyboy.com/) is an online magazine for web designers and developers.
 
 <!-- Competitive programming -->
 
@@ -192,10 +192,10 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 ### platforms
 
 - [Beecrowd](https://judge.beecrowd.com/)
-- [Hacker Rank](https://www.hackerrank.com/)
-- [Leetcode](https://leetcode.com/)
+- [Hacker Rank](https://www.hackerrank.com/) is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world.
+- [Leetcode](https://leetcode.com/) is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 - [Codeforces](https://codeforces.com/)
-- [Geeks For Geeks](https://www.geeksforgeeks.org/)
+- [Geeks For Geeks](https://www.geeksforgeeks.org/) is a computer science portal for geeks.
 - [Top Coder](https://www.topcoder.com/)
 - [Code Chef](https://www.codechef.com/)
 
