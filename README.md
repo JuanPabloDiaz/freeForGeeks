@@ -18,6 +18,7 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 ### UI Component Libraries
 
+- [Shadcn](https://ui.shadcn.com) is Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [Mamba-UI](https://mambaui.com/) is a free, open-source collection of UI components and templates based on Tailwind CSS.
 - [Meraki UI](https://merakiui.com/) is a collection of responsive Tailwind CSS components that enhance the user experience of your website. with support for RTL languages, and a sleek Dark Mode.
 - [Chakra UI](https://chakra-ui.com/) is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
