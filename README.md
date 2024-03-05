@@ -135,6 +135,8 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 ### Icons
 
+- [Lucide](https://lucide.dev/)
+- [React Icons](https://react-icons.github.io/react-icons/)
 - [Devicon](https://devicon.dev/) is a collection of icons for popular programming languages, frameworks, and tools.
 - [Dimple icons](https://simpleicons.org/) is a collection of SVG logos for popular brands.
 - [Zondicons](http://www.zondicons.com/) is a set of free premium SVG icons for you to use on your digital products.
