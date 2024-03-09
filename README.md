@@ -33,8 +33,8 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 #### Data Visualization Components
 
 1. [D3js](https://d3js.org/) is a JavaScript library for bespoke data visualization. ⭐ [107k stars](https://github.com/d3)
-2. [Recharts](https://recharts.org/en-US/) is a composable charting library built on React components. Redefined chart library built with `React` and `D3`. ⭐ [22k stars](https://github.com/recharts/recharts)
-3. [Chart js](https://www.chartjs.org/) is a simple yet flexible JavaScript charting library for designers and developers. ⭐ [63.5k stars](https://github.com/chartjs/Chart.js)
+2. [Chart js](https://www.chartjs.org/) is a simple yet flexible JavaScript charting library for designers and developers. ⭐ [63.5k stars](https://github.com/chartjs/Chart.js)
+3. [Recharts](https://recharts.org/en-US/) is a composable charting library built on React components. Redefined chart library built with `React` and `D3`. ⭐ [22k stars](https://github.com/recharts/recharts)
 4. [Visx](https://airbnb.io/visx/) is a collection of expressive, low-level visualization primitives for React. | Develop by Airbnb. ⭐ [18.5k stars](https://github.com/airbnb/visx)
 5. [Plotly](https://plotly.com/javascript/) is a JavaScript Open Source Graphing Library that makes interactive, publication-quality graphs online. ⭐[16.5k stars](https://github.com/plotly/plotly.js)
 6. [Tremor](https://www.tremor.so/): React components to build charts and dashboards. ⭐ [14.7k stars](https://github.com/tremorlabs/tremor)
