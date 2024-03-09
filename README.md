@@ -32,16 +32,17 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 #### Data Visualization Components
 
-- [Recharts](https://recharts.org/en-US/) is a composable charting library built on React components. Redefined chart library built with `React` and `D3`.
-- [D3 js](https://d3js.org/) is a JavaScript library for bespoke data visualization.
-- [Chart js](https://www.chartjs.org/) is a simple yet flexible JavaScript charting library for designers and developers.
-- [Nivo](https://nivo.rocks/) provides a rich set of dataviz components, built on top of D3 and React.
-- [Tremor](https://www.tremor.so/): React components to build charts and dashboards.
-- [HighCharts](https://www.highcharts.com/) makes it easy for developers to create charts and dashboards for web and mobile platforms.
-- [Plotly](https://plotly.com/javascript/) is a JavaScript Open Source Graphing Library that makes interactive, publication-quality graphs online.
-- [AM Charts](https://www.amcharts.com/) is a JavaScript library for creating charts and maps.
-- [Google Chart](https://developers.google.com/chart/) tools are powerful, simple to use, and free. Try out our rich gallery of interactive charts and data tools.
-- [ApexCharts](https://apexcharts.com/) is a modern charting library that helps developers to create beautiful and interactive visualizations for web pages.
+1. [D3js](https://d3js.org/) is a JavaScript library for bespoke data visualization. ⭐ [107k stars](https://github.com/d3)
+2. [Recharts](https://recharts.org/en-US/) is a composable charting library built on React components. Redefined chart library built with `React` and `D3`. ⭐ [22k stars](https://github.com/recharts/recharts)
+3. [Chart js](https://www.chartjs.org/) is a simple yet flexible JavaScript charting library for designers and developers. ⭐ [63.5k stars](https://github.com/chartjs/Chart.js)
+4. [Plotly](https://plotly.com/javascript/) is a JavaScript Open Source Graphing Library that makes interactive, publication-quality graphs online. ⭐[16.5k stars](https://github.com/plotly/plotly.js)
+5. [Tremor](https://www.tremor.so/): React components to build charts and dashboards. ⭐ [14.7k stars](https://github.com/tremorlabs/tremor)
+6. [ApexCharts](https://apexcharts.com/) is a modern charting library that helps developers to create beautiful and interactive visualizations for web pages. ⭐ [13.7k stars](https://github.com/apexcharts/apexcharts.js)
+7. [Nivo](https://nivo.rocks/) provides a rich set of dataviz components, built on top of D3 and React. ⭐ [12.5k stars](https://github.com/plouc/nivo)
+8. [HighCharts](https://www.highcharts.com/) makes it easy for developers to create charts and dashboards for web and mobile platforms. ⭐ [11.8k stars](https://github.com/highcharts/highcharts)
+9. [Google Chart](https://developers.google.com/chart/) tools are powerful, simple to use, and free. Try out our rich gallery of interactive charts and data tools.
+10. [Vega](https://vega.github.io/vega/) is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs. ⭐ [10.8k stars](https://github.com/vega/vega)
+11. [c3 js](https://c3js.org/) is a D3-based reusable chart library. ⭐ [9.7k stars](https://github.com/c3js/c3)
 
 ## Utility libraries for JavaScript
 
@@ -61,9 +62,9 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 ## Other JS libraries
 
+- [Three.js](https://threejs.org/) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser. ⭐ [97.9k stars](https://github.com/mrdoob/three.js)
 - [Video.js](https://videojs.com/) is an open-source HTML5 video player.
 - [P5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else.
-- [Three.js](https://threejs.org/) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser.
 - [Pixi.js](https://www.pixijs.com/) is a fast, lightweight 2D library that works across all devices.
 - [nuclear.js.org](https://nuclear.js.org/) Streaming music player that finds free music for you
 - [Howler.js](https://howlerjs.com/) is a JavaScript audio library for the modern web.
