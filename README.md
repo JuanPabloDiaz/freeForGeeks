@@ -35,14 +35,16 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 1. [D3js](https://d3js.org/) is a JavaScript library for bespoke data visualization. ⭐ [107k stars](https://github.com/d3)
 2. [Recharts](https://recharts.org/en-US/) is a composable charting library built on React components. Redefined chart library built with `React` and `D3`. ⭐ [22k stars](https://github.com/recharts/recharts)
 3. [Chart js](https://www.chartjs.org/) is a simple yet flexible JavaScript charting library for designers and developers. ⭐ [63.5k stars](https://github.com/chartjs/Chart.js)
-4. [Plotly](https://plotly.com/javascript/) is a JavaScript Open Source Graphing Library that makes interactive, publication-quality graphs online. ⭐[16.5k stars](https://github.com/plotly/plotly.js)
-5. [Tremor](https://www.tremor.so/): React components to build charts and dashboards. ⭐ [14.7k stars](https://github.com/tremorlabs/tremor)
-6. [ApexCharts](https://apexcharts.com/) is a modern charting library that helps developers to create beautiful and interactive visualizations for web pages. ⭐ [13.7k stars](https://github.com/apexcharts/apexcharts.js)
-7. [Nivo](https://nivo.rocks/) provides a rich set of dataviz components, built on top of D3 and React. ⭐ [12.5k stars](https://github.com/plouc/nivo)
-8. [HighCharts](https://www.highcharts.com/) makes it easy for developers to create charts and dashboards for web and mobile platforms. ⭐ [11.8k stars](https://github.com/highcharts/highcharts)
-9. [Google Chart](https://developers.google.com/chart/) tools are powerful, simple to use, and free. Try out our rich gallery of interactive charts and data tools.
-10. [Vega](https://vega.github.io/vega/) is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs. ⭐ [10.8k stars](https://github.com/vega/vega)
-11. [c3 js](https://c3js.org/) is a D3-based reusable chart library. ⭐ [9.7k stars](https://github.com/c3js/c3)
+4. [Visx](https://airbnb.io/visx/) is a collection of expressive, low-level visualization primitives for React. | Develop by Airbnb. ⭐ [18.5k stars](https://github.com/airbnb/visx)
+5. [Plotly](https://plotly.com/javascript/) is a JavaScript Open Source Graphing Library that makes interactive, publication-quality graphs online. ⭐[16.5k stars](https://github.com/plotly/plotly.js)
+6. [Tremor](https://www.tremor.so/): React components to build charts and dashboards. ⭐ [14.7k stars](https://github.com/tremorlabs/tremor)
+7. [ApexCharts](https://apexcharts.com/) is a modern charting library that helps developers to create beautiful and interactive visualizations for web pages. ⭐ [13.7k stars](https://github.com/apexcharts/apexcharts.js)
+8. [Nivo](https://nivo.rocks/) provides a rich set of dataviz components, built on top of D3 and React. ⭐ [12.5k stars](https://github.com/plouc/nivo)
+9. [HighCharts](https://www.highcharts.com/) makes it easy for developers to create charts and dashboards for web and mobile platforms. ⭐ [11.8k stars](https://github.com/highcharts/highcharts)
+10. [Google Chart](https://developers.google.com/chart/) tools are powerful, simple to use, and free. Try out our rich gallery of interactive charts and data tools.
+11. [Vega](https://vega.github.io/vega/) is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs. ⭐ [10.8k stars](https://github.com/vega/vega)
+12. [Victory](https://formidable.com/open-source/victory/) is a React.js components for modular charting and data visualization. ⭐ [10.7k stars](https://github.com/FormidableLabs/victory)
+13. [C3js](https://c3js.org/) is a D3-based reusable chart library. ⭐ [9.7k stars](https://github.com/c3js/c3)
 
 ## Utility libraries for JavaScript
 
