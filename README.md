@@ -20,7 +20,7 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 1. [AdminLTE](https://adminlte.io/) is a fully responsive admin template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. ⭐ [43.5k stars](https://github.com/ColorlibHQ/AdminLTE)
 2. [Tabler](https://tabler.io/) is free and open-source HTML Dashboard UI Kit built on Bootstrap ⭐ [36.6k stars]()
-3. [CoreUI](https://coreui.io/) is a free Bootstrap admin template. ⭐ [k stars]()
+3. [CoreUI](https://coreui.io/) is a free Bootstrap admin template build with **HTML**. ⭐ [12k stars](https://github.com/coreui/coreui-free-bootstrap-admin-template)
 
    \***\* others \*\***
 
