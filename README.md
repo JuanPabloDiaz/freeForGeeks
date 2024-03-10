@@ -16,19 +16,35 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 ## Frontend
 
-### UI Component Libraries
+### Dashboards and Admin Panels
 
-- [Shadcn](https://ui.shadcn.com) is Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [Mamba-UI](https://mambaui.com/) is a free, open-source collection of UI components and templates based on Tailwind CSS.
-- [Meraki UI](https://merakiui.com/) is a collection of responsive Tailwind CSS components that enhance the user experience of your website. with support for RTL languages, and a sleek Dark Mode.
-- [Chakra UI](https://chakra-ui.com/) is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
-- [Tailwind Components](https://tailwindcomponents.com/) is an Open source Tailwind UI components and templates to bootstrap your new apps, projects or landing sites!
-- [Tuk](https://tuk.dev/) is a UI component library to build captivating experiences with accessible, fully responsive, drop-in-ready Tailwind CSS components and fast track your workflow. Get started FREE with 250 COMPONENTS
-- [Tailwind Toolbox](https://www.tailwindtoolbox.com/) is a free Tailwind CSS Templates, Components and Resources.
+1. [AdminLTE](https://adminlte.io/) is a fully responsive admin template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. ⭐ [43.5k stars](https://github.com/ColorlibHQ/AdminLTE)
+2. [Tabler](https://tabler.io/) is free and open-source HTML Dashboard UI Kit built on Bootstrap ⭐ [36.6k stars]()
+3. [CoreUI](https://coreui.io/) is a free Bootstrap admin template. ⭐ [k stars]()
+
+   \***\* others \*\***
+
+- [Shards Dashboard](https://designrevision.com/downloads/shards-dashboard-lite/) is a free, modern, and lightweight Bootstrap 4 admin dashboard template. ⭐ [k stars]()
+
+- [Material Dashboard](https://www.creative-tim.com/product/material-dashboard) is a free Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. ⭐ [k stars]()
+- [Material Kit](https://www.creative-tim.com/product/material-kit) is a free Material Bootstrap 4 UI Kit with a fresh, new design inspired by Google's Material Design. ⭐ [k stars]()
+
+### Component Libraries
+
+1. [Shadcn](https://ui.shadcn.com) is Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. ⭐ [51.4k stars](https://github.com/shadcn-ui/ui)
+2. [Chakra UI](https://chakra-ui.com/) is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications. ⭐ [36.2k stars](https://github.com/chakra-ui/chakra-ui)
+3. [DaisyUI](https://daisyui.com/) is the most popular, free and open-source Tailwind CSS component library. ⭐ [29.6k stars](https://github.com/saadeghi/daisyui)
+4. [Radix UI](https://www.radix-ui.com/) is a collection of low-level UI primitives for building high-quality, accessible design systems and web apps. ⭐ [3.5k stars]()
+5. [Next-UI](https://nextui.org/) is a collection of beautifully designed, accessible, and customizable UI components for React. ⭐ [18.6k stars](https://github.com/nextui-org/nextui)
+
+- [Meraki UI](https://merakiui.com/) is a collection of responsive Tailwind CSS components that enhance the user experience of your website. with support for RTL languages, and a sleek Dark Mode. ⭐ [2.3k stars](https://github.com/merakiui/merakiui)
+- [Mamba-UI](https://mambaui.com/) is a free, open-source collection of UI components and templates based on Tailwind CSS. ⭐ [827 stars](https://github.com/Microwawe/mamba-ui)
+- [Tailwind Components](https://tailwindcomponents.com/) is an Open source Tailwind UI components and templates to bootstrap your new apps, projects or landing sites! ⭐ [k stars]()
+- [Tailwind Toolbox](https://www.tailwindtoolbox.com/) is a free Tailwind CSS Templates, Components and Resources. ⭐ [k stars]()
 - [Tailwind UI](https://tailwindui.com/) is a collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects.
-- [Shoelace](https://shoelace.style) is a forward-thinking library of web components.
-- [Float UI](https://floatui.com/) offers all the vital building blocks you need to transform your idea into a great-looking startup.
-- [DaisyUI](https://daisyui.com/) is a component library for Tailwind CSS.
+- [Shoelace](https://shoelace.style) is a forward-thinking library of web components. ⭐ [11.6k stars](https://github.com/shoelace-style/shoelace)
+- [Float UI](https://floatui.com/) offers all the vital building blocks you need to transform your idea into a great-looking startup. ⭐ [3k stars](https://github.com/MarsX-dev/floatui)
+- [Tuk](https://tuk.dev/) is a UI component library to build captivating experiences with accessible, fully responsive, drop-in-ready Tailwind CSS components and fast track your workflow. Get started FREE with 250 COMPONENTS.
 
 #### Data Visualization Components
 
@@ -65,11 +81,11 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 ## Other JS libraries
 
 - [Three.js](https://threejs.org/) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser. ⭐ [97.9k stars](https://github.com/mrdoob/three.js)
-- [Video.js](https://videojs.com/) is an open-source HTML5 video player.
-- [P5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else.
-- [Pixi.js](https://www.pixijs.com/) is a fast, lightweight 2D library that works across all devices.
-- [nuclear.js.org](https://nuclear.js.org/) Streaming music player that finds free music for you
-- [Howler.js](https://howlerjs.com/) is a JavaScript audio library for the modern web.
+- [Pixi.js](https://www.pixijs.com/) is a fast, lightweight 2D library that works across all devices. ⭐ [42.1k stars](https://github.com/pixijs/pixijs)
+- [Video.js](https://videojs.com/) is an open-source HTML5 video player. ⭐ [37k stars](https://github.com/videojs/video.js)
+- [P5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else. ⭐ [20.7k stars](https://github.com/processing/p5.js)
+- [Howler.js](https://howlerjs.com/) is a JavaScript audio library for the modern web. ⭐ [23k stars](https://github.com/goldfire/howler.js)
+- [nuclear.js.org](https://nuclear.js.org/) Streaming music player that finds free music for you ⭐ [11.3k stars](https://github.com/nukeop/nuclear)
 
 ### React
 
@@ -138,12 +154,16 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 ### Icons
 
-- [Lucide](https://lucide.dev/)
-- [React Icons](https://react-icons.github.io/react-icons/)
+1. [Iconify](https://icon-sets.iconify.design/) is a modern **icon framework** that allows you to use **over 50,000 icons** from popular icon sets. ⭐ [GitHub](https://github.com/iconify)
+2. [Google Icons](https://fonts.google.com/icons) is a collection of **free, open-source, and customizable icons** for your projects.
+3. [Simple Icons](https://simpleicons.org/) is a collection of **SVG logos** for popular brands. ⭐ [17.7l](https://github.com/simple-icons/simple-icons) stars
+4. [Lucide](https://lucide.dev/) is a set of **free, open-source, and customizable icons** for your projects. ⭐ [8.1K](https://github.com/lucide-icons/lucide) stars
+5. [Tabler Icons](https://tabler.io/icons) is a set of **over 800 free and open-source** icons for your web projects. ⭐ [7.5k](
+6. [React Icons](https://react-icons.github.io/react-icons/)
+
 - [Devicon](https://devicon.dev/) is a collection of icons for popular programming languages, frameworks, and tools.
-- [Dimple icons](https://simpleicons.org/) is a collection of SVG logos for popular brands.
 - [Zondicons](http://www.zondicons.com/) is a set of free premium SVG icons for you to use on your digital products.
-- [Radix](https://www.radix-ui.com/icons)
+- [Radix Icons](https://www.radix-ui.com/icons)
 
 ### Favicons
 
