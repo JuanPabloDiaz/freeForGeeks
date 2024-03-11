@@ -1,22 +1,10 @@
-# [DevKit](https://juanpablodiaz.github.io/devkit)
+## [**DevKit**](https://juanpablodiaz.github.io/devKit)
 
 DevKit is a collection of tools and resources for developers. It is a curated list of tools, resources, and other valuable information that can help you build better software and improve your development workflow.
 
-## Table of Contents
+# Frontend
 
-- [Frontend](#frontend)
-- [Backend](#backend)
-- [DevOps](#devops)
-- [Open Source](#open-source)
-- [Others](#others)
-- [Resources](#resources)
-- [Competitive programming](#competitive-programming)
-
-<!-- Frontend -->
-
-## Frontend
-
-### Dashboards and Admin Panels
+## Dashboards and Admin Panels
 
 1. [AdminLTE](https://adminlte.io/) is a fully responsive admin template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. ⭐ [44k stars](https://github.com/ColorlibHQ/AdminLTE)
 2. [Tabler](https://tabler.io/) is free and open-source HTML Dashboard UI Kit built on Bootstrap ⭐ [37k stars](https://github.com/tabler/tabler)
@@ -25,7 +13,7 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 5. [Tailwind Components - Dashboard](https://tailwindcomponents.com/components/dashboard) is a free Tailwind CSS Dashboard template. ⭐ [568 stars](https://github.com/tailwindcomponents/dashboard)
 6. [Tailwind Toolbox - Dashboard](https://tailwindtoolbox.github.io/Admin-Template) is a free Tailwind CSS Dashboard template. ⭐ [328 stars](https://github.com/tailwindtoolbox/Admin-Template)
 
-### Component Libraries
+## Component Libraries
 
 1. [Material UI](https://mui.com/) Ready-to-use foundational React components, free forever. ⭐ [91k stars](https://github.com/mui/material-ui)
 2. [Ant Design](https://ant.design/) is An enterprise-class UI design language and React UI library. ⭐ [90.5k stars](https://github.com/ant-design/ant-design)
@@ -54,7 +42,7 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com/) is a free Tailwind CSS Templates, Components and Resources. ⭐ [GitHub](https://github.com/tailwindtoolbox)
 - [Tailwind UI](https://tailwindui.com/) is a collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects.
 
-#### Data Visualization Components
+## Data Visualization Components
 
 1. [D3js](https://d3js.org/) is a JavaScript library for bespoke data visualization. ⭐ [107k stars](https://github.com/d3)
 2. [Chart js](https://www.chartjs.org/) is a simple yet flexible JavaScript charting library for designers and developers. ⭐ [63.5k stars](https://github.com/chartjs/Chart.js)
@@ -86,7 +74,7 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [Cookiejar](https://www.npmjs.com/package/cookiejar) is a simple, lightweight, and fast cookie manipulation library for JavaScript.
 - [cross-storage](https://github.com/zendesk/cross-storage) is a Cross domain local storage, with permissions
 
-### 3D and Animation Libraries
+## 3D and Animation Libraries
 
 1. [Three.js](https://threejs.org/) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser. ⭐ [97.9k stars](https://github.com/mrdoob/three.js)
 2. [Anime.js](https://animejs.com/) is a lightweight JavaScript animation library. It works with any CSS Properties, individual CSS transforms, SVG or any DOM attributes, and JavaScript Objects. ⭐ [48.5k stars](https://github.com/juliangarnier/anime/)
@@ -94,7 +82,7 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 4. [Babylon.js](https://www.babylonjs.com/) is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ⭐ [22k stars](https://github.com/BabylonJS/Babylon.js)
 5. [GSAP](https://gsap.com) is a professional-grade JavaScript animation for the modern web. ⭐ [18.3k stars](https://github.com/greensock/GSAP)
 
-### Other JS libraries
+## Other JS libraries
 
 - [PDF.js](https://mozilla.github.io/pdf.js/) is a **PDF Reader** in JavaScript ⭐ [34.5k stars](https://github.com/mozilla/pdf.js)
 - [Video.js](https://videojs.com/) is an open-source HTML5 video player. ⭐ [37k stars](https://github.com/videojs/video.js)
@@ -102,15 +90,15 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [Howler.js](https://howlerjs.com/) is a JavaScript audio library for the modern web. ⭐ [23k stars](https://github.com/goldfire/howler.js)
 - [Nuclear.js](https://nuclear.js.org/) Streaming music player that finds free music for you ⭐ [11.3k stars](https://github.com/nukeop/nuclear)
 
-### React
+## React
 
 - [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos.
 
-### Colors
+## Colors
 
 - [AI Colors](https://aicolors.co/) is a tool to generate color palettes using AI.
 
-### CSS Games
+## CSS Games
 
 - [CSS Grid Garden](https://cssgridgarden.com/) is a game for learning CSS grid layout.
 - [Flex Box Froggy](https://flexboxfroggy.com/) is a game for learning CSS flexbox layout.
@@ -119,14 +107,14 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 <!-- Backend -->
 
-## Backend
+# Backend
 
-### Serverless Frameworks
+## Serverless Frameworks
 
 - [Serverless](https://www.serverless.com/) Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
 - [Serverless Stack](https://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications.
 
-### API
+## API
 
 - [Public APIs](https://publicapis.dev/)
 - [Free APIs](https://free-apis.github.io/) - https://free-apis.com/#/
@@ -135,25 +123,25 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 <!-- DevOps -->
 
-## DevOps
+# DevOps
 
-### Testing
+## Testing
 
 - [PlayWright](https://playwright.dev/) enables reliable end-to-end testing for modern web apps.
 
 <!-- Open Source  -->
 
-## Open Source
+# Open Source
 
-### Dev Tools
+## Dev Tools
 
 - [Dr. Link Check](https://www.drlinkcheck.com/) is a valuable web-based service designed to help website owners and administrators identify and address broken links on their websites. | Freemiun
 
-### Tools
+## Tools
 
 - [Material Design](https://m3.material.io/) is a collection of tools and resources for developers to build high-quality digital experiences.
 
-### GitHub
+## GitHub
 
 - [Best Readme Generator](https://gprm.itsvg.in) is a tool to **generate GitHub profile READMEs using a simple UI**. It makes it easy to include features in your readme file, such as your work experience, skills, programming languages, and social media links.
 - [Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) is another tool to generate GitHub profile READMEs by filling out a **simple form**.
@@ -167,7 +155,7 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [Visitor Badge](https://visitorbadge.io/) is a **valuable tool** for any GitHub user who wants to **track their online presence** and build community around their projects.
 - [Octicons](https://primer.style/octicons/) is a scalable set of icons handcrafted by GitHub.
 
-### Icons
+## Icons
 
 1. [Iconify](https://icon-sets.iconify.design/) is a modern **icon framework** that allows you to use **over 50,000 icons** from popular icon sets. ⭐ [GitHub](https://github.com/iconify)
 2. [Google Icons](https://fonts.google.com/icons) is a collection of **free, open-source, and customizable icons** for your projects.
@@ -180,24 +168,24 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [Zondicons](http://www.zondicons.com/) is a set of free premium SVG icons for you to use on your digital products.
 - [Radix Icons](https://www.radix-ui.com/icons)
 
-### Favicons
+## Favicons
 
 - [Real Favicon Generator](https://realfavicongenerator.net/)
 - [Favicon](https://favicon.io/)
 
-### emojis
+## emojis
 
 - [EmojiDB](https://emojidb.org/) is a database of emojis.
 - [Gitmoji](https://gitmoji.dev/) is an emoji guide for your commit messages.
 - [Emojicopy](https://www.emojicopy.com/) is a tool to copy and paste emojis.
 - [Emojipedia](https://emojipedia.org/) is a comprehensive resource for emojis.
 
-### File Converters
+## File Converters
 
 - [Free File Convert](https://www.freeconvert.com/) is a tool to convert files from one format to another.
 - [PDF To Image](https://pdftoimage.com/) is a tool to convert PDF files to images.
 
-### Tools to edit Images
+## Tools to edit Images
 
 - [Compress jpeg](https://compressjpeg.com/) is a tool to compress and resize your images.
 - [Compress jpg](https://compressjpg.net/) is a tool to compress and resize your images.
@@ -207,9 +195,9 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 <!-- Others -->
 
-## Others
+# Others
 
-### Tools
+## Tools
 
 - [Figma](https://www.figma.com/) is a web-based graphics editing and user interface design app.
 - [Sketch](https://www.sketch.com/) is a design toolkit for macOS.
@@ -217,22 +205,22 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 <!-- Resources -->
 
-## Resources
+# Resources
 
-### Free Resources
+## Free Resources
 
 - [free-for dev](https://free-for.dev/) is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 - [LinksHub](https://www.linkshub.dev/) aims to provide people access to a wide range of free resources and tools that they can use to learn and develop their tech skills. These resources include links to free software, libraries, frameworks, and other tools that can be used to build and deploy applications, website, and other projects.
 - [freesets](https://freesets.vercel.app/) is a Collection of free resources like icons, images, illustrations, components, libraries and more.
 
-### Tech News
+## Tech News
 
 - [Hacker Tab](https://hackertab.dev/) is a **new tab extension** that shows you the latest news from Hacker News, Designer News, Product Hunt, GitHub, and Reddit.
 - [Reddit Programming](https://www.reddit.com/r/programming/) is a subreddit for discussion and news about computer programming.
 - [TLDR Newsletter](https://tldr.tech/) is a daily newsletter with links and TLDRs of the most interesting stories in tech.
 - [GitHub trending](https://github.com/trending) is a daily snapshot of the most popular projects on GitHub by the number of stars.
 
-### Documentation
+## Documentation
 
 - [DevDocs](https://devdocs.io/) is a free and open-source tool for developers that combines **multiple API documentations** in a fast, organized, and searchable interface.
 - [jsdoc](https://jsdoc.app/) is an API **documentation generator for JavaScript**. It `automatically generates` documentation from your code.
@@ -244,7 +232,7 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [VuePress](https://vuepress.vuejs.org/) is a **minimalistic static site generator** with a Vue-powered theming system.
 - [Docz](https://www.docz.site/) is a tool for building **documentation websites**.
 
-### Official Docs
+## Official Docs
 
 - [React](https://react.dev/) is a **JavaScript library**. ⭐ [220k stars](https://github.com/facebook/react)
 - [Next.js](https://nextjs.org/) is a **React framework**. ⭐ [119k stars](https://github.com/vercel/next.js)
@@ -253,7 +241,7 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [Filamentphp](https://filamentphp.com/) is a beautifully designed **open-source admin panel** for Laravel. | [GitHub](https://github.com/filamentphp/filament)
 - [Pkl lang](https://pkl-lang.org/) is a **configuration-as-code language** that offers rich validation and tooling. | [GitHub](https://github.com/apple/pkl-lang.org)
 
-### Blogs
+## Blogs
 
 - [SitePoint](https://www.sitepoint.com/) is a hub for web developers to share their passion for building incredible Internet things.
 - [Chat.zulip](https://chat.zulip.org/) is a powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
@@ -262,9 +250,9 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 <!-- Competitive programming -->
 
-## Competitive programming
+# Competitive programming
 
-### platforms
+## platforms
 
 - [Beecrowd](https://judge.beecrowd.com/)
 - [Hacker Rank](https://www.hackerrank.com/) is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world.
@@ -274,7 +262,7 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [Top Coder](https://www.topcoder.com/)
 - [Code Chef](https://www.codechef.com/)
 
-## Security
+# Security
 
 - [Snyk](https://snyk.io) specializes in **JavaScript security**
 - [Trivy](https://trivy.dev) is a container security scanner designed specifically for **Docker images**.
@@ -297,7 +285,7 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [Joi](https://joi.dev/) is a powerful schema description language and data validator for JavaScript.
 - [Formik](https://formik.org/) is a small library that helps you with the 3 most annoying parts: getting values in and out of form state, validation, and handling form submission.
 
-## CI
+# CI
 
 - [Travis CI](https://travis-ci.org) is a **continuous integration** service used to build and test software projects hosted at GitHub.
 - [Circle CI](https://circleci.com) is a modern, **developer-friendly** continuous integration and continuous delivery (CI/CD) platform.
@@ -311,6 +299,6 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 ---
 
-## Other Great Resources
+# Other Great Resources
 
 - [Electron](https://www.electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
