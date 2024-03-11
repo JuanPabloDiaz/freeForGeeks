@@ -1,6 +1,8 @@
-## [**DevKit**](https://juanpablodiaz.github.io/devKit)
+# [DevKit](https://juanpablodiaz.github.io/devKit/)
 
-DevKit is a collection of tools and resources for developers. It is a curated list of tools, resources, and other valuable information that can help you build better software and improve your development workflow.
+DevKit is your curated toolbox for building better software. Free resources for all your dev needs.
+
+A collection of links to **free resources** and **tools** for developers. It includes everything from **Frontend** and **Backend** to **DevOps**, **security**, **competitive programming** and more.
 
 # Frontend
 
