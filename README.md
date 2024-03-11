@@ -81,15 +81,22 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 2. [Anime.js](https://animejs.com/) is a lightweight JavaScript animation library. It works with any CSS Properties, individual CSS transforms, SVG or any DOM attributes, and JavaScript Objects. ⭐ [48.5k stars](https://github.com/juliangarnier/anime/)
 3. [Pixi.js](https://www.pixijs.com/) is a fast, lightweight 2D library that works across all devices. ⭐ [42.1k stars](https://github.com/pixijs/pixijs)
 4. [Babylon.js](https://www.babylonjs.com/) is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ⭐ [22k stars](https://github.com/BabylonJS/Babylon.js)
-5. [GSAP](https://gsap.com) is a professional-grade JavaScript animation for the modern web. ⭐ [18.3k stars](https://github.com/greensock/GSAP)
+5. [React Spring](https://react-spring.io/) is a spring-physics based animation library for React applications. ⭐ [28k stars](https://github.com/pmndrs/react-spring)
+6. [GSAP](https://gsap.com) is a professional-grade JavaScript animation for the modern web. ⭐ [18.3k stars](https://github.com/greensock/GSAP)
+7. [Matter.js](https://brm.io/matter-js/) is a a 2D physics engine for the web ▲● ■ ⭐ [16k stars](https://github.com/liabru/matter-js)
+8. [Auto Animate](https://auto-animate.formkit.com/) is a zero-config, drop-in animation utility that adds smooth transitions to your web app. ⭐ [12k stars](https://github.com/formkit/auto-animate)
 
 ## Other JS libraries
 
+- [Moment](https://momentjs.com/) is a JavaScript date library for parsing, validating, manipulating, and formatting dates. ⭐ [48k stars](https://github.com/moment/moment)
+- [Dayjs](https://day.js.org/) ⏰ is 2kB immutable date-time library alternative to Moment.js with the same modern API ⭐ [46k stars](https://github.com/iamkun/dayjs)
 - [PDF.js](https://mozilla.github.io/pdf.js/) is a **PDF Reader** in JavaScript ⭐ [34.5k stars](https://github.com/mozilla/pdf.js)
 - [Video.js](https://videojs.com/) is an open-source HTML5 video player. ⭐ [37k stars](https://github.com/videojs/video.js)
 - [P5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else. ⭐ [20.7k stars](https://github.com/processing/p5.js)
 - [Howler.js](https://howlerjs.com/) is a JavaScript audio library for the modern web. ⭐ [23k stars](https://github.com/goldfire/howler.js)
+- [Luxon](https://moment.github.io/luxon/) is a library for working with dates and times in JavaScript. ⭐ [15k stars](https://github.com/moment/luxon)
 - [Nuclear.js](https://nuclear.js.org/) Streaming music player that finds free music for you ⭐ [11.3k stars](https://github.com/nukeop/nuclear)
+- [Next Video](https://next-video.dev/)Add high-performance video to your Next.js app. ⭐ [GitHub](https://github.com/muxinc/next-video)
 
 ## React
 
