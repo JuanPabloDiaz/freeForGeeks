@@ -92,7 +92,12 @@
       window.$docsify = {
         name: "DevKit",
         repo: "JuanPabloDiaz/jp-resources",
-        // search: "auto",
+        search: {
+          paths: "auto",
+          placeholder: "Search Free Resources",
+          noData:
+            '<h3 style="text-align: center;"><i>No results! 🤔</i></h3> <br><h4 style="text-align: center; color: orange;"><a href="https://github.com/JuanPabloDiaz/jp-resources/pulls" target="_blank">Open a PR to add new resources</a></h4>',
+        },
         routerMode: "history", // dont use hash in url
         darklightTheme: {
           siteFont: "Source Sans Pro, Helvetica Neue",
