@@ -121,9 +121,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 ## Serverless Frameworks
 
+- [Serverless Stack](https://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. ⭐ [GitHub]()
 - [Serverless](https://www.serverless.com/) Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
-- [Serverless Stack](https://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications.
--
 
 ## API
 
@@ -132,15 +131,32 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Fakerjs](https://fakerjs.dev/)
 - [Api.publicapis](https://api.publicapis.org/)
 
+## Authentication
+
+- [Auth0](https://auth0.com/) is a flexible, drop-in solution to add authentication and authorization services to your applications. ⭐ [k stars]()
+- [Firebase Auth](https://firebase.google.com/) is a platform developed by Google for creating mobile and web applications. ⭐ [k stars]()
+- [Clerk](https://clerk.dev/) is a developer-first identity and user management platform. ⭐ [k stars]()
+- [Supabase Auth](https://supabase.io/) is an open-source Firebase alternative. ⭐ [k stars]()
+- [NextAuth.js](https://next-auth.js.org/) is a complete open-source authentication solution for Next.js applications. ⭐ [k stars]()
+- [Appwrite Auth](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [k stars]()
+
+## Database
+
+1. [Supabase](https://supabase.io/) is an open-source Firebase alternative. ⭐ [64k stars](https://github.com/supabase/supabase)
+2. [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [40k stars](https://github.com/appwrite/appwrite)
+3. [MongoDB](https://www.mongodb.com/) is a general-purpose, document-based, distributed database built for modern application developers and for the cloud era. ⭐ [26k stars](https://github.com/mongodb/mongo)
+
 <!-- DevOps -->
 
 # DevOps
 
 ## Testing
 
-- [PlayWright](https://playwright.dev/) enables reliable end-to-end testing for modern web apps.
+- [PlayWright](https://playwright.dev/) enables reliable end-to-end testing for modern web apps. ⭐ [60k stars](https://github.com/microsoft/playwright)
+- [Hoppscotch](https://hoppscotch.io/) Hoppscotch is a lightweight, web-based API development ecosystem. ⭐ [60k stars](https://github.com/hoppscotch/hoppscotch)
+- [Cypress](https://www.cypress.io/) is a **JavaScript End to End Testing Framework**. ⭐ [46k stars](https://github.com/cypress-io/cypress)
 
-   <!-- Open Source  -->
+<!-- Open Source  -->
 
 # Open Source
 
