@@ -35,8 +35,9 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 18. [Grommet](https://v2.grommet.io/) is a React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package. ⭐ [8.5k stars](https://github.com/grommet/grommet)
 19. [Hyper UI](https://hyperui.dev/) is a collection of beautiful, accessible, and customizable UI components for React. ⭐ [8k stars](https://github.com/markmead/hyperui)
 20. [React Suite](https://rsuitejs.com/) is a suite of React components. ⭐ [8k stars](https://github.com/rsuite/rsuite)
-21. [Float UI](https://floatui.com/) offers all the vital building blocks you need to transform your idea into a great-looking startup. ⭐ [3k stars](https://github.com/MarsX-dev/floatui)
-22. [Meraki UI](https://merakiui.com/) is a collection of responsive Tailwind CSS components that enhance the user experience of your website. with support for RTL languages, and a sleek Dark Mode. ⭐ [2.3k stars](https://github.com/merakiui/merakiui)
+21. [Sonner](https://sonner.emilkowal.ski/) is an opinionated **toast component** for React. ⭐ [7k stars](https://github.com/emilkowalski/sonner)
+22. [Float UI](https://floatui.com/) offers all the vital building blocks you need to transform your idea into a great-looking startup. ⭐ [3k stars](https://github.com/MarsX-dev/floatui)
+23. [Meraki UI](https://merakiui.com/) is a collection of responsive Tailwind CSS components that enhance the user experience of your website. with support for RTL languages, and a sleek Dark Mode. ⭐ [2.3k stars](https://github.com/merakiui/merakiui)
 
 - [Tailwind Components](https://tailwindcomponents.com/) is an Open source Tailwind UI components and templates to bootstrap your new apps, projects or landing sites! ⭐ [GitHub](https://github.com/tailwindcomponents)
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com/) is a free Tailwind CSS Templates, Components and Resources. ⭐ [GitHub](https://github.com/tailwindtoolbox)
@@ -186,6 +187,8 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [PDF To Image](https://pdftoimage.com/) is a tool to convert PDF files to images.
 
 ## Tools to edit Images
+
+- [Squoosh](https://squoosh.app/) Make images smaller using best-in-class codecs, right in the browser. ⭐ [20.6k stars](https://github.com/GoogleChromeLabs/squoosh)
 
 - [Compress jpeg](https://compressjpeg.com/) is a tool to compress and resize your images.
 - [Compress jpg](https://compressjpg.net/) is a tool to compress and resize your images.
