@@ -92,10 +92,11 @@
         name: "DevKit",
         repo: "JuanPabloDiaz/devKit",
         search: {
-          paths: "/",
+          paths: "auto",
           placeholder: "Search Free Resources",
           noData:
             '<h3 style="text-align: center;"><i>No results! 🤔</i></h3> <br><h4 style="text-align: center; color: orange;"><a href="https://github.com/JuanPabloDiaz/devKit/pulls" target="_blank">Open a PR to add new resources</a></h4>',
+          depth: 0, // index all headers and content - To enable full-text search
         },
         routerMode: "history", // dont use hash in url
         darklightTheme: {
