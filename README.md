@@ -123,6 +123,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [Serverless](https://www.serverless.com/) Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
 - [Serverless Stack](https://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications.
+-
 
 ## API
 
@@ -139,7 +140,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [PlayWright](https://playwright.dev/) enables reliable end-to-end testing for modern web apps.
 
-<!-- Open Source  -->
+   <!-- Open Source  -->
 
 # Open Source
 
@@ -308,6 +309,36 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [jsDelivr](https://www.jsdelivr.com/) is a free **Open Source CDN** for open source projects.
 
 ---
+
+# Comprehensive Business Intelligence (BI) and Data Visualization Tools
+
+- [SuperSet](https://superset.apache.org/) is a Data Visualization and Data Exploration Platform. ⭐ [58k stars](https://github.com/apache/superset)
+
+1. **Tableau**:
+
+   - **Best for data visualization**.
+   - Tableau is a powerful BI platform known for its robust visualization capabilities. It allows users to create interactive dashboards and explore data effectively.
+
+2. **Domo**:
+
+   - **Best for large data sets**.
+   - Domo provides a cloud-based platform for business intelligence, data visualization, and collaboration. It's suitable for handling extensive datasets and offers various integrations.
+
+3. **Yellowfin**:
+
+   - **Best for embedded analytics**.
+   - Yellowfin focuses on embedding analytics within other applications. It provides features like dashboards, reporting, and data exploration.
+
+4. **Zoho Analytics**:
+
+   - **Best for non-analysts**.
+   - Zoho Analytics is user-friendly and caters to business users who may not have extensive technical expertise. It offers self-service reporting and data visualization.
+
+5. **Sisense**:
+   - **Best for end-to-end BI**
+6. **Qlik Sense**:
+
+   - **Best for mobile users**.
 
 ---
 
