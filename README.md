@@ -21,6 +21,8 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 1. [AdminLTE](https://adminlte.io/) is a fully responsive admin template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. ⭐ [43.5k stars](https://github.com/ColorlibHQ/AdminLTE)
 2. [Tabler](https://tabler.io/) is free and open-source HTML Dashboard UI Kit built on Bootstrap ⭐ [36.6k stars]()
 3. [CoreUI](https://coreui.io/) is a free Bootstrap admin template build with **HTML**. ⭐ [12k stars](https://github.com/coreui/coreui-free-bootstrap-admin-template)
+4. [Tailwind Components - Dashboard](https://tailwindcomponents.com/components/dashboard) is a free Tailwind CSS Dashboard template. ⭐ [568 stars](https://github.com/tailwindcomponents/dashboard)
+5. [Tailwind Toolbox - Dashboard](https://tailwindtoolbox.github.io/Admin-Template) is a free Tailwind CSS Dashboard template. ⭐ [328 stars](https://github.com/tailwindtoolbox/Admin-Template)
 
    \***\* others \*\***
 
@@ -34,13 +36,14 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 1. [Shadcn](https://ui.shadcn.com) is Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. ⭐ [51.4k stars](https://github.com/shadcn-ui/ui)
 2. [Chakra UI](https://chakra-ui.com/) is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications. ⭐ [36.2k stars](https://github.com/chakra-ui/chakra-ui)
 3. [DaisyUI](https://daisyui.com/) is the most popular, free and open-source Tailwind CSS component library. ⭐ [29.6k stars](https://github.com/saadeghi/daisyui)
-4. [Radix UI](https://www.radix-ui.com/) is a collection of low-level UI primitives for building high-quality, accessible design systems and web apps. ⭐ [3.5k stars]()
-5. [Next-UI](https://nextui.org/) is a collection of beautifully designed, accessible, and customizable UI components for React. ⭐ [18.6k stars](https://github.com/nextui-org/nextui)
+4. [headlessui](https://headlessui.dev/) is a set of completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. ⭐ [24k stars](https://github.com/tailwindlabs/headlessui/)
+5. [Radix UI](https://www.radix-ui.com/) is a collection of low-level UI primitives for building high-quality, accessible design systems and web apps. ⭐ [3.5k stars]()
+6. [Next-UI](https://nextui.org/) is a collection of beautifully designed, accessible, and customizable UI components for React. ⭐ [18.6k stars](https://github.com/nextui-org/nextui)
+7. [Meraki UI](https://merakiui.com/) is a collection of responsive Tailwind CSS components that enhance the user experience of your website. with support for RTL languages, and a sleek Dark Mode. ⭐ [2.3k stars](https://github.com/merakiui/merakiui)
+8. [Mamba-UI](https://mambaui.com/) is a free, open-source collection of UI components and templates based on Tailwind CSS. ⭐ [827 stars](https://github.com/Microwawe/mamba-ui)
+9. [Tailwind Components](https://tailwindcomponents.com/) is an Open source Tailwind UI components and templates to bootstrap your new apps, projects or landing sites! ⭐ [GitHub](https://github.com/tailwindcomponents)
+10. [Tailwind Toolbox](https://www.tailwindtoolbox.com/) is a free Tailwind CSS Templates, Components and Resources. ⭐ [GitHub](https://github.com/tailwindtoolbox)
 
-- [Meraki UI](https://merakiui.com/) is a collection of responsive Tailwind CSS components that enhance the user experience of your website. with support for RTL languages, and a sleek Dark Mode. ⭐ [2.3k stars](https://github.com/merakiui/merakiui)
-- [Mamba-UI](https://mambaui.com/) is a free, open-source collection of UI components and templates based on Tailwind CSS. ⭐ [827 stars](https://github.com/Microwawe/mamba-ui)
-- [Tailwind Components](https://tailwindcomponents.com/) is an Open source Tailwind UI components and templates to bootstrap your new apps, projects or landing sites! ⭐ [k stars]()
-- [Tailwind Toolbox](https://www.tailwindtoolbox.com/) is a free Tailwind CSS Templates, Components and Resources. ⭐ [k stars]()
 - [Tailwind UI](https://tailwindui.com/) is a collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects.
 - [Shoelace](https://shoelace.style) is a forward-thinking library of web components. ⭐ [11.6k stars](https://github.com/shoelace-style/shoelace)
 - [Float UI](https://floatui.com/) offers all the vital building blocks you need to transform your idea into a great-looking startup. ⭐ [3k stars](https://github.com/MarsX-dev/floatui)
@@ -78,10 +81,15 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 - [Cookiejar](https://www.npmjs.com/package/cookiejar) is a simple, lightweight, and fast cookie manipulation library for JavaScript.
 - [cross-storage](https://github.com/zendesk/cross-storage) is a Cross domain local storage, with permissions
 
-## Other JS libraries
+### 3D and Animation Libraries
 
 - [Three.js](https://threejs.org/) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser. ⭐ [97.9k stars](https://github.com/mrdoob/three.js)
 - [Pixi.js](https://www.pixijs.com/) is a fast, lightweight 2D library that works across all devices. ⭐ [42.1k stars](https://github.com/pixijs/pixijs)
+- [GSAP](https://gsap.com) is a professional-grade JavaScript animation for the modern web. ⭐ [18.3k stars](https://github.com/greensock/GSAP)
+
+## Other JS libraries
+
+- [PDF.js](https://mozilla.github.io/pdf.js/) is a PDF Reader in JavaScript ⭐ [34.5k stars](https://github.com/mozilla/pdf.js)
 - [Video.js](https://videojs.com/) is an open-source HTML5 video player. ⭐ [37k stars](https://github.com/videojs/video.js)
 - [P5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else. ⭐ [20.7k stars](https://github.com/processing/p5.js)
 - [Howler.js](https://howlerjs.com/) is a JavaScript audio library for the modern web. ⭐ [23k stars](https://github.com/goldfire/howler.js)
@@ -156,8 +164,8 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 1. [Iconify](https://icon-sets.iconify.design/) is a modern **icon framework** that allows you to use **over 50,000 icons** from popular icon sets. ⭐ [GitHub](https://github.com/iconify)
 2. [Google Icons](https://fonts.google.com/icons) is a collection of **free, open-source, and customizable icons** for your projects.
-3. [Simple Icons](https://simpleicons.org/) is a collection of **SVG logos** for popular brands. ⭐ [17.7l](https://github.com/simple-icons/simple-icons) stars
-4. [Lucide](https://lucide.dev/) is a set of **free, open-source, and customizable icons** for your projects. ⭐ [8.1K](https://github.com/lucide-icons/lucide) stars
+3. [Simple Icons](https://simpleicons.org/) is a collection of **SVG logos** for popular brands. ⭐ [17.7k stars](https://github.com/simple-icons/simple-icons)
+4. [Lucide](https://lucide.dev/) is a set of **free, open-source, and customizable icons** for your projects. ⭐ [8.1k stars](https://github.com/lucide-icons/lucide)
 5. [Tabler Icons](https://tabler.io/icons) is a set of **over 800 free and open-source** icons for your web projects. ⭐ [7.5k](
 6. [React Icons](https://react-icons.github.io/react-icons/)
 
@@ -231,8 +239,12 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 ### Official Docs
 
-- [Filamentphp](https://filamentphp.com/) is a beautifully designed **open-source admin panel** for Laravel.
-- [Pkl lang](https://pkl-lang.org/) is a **configuration-as-code language** that offers rich validation and tooling.
+- [React](https://react.dev/) is a **JavaScript library**. ⭐ [220k stars](https://github.com/facebook/react)
+- [Next.js](https://nextjs.org/) is a **React framework**. ⭐ [119k stars](https://github.com/vercel/next.js)
+- [Tailwind CSS](https://tailwindcss.com/) is a **utility-first CSS framework** for rapid UI development. ⭐ [76.9k stars](https://github.com/tailwindlabs/tailwindcss)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is a **lightweight interpreted** Programming language. ⭐ [GitHub](https://github.com/topics/javascript)
+- [Filamentphp](https://filamentphp.com/) is a beautifully designed **open-source admin panel** for Laravel. | [GitHub](https://github.com/filamentphp/filament)
+- [Pkl lang](https://pkl-lang.org/) is a **configuration-as-code language** that offers rich validation and tooling. | [GitHub](https://github.com/apple/pkl-lang.org)
 
 ### Blogs
 
