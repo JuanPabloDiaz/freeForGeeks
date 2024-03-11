@@ -43,10 +43,10 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 8. [Mamba-UI](https://mambaui.com/) is a free, open-source collection of UI components and templates based on Tailwind CSS. ⭐ [827 stars](https://github.com/Microwawe/mamba-ui)
 9. [Tailwind Components](https://tailwindcomponents.com/) is an Open source Tailwind UI components and templates to bootstrap your new apps, projects or landing sites! ⭐ [GitHub](https://github.com/tailwindcomponents)
 10. [Tailwind Toolbox](https://www.tailwindtoolbox.com/) is a free Tailwind CSS Templates, Components and Resources. ⭐ [GitHub](https://github.com/tailwindtoolbox)
+11. [Shoelace](https://shoelace.style) is a forward-thinking library of web components. ⭐ [11.6k stars](https://github.com/shoelace-style/shoelace)
 
-- [Tailwind UI](https://tailwindui.com/) is a collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects.
-- [Shoelace](https://shoelace.style) is a forward-thinking library of web components. ⭐ [11.6k stars](https://github.com/shoelace-style/shoelace)
 - [Float UI](https://floatui.com/) offers all the vital building blocks you need to transform your idea into a great-looking startup. ⭐ [3k stars](https://github.com/MarsX-dev/floatui)
+- [Tailwind UI](https://tailwindui.com/) is a collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects.
 - [Tuk](https://tuk.dev/) is a UI component library to build captivating experiences with accessible, fully responsive, drop-in-ready Tailwind CSS components and fast track your workflow. Get started FREE with 250 COMPONENTS.
 
 #### Data Visualization Components
@@ -83,17 +83,19 @@ DevKit is a collection of tools and resources for developers. It is a curated li
 
 ### 3D and Animation Libraries
 
-- [Three.js](https://threejs.org/) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser. ⭐ [97.9k stars](https://github.com/mrdoob/three.js)
-- [Pixi.js](https://www.pixijs.com/) is a fast, lightweight 2D library that works across all devices. ⭐ [42.1k stars](https://github.com/pixijs/pixijs)
-- [GSAP](https://gsap.com) is a professional-grade JavaScript animation for the modern web. ⭐ [18.3k stars](https://github.com/greensock/GSAP)
+1. [Three.js](https://threejs.org/) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser. ⭐ [97.9k stars](https://github.com/mrdoob/three.js)
+2. [Anime.js](https://animejs.com/) is a lightweight JavaScript animation library. It works with any CSS Properties, individual CSS transforms, SVG or any DOM attributes, and JavaScript Objects. ⭐ [48.5k stars](https://github.com/juliangarnier/anime/)
+3. [Pixi.js](https://www.pixijs.com/) is a fast, lightweight 2D library that works across all devices. ⭐ [42.1k stars](https://github.com/pixijs/pixijs)
+4. [Babylon.js](https://www.babylonjs.com/) is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ⭐ [22k stars](https://github.com/BabylonJS/Babylon.js)
+5. [GSAP](https://gsap.com) is a professional-grade JavaScript animation for the modern web. ⭐ [18.3k stars](https://github.com/greensock/GSAP)
 
-## Other JS libraries
+### Other JS libraries
 
-- [PDF.js](https://mozilla.github.io/pdf.js/) is a PDF Reader in JavaScript ⭐ [34.5k stars](https://github.com/mozilla/pdf.js)
+- [PDF.js](https://mozilla.github.io/pdf.js/) is a **PDF Reader** in JavaScript ⭐ [34.5k stars](https://github.com/mozilla/pdf.js)
 - [Video.js](https://videojs.com/) is an open-source HTML5 video player. ⭐ [37k stars](https://github.com/videojs/video.js)
 - [P5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else. ⭐ [20.7k stars](https://github.com/processing/p5.js)
 - [Howler.js](https://howlerjs.com/) is a JavaScript audio library for the modern web. ⭐ [23k stars](https://github.com/goldfire/howler.js)
-- [nuclear.js.org](https://nuclear.js.org/) Streaming music player that finds free music for you ⭐ [11.3k stars](https://github.com/nukeop/nuclear)
+- [Nuclear.js](https://nuclear.js.org/) Streaming music player that finds free music for you ⭐ [11.3k stars](https://github.com/nukeop/nuclear)
 
 ### React
 
