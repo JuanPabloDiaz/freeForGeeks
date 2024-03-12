@@ -147,6 +147,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 1. [Supabase](https://supabase.io/) is an open-source Firebase alternative. ⭐ [64k stars](https://github.com/supabase/supabase)
 2. [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [40k stars](https://github.com/appwrite/appwrite)
 3. [MongoDB](https://www.mongodb.com/) is a general-purpose, document-based, distributed database built for modern application developers and for the cloud era. ⭐ [26k stars](https://github.com/mongodb/mongo)
+4. [GraphQL]()
 
 ## DataSet
 
