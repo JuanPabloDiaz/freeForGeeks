@@ -93,13 +93,13 @@
         repo: "JuanPabloDiaz/devKit",
         search: {
           paths: "auto",
+          namespace: "devKit", // To avoid search index collision between multiple websites under the same domain
+          depth: 0, // index all headers and content - To enable full-text search
+          // routerMode: "history", // use 'hash' instead to avoid `search error` on Github pages https://github.com/JuanPabloDiaz/devKit/issues/4
           placeholder: "Search Free Resources",
           noData:
             '<h3 style="text-align: center;"><i>No results! 🤔</i></h3> <br><h4 style="text-align: center; color: orange;"><a href="https://github.com/JuanPabloDiaz/devKit/pulls" target="_blank">Open a PR to add new resources</a></h4>',
-          depth: 0, // index all headers and content - To enable full-text search
-          namespace: "devKit", // To avoid search index collision between multiple websites under the same domain
         },
-        // routerMode: "history", // dont use hash in url // commented to avoid search error on github pages
         darklightTheme: {
           siteFont: "Source Sans Pro, Helvetica Neue",
           defaultTheme: "light",
