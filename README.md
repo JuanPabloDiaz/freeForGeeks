@@ -131,7 +131,9 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Fakerjs](https://fakerjs.dev/) is a tool to generate massive amounts of fake data in the browser and node.js. ⭐ [11.5k stars](https://github.com/faker-js/faker)
 - [Api.publicapis](https://api.publicapis.org/)
 - [API COLOMBIA](https://www.apicolombia.com/) is a public api that contains info about Colombia, departments, cities, tourists places and presidents. ⭐ [GitHub](https://github.com/Mteheran/api-colombia)
-- [
+- [RANDOM USER GENERATOR](https://randomuser.me/) is a free, open-source API for generating random user data. Like Lorem Ipsum, but for people. ⭐ [1.3k stars](https://github.com/RandomAPI/Randomuser.me-Node)
+- [DummyJSON](https://dummyjson.com/) is a tool to generate massive amounts of fake data in the browser and node.js. ⭐ [1.3k stars](https://github.com/Ovi/DummyJSON)
+- [Call Of Duty API](https://codapi.dev/) Unofficial wrapper for the Call of Duty API. ⭐ [GitHub](https://github.com/Lierrmm/Node-CallOfDuty)
 
 ## Authentication
 
