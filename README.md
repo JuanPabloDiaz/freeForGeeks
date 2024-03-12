@@ -287,15 +287,15 @@ Datos.gov...
 
 ## Documentation
 
-- [DevDocs](https://devdocs.io/) is a free and open-source tool for developers that combines **multiple API documentations** in a fast, organized, and searchable interface.
-- [jsdoc](https://jsdoc.app/) is an API **documentation generator for JavaScript**. It `automatically generates` documentation from your code.
-- [typedoc](https://typedoc.org/) is a **documentation generator for TypeScript** projects. it `automatically generates` documentation from your code.
-- [Docsify](https://docsify.js.org/) is a simple and lightweight **documentation site generator**.
-- [Docusaurus](https://docusaurus.io/) is a modern **documentation site generator** by Facebook.
-- [GitBook](https://www.gitbook.com/) is a knowledge management tool for engineering teams.
-- [MkDocs](https://www.mkdocs.org/) is a simple static site generator for building project documentation.
-- [VuePress](https://vuepress.vuejs.org/) is a **minimalistic static site generator** with a Vue-powered theming system.
-- [Docz](https://www.docz.site/) is a tool for building **documentation websites**.
+- [Docusaurus](https://docusaurus.io/) is a modern **documentation site generator** by Facebook. ⭐ [52k stars](https://github.com/facebook/docusaurus)
+- [DevDocs](https://devdocs.io/) is a free and open-source tool for developers that combines **multiple API documentations** in a fast, organized, and searchable interface. ⭐ [34k stars](https://github.com/freeCodeCamp/devdocs)
+- [Docsify](https://docsify.js.org/) is a simple and lightweight **documentation site generator**. ⭐ [26k stars](https://github.com/docsifyjs/docsify/)
+- [GitBook](https://www.gitbook.com/) is a knowledge management tool for engineering teams. ⭐ [26k stars](https://github.com/GitbookIO/gitbook)
+- [Docz](https://www.docz.site/) is a tool for building **documentation websites**. ⭐ [24k stars](https://github.com/doczjs/docz)
+- [VuePress](https://vuepress.vuejs.org/) is a **minimalistic static site generator** with a Vue-powered theming system. ⭐ [22k stars](https://github.com/vuejs/vuepress)
+- [MkDocs](https://www.mkdocs.org/) is a simple static site generator for building project documentation. ⭐ [18k stars](https://github.com/mkdocs/mkdocs)
+- [jsdoc](https://jsdoc.app/) is an API **documentation generator for JavaScript**. It `automatically generates` documentation from your code. ⭐ [15k stars](https://github.com/jsdoc/jsdoc)
+- [typedoc](https://typedoc.org/) is a **documentation generator for TypeScript** projects. it `automatically generates` documentation from your code. ⭐ [7k stars](https://github.com/TypeStrong/typedoc)
 
 ## Official Docs
 
