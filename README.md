@@ -188,19 +188,32 @@ Datos.gov...
 
 ## Pi Server
 
-Nextcloud, Portainer, Homer, Pi-hole, qBittorrent, Jackett
-Transmission
-RPI Monitor. A monitoring solution for Docker hosts and containers with Prometheus, Grafana, cAdvisor, NodeExporter. 
-Shell In A Box.
-JDownloader
-File Browser
-Guacamole
+- [Nextcloud](https://nextcloud.com/) is a suite of client-server software for creating and using file hosting services. ⭐ [k stars]()
+- [Portainer](https://www.portainer.io/) is an open-source lightweight management UI which allows you to easily manage your Docker host or Swarm cluster. ⭐ [k stars]()
+- [Homer](https://homer-demo.netlify.app/) is a dead simple static HOMepage for your servER to keep your services on hand, from a simple yaml configuration file. ⭐ [8.5k stars](https://github.com/bastienwirtz/homer)
+- [Heimdall](https://heimdall.site/) is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. ⭐ [7k stars](https://github.com/linuxserver/Heimdall)
+- [Pi-hole](https://pi-hole.net/) is a network-wide ad blocker. ⭐ [46.3k stars](https://github.com/pi-hole/pi-hole)
+- [qBittorrent](https://www.qbittorrent.org/) is a free and open-source BitTorrent client. ⭐ [24.5k stars](https://github.com/qbittorrent/qBittorrent)
+- [Jackett](https://github.com/Jackett/Jackett)
+- [Transmission](https://transmissionbt.com/) is a fast, easy, and free BitTorrent client. ⭐ [11.2k stars](https://github.com/transmission/transmission)
+- [Sonarr](https://sonarr.tv/) is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort, and rename them. ⭐ [9.8k stars](https://github.com/Sonarr/Sonarr)
+- [RPI Monitor](https://xavierberger.github.io/RPi-Monitor-docs/index.html) is a monitoring tool for Raspberry Pi. A monitoring solution for Docker hosts and containers with Prometheus, Grafana, cAdvisor, NodeExporter, and alerting with AlertManager. ⭐ [9.5k stars](https://github.com/XavierBerger/RPi-Monitor)
+- [Prometheus](https://prometheus.io/) is an open-source monitoring and alerting toolkit. ⭐ [52.1k stars](https://github.com/prometheus/prometheus)
+- [Grafana](https://grafana.com/) is the open-source analytics and monitoring solution for every database. ⭐ [60k stars](https://github.com/grafana/grafana)
+- [cAdvisor](https://github.com/google/cadvisor)
+- [NodeExporter]()
+- [PiVPN](https://www.pivpn.io/) is a simple OpenVPN installer, designed for Raspberry Pi. ⭐ [k stars]()
+- [WireGuard](https://www.wireguard.com/) is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. ⭐ [k stars]()
+- [OpenVPN](https://openvpn.net/) is an open-source software application that implements virtual private network techniques for creating secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. ⭐ [k stars]()
+- [Docker](https://www.docker.com/) is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. ⭐ [k stars]()
+- [Shell In A Box](https://github.com/shellinabox/shellinabox) is a web-based terminal emulator that runs as a web-based SSH client on a web server.
+- [JDownloader](https://jdownloader.org/) is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
+- [File Browser](https://filebrowser.org/) is a file manager that provides a web-based interface to manage your files. ⭐ [23k stars](https://github.com/filebrowser/filebrowser)
+- [Guacamole](https://guacamole.apache.org/) is a clientless remote desktop gateway. ⭐ [k stars]()
 
-****
-
+---
 
 [iOS apps](https://github.com/dkhamsing/open-source-ios-apps)
-
 
 ## Dev Tools
 
@@ -231,7 +244,7 @@ Guacamole
 3. [Simple Icons](https://simpleicons.org/) is a collection of **SVG logos** for popular brands. ⭐ [17.7k stars](https://github.com/simple-icons/simple-icons)
 4. [Lucide](https://lucide.dev/) is a set of **free, open-source, and customizable icons** for your projects. ⭐ [8.1k stars](https://github.com/lucide-icons/lucide)
 5. [Tabler Icons](https://tabler.io/icons) is a set of **over 800 free and open-source** icons for your web projects. ⭐ [k stars]()
-6. [React Icons](https://react-icons.github.io/react-icons/)  ⭐ [k stars]()
+6. [React Icons](https://react-icons.github.io/react-icons/) ⭐ [k stars]()
 
 - [Devicon](https://devicon.dev/) is a collection of icons for popular programming languages, frameworks, and tools. ⭐ [k stars]()
 - [Zondicons](http://www.zondicons.com/) is a set of free premium SVG icons for you to use on your digital products. ⭐ [k stars]()
