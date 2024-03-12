@@ -128,8 +128,10 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [Public APIs](https://publicapis.dev/)
 - [Free APIs](https://free-apis.github.io/) - https://free-apis.com/#/
-- [Fakerjs](https://fakerjs.dev/)
+- [Fakerjs](https://fakerjs.dev/) is a tool to generate massive amounts of fake data in the browser and node.js. ⭐ [11.5k stars](https://github.com/faker-js/faker)
 - [Api.publicapis](https://api.publicapis.org/)
+- [API COLOMBIA](https://www.apicolombia.com/) is a public api that contains info about Colombia, departments, cities, tourists places and presidents. ⭐ [GitHub](https://github.com/Mteheran/api-colombia)
+- [
 
 ## Authentication
 
@@ -313,11 +315,17 @@ Datos.gov...
 - [A list apart](https://alistapart.com/) is a webzine that explores the design, development, and meaning of web content, with a special focus on web standards and best practices.
 - [Speckyboy](https://speckyboy.com/) is an online magazine for web designers and developers.
 
-<!-- Competitive programming -->
+# Career Development
 
-# Competitive programming
+## Education
 
-## platforms
+- [Full-Stack Open](https://fullstackopen.com/en/) is a **free online course** that teaches you the **basics of web development**. ⭐ [GitHub]()
+- [FreeCodeCamp](https://www.freecodecamp.org/) is a **free online learning platform** that teaches you to code. ⭐ [GitHub]()
+- [The Odin Project](https://www.theodinproject.com/) is a **free online learning platform** that teaches you to code. ⭐ [GitHub]()
+
+## Job Boards
+
+## Competitive programming
 
 - [Beecrowd](https://judge.beecrowd.com/)
 - [Hacker Rank](https://www.hackerrank.com/) is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world.
