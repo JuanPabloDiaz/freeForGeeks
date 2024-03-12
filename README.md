@@ -146,6 +146,27 @@ A collection of links to **free resources** and **tools** for developers. It inc
 2. [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [40k stars](https://github.com/appwrite/appwrite)
 3. [MongoDB](https://www.mongodb.com/) is a general-purpose, document-based, distributed database built for modern application developers and for the cloud era. ⭐ [26k stars](https://github.com/mongodb/mongo)
 
+## DataSet
+
+- [Public Data Sets](https://cloud.google.com/public-datasets) is a collection of public datasets that Google hosts for you to explore and analyze.
+- [Kaggle](https://www.kaggle.com/datasets) is the world's largest data science community with powerful tools and resources to help you achieve your data science goals.
+- [Data.world](https://data.world/) is a platform for modern data teamwork. Discover and share cool data, connect with interesting people, and work together to solve problems faster.
+- [Google Dataset Search](https://datasetsearch.research.google.com/) is a search engine for datasets.
+- [Datahub](https://datahub.io/) is a free, powerful data management platform from the Open Knowledge Foundation.
+
+Data.gov...
+
+- [US Data](https://www.data.gov/) is the home of the U.S. Government's open data. Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.
+- [UK Data](https://data.gov.uk/) is the UK government's open data portal.
+- [Australian Data](https://data.gov.au/) is the Australian government's open data portal.
+- [Singapore Data](https://data.gov.sg/) is the Singapore government's open data portal.
+- [Hong Kong Data](https://data.gov.hk/) is the Hong Kong government's open data portal.
+
+Datos.gov...
+
+- [Colombian Data](https://datos.gov.co/) is the Colombian government's open data portal.
+- [Mexican Data](https://datos.gob.mx/) is the Mexican government's open data portal.
+
 <!-- DevOps -->
 
 # DevOps
