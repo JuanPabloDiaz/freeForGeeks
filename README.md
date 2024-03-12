@@ -102,7 +102,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 ## React
 
-- [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos.
+- [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos. ⭐ [k stars]()
 
 ## Colors
 
@@ -149,7 +149,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 1. [Supabase](https://supabase.io/) is an open-source Firebase alternative. ⭐ [64k stars](https://github.com/supabase/supabase)
 2. [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [40k stars](https://github.com/appwrite/appwrite)
 3. [MongoDB](https://www.mongodb.com/) is a general-purpose, document-based, distributed database built for modern application developers and for the cloud era. ⭐ [26k stars](https://github.com/mongodb/mongo)
-4. [GraphQL]()
+4. [GraphQL]() ⭐ [k stars]()
 
 ## DataSet
 
@@ -196,35 +196,35 @@ Datos.gov...
 
 ## GitHub
 
-- [Best Readme Generator](https://gprm.itsvg.in) is a tool to **generate GitHub profile READMEs using a simple UI**. It makes it easy to include features in your readme file, such as your work experience, skills, programming languages, and social media links.
-- [Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) is another tool to generate GitHub profile READMEs by filling out a **simple form**.
-- [Typing Effect](https://readme-typing-svg.demolab.com/demo/) lets you add a `dynamic typing animation` to your GitHub profile as if you were typing.
-- [Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/) lets you create `personalized badges` to highlight your **skills** and **accomplishments** in your GitHub README file.
-- [Readme Stats](https://github-readme-stats.vercel.app): Get `up-to-date stats` on your GitHub **activity** and **contributions**, automatically integrated into your README.md with Readme Stats. It is a **dynamically generated GitHub stats** on your READMEs.
-- [Contrib.Rocks](https://contrib.rocks/) is a simple way to `generate a dynamic image of contributors` to keep your README.md file in sync.
+- [Best Readme Generator](https://gprm.itsvg.in) is a tool to **generate GitHub profile READMEs using a simple UI**. It makes it easy to include features in your readme file, such as your work experience, skills, programming languages, and social media links. ⭐ [k stars]()
+- [Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) is another tool to generate GitHub profile READMEs by filling out a **simple form**. ⭐ [k stars]()
+- [Typing Effect](https://readme-typing-svg.demolab.com/demo/) lets you add a `dynamic typing animation` to your GitHub profile as if you were typing. ⭐ [k stars]()
+- [Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/) lets you create `personalized badges` to highlight your **skills** and **accomplishments** in your GitHub README file. ⭐ [k stars]()
+- [Readme Stats](https://github-readme-stats.vercel.app): Get `up-to-date stats` on your GitHub **activity** and **contributions**, automatically integrated into your README.md with Readme Stats. It is a **dynamically generated GitHub stats** on your READMEs. ⭐ [k stars]()
+- [Contrib.Rocks](https://contrib.rocks/) is a simple way to `generate a dynamic image of contributors` to keep your README.md file in sync. ⭐ [k stars]()
 - [Skill icons](https://skillicons.dev/) is an easy-to-use tool that allows you to generate beautiful and customizable icons representing your programming languages, frameworks, tools, and other technical skills.
-- [raw.githubusercontent.com/](https://raw.githubusercontent.com/) is a tool to **serve files** directly from GitHub. It is useful for **serving images** in your GitHub README file. You can generate the URL of the image by clicking on the `Raw` button in the file view.
-- [GitHub Gist](https://gist.github.com/rxaviers/7360908) is a simple emoji **cheat sheet** to use when writing your GitHub README file.
+- [raw.githubusercontent.com/](https://raw.githubusercontent.com/) is a tool to **serve files** directly from GitHub. It is useful for **serving images** in your GitHub README file. You can generate the URL of the image by clicking on the `Raw` button in the file view. ⭐ [k stars]()
+- [GitHub Gist](https://gist.github.com/rxaviers/7360908) is a simple emoji **cheat sheet** to use when writing your GitHub README file. ⭐ [k stars]()
 - [Visitor Badge](https://visitorbadge.io/) is a **valuable tool** for any GitHub user who wants to **track their online presence** and build community around their projects.
-- [Octicons](https://primer.style/octicons/) is a scalable set of icons handcrafted by GitHub.
+- [Octicons](https://primer.style/octicons/) is a scalable set of icons handcrafted by GitHub. ⭐ [k stars]()
 
 ## Icons
 
 1. [Iconify](https://icon-sets.iconify.design/) is a modern **icon framework** that allows you to use **over 50,000 icons** from popular icon sets. ⭐ [GitHub](https://github.com/iconify)
-2. [Google Icons](https://fonts.google.com/icons) is a collection of **free, open-source, and customizable icons** for your projects.
+2. [Google Icons](https://fonts.google.com/icons) is a collection of **free, open-source, and customizable icons** for your projects. ⭐ [k stars]()
 3. [Simple Icons](https://simpleicons.org/) is a collection of **SVG logos** for popular brands. ⭐ [17.7k stars](https://github.com/simple-icons/simple-icons)
 4. [Lucide](https://lucide.dev/) is a set of **free, open-source, and customizable icons** for your projects. ⭐ [8.1k stars](https://github.com/lucide-icons/lucide)
-5. [Tabler Icons](https://tabler.io/icons) is a set of **over 800 free and open-source** icons for your web projects. ⭐ [7.5k](
-6. [React Icons](https://react-icons.github.io/react-icons/)
+5. [Tabler Icons](https://tabler.io/icons) is a set of **over 800 free and open-source** icons for your web projects. ⭐ [k stars]()
+6. [React Icons](https://react-icons.github.io/react-icons/)  ⭐ [k stars]()
 
-- [Devicon](https://devicon.dev/) is a collection of icons for popular programming languages, frameworks, and tools.
-- [Zondicons](http://www.zondicons.com/) is a set of free premium SVG icons for you to use on your digital products.
-- [Radix Icons](https://www.radix-ui.com/icons)
+- [Devicon](https://devicon.dev/) is a collection of icons for popular programming languages, frameworks, and tools. ⭐ [k stars]()
+- [Zondicons](http://www.zondicons.com/) is a set of free premium SVG icons for you to use on your digital products. ⭐ [k stars]()
+- [Radix Icons](https://www.radix-ui.com/icons) ⭐ [k stars]()
 
 ## Favicons
 
-- [Real Favicon Generator](https://realfavicongenerator.net/)
-- [Favicon](https://favicon.io/)
+- [Real Favicon Generator](https://realfavicongenerator.net/) ⭐ [k stars]()
+- [Favicon](https://favicon.io/) ⭐ [k stars]()
 
 ## emojis
 
@@ -340,20 +340,20 @@ Datos.gov...
 
 # Security
 
-- [Snyk](https://snyk.io) specializes in **JavaScript security**
-- [Trivy](https://trivy.dev) is a container security scanner designed specifically for **Docker images**.
+- [Snyk](https://snyk.io) specializes in **JavaScript security** ⭐ [k stars]()
+- [Trivy](https://trivy.dev) is a container security scanner designed specifically for **Docker images**. ⭐ [k stars]()
 
 ## Testing Frameworks
 
-- [Jest](https://jestjs.io/) is a delightful JavaScript Testing Framework with a focus on simplicity.
-- [Mocha](https://mochajs.org/) is a feature-rich JavaScript test framework running on Node.js and in the browser.
-- [Jasmine](https://jasmine.github.io/) is a behavior-driven development framework for testing JavaScript code.
-- [Cypress](https://www.cypress.io/) is a **JavaScript End to End Testing Framework**.
-- [Puppeteer](https://pptr.dev/) is a **Node library** which provides a high-level API over the Chrome DevTools Protocol.
-- [Karma](https://karma-runner.github.io/latest/index.html) is a simple tool that allows you to execute JavaScript code in multiple real browsers.
-- [WebdriverIO](https://webdriver.io/) is a **Next-gen browser and mobile automation test framework** for Node.js.
-- [Stryker js](https://stryker-mutator.io/) is a mutation testing framework for JavaScript.
-- [Ava](https://github.com/avajs/ava) is a Node.js test runner that lets you develop with confidence 🚀
+- [Jest](https://jestjs.io/) is a delightful JavaScript Testing Framework with a focus on simplicity. ⭐ [k stars]()
+- [Mocha](https://mochajs.org/) is a feature-rich JavaScript test framework running on Node.js and in the browser. ⭐ [k stars]()
+- [Jasmine](https://jasmine.github.io/) is a behavior-driven development framework for testing JavaScript code. ⭐ [k stars]()
+- [Cypress](https://www.cypress.io/) is a **JavaScript End to End Testing Framework**. ⭐ [k stars]()
+- [Puppeteer](https://pptr.dev/) is a **Node library** which provides a high-level API over the Chrome DevTools Protocol. ⭐ [k stars]()
+- [Karma](https://karma-runner.github.io/latest/index.html) is a simple tool that allows you to execute JavaScript code in multiple real browsers. ⭐ [k stars]()
+- [WebdriverIO](https://webdriver.io/) is a **Next-gen browser and mobile automation test framework** for Node.js. ⭐ [k stars]()
+- [Stryker js](https://stryker-mutator.io/) is a mutation testing framework for JavaScript. ⭐ [k stars]()
+- [Ava](https://github.com/avajs/ava) is a Node.js test runner that lets you develop with confidence 🚀 ⭐ [k stars]()
 
 ## Form Validation Frameworks
 
@@ -363,13 +363,13 @@ Datos.gov...
 
 # CI
 
-- [Travis CI](https://travis-ci.org) is a **continuous integration** service used to build and test software projects hosted at GitHub.
-- [Circle CI](https://circleci.com) is a modern, **developer-friendly** continuous integration and continuous delivery (CI/CD) platform.
+- [Travis CI](https://travis-ci.org) is a **continuous integration** service used to build and test software projects hosted at GitHub. ⭐ [k stars]()
+- [Circle CI](https://circleci.com) is a modern, **developer-friendly** continuous integration and continuous delivery (CI/CD) platform. ⭐ [k stars]()
 
 ## CDN
 
-- [CDN js](https://github.com/cdnjs/cdnjs) is a community-driven **content delivery network** for web-related libraries. 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
-- [jsDelivr](https://www.jsdelivr.com/) is a free **Open Source CDN** for open source projects.
+- [CDN js](https://github.com/cdnjs/cdnjs) is a community-driven **content delivery network** for web-related libraries. 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers. ⭐ [k stars]()
+- [jsDelivr](https://www.jsdelivr.com/) is a free **Open Source CDN** for open source projects. ⭐ [k stars]()
 
 ---
 
