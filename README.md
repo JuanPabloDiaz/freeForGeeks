@@ -257,11 +257,26 @@ Datos.gov...
 
 # Resources
 
-## Free Resources
+## AI
 
-- [free-for dev](https://free-for.dev/) is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
-- [LinksHub](https://www.linkshub.dev/) aims to provide people access to a wide range of free resources and tools that they can use to learn and develop their tech skills. These resources include links to free software, libraries, frameworks, and other tools that can be used to build and deploy applications, website, and other projects.
-- [freesets](https://freesets.vercel.app/) is a Collection of free resources like icons, images, illustrations, components, libraries and more.
+- [OpenAI](https://openai.com/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [PyTorch](https://pytorch.org/)
+- [Keras](https://keras.io/)
+- [FastAI](https://www.fast.ai/)
+- [Hugging Face](https://huggingface.co/)
+- [Allen AI](https://allenai.org/)
+- [DeepAI](https://deepai.org/)
+- [Cody](https://sourcegraph.com/cody) is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. ⭐ [1.5k stars](https://github.com/sourcegraph/cody)
+- [Awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
+
+## Lists of Resources for Developers
+
+- [Awesome](https://awesome.re/) lists about all kinds of interesting topics. ⭐ [294k stars](https://github.com/sindresorhus/awesome)
+- [Free-For Dev](https://free-for.dev/) is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. ⭐ [82k stars](https://github.com/ripienaar/free-for-dev)
+- [Free Stuff for Developer](https://freestuff.dev/) is a list of free stuff for developer by developer to use. ⭐ [1.5k stars](https://github.com/hilmanski/freeStuffDev/)
+- [LinksHub](https://www.linkshub.dev/) List of resources to free software, libraries, frameworks, and other tools. ⭐ [621 stars]()
+- [Freesets](https://freesets.vercel.app/) is a collection of free resources like icons, images, illustrations, components, libraries and more. ⭐ [GitHub](https://github.com/cosmoart/Freesets)
 
 ## Tech News
 
