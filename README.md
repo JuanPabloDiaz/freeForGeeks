@@ -186,6 +186,22 @@ Datos.gov...
 
 # Open Source
 
+## Pi Server
+
+Nextcloud, Portainer, Homer, Pi-hole, qBittorrent, Jackett
+Transmission
+RPI Monitor. A monitoring solution for Docker hosts and containers with Prometheus, Grafana, cAdvisor, NodeExporter. 
+Shell In A Box.
+JDownloader
+File Browser
+Guacamole
+
+****
+
+
+[iOS apps](https://github.com/dkhamsing/open-source-ios-apps)
+
+
 ## Dev Tools
 
 - [Dr. Link Check](https://www.drlinkcheck.com/) is a valuable web-based service designed to help website owners and administrators identify and address broken links on their websites. | Freemiun
