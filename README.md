@@ -186,8 +186,6 @@ Datos.gov...
 
 # Open Source
 
-[iOS apps](https://github.com/dkhamsing/open-source-ios-apps)
-
 ## Dev Tools
 
 - [Dr. Link Check](https://www.drlinkcheck.com/) is a valuable web-based service designed to help website owners and administrators identify and address broken links on their websites. | Freemiun
