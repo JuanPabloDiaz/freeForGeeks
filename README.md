@@ -6,6 +6,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 # Frontend
 
+[Frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers. ⭐ 40k stars
+
 ## Dashboards and Admin Panels
 
 1. [AdminLTE](https://adminlte.io/) is a fully responsive admin template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. ⭐ [44k stars](https://github.com/ColorlibHQ/AdminLTE)
@@ -363,7 +365,8 @@ Datos.gov...
 
 ## Interviews
 
-[Frontend Interview Questions](https://www.frontendinterviewquestions.com/interview-questions)
+- [](https://www.doppler.com/) is a curated awesome list of lists of interview questions. Feel free to contribute! 🎓⭐ [65k stars](https://github.com/DopplerHQ/awesome-interview-questions)
+- [Frontend Interview Questions](https://www.frontendinterviewquestions.com/interview-questions) is a collection of **interview questions** for **frontend developers**. ⭐ [k stars]()
 
 ## Competitive programming
 
@@ -376,6 +379,10 @@ Datos.gov...
 - [Code Chef](https://www.codechef.com/)
 
 # Security
+
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) is a collection of various awesome lists for hackers, pentesters, and security researchers.
+- [OWASP](https://owasp.org/) is a nonprofit foundation that works to improve the security of software. ⭐ [k stars]()
+- [NIST](https://www.nist.gov/) is a non-regulatory federal agency within the U.S. Department of Commerce. ⭐ [k stars]()
 
 - [Snyk](https://snyk.io) specializes in **JavaScript security** ⭐ [k stars]()
 - [Trivy](https://trivy.dev) is a container security scanner designed specifically for **Docker images**. ⭐ [k stars]()
