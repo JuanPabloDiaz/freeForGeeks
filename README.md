@@ -93,6 +93,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 ## Other JS libraries
 
 - [Moment](https://momentjs.com/) is a JavaScript date library for parsing, validating, manipulating, and formatting dates. ⭐ [48k stars](https://github.com/moment/moment)
+- [Core JS]() is a modular standard library for JavaScript. ⭐ [24k stars](https://github.com/zloirock/core-js)
 - [Dayjs](https://day.js.org/) ⏰ is 2kB immutable date-time library alternative to Moment.js with the same modern API ⭐ [46k stars](https://github.com/iamkun/dayjs)
 - [PDF.js](https://mozilla.github.io/pdf.js/) is a **PDF Reader** in JavaScript ⭐ [34.5k stars](https://github.com/mozilla/pdf.js)
 - [Video.js](https://videojs.com/) is an open-source HTML5 video player. ⭐ [37k stars](https://github.com/videojs/video.js)
