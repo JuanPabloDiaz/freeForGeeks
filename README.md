@@ -104,7 +104,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 ## React
 
-- [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos. ⭐ [k stars]()
+- [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos. ⭐ [2k stars](https://github.com/reactplay/react-play)
 
 ## Colors
 
@@ -123,8 +123,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 ## Serverless Frameworks
 
-- [Serverless Stack](https://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. ⭐ [GitHub]()
-- [Serverless](https://www.serverless.com/) Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
+- [Serverless Stack](https://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. ⭐ [20k stars](https://github.com/sst/sst)
+- [Serverless](https://www.serverless.com/) Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! ⭐ [46k stars](https://github.com/serverless/serverless)
 
 ## API
 
@@ -214,9 +214,9 @@ Datos.gov...
 - [File Browser](https://filebrowser.org/) is a file manager that provides a web-based interface to manage your files. ⭐ [23k stars](https://github.com/filebrowser/filebrowser)
 - [Guacamole](https://guacamole.apache.org/) is a clientless remote desktop gateway. ⭐ [k stars]()
 
----
+## Open Source For Apple
 
-[iOS apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [iOS apps](https://github.com/dkhamsing/open-source-ios-apps)
 
 ## Dev Tools
 
@@ -365,10 +365,27 @@ Datos.gov...
 
 ## Job Boards
 
+- [Remote OK](https://remoteok.io/)
+- [We Work Remotely](https://weworkremotely.com/)
+- [indeed](https://www.indeed.com/)
+- [Career Builder](https://www.careerbuilder.com/)
+- [Monster](https://www.monster.com/)
+- [National Hire Network](https://www.hirenetworks.com/)
+- [Dice](https://www.dice.com/)
+- [O-Net](https://www.mynextmove.org/)
+
+### Jobs in NC
+
+- [NC Division of Employment Security](https://www.des.nc.gov/)
+- [NC Works](https://www.ncworks.gov/)
+- [College Foundation of North Carolina](https://www.cfnc.org/)
+- [Guided Compass](https://guidedcompass.com)
+-
+
 ## Interviews
 
-- [](https://www.doppler.com/) is a curated awesome list of lists of interview questions. Feel free to contribute! 🎓⭐ [65k stars](https://github.com/DopplerHQ/awesome-interview-questions)
-- [Frontend Interview Questions](https://www.frontendinterviewquestions.com/interview-questions) is a collection of **interview questions** for **frontend developers**. ⭐ [k stars]()
+- [Doppler](https://www.doppler.com/) is a curated **awesome list of lists of interview questions** 🎓⭐ [65k stars](https://github.com/DopplerHQ/awesome-interview-questions)
+- [Frontend Interview Questions](https://www.frontendinterviewquestions.com/interview-questions) is a collection of **interview questions** for **frontend developers**.
 
 ## Competitive programming
 
@@ -423,33 +440,12 @@ Datos.gov...
 
 - [SuperSet](https://superset.apache.org/) is a Data Visualization and Data Exploration Platform. ⭐ [58k stars](https://github.com/apache/superset)
 
-1. **Tableau**:
-
-   - **Best for data visualization**.
-   - Tableau is a powerful BI platform known for its robust visualization capabilities. It allows users to create interactive dashboards and explore data effectively.
-
-2. **Domo**:
-
-   - **Best for large data sets**.
-   - Domo provides a cloud-based platform for business intelligence, data visualization, and collaboration. It's suitable for handling extensive datasets and offers various integrations.
-
-3. **Yellowfin**:
-
-   - **Best for embedded analytics**.
-   - Yellowfin focuses on embedding analytics within other applications. It provides features like dashboards, reporting, and data exploration.
-
-4. **Zoho Analytics**:
-
-   - **Best for non-analysts**.
-   - Zoho Analytics is user-friendly and caters to business users who may not have extensive technical expertise. It offers self-service reporting and data visualization.
-
-5. **Sisense**:
-   - **Best for end-to-end BI**
-6. **Qlik Sense**:
-
-   - **Best for mobile users**.
-
----
+1. [Tableau](https://www.tableau.com/): **Best for data visualization** | Tableau is a powerful BI platform known for its robust visualization capabilities. It allows users to create interactive dashboards and explore data effectively.
+2. [Domo](https://www.domo.com/): **Best for large data sets** | Domo provides a cloud-based platform for business intelligence, data visualization, and collaboration. It's suitable for handling extensive datasets and offers various integrations.
+3. [Yellowfin](https://www.yellowfinbi.com/): **Best for embedded analytics** | Yellowfin focuses on embedding analytics within other applications. It provides features like dashboards, reporting, and data exploration.
+4. [Zoho Analytics](https://www.zoho.com/analytics/): **Best for non-analysts** | Zoho Analytics is user-friendly and caters to business users who may not have extensive technical expertise. It offers self-service reporting and data visualization.
+5. [Sisense](https://www.sisense.com/): **Best for end-to-end BI** | Sisense is known for its end-to-end BI capabilities, including data preparation, analysis, and visualization. It's suitable for businesses looking for a comprehensive BI solution.
+6. [Qlik Sense](https://www.qlik.com/us/products/qlik-sense): **Best for mobile users** | Qlik Sense is a mobile-friendly BI platform that allows users to access and analyze data on the go. It offers interactive visualizations and data exploration features.
 
 # Other Great Resources
 
