@@ -229,6 +229,7 @@ Datos.gov...
 ## GitHub Tools
 
 - [Stats](https://github-readme-stats.vercel.app): Get `up-to-date stats` on your GitHub **activity** and **contributions**, automatically integrated into your README.md with Readme Stats. It is a **dynamically generated GitHub stats** on your READMEs. ⭐ [64k stars](https://github.com/anuraghazra/github-readme-stats)
+- [Awesome GitHub Profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme) is a curated list of **awesome GitHub Profile READMEs**. ⭐ [22k stars](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [Best Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) is another tool to generate GitHub profile READMEs by filling out a **simple form**. ⭐ [19.5k stars](https://github.com/rahuldkjain/github-profile-readme-generator)
 - [Skill icons](https://skillicons.dev/) is an easy-to-use tool that allows you to generate beautiful and customizable icons representing your programming languages, frameworks, tools, and other technical skills. ⭐ [5k stars](https://github.com/tandpfun/skill-icons)
 - [Streak](https://streak-stats.demolab.com/) is a tool to add a **dynamic GitHub streak stats** to your GitHub profile. To stay motivated and show off your contribution streak! ⭐ [4k stars](https://github.com/denvercoder1/github-readme-streak-stats)
@@ -357,9 +358,10 @@ Datos.gov...
 
 ## Education
 
-- [Full-Stack Open](https://fullstackopen.com/en/) is a **free online course** that teaches you the **basics of web development**. ⭐ [GitHub]()
-- [FreeCodeCamp](https://www.freecodecamp.org/) is a **free online learning platform** that teaches you to code. ⭐ [GitHub]()
-- [The Odin Project](https://www.theodinproject.com/) is a **free online learning platform** that teaches you to code. ⭐ [GitHub]()
+- [FreeCodeCamp](https://www.freecodecamp.org/) is a **free online learning platform** that teaches you to code. ⭐ [385k stars](https://github.com/freeCodeCamp/freeCodeCamp)
+- [Full-Stack Open](https://fullstackopen.com/en/) is a **free online course** that teaches you the **basics of web development**. ⭐ [GitHub](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
+- [The Odin Project](https://www.theodinproject.com/) is a **free online learning platform** that teaches you to code. ⭐ [GitHub](https://github.com/TheOdinProject)
+- [Cloud Study Network](https://cloudstudy.net/) is a curated list of free courses & certifications.. ⭐ [21k stars](https://github.com/cloudcommunity/Free-Certifications)
 
 ## Job Boards
 
