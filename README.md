@@ -186,6 +186,36 @@ Datos.gov...
 
 # Open Source
 
+## Self Hosted
+
+- [Awesome SelfHosted](https://awesome-selfhosted.net/) is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers. ⭐ [172k stars](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Nextcloud](https://nextcloud.com/) is a suite of client-server software for creating and using file hosting services. ⭐ [26k stars](https://github.com/nextcloud/server)
+- [Portainer](https://www.portainer.io/) is an open-source lightweight management UI which allows you to easily manage your Docker host or Swarm cluster. ⭐ [28k stars](https://github.com/portainer/portainer)
+- [Homer](https://homer-demo.netlify.app/) is a dead simple static HOMepage for your servER to keep your services on hand, from a simple yaml configuration file. ⭐ [8.5k stars](https://github.com/bastienwirtz/homer)
+- [Heimdall](https://heimdall.site/) is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. ⭐ [7k stars](https://github.com/linuxserver/Heimdall)
+- [Pi-hole](https://pi-hole.net/) is a network-wide ad blocker. ⭐ [46.3k stars](https://github.com/pi-hole/pi-hole)
+- [qBittorrent](https://www.qbittorrent.org/) is a free and open-source BitTorrent client. ⭐ [24.5k stars](https://github.com/qbittorrent/qBittorrent)
+- [Jackett](https://github.com/Jackett/Jackett)
+- [Transmission](https://transmissionbt.com/) is a fast, easy, and free BitTorrent client. ⭐ [11.2k stars](https://github.com/transmission/transmission)
+- [Sonarr](https://sonarr.tv/) is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort, and rename them. ⭐ [9.8k stars](https://github.com/Sonarr/Sonarr)
+- [RPI Monitor](https://xavierberger.github.io/RPi-Monitor-docs/index.html) is a monitoring tool for Raspberry Pi. A monitoring solution for Docker hosts and containers with Prometheus, Grafana, cAdvisor, NodeExporter, and alerting with AlertManager. ⭐ [9.5k stars](https://github.com/XavierBerger/RPi-Monitor)
+- [Prometheus](https://prometheus.io/) is an open-source monitoring and alerting toolkit. ⭐ [52.1k stars](https://github.com/prometheus/prometheus)
+- [Grafana](https://grafana.com/) is the open-source analytics and monitoring solution for every database. ⭐ [60k stars](https://github.com/grafana/grafana)
+- [cAdvisor](https://github.com/google/cadvisor)
+- [NodeExporter]()
+- [PiVPN](https://www.pivpn.io/) is a simple OpenVPN installer, designed for Raspberry Pi. ⭐ [k stars]()
+- [WireGuard](https://www.wireguard.com/) is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. ⭐ [k stars]()
+- [OpenVPN](https://openvpn.net/) is an open-source software application that implements virtual private network techniques for creating secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. ⭐ [k stars]()
+- [Docker](https://www.docker.com/) is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. ⭐ [k stars]()
+- [Shell In A Box](https://github.com/shellinabox/shellinabox) is a web-based terminal emulator that runs as a web-based SSH client on a web server.
+- [JDownloader](https://jdownloader.org/) is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
+- [File Browser](https://filebrowser.org/) is a file manager that provides a web-based interface to manage your files. ⭐ [23k stars](https://github.com/filebrowser/filebrowser)
+- [Guacamole](https://guacamole.apache.org/) is a clientless remote desktop gateway. ⭐ [k stars]()
+
+---
+
+[iOS apps](https://github.com/dkhamsing/open-source-ios-apps)
+
 ## Dev Tools
 
 - [Dr. Link Check](https://www.drlinkcheck.com/) is a valuable web-based service designed to help website owners and administrators identify and address broken links on their websites. | Freemiun
@@ -194,19 +224,22 @@ Datos.gov...
 
 - [Material Design](https://m3.material.io/) is a collection of tools and resources for developers to build high-quality digital experiences.
 
-## GitHub
+## GitHub Tools
 
-- [Best Readme Generator](https://gprm.itsvg.in) is a tool to **generate GitHub profile READMEs using a simple UI**. It makes it easy to include features in your readme file, such as your work experience, skills, programming languages, and social media links. ⭐ [k stars]()
-- [Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) is another tool to generate GitHub profile READMEs by filling out a **simple form**. ⭐ [k stars]()
-- [Typing Effect](https://readme-typing-svg.demolab.com/demo/) lets you add a `dynamic typing animation` to your GitHub profile as if you were typing. ⭐ [k stars]()
-- [Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/) lets you create `personalized badges` to highlight your **skills** and **accomplishments** in your GitHub README file. ⭐ [k stars]()
-- [Readme Stats](https://github-readme-stats.vercel.app): Get `up-to-date stats` on your GitHub **activity** and **contributions**, automatically integrated into your README.md with Readme Stats. It is a **dynamically generated GitHub stats** on your READMEs. ⭐ [k stars]()
-- [Contrib.Rocks](https://contrib.rocks/) is a simple way to `generate a dynamic image of contributors` to keep your README.md file in sync. ⭐ [k stars]()
-- [Skill icons](https://skillicons.dev/) is an easy-to-use tool that allows you to generate beautiful and customizable icons representing your programming languages, frameworks, tools, and other technical skills.
-- [raw.githubusercontent.com/](https://raw.githubusercontent.com/) is a tool to **serve files** directly from GitHub. It is useful for **serving images** in your GitHub README file. You can generate the URL of the image by clicking on the `Raw` button in the file view. ⭐ [k stars]()
-- [GitHub Gist](https://gist.github.com/rxaviers/7360908) is a simple emoji **cheat sheet** to use when writing your GitHub README file. ⭐ [k stars]()
-- [Visitor Badge](https://visitorbadge.io/) is a **valuable tool** for any GitHub user who wants to **track their online presence** and build community around their projects.
+- [Best Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) is another tool to generate GitHub profile READMEs by filling out a **simple form**. ⭐ [19.5k stars](https://github.com/rahuldkjain/github-profile-readme-generator)
+- [Readme Generator](https://gprm.itsvg.in) is a tool to **generate GitHub profile READMEs using a simple UI**. It makes it easy to include features in your readme file, such as your work experience, skills, programming languages, and social media links. ⭐ [579 stars](https://github.com/VishwaGauravIn/github-profile-readme-maker)
+- [Typing Effect](https://readme-typing-svg.demolab.com/demo/) lets you add a `dynamic typing animation` to your GitHub profile as if you were typing. ⭐ [5k stars](https://github.com/DenverCoder1/readme-typing-svg)
+- [Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/) lets you create `personalized badges` to highlight your **skills** and **accomplishments** in your GitHub README file. ⭐ [125 stars](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
+- [Stats](https://github-readme-stats.vercel.app): Get `up-to-date stats` on your GitHub **activity** and **contributions**, automatically integrated into your README.md with Readme Stats. It is a **dynamically generated GitHub stats** on your READMEs. ⭐ [64k stars](https://github.com/anuraghazra/github-readme-stats)
+- [Contrib.Rocks](https://contrib.rocks/) is a simple way to `generate a dynamic image of contributors` to keep your README.md file in sync. ⭐ [182 stars](https://github.com/lacolaco/contributors-img)
+- [Skill icons](https://skillicons.dev/) is an easy-to-use tool that allows you to generate beautiful and customizable icons representing your programming languages, frameworks, tools, and other technical skills. ⭐ [5k stars](https://github.com/tandpfun/skill-icons)
+- [Raw.githubusercontent.com/](https://raw.githubusercontent.com/) is a tool to **serve files** directly from GitHub. It is useful for **serving images** in your GitHub README file. You can generate the URL of the image by clicking on the `Raw` button in the file view.
+- [GitHub Emojis](https://gist.github.com/rxaviers/7360908) is a simple emoji **cheat sheet** to use when writing your GitHub README file.
+- [Visitor Badge](https://visitorbadge.io/) is a **valuable tool** for any GitHub user who wants to **track their online presence** and build community around their projects. ⭐ [20 stars](https://github.com/estruyf/web-visitorbadge-nextjs)
 - [Octicons](https://primer.style/octicons/) is a scalable set of icons handcrafted by GitHub. ⭐ [k stars]()
+- [GitHub Readme Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/) is a tool to add a **dynamic** **activity graph** to your GitHub profile. ⭐ [1.4k stars](https://github.com/Ashutosh00710/github-readme-activity-graph)
+- [GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/demo.html) is a tool to generate **GitHub profile summary cards**. ⭐ [2.3k stars](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- [Github Streak](https://streak-stats.demolab.com/) is a tool to add a **dynamic GitHub streak stats** to your GitHub profile. To stay motivated and show off your contribution streak! ⭐ [4k stars](https://github.com/denvercoder1/github-readme-streak-stats)
 
 ## Icons
 
@@ -215,7 +248,7 @@ Datos.gov...
 3. [Simple Icons](https://simpleicons.org/) is a collection of **SVG logos** for popular brands. ⭐ [17.7k stars](https://github.com/simple-icons/simple-icons)
 4. [Lucide](https://lucide.dev/) is a set of **free, open-source, and customizable icons** for your projects. ⭐ [8.1k stars](https://github.com/lucide-icons/lucide)
 5. [Tabler Icons](https://tabler.io/icons) is a set of **over 800 free and open-source** icons for your web projects. ⭐ [k stars]()
-6. [React Icons](https://react-icons.github.io/react-icons/)  ⭐ [k stars]()
+6. [React Icons](https://react-icons.github.io/react-icons/) ⭐ [k stars]()
 
 - [Devicon](https://devicon.dev/) is a collection of icons for popular programming languages, frameworks, and tools. ⭐ [k stars]()
 - [Zondicons](http://www.zondicons.com/) is a set of free premium SVG icons for you to use on your digital products. ⭐ [k stars]()
