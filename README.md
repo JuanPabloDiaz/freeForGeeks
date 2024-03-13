@@ -226,20 +226,20 @@ Datos.gov...
 
 ## GitHub Tools
 
+- [Stats](https://github-readme-stats.vercel.app): Get `up-to-date stats` on your GitHub **activity** and **contributions**, automatically integrated into your README.md with Readme Stats. It is a **dynamically generated GitHub stats** on your READMEs. ⭐ [64k stars](https://github.com/anuraghazra/github-readme-stats)
 - [Best Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) is another tool to generate GitHub profile READMEs by filling out a **simple form**. ⭐ [19.5k stars](https://github.com/rahuldkjain/github-profile-readme-generator)
+- [Skill icons](https://skillicons.dev/) is an easy-to-use tool that allows you to generate beautiful and customizable icons representing your programming languages, frameworks, tools, and other technical skills. ⭐ [5k stars](https://github.com/tandpfun/skill-icons)
+- [Streak](https://streak-stats.demolab.com/) is a tool to add a **dynamic GitHub streak stats** to your GitHub profile. To stay motivated and show off your contribution streak! ⭐ [4k stars](https://github.com/denvercoder1/github-readme-streak-stats)
+- [Profile Summary Cards](https://github-profile-summary-cards.vercel.app/demo.html) is a tool to generate **GitHub profile summary cards**. ⭐ [2.3k stars](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- [Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/) is a tool to add a **dynamic** **activity graph** to your GitHub profile. ⭐ [1.4k stars](https://github.com/Ashutosh00710/github-readme-activity-graph)
 - [Readme Generator](https://gprm.itsvg.in) is a tool to **generate GitHub profile READMEs using a simple UI**. It makes it easy to include features in your readme file, such as your work experience, skills, programming languages, and social media links. ⭐ [579 stars](https://github.com/VishwaGauravIn/github-profile-readme-maker)
 - [Typing Effect](https://readme-typing-svg.demolab.com/demo/) lets you add a `dynamic typing animation` to your GitHub profile as if you were typing. ⭐ [5k stars](https://github.com/DenverCoder1/readme-typing-svg)
 - [Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/) lets you create `personalized badges` to highlight your **skills** and **accomplishments** in your GitHub README file. ⭐ [125 stars](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
-- [Stats](https://github-readme-stats.vercel.app): Get `up-to-date stats` on your GitHub **activity** and **contributions**, automatically integrated into your README.md with Readme Stats. It is a **dynamically generated GitHub stats** on your READMEs. ⭐ [64k stars](https://github.com/anuraghazra/github-readme-stats)
-- [Contrib.Rocks](https://contrib.rocks/) is a simple way to `generate a dynamic image of contributors` to keep your README.md file in sync. ⭐ [182 stars](https://github.com/lacolaco/contributors-img)
-- [Skill icons](https://skillicons.dev/) is an easy-to-use tool that allows you to generate beautiful and customizable icons representing your programming languages, frameworks, tools, and other technical skills. ⭐ [5k stars](https://github.com/tandpfun/skill-icons)
-- [Raw.githubusercontent.com/](https://raw.githubusercontent.com/) is a tool to **serve files** directly from GitHub. It is useful for **serving images** in your GitHub README file. You can generate the URL of the image by clicking on the `Raw` button in the file view.
-- [GitHub Emojis](https://gist.github.com/rxaviers/7360908) is a simple emoji **cheat sheet** to use when writing your GitHub README file.
+- [Contrib Rocks](https://contrib.rocks/) is a simple way to `generate a dynamic image of contributors` to keep your README.md file in sync. ⭐ [182 stars](https://github.com/lacolaco/contributors-img)
+- [Raw githubusercontent](https://raw.githubusercontent.com/) is a tool to **serve files** directly from GitHub. It is useful for **serving images** in your GitHub README file. You can generate the URL of the image by clicking on the `Raw` button in the file view.
 - [Visitor Badge](https://visitorbadge.io/) is a **valuable tool** for any GitHub user who wants to **track their online presence** and build community around their projects. ⭐ [20 stars](https://github.com/estruyf/web-visitorbadge-nextjs)
 - [Octicons](https://primer.style/octicons/) is a scalable set of icons handcrafted by GitHub. ⭐ [k stars]()
-- [GitHub Readme Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/) is a tool to add a **dynamic** **activity graph** to your GitHub profile. ⭐ [1.4k stars](https://github.com/Ashutosh00710/github-readme-activity-graph)
-- [GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/demo.html) is a tool to generate **GitHub profile summary cards**. ⭐ [2.3k stars](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-- [Github Streak](https://streak-stats.demolab.com/) is a tool to add a **dynamic GitHub streak stats** to your GitHub profile. To stay motivated and show off your contribution streak! ⭐ [4k stars](https://github.com/denvercoder1/github-readme-streak-stats)
+- [Emojis](https://gist.github.com/rxaviers/7360908) is a simple emoji **cheat sheet** to use when writing your GitHub README file.
 
 ## Icons
 
