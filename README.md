@@ -103,6 +103,12 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Nuclear.js](https://nuclear.js.org/) Streaming music player that finds free music for you ⭐ [11.3k stars](https://github.com/nukeop/nuclear)
 - [Next Video](https://next-video.dev/)Add high-performance video to your Next.js app. ⭐ [GitHub](https://github.com/muxinc/next-video)
 
+## JavaScript
+
+- [JavaScript.info](https://javascript.info/) is a modern JavaScript tutorial. ⭐ [23k stars](https://github.com/javascript-tutorial/en.javascript.info)
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) is a book series on JavaScript. ⭐ [177k stars](https://github.com/getify/You-Dont-Know-JS)
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) and data structures implemented in JavaScript with explanations and links to further readings ⭐ [181k stars](https://github.com/trekhleb/javascript-algorithms)
+
 ## React
 
 - [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos. ⭐ [2k stars](https://github.com/reactplay/react-play)
@@ -122,6 +128,10 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 # Backend
 
+- [Awesome Python](https://awesome-python.com/) is a curated list of awesome Python frameworks, libraries, software, and resources. ⭐ [201k stars](https://github.com/vinta/awesome-python)
+
+- [ohmyzsh](https://ohmyz.sh/) is a delightful, open-source, community-driven framework for managing your Zsh configuration. ⭐ [170k stars](https://github.com/ohmyzsh/ohmyzsh)
+
 ## Serverless Frameworks
 
 - [Serverless Stack](https://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. ⭐ [20k stars](https://github.com/sst/sst)
@@ -129,8 +139,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 ## API
 
-- [Public APIs](https://publicapis.dev/)
-- [Free APIs](https://free-apis.github.io/) - https://free-apis.com/#/
+- [Public APIs](https://publicapis.dev/) is a collection of free public APIs. ⭐ [2.6k stars](https://github.com/marcelscruz/public-apis)
+- [Free APIs](https://free-apis.github.io/)<!-- https://free-apis.com/#/ --> is collection of free APIs derived from [Public APIs](https://github.com/public-apis/public-apis) ⭐ [286k stars](https://github.com/public-apis/public-apis) ⭐ [196k stars](https://github.com/Free-APIs/Free-APIs.github.io)
 - [Fakerjs](https://fakerjs.dev/) is a tool to generate massive amounts of fake data in the browser and node.js. ⭐ [11.5k stars](https://github.com/faker-js/faker)
 - [Api.publicapis](https://api.publicapis.org/)
 - [API COLOMBIA](https://www.apicolombia.com/) is a public api that contains info about Colombia, departments, cities, tourists places and presidents. ⭐ [GitHub](https://github.com/Mteheran/api-colombia)
@@ -178,6 +188,10 @@ Datos.gov...
 <!-- DevOps -->
 
 # DevOps
+
+## System Design
+
+- [System Design Primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. ⭐ [250k stars](https://github.com/donnemartin/system-design-primer)
 
 ## Testing
 
@@ -301,8 +315,8 @@ Datos.gov...
 
 ## AI
 
-- [OpenAI](https://openai.com/)
-- [TensorFlow](https://www.tensorflow.org/)
+- [OpenAI](https://openai.com/) is an AI research lab ⭐ [55k stars](https://github.com/openai/openai-cookbook)
+- [TensorFlow](https://www.tensorflow.org/) is an Open Source Machine Learning Framework for Everyone ⭐ [190k stars](https://github.com/tensorflow/tensorflow)
 - [PyTorch](https://pytorch.org/)
 - [Keras](https://keras.io/)
 - [FastAI](https://www.fast.ai/)
@@ -359,7 +373,9 @@ Datos.gov...
 
 ## Education
 
+- [Developer Roadmap](https://roadmap.sh/), guides and other educational content **to help developers grow** in their careers. ⭐ [269k stars](https://github.com/kamranahmedse/developer-roadmap)
 - [FreeCodeCamp](https://www.freecodecamp.org/) is a **free online learning platform** that teaches you to code. ⭐ [385k stars](https://github.com/freeCodeCamp/freeCodeCamp)
+- [Code Crafters](https://codecrafters.io/) helps you master programming by recreating your favorite technologies from scratch. ⭐ [250k stars](https://github.com/codecrafters-io/build-your-own-x)
 - [Full-Stack Open](https://fullstackopen.com/en/) is a **free online course** that teaches you the **basics of web development**. ⭐ [GitHub](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
 - [The Odin Project](https://www.theodinproject.com/) is a **free online learning platform** that teaches you to code. ⭐ [GitHub](https://github.com/TheOdinProject)
 - [Cloud Study Network](https://cloudstudy.net/) is a curated list of free courses & certifications.. ⭐ [21k stars](https://github.com/cloudcommunity/Free-Certifications)
@@ -381,10 +397,11 @@ Datos.gov...
 - [NC Works](https://www.ncworks.gov/)
 - [College Foundation of North Carolina](https://www.cfnc.org/)
 - [Guided Compass](https://guidedcompass.com)
--
+- [Mountain Area Works](https://www.mountainareaworks.org/)
 
 ## Interviews
 
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) is a complete computer science study plan to become a software engineer. ⭐ [280k stars](https://github.com/jwasham/coding-interview-university)
 - [Doppler](https://www.doppler.com/) is a curated **awesome list of lists of interview questions** 🎓⭐ [65k stars](https://github.com/DopplerHQ/awesome-interview-questions)
 - [Frontend Interview Questions](https://www.frontendinterviewquestions.com/interview-questions) is a collection of **interview questions** for **frontend developers**.
 
