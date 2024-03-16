@@ -236,6 +236,7 @@ Datos.gov...
 ## Dev Tools
 
 - [Dr. Link Check](https://www.drlinkcheck.com/) is a valuable web-based service designed to help website owners and administrators identify and address broken links on their websites. | Freemiun
+- [lighthouse](https://developers.google.com/web/tools/lighthouse) is an automated auditing, performance metrics, and best practices. For improving the quality of web pages. ⭐ [28k stars](https://github.com/GoogleChrome/lighthouse)
 
 ## Tools
 
@@ -368,6 +369,22 @@ Datos.gov...
 - [Chat.zulip](https://chat.zulip.org/) is a powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
 - [A list apart](https://alistapart.com/) is a webzine that explores the design, development, and meaning of web content, with a special focus on web standards and best practices.
 - [Speckyboy](https://speckyboy.com/) is an online magazine for web designers and developers.
+
+## Hosting
+
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+- [Heroku](https://www.heroku.com/)
+
+### Images Hosting
+
+- [Cloudinary](https://cloudinary.com/) is a cloud-based image and video management solution. ⭐ [GitHub](https://github.com/cloudinary)
+- [imgur](https://imgur.com/) is a free image hosting service. ⭐ [k stars]()
+- [Imgix](https://www.imgix.com/) is a real-time image processing and delivery service. ⭐ [k stars]()
+- [Cloudimage](https://www.cloudimage.io/) is a smart image management solution. ⭐ [k stars]()
+- [Imagekit](https://imagekit.io/) is a real-time image optimization and delivery service. ⭐ [k stars]()
+- [Sirv](https://sirv.com/) is a real-time image optimization and delivery service. ⭐ [k stars]()
+- [Uploadcare](https://uploadcare.com/) is a cloud-based file handling solution. ⭐ [k stars]()
 
 # Career Development
 
