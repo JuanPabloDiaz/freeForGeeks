@@ -280,7 +280,7 @@ Datos.gov...
 
 ## Backgrounds
 
-- [Hero Patterns](https://heropatterns.com/) is a A collection of repeatable SVG background patterns for you to use on your web projects. ⭐ [GitHub](https://github.com/sschoger/hero-patterns)
+- [Hero Patterns](https://heropatterns.com/) is a collection of repeatable SVG background patterns for you to use on your web projects. ⭐ [GitHub](https://github.com/sschoger/hero-patterns)
 
 ## emojis
 
