@@ -270,13 +270,17 @@ Datos.gov...
 6. [React Icons](https://react-icons.github.io/react-icons/) ⭐ [k stars]()
 
 - [Devicon](https://devicon.dev/) is a collection of icons for popular programming languages, frameworks, and tools. ⭐ [k stars]()
-- [Zondicons](http://www.zondicons.com/) is a set of free premium SVG icons for you to use on your digital products. ⭐ [k stars]()
+- [Zondicons](http://www.zondicons.com/) is a set of free premium SVG icons for you to use on your digital products. ⭐ [GitHub](https://github.com/sschoger/zondicons)
 - [Radix Icons](https://www.radix-ui.com/icons) ⭐ [k stars]()
 
 ## Favicons
 
 - [Real Favicon Generator](https://realfavicongenerator.net/) ⭐ [k stars]()
 - [Favicon](https://favicon.io/) ⭐ [k stars]()
+
+## Backgrounds
+
+- [Hero Patterns](https://heropatterns.com/) is a A collection of repeatable SVG background patterns for you to use on your web projects. ⭐ [GitHub](https://github.com/sschoger/hero-patterns)
 
 ## emojis
 
