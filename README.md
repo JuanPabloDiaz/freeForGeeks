@@ -19,33 +19,36 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 ## Component Libraries
 
+🏆 [Shadcn](https://ui.shadcn.com) `Build your component library and own the code.` is a beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. ⭐ [51.4k stars](https://github.com/shadcn-ui/ui)
+
+- 🥇[Tailwind UI](https://tailwindui.com/components) is a collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects.
+- 🥈[HeadlessUI](https://headlessui.dev/) is a set of completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. ⭐ [24k stars](https://github.com/tailwindlabs/headlessui/)
+<!-- 🥉 -->
+
 1. [Material UI](https://mui.com/) Ready-to-use foundational React components, free forever. ⭐ [91k stars](https://github.com/mui/material-ui)
 2. [Ant Design](https://ant.design/) is An enterprise-class UI design language and React UI library. ⭐ [90.5k stars](https://github.com/ant-design/ant-design)
 3. [Storybook](https://storybook.js.org/) is a frontend workshop for **building UI components and pages in isolation**. Use for **UI development, testing, and docs**. ⭐ [83k stars](https://github.com/storybookjs/storybook)
-4. [Shadcn](https://ui.shadcn.com) is Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. ⭐ [51.4k stars](https://github.com/shadcn-ui/ui)
-5. [Chakra UI](https://chakra-ui.com/) is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications. ⭐ [36.2k stars](https://github.com/chakra-ui/chakra-ui)
-6. [DaisyUI](https://daisyui.com/) is the most popular, free and open-source Tailwind CSS component library. ⭐ [29.6k stars](https://github.com/saadeghi/daisyui)
-7. [HeadlessUI](https://headlessui.dev/) is a set of completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. ⭐ [24k stars](https://github.com/tailwindlabs/headlessui/)
-8. [React Admin](https://marmelab.com/react-admin/) is The React Framework for B2B Apps. | A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design ⭐ [24k stars](https://github.com/marmelab/react-admin)
-9. [Mantine](https://mantine.dev/) is a fully featured React components library. ⭐ [24k stars](https://github.com/mantinedev/mantine)
-10. [Next UI](https://nextui.org/) is a collection of beautifully designed, accessible, and customizable UI components for React. ⭐ [18.6k stars](https://github.com/nextui-org/nextui)
-11. [Semantic UI React](https://react.semantic-ui.com/) ⭐ [13.2k stars](https://github.com/Semantic-Org/Semantic-UI-React)
-12. [Radix UI - Primitives](https://www.radix-ui.com/primitives) is for building high-quality, accessible design systems and web apps. ⭐ [14k stars](https://github.com/radix-ui/primitives)
-13. [Evergreen](https://evergreen.segment.com/) is a React UI Framework for building ambitious products on the web. ⭐ [12k stars](https://github.com/segmentio/evergreen/)
-14. [TW-Elements](https://tw-elements.com/) has a 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates ⭐ [13k stars](https://github.com/mdbootstrap/TW-Elements/)
-15. [Shoelace](https://shoelace.style). Works with all frameworks as well as regular HTML/CSS/JS. ⭐ [11.6k stars](https://github.com/shoelace-style/shoelace)
-16. [Reactstrap](https://reactstrap.github.io/) is a simple and easy to use React Bootstrap 4 components. ⭐ [11k stars](https://github.com/reactstrap/reactstrap)
-17. [Tailblocks](https://tailblocks.cc/) is a Ready-to-use Tailwind CSS blocks. ⭐ [8.7k stars](https://github.com/mertJF/tailblocks)
-18. [Grommet](https://v2.grommet.io/) is a React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package. ⭐ [8.5k stars](https://github.com/grommet/grommet)
-19. [Hyper UI](https://hyperui.dev/) is a collection of beautiful, accessible, and customizable UI components for React. ⭐ [8k stars](https://github.com/markmead/hyperui)
-20. [React Suite](https://rsuitejs.com/) is a suite of React components. ⭐ [8k stars](https://github.com/rsuite/rsuite)
-21. [Sonner](https://sonner.emilkowal.ski/) is an opinionated **toast component** for React. ⭐ [7k stars](https://github.com/emilkowalski/sonner)
-22. [Float UI](https://floatui.com/) offers all the vital building blocks you need to transform your idea into a great-looking startup. ⭐ [3k stars](https://github.com/MarsX-dev/floatui)
-23. [Meraki UI](https://merakiui.com/) is a collection of responsive Tailwind CSS components that enhance the user experience of your website. with support for RTL languages, and a sleek Dark Mode. ⭐ [2.3k stars](https://github.com/merakiui/merakiui)
+4. [Chakra UI](https://chakra-ui.com/) is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications. ⭐ [36.2k stars](https://github.com/chakra-ui/chakra-ui)
+5. [DaisyUI](https://daisyui.com/) is the most popular, free and open-source Tailwind CSS component library. ⭐ [29.6k stars](https://github.com/saadeghi/daisyui)
+6. [React Admin](https://marmelab.com/react-admin/) is The React Framework for B2B Apps. | A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design ⭐ [24k stars](https://github.com/marmelab/react-admin)
+7. [Mantine](https://mantine.dev/) is a fully featured React components library. ⭐ [24k stars](https://github.com/mantinedev/mantine)
+8. [Next UI](https://nextui.org/) is a collection of beautifully designed, accessible, and customizable UI components for React. ⭐ [18.6k stars](https://github.com/nextui-org/nextui)
+9. [Semantic UI React](https://react.semantic-ui.com/) ⭐ [13.2k stars](https://github.com/Semantic-Org/Semantic-UI-React)
+10. [Radix UI - Primitives](https://www.radix-ui.com/primitives) is for building high-quality, accessible design systems and web apps. ⭐ [14k stars](https://github.com/radix-ui/primitives)
+11. [Evergreen](https://evergreen.segment.com/) is a React UI Framework for building ambitious products on the web. ⭐ [12k stars](https://github.com/segmentio/evergreen/)
+12. [TW-Elements](https://tw-elements.com/) has a 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates ⭐ [13k stars](https://github.com/mdbootstrap/TW-Elements/)
+13. [Shoelace](https://shoelace.style). Works with all frameworks as well as regular HTML/CSS/JS. ⭐ [11.6k stars](https://github.com/shoelace-style/shoelace)
+14. [Reactstrap](https://reactstrap.github.io/) is a simple and easy to use React Bootstrap 4 components. ⭐ [11k stars](https://github.com/reactstrap/reactstrap)
+15. [Tailblocks](https://tailblocks.cc/) is a Ready-to-use Tailwind CSS blocks. ⭐ [8.7k stars](https://github.com/mertJF/tailblocks)
+16. [Grommet](https://v2.grommet.io/) is a React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package. ⭐ [8.5k stars](https://github.com/grommet/grommet)
+17. [Hyper UI](https://hyperui.dev/) is a collection of beautiful, accessible, and customizable UI components for React. ⭐ [8k stars](https://github.com/markmead/hyperui)
+18. [React Suite](https://rsuitejs.com/) is a suite of React components. ⭐ [8k stars](https://github.com/rsuite/rsuite)
+19. [Sonner](https://sonner.emilkowal.ski/) is an opinionated **toast component** for React. ⭐ [7k stars](https://github.com/emilkowalski/sonner)
+20. [Float UI](https://floatui.com/) offers all the vital building blocks you need to transform your idea into a great-looking startup. ⭐ [3k stars](https://github.com/MarsX-dev/floatui)
+21. [Meraki UI](https://merakiui.com/) is a collection of responsive Tailwind CSS components that enhance the user experience of your website. with support for RTL languages, and a sleek Dark Mode. ⭐ [2.3k stars](https://github.com/merakiui/merakiui)
 
 - [Tailwind Components](https://tailwindcomponents.com/) is an Open source Tailwind UI components and templates to bootstrap your new apps, projects or landing sites! ⭐ [GitHub](https://github.com/tailwindcomponents)
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com/) is a free Tailwind CSS Templates, Components and Resources. ⭐ [GitHub](https://github.com/tailwindtoolbox)
-- [Tailwind UI](https://tailwindui.com/) is a collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects.
 
 ## Data Visualization Components
 
