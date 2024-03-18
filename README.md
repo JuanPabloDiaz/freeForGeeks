@@ -118,7 +118,13 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 ## Colors
 
-- [AI Colors](https://aicolors.co/) is a tool to generate color palettes using AI.
+- [AI Colors](https://aicolors.co/) is a tool to generate color palettes **using AI**.
+- [Coolors](https://coolors.co/) is a tool to generate color palettes.
+
+## Contrast Checker
+
+- [Contrast Coolors](https://coolors.co/contrast-checker) is a tool to check the contrast of text and background colors.
+- [Colorable](https://colorable.jxnblk.com/) is a tool to check the contrast of text and background colors. ⭐ [3.5k stars](https://github.com/jxnblk/colorable)
 
 ## CSS Games
 
