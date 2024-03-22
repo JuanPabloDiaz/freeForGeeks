@@ -4,7 +4,7 @@ DevKit is your curated toolbox for building better software. Free resources for 
 
 A collection of links to **free resources** and **tools** for developers. It includes everything from **Frontend** and **Backend** to **DevOps**, **security**, **competitive programming** and more.
 
-<h4 style="color:orange">How to Contribute?</h4>
+<h3 style="color:orange">How to Contribute?</h3>
 
 Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
@@ -374,6 +374,15 @@ Datos.gov...
 - [MkDocs](https://www.mkdocs.org/) is a simple static site generator for building project documentation. ⭐ [18k stars](https://github.com/mkdocs/mkdocs)
 - [jsdoc](https://jsdoc.app/) is an API **documentation generator for JavaScript**. It `automatically generates` documentation from your code. ⭐ [15k stars](https://github.com/jsdoc/jsdoc)
 - [typedoc](https://typedoc.org/) is a **documentation generator for TypeScript** projects. it `automatically generates` documentation from your code. ⭐ [7k stars](https://github.com/TypeStrong/typedoc)
+
+Comparison of major documentation tools:
+
+| Feature              | jsDoc                | typedoc              | Move Docsify   | Move Docusaurus |
+| -------------------- | -------------------- | -------------------- | -------------- | --------------- |
+| Focus                | JavaScript code      | TypeScript code      | General docs   | General docs    |
+| Documentation source | Code comments        | Type annotations     | Markdown, etc. | Markdown, etc.  |
+| Output format        | HTML, Markdown, etc. | HTML, Markdown, etc. | Static website | Static website  |
+| Flexibility          | Lower                | Lower                | Higher         | Higher          |
 
 ## Official Docs
 
