@@ -4,6 +4,10 @@ DevKit is your curated toolbox for building better software. Free resources for 
 
 A collection of links to **free resources** and **tools** for developers. It includes everything from **Frontend** and **Backend** to **DevOps**, **security**, **competitive programming** and more.
 
+<h4 style="color:orange">How to Contribute?</h4>
+
+Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+
 # Frontend
 
 [Frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers. ⭐ 40k stars
@@ -124,7 +128,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 ## Contrast Checker
 
 - [Contrast Coolors](https://coolors.co/contrast-checker) is a tool to check the contrast of text and background colors.
-- [Colorable](https://colorable.jxnblk.com/) is a tool to check the contrast of text and background colors. ⭐ [3.5k stars](https://github.com/jxnblk/colorable)
+- [Colorable](https://colorable.jxnblk.com/) is a tool to check the contrast of text and background colors. ⭐ [2k stars](https://github.com/jxnblk/colorable)
 
 ## CSS Games
 
