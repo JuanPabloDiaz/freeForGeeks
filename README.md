@@ -291,6 +291,10 @@ Datos.gov...
 
 - [Hero Patterns](https://heropatterns.com/) is a collection of repeatable SVG background patterns for you to use on your web projects. ⭐ [GitHub](https://github.com/sschoger/hero-patterns)
 
+## Blur Images
+
+- [Blurred](https://blurred.dev/) is a Next.js Image blurDataURL generator
+
 ## emojis
 
 - [EmojiDB](https://emojidb.org/) is a database of emojis.
