@@ -70,6 +70,16 @@ Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our co
 12. [Victory](https://formidable.com/open-source/victory/) is a React.js components for modular charting and data visualization. ⭐ [10.7k stars](https://github.com/FormidableLabs/victory)
 13. [C3js](https://c3js.org/) is a D3-based reusable chart library. ⭐ [9.7k stars](https://github.com/c3js/c3)
 
+## Maps and Geolocation
+
+1. [Leaflet](https://leafletjs.com/) is the leading open-source JavaScript library for mobile-friendly interactive maps. ⭐ [40k stars](https://github.com/Leaflet/Leaflet)
+2. [Mapbox](https://www.mapbox.com/) is a mapping platform for developers. Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL. ⭐ [10k stars](https://github.com/mapbox/mapbox-gl-js) 💲💲
+3. [React-map-gl](https://visgl.github.io/react-map-gl/) is a suite of React components for Mapbox GL JS. ⭐ [7.5k stars](https://github.com/visgl/react-map-gl)
+4. [React Simple Maps](https://www.react-simple-maps.io/) is a library to create beautiful SVG maps in React. ⭐ [3k stars](https://github.com/zcreativelabs/react-simple-maps)
+5. [Google Map React](https://github.com/google-map-react/google-map-react)
+6. [React-leaflet](https://react-leaflet.js.org/) is a React components for Leaflet maps. ⭐ [5k stars](https://github.com/PaulLeCam/react-leaflet)
+7. [Pigeon Maps](https://pigeon-maps.js.org/) is a ReactJS Map library that uses and exposes the power of the Leaflet API. ⭐ [3.5k stars](https://github.com/mariusandra/pigeon-maps)
+
 ## Utility libraries for JavaScript
 
 <!-- https://open.spotify.com/episode/0XmsXLsgcgdv8xC5tQKtU1?si=0P6GsmiTS-2AtLtKtR95w&nd=1&dlsi=57403f542550491f -->
