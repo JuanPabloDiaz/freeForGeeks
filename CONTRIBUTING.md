@@ -39,13 +39,18 @@
 
 1. Make sure your code follows the style guidelines of this project.
 2. Write clear, concise commit messages.
-3. Update any related documentation as necessary.
 
-## Submitting Changes
+   ```bash
+   git commit -m "✨ <commit message here>"
+   ```
 
-1. Push your changes to your forked repository on GitHub.
-2. Submit a pull request to the main repository.
-3. Wait for your pull request to be reviewed.
+3. Push to the branch.
+
+```bash
+git push origin <your_branch_name>
+```
+
+6. Open a pull request.
 
 ## Code of Conduct
 
