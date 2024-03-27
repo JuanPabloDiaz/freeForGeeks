@@ -344,7 +344,8 @@ Datos.gov...
 - [Typing Effect](https://readme-typing-svg.demolab.com/demo/) lets you add a `dynamic typing animation` to your GitHub profile as if you were typing. ⭐ [5k stars](https://github.com/DenverCoder1/readme-typing-svg)
 - [Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/) lets you create `personalized badges` to highlight your **skills** and **accomplishments** in your GitHub README file. ⭐ [125 stars](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 - [Contrib Rocks](https://contrib.rocks/) is a simple way to `generate a dynamic image of contributors` to keep your README.md file in sync. ⭐ [182 stars](https://github.com/lacolaco/contributors-img)
-- [Raw githubusercontent](https://raw.githubusercontent.com/) is a tool to **serve files** directly from GitHub. It is useful for **serving images** in your GitHub README file. You can generate the URL of the image by clicking on the `Raw` button in the file view.
+- [Raw githubusercontent](https://raw.githubusercontent.com/) is a tool to get the raw content of a file hosted on GitHub. The URL format is: `https://raw.githubusercontent.com/${user}/${repo}/${branch}/${path}`
+
 - [Visitor Badge](https://visitorbadge.io/) is a **valuable tool** for any GitHub user who wants to **track their online presence** and build community around their projects. ⭐ [20 stars](https://github.com/estruyf/web-visitorbadge-nextjs)
 - [Octicons](https://primer.style/octicons/) is a scalable set of icons handcrafted by GitHub. ⭐ [k stars]()
 - [Emojis](https://gist.github.com/rxaviers/7360908) is a simple emoji **cheat sheet** to use when writing your GitHub README file.
