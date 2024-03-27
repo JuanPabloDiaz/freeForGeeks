@@ -8,6 +8,17 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
+# Table of Contents
+
+- [Frontend](#frontend)
+- [Backend](#backend)
+- [DevSecOps](#devsecops)
+- [Open Source](#open-source)
+- [Others](#others)
+- [Resources](#resources)
+- [Career Development](#career-development)
+- [Other Resources](#other-resources)
+
 # Frontend
 
 [Frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers. ⭐ 40k stars
@@ -147,6 +158,12 @@ Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our co
 - [Flukeout](https://flukeout.github.io/) is a game for learning CSS selectors.
 - [Coding Fantasy](https://codingfantasy.com/) is a game for learning CSS.
 
+<div style="float: right">
+<a href="#table-of-contents">
+<img src="backtotop.jpg" width="100">
+</a>
+</div>
+
 <!-- Backend -->
 
 # Backend
@@ -208,9 +225,15 @@ Datos.gov...
 - [Colombian Data](https://datos.gov.co/) is the Colombian government's open data portal.
 - [Mexican Data](https://datos.gob.mx/) is the Mexican government's open data portal.
 
-<!-- DevOps -->
+<div style="float: right">
+<a href="#table-of-contents">
+<img src="backtotop.jpg" width="100">
+</a>
+</div>
 
-# DevOps
+<!-- DevSecOps -->
+
+# DevSecOps
 
 ## System Design
 
@@ -221,6 +244,49 @@ Datos.gov...
 - [PlayWright](https://playwright.dev/) enables reliable end-to-end testing for modern web apps. ⭐ [60k stars](https://github.com/microsoft/playwright)
 - [Hoppscotch](https://hoppscotch.io/) Hoppscotch is a lightweight, web-based API development ecosystem. ⭐ [60k stars](https://github.com/hoppscotch/hoppscotch)
 - [Cypress](https://www.cypress.io/) is a **JavaScript End to End Testing Framework**. ⭐ [46k stars](https://github.com/cypress-io/cypress)
+
+## Security
+
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) is a collection of various awesome lists for hackers, pentesters, and security researchers.
+- [OWASP](https://owasp.org/) is a nonprofit foundation that works to improve the security of software. ⭐ [k stars]()
+- [NIST](https://www.nist.gov/) is a non-regulatory federal agency within the U.S. Department of Commerce. ⭐ [k stars]()
+
+- [Snyk](https://snyk.io) specializes in **JavaScript security** ⭐ [k stars]()
+- [Trivy](https://trivy.dev) is a container security scanner designed specifically for **Docker images**. ⭐ [k stars]()
+
+## Testing Frameworks
+
+- [Jest](https://jestjs.io/) is a delightful JavaScript Testing Framework with a focus on simplicity. ⭐ [k stars]()
+- [Mocha](https://mochajs.org/) is a feature-rich JavaScript test framework running on Node.js and in the browser. ⭐ [k stars]()
+- [Jasmine](https://jasmine.github.io/) is a behavior-driven development framework for testing JavaScript code. ⭐ [k stars]()
+- [Cypress](https://www.cypress.io/) is a **JavaScript End to End Testing Framework**. ⭐ [k stars]()
+- [Puppeteer](https://pptr.dev/) is a **Node library** which provides a high-level API over the Chrome DevTools Protocol. ⭐ [k stars]()
+- [Karma](https://karma-runner.github.io/latest/index.html) is a simple tool that allows you to execute JavaScript code in multiple real browsers. ⭐ [k stars]()
+- [WebdriverIO](https://webdriver.io/) is a **Next-gen browser and mobile automation test framework** for Node.js. ⭐ [k stars]()
+- [Stryker js](https://stryker-mutator.io/) is a mutation testing framework for JavaScript. ⭐ [k stars]()
+- [Ava](https://github.com/avajs/ava) is a Node.js test runner that lets you develop with confidence 🚀 ⭐ [k stars]()
+
+## Form Validation Frameworks
+
+- [Vest](https://vestjs.dev/) is a form validations framework that performs **form validations** and **provides feedback** to the user.
+- [Joi](https://joi.dev/) is a powerful schema description language and data validator for JavaScript.
+- [Formik](https://formik.org/) is a small library that helps you with the 3 most annoying parts: getting values in and out of form state, validation, and handling form submission.
+
+## CI
+
+- [Travis CI](https://travis-ci.org) is a **continuous integration** service used to build and test software projects hosted at GitHub. ⭐ [k stars]()
+- [Circle CI](https://circleci.com) is a modern, **developer-friendly** continuous integration and continuous delivery (CI/CD) platform. ⭐ [k stars]()
+
+## CDN
+
+- [CDN js](https://github.com/cdnjs/cdnjs) is a community-driven **content delivery network** for web-related libraries. 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers. ⭐ [k stars]()
+- [jsDelivr](https://www.jsdelivr.com/) is a free **Open Source CDN** for open source projects. ⭐ [k stars]()
+
+<div style="float: right">
+<a href="#table-of-contents">
+<img src="backtotop.jpg" width="100">
+</a>
+</div>
 
 <!-- Open Source  -->
 
@@ -331,6 +397,12 @@ Datos.gov...
 - [Picresize](https://picresize.com/) is a tool to resize, shrink, and crop your pictures online.
 - [Image Compressor](https://www.imagecompressor.com/) is a tool to compress your images.
 
+<div style="float: right">
+<a href="#table-of-contents">
+<img src="backtotop.jpg" width="100">
+</a>
+</div>
+
 <!-- Others -->
 
 # Others
@@ -340,6 +412,12 @@ Datos.gov...
 - [Figma](https://www.figma.com/) is a web-based graphics editing and user interface design app.
 - [Sketch](https://www.sketch.com/) is a design toolkit for macOS.
 - [Canva](https://www.canva.com/) is a **free-to-use online graphic design tool** that simplifies the process of creating visual content
+
+<div style="float: right">
+<a href="#table-of-contents">
+<img src="backtotop.jpg" width="100">
+</a>
+</div>
 
 <!-- Resources -->
 
@@ -472,43 +550,6 @@ Comparison of major documentation tools:
 - [Top Coder](https://www.topcoder.com/)
 - [Code Chef](https://www.codechef.com/)
 
-# Security
-
-- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) is a collection of various awesome lists for hackers, pentesters, and security researchers.
-- [OWASP](https://owasp.org/) is a nonprofit foundation that works to improve the security of software. ⭐ [k stars]()
-- [NIST](https://www.nist.gov/) is a non-regulatory federal agency within the U.S. Department of Commerce. ⭐ [k stars]()
-
-- [Snyk](https://snyk.io) specializes in **JavaScript security** ⭐ [k stars]()
-- [Trivy](https://trivy.dev) is a container security scanner designed specifically for **Docker images**. ⭐ [k stars]()
-
-## Testing Frameworks
-
-- [Jest](https://jestjs.io/) is a delightful JavaScript Testing Framework with a focus on simplicity. ⭐ [k stars]()
-- [Mocha](https://mochajs.org/) is a feature-rich JavaScript test framework running on Node.js and in the browser. ⭐ [k stars]()
-- [Jasmine](https://jasmine.github.io/) is a behavior-driven development framework for testing JavaScript code. ⭐ [k stars]()
-- [Cypress](https://www.cypress.io/) is a **JavaScript End to End Testing Framework**. ⭐ [k stars]()
-- [Puppeteer](https://pptr.dev/) is a **Node library** which provides a high-level API over the Chrome DevTools Protocol. ⭐ [k stars]()
-- [Karma](https://karma-runner.github.io/latest/index.html) is a simple tool that allows you to execute JavaScript code in multiple real browsers. ⭐ [k stars]()
-- [WebdriverIO](https://webdriver.io/) is a **Next-gen browser and mobile automation test framework** for Node.js. ⭐ [k stars]()
-- [Stryker js](https://stryker-mutator.io/) is a mutation testing framework for JavaScript. ⭐ [k stars]()
-- [Ava](https://github.com/avajs/ava) is a Node.js test runner that lets you develop with confidence 🚀 ⭐ [k stars]()
-
-## Form Validation Frameworks
-
-- [Vest](https://vestjs.dev/) is a form validations framework that performs **form validations** and **provides feedback** to the user.
-- [Joi](https://joi.dev/) is a powerful schema description language and data validator for JavaScript.
-- [Formik](https://formik.org/) is a small library that helps you with the 3 most annoying parts: getting values in and out of form state, validation, and handling form submission.
-
-# CI
-
-- [Travis CI](https://travis-ci.org) is a **continuous integration** service used to build and test software projects hosted at GitHub. ⭐ [k stars]()
-- [Circle CI](https://circleci.com) is a modern, **developer-friendly** continuous integration and continuous delivery (CI/CD) platform. ⭐ [k stars]()
-
-## CDN
-
-- [CDN js](https://github.com/cdnjs/cdnjs) is a community-driven **content delivery network** for web-related libraries. 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers. ⭐ [k stars]()
-- [jsDelivr](https://www.jsdelivr.com/) is a free **Open Source CDN** for open source projects. ⭐ [k stars]()
-
 ---
 
 # Comprehensive Business Intelligence (BI) and Data Visualization Tools
@@ -525,3 +566,9 @@ Comparison of major documentation tools:
 # Other Great Resources
 
 - [Electron](https://www.electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+<div style="float: right">
+<a href="#table-of-contents">
+<img src="backtotop.jpg" width="100">
+</a>
+</div>
