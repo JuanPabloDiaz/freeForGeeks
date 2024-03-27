@@ -159,7 +159,7 @@ Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our co
 - [Coding Fantasy](https://codingfantasy.com/) is a game for learning CSS.
 
 <div style="float: right">
-<a href="#table-of-contents">
+<a href="#">
 <img src="backtotop.jpg" width="100">
 </a>
 </div>
@@ -226,7 +226,7 @@ Datos.gov...
 - [Mexican Data](https://datos.gob.mx/) is the Mexican government's open data portal.
 
 <div style="float: right">
-<a href="#table-of-contents">
+<a href="#">
 <img src="backtotop.jpg" width="100">
 </a>
 </div>
@@ -283,7 +283,7 @@ Datos.gov...
 - [jsDelivr](https://www.jsdelivr.com/) is a free **Open Source CDN** for open source projects. ⭐ [k stars]()
 
 <div style="float: right">
-<a href="#table-of-contents">
+<a href="#">
 <img src="backtotop.jpg" width="100">
 </a>
 </div>
@@ -398,7 +398,7 @@ Datos.gov...
 - [Image Compressor](https://www.imagecompressor.com/) is a tool to compress your images.
 
 <div style="float: right">
-<a href="#table-of-contents">
+<a href="#">
 <img src="backtotop.jpg" width="100">
 </a>
 </div>
@@ -414,7 +414,7 @@ Datos.gov...
 - [Canva](https://www.canva.com/) is a **free-to-use online graphic design tool** that simplifies the process of creating visual content
 
 <div style="float: right">
-<a href="#table-of-contents">
+<a href="#">
 <img src="backtotop.jpg" width="100">
 </a>
 </div>
@@ -568,7 +568,7 @@ Comparison of major documentation tools:
 - [Electron](https://www.electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 <div style="float: right">
-<a href="#table-of-contents">
+<a href="#">
 <img src="backtotop.jpg" width="100">
 </a>
 </div>
