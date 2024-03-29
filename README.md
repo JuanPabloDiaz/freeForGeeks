@@ -277,11 +277,6 @@ Datos.gov...
 - [Travis CI](https://travis-ci.org) is a **continuous integration** service used to build and test software projects hosted at GitHub. ⭐ [k stars]()
 - [Circle CI](https://circleci.com) is a modern, **developer-friendly** continuous integration and continuous delivery (CI/CD) platform. ⭐ [k stars]()
 
-## CDN
-
-- [CDN js](https://github.com/cdnjs/cdnjs) is a community-driven **content delivery network** for web-related libraries. 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers. ⭐ [k stars]()
-- [jsDelivr](https://www.jsdelivr.com/) is a free **Open Source CDN** for open source projects. ⭐ [k stars]()
-
 <div style="float: right">
 <a href="#">
 <img src="backtotop.jpg" width="100">
@@ -424,7 +419,13 @@ Datos.gov...
 
 # Resources
 
-## AI
+## Artificial Intelligence (AI)
+
+1. [ChatGPT](https://chat.openai.com) is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models.
+2. [Gemini](https://gemini.google.com) is a assistant like ChatGPT, but you can upload photos and for free and it can access the internet. Successor of Google Bard.\
+3. [Perplexity.ai](https://perplexity.ai) OpenAI GPT-model powered AI chatbot that's connected to the web. Find articles or ask for current info.
+4. [Phind](https://phind.com) AI chatbot built for developers in a chat-like form.
+5. [Poe](https://poe.com) Poe is chat-based AI. Uses GPT-3.5.
 
 - [OpenAI](https://openai.com/) is an AI research lab ⭐ [55k stars](https://github.com/openai/openai-cookbook)
 - [TensorFlow](https://www.tensorflow.org/) is an Open Source Machine Learning Framework for Everyone ⭐ [190k stars](https://github.com/tensorflow/tensorflow)
@@ -436,6 +437,13 @@ Datos.gov...
 - [DeepAI](https://deepai.org/)
 - [Cody](https://sourcegraph.com/cody) is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. ⭐ [1.5k stars](https://github.com/sourcegraph/cody)
 - [Awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
+- [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) is a platform with currently 3 AI's: ImageFX: allows you to make AI images, MusicFX: Allows you to generate AI Music, TextFX: Can explain words.
+
+## Code Generation
+
+[Codeium](https://www.codeium.com) is a free AI-powered code completion tool. Codeium autocompletes your code with AI in all major IDEs. ⭐ [3k stars](https://github.com/Exafunction/codeium.vim)
+[CodeWhisperer](https://aws.amazon.com/codewhisperer) is a code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code.
+[Tabnine](https://www.tabnine.com) helps developers create better software, faster by providing insights learned from all the code in the world.
 
 ## Lists of Resources for Developers
 
@@ -444,6 +452,7 @@ Datos.gov...
 - [Free Stuff for Developer](https://freestuff.dev/) is a list of free stuff for developer by developer to use. ⭐ [1.5k stars](https://github.com/hilmanski/freeStuffDev/)
 - [LinksHub](https://www.linkshub.dev/) List of resources to free software, libraries, frameworks, and other tools. ⭐ [621 stars]()
 - [Freesets](https://freesets.vercel.app/) is a collection of free resources like icons, images, illustrations, components, libraries and more. ⭐ [GitHub](https://github.com/cosmoart/Freesets)
+- [Free-for-life](https://free.wdh.gg/) is a massive list including a huge amount of products and services that are completely free! ⭐ [GitHub](https://github.com/wdhdev/free-for-life)
 
 ## Tech News
 
@@ -452,17 +461,30 @@ Datos.gov...
 - [TLDR Newsletter](https://tldr.tech/) is a daily newsletter with links and TLDRs of the most interesting stories in tech.
 - [GitHub trending](https://github.com/trending) is a daily snapshot of the most popular projects on GitHub by the number of stars.
 
+## Static Site Generator
+
+1. [Hugo](https://gohugo.io/) is the world’s fastest framework for building modern static site websites written in Go. ⭐ [72k stars](https://github.com/gohugoio/hugo)
+2. [Nuxt](https://nuxtjs.org/) is a higher-level framework built on top of Vue.js. ⭐ [52k stars](https://github.com/nuxt/nuxt)
+3. [Jekyll](https://jekyllrb.com/) is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. ⭐ [48k stars](https://github.com/jekyll/jekyll)
+4. [Gatsby](https://www.gatsbyjs.com/) is a free and open source framework based on React that helps developers build blazing fast websites and apps. ⭐ [42k stars](https://github.com/gatsbyjs/gatsby)
+5. [Hexo](https://hexo.io/) is a fast, simple, and powerful blog framework. ⭐ [39k stars](https://github.com/hexojs/hexo)
+6. [VuePress](https://vuepress.vuejs.org/) is a **minimalistic static site generator** with a Vue-powered theming system. ⭐ [22k stars](https://github.com/vuejs/vuepress)
+7. [SvelteKit](https://kit.svelte.dev/) is a framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing. ⭐ [18k stars](https://github.com/sveltejs/kit)
+8. [Eleventy](https://www.11ty.dev/) is a simpler static site generator. An alternative to Jekyll. Written in JavaScript. ⭐ [16k stars](https://github.com/11ty/eleventy)
+9. [Zola](https://www.getzola.org/) is a fast static site generator in a single binary with everything built-in. ⭐ [12.5k stars](https://github.com/getzola/zola)
+10. [Pelican](https://blog.getpelican.com/) is a static site generator, written in Python. ⭐ [12k stars](https://github.com/getpelican/pelican)
+11. [Gridsome](https://gridsome.org/) is a Vue.js-powered static site generator for building CDN-ready websites for any headless CMS, local files, or APIs. ⭐ [8.5k stars](https://github.com/gridsome/gridsome)
+
 ## Documentation
 
-- [Docusaurus](https://docusaurus.io/) is a modern **documentation site generator** by Facebook. ⭐ [52k stars](https://github.com/facebook/docusaurus)
-- [DevDocs](https://devdocs.io/) is a free and open-source tool for developers that combines **multiple API documentations** in a fast, organized, and searchable interface. ⭐ [34k stars](https://github.com/freeCodeCamp/devdocs)
-- [Docsify](https://docsify.js.org/) is a simple and lightweight **documentation site generator**. ⭐ [26k stars](https://github.com/docsifyjs/docsify/)
-- [GitBook](https://www.gitbook.com/) is a knowledge management tool for engineering teams. ⭐ [26k stars](https://github.com/GitbookIO/gitbook)
-- [Docz](https://www.docz.site/) is a tool for building **documentation websites**. ⭐ [24k stars](https://github.com/doczjs/docz)
-- [VuePress](https://vuepress.vuejs.org/) is a **minimalistic static site generator** with a Vue-powered theming system. ⭐ [22k stars](https://github.com/vuejs/vuepress)
-- [MkDocs](https://www.mkdocs.org/) is a simple static site generator for building project documentation. ⭐ [18k stars](https://github.com/mkdocs/mkdocs)
-- [jsdoc](https://jsdoc.app/) is an API **documentation generator for JavaScript**. It `automatically generates` documentation from your code. ⭐ [15k stars](https://github.com/jsdoc/jsdoc)
-- [typedoc](https://typedoc.org/) is a **documentation generator for TypeScript** projects. it `automatically generates` documentation from your code. ⭐ [7k stars](https://github.com/TypeStrong/typedoc)
+1. [Docusaurus](https://docusaurus.io/) is a modern **documentation site generator** by Facebook. ⭐ [52k stars](https://github.com/facebook/docusaurus)
+2. [DevDocs](https://devdocs.io/) is a free and open-source tool for developers that combines **multiple API documentations** in a fast, organized, and searchable interface. ⭐ [34k stars](https://github.com/freeCodeCamp/devdocs)
+3. [Docsify](https://docsify.js.org/) is a simple and lightweight **documentation site generator**. ⭐ [26k stars](https://github.com/docsifyjs/docsify/)
+4. [GitBook](https://www.gitbook.com/) is a knowledge management tool for engineering teams. ⭐ [26k stars](https://github.com/GitbookIO/gitbook)
+5. [Docz](https://www.docz.site/) is a tool for building **documentation websites**. ⭐ [24k stars](https://github.com/doczjs/docz)
+6. [MkDocs](https://www.mkdocs.org/) is a simple static site generator for building project documentation. ⭐ [18k stars](https://github.com/mkdocs/mkdocs)
+7. [jsdoc](https://jsdoc.app/) is an API **documentation generator for JavaScript**. It `automatically generates` documentation from your code. ⭐ [15k stars](https://github.com/jsdoc/jsdoc)
+8. [typedoc](https://typedoc.org/) is a **documentation generator for TypeScript** projects. it `automatically generates` documentation from your code. ⭐ [7k stars](https://github.com/TypeStrong/typedoc)
 
 Comparison of major documentation tools:
 
@@ -489,11 +511,26 @@ Comparison of major documentation tools:
 - [A list apart](https://alistapart.com/) is a webzine that explores the design, development, and meaning of web content, with a special focus on web standards and best practices.
 - [Speckyboy](https://speckyboy.com/) is an online magazine for web designers and developers.
 
-## Hosting
+## Free Domain
+
+- [Freenom](https://www.freenom.com/) is a domain name registrar that provides free domain registration services.
+- [JS.org](https://js.org/) is a free domain dedicated to JavaScript and its awesome community. ⭐ [5.1k stars](https://github.com/js-org/js.org)
+- [is-a.dev](https://is-a.dev/) is a service that allows developers to get a sweet-looking .is-a.dev subdomain for their personal websites. ⭐ [2.5k stars](https://github.com/is-a-dev/register)
+
+### Domain tools
+
+- [Bust A Name](https://www.bustaname.com/) is a tool to help you **find the perfect domain name**.
+- [Lean Domain Search](https://leandomainsearch.com/) is a tool to help you search for and register available domain names in seconds.
+- [Domainr](https://domainr.com/) is a domain search tool that helps you explore top-level domains and find the perfect domain name.
+
+## Hosting & Deployment
 
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 - [Heroku](https://www.heroku.com/)
+- [GitHub Pages](https://pages.github.com/)
+- [Surge](https://surge.sh/) is a static web publishing for Front-End Developers. ⭐ [2.8k stars](https://github.com/sintaxi/surge)
+- [Render](https://render.com/)
 
 ### Images Hosting
 
@@ -504,6 +541,26 @@ Comparison of major documentation tools:
 - [Imagekit](https://imagekit.io/) is a real-time image optimization and delivery service. ⭐ [k stars]()
 - [Sirv](https://sirv.com/) is a real-time image optimization and delivery service. ⭐ [k stars]()
 - [Uploadcare](https://uploadcare.com/) is a cloud-based file handling solution. ⭐ [k stars]()
+
+## CDN
+
+- [CDN js](https://github.com/cdnjs/cdnjs) is a community-driven **content delivery network** for web-related libraries. 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers. ⭐ [k stars]()
+- [jsDelivr](https://www.jsdelivr.com/) is a free **Open Source CDN** for open source projects. ⭐ [k stars]()
+
+## DNS
+
+[1.1.1.1](https://1.1.1.1) Resolver A free public DNS resolver provided by Cloudflare with fast and secure DNS resolution.
+[AdGuard DNS](https://adguard-dns.io) allows you to control web traffic on your devices by blocking ads, trackers, and malicious domains.
+[Bunny DNS](https://bunny.net/dns) provides DNS hosting with 20 million free queries.
+[Cloudflare](https://www.cloudflare.com/dns) Nameservers Cloudflare DNS is an enterprise-grade authoritative DNS service. It offers fast response times, high redundancy, advanced security features like built-in DDoS mitigation and DNSSEC.
+[Duck DNS](https://www.duckdns.org) offers free dynamic DNS (DDNS) with support for up to 5 domains on the free tier. It provides configuration guides for various setups.
+[Glauca](https://docs.glauca.digital/hexdns/) Nameservers Glauca offers free DNS hosting for up to 3 domains with DNSSEC support.
+[Google Public DNS](https://developers.google.com/speed/public-dns) is a DNS service developed by Google.
+[Namecheap FreeDNS](https://www.namecheap.com/domains/freedns)FreeDNS allows you to keep your domain visible on the internet. It provides DNS hosting with secondary DNS backup to ensure availability.
+[NextDNS](https://nextdns.io) Resolver Similiar to AdGuard DNS, a DNS resolution service which allows you to specify allow/deny lists
+[No-IP](https://www.noip.com) Nameservers Create an easy to remember hostname and never lose your connection again.
+[OpenDNS](https://www.opendns.com) offers a suite of consumer products that aim to make your internet faster, safer, and more reliable.
+[Quad9](https://quad9.net) is a security and privacy focused non-profit DNS service with no IP logging.
 
 # Career Development
 
@@ -551,7 +608,10 @@ Comparison of major documentation tools:
 - [Top Coder](https://www.topcoder.com/)
 - [Code Chef](https://www.codechef.com/)
 
----
+## Track Your Coding Time
+
+- [Wakatime](https://wakatime.com/) is a dashboards for developers ⭐ [GitHub](https://github.com/wakatime)
+- [Wakapi](https://wakapi.dev/) is a tool that helps you keep track of the time you have spent coding on different projects in different programming languages. ⭐ [2.2k stars](https://github.com/muety/wakapi)
 
 # Comprehensive Business Intelligence (BI) and Data Visualization Tools
 
