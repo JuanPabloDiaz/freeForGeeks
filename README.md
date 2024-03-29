@@ -92,6 +92,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 5. [Google Map React](https://github.com/google-map-react/google-map-react)
 6. [React-leaflet](https://react-leaflet.js.org/) is a React components for Leaflet maps. ⭐ [5k stars](https://github.com/PaulLeCam/react-leaflet)
 7. [Pigeon Maps](https://pigeon-maps.js.org/) is a ReactJS Map library that uses and exposes the power of the Leaflet API. ⭐ [3.5k stars](https://github.com/mariusandra/pigeon-maps)
+8. [Mapkick](https://chartkick.com/mapkick-js) is a JavaScript library for interactive maps. Create beautiful, interactive maps with one line of JavaScript ⭐ [GitHub](https://github.com/ankane/mapkick.js)
+9. [a11y-dialog](https://a11y-dialog.netlify.app/) a11y-dialog is a lightweight yet flexible script to create accessible dialog windows. ⭐ [GitHub](https://github.com/KittyGiraudel/a11y-dialog)
 
 ## Utility libraries for JavaScript
 
@@ -294,6 +296,19 @@ Datos.gov...
 - [Travis CI](https://travis-ci.org) is a **continuous integration** service used to build and test software projects hosted at GitHub. ⭐ [k stars]()
 - [Circle CI](https://circleci.com) is a modern, **developer-friendly** continuous integration and continuous delivery (CI/CD) platform. ⭐ [k stars]()
 
+## CD
+
+- [Heroku](https://www.heroku.com) is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. ⭐ [k stars]()
+
+## Monitoring
+
+- [Sentry](https://sentry.io) is a **real-time error tracking** that gives you insight into production deployments and information to reproduce and fix crashes. ⭐ [37k stars](https://github.com/getsentry/sentry)
+- [UpTimeRobot](https://uptimerobot.com) is a **website monitoring** service that checks your websites every 5 minutes and alerts you if your sites are down.
+- [New Relic](https://newrelic.com) is a **performance monitoring** tool that helps you to monitor, troubleshoot, and optimize your application performance. ⭐ [GitHub](https://github.com/newrelic)
+- [Datadog](https://www.datadoghq.com) is a **cloud-scale monitoring** service that provides monitoring of servers, databases, tools, and services through a SaaS-based data analytics platform.
+- [checklyhq](https://checklyhq.com) is a **API monitoring** service that checks your APIs every 5 minutes and alerts you if your APIs are down. ⭐ [GitHub](https://github.com/checkly)
+- [open source monitoring services]()
+
 <div style="float: right">
 <a href="#">
 <img src="backtotop.jpg" width="100">
@@ -303,6 +318,8 @@ Datos.gov...
 <!-- Open Source  -->
 
 # Open Source
+
+[awesomeopensource.com](https://awesomeopensource.com/) is a curated list of **open-source** projects that are looking for contributors. ⭐ [k stars]()
 
 ## Self Hosted Services
 
