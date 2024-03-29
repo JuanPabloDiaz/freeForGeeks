@@ -1,4 +1,4 @@
-# [DevKit](https://juanpablodiaz.github.io/devKit/)
+# [DevKit](https://juanpablodiaz.github.io/devKit/#/)
 
 DevKit is your curated toolbox for building better software. Free resources for all your dev needs.
 
@@ -6,7 +6,9 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 <h3 style="color:orange">How to Contribute?</h3>
 
-Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+🤝 Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+
+⭐ [Star on GitHub](https://github.com/JuanPabloDiaz/devKit)
 
 # Table of Contents
 
@@ -101,7 +103,7 @@ Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our co
 - [Async](https://caolan.github.io/async/v3/) is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
 - [Day.js](https://day.js.org/) is a minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API.
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) provides an interface for fetching resources (including across the network).
-- [Axios](https://axios-http.com/) is a promise-based HTTP client for the browser and Node.js.
+- [Axios.js](https://axios-http.com/) is a promise-based HTTP client for the browser and Node.js. ⭐ [104k stars](https://github.com/axios/axios)
 - [Ramda](https://ramdajs.com/) is a practical functional library for JavaScript programmers.
 - [Store.js](https://github.com/marcuswestin/store.js) is Cross-browser storage for all use cases, used across the web.
 - [Cookiejar](https://www.npmjs.com/package/cookiejar) is a simple, lightweight, and fast cookie manipulation library for JavaScript.
@@ -120,13 +122,15 @@ Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our co
 
 ## Other JS libraries
 
-- [Moment](https://momentjs.com/) is a JavaScript date library for parsing, validating, manipulating, and formatting dates. ⭐ [48k stars](https://github.com/moment/moment)
-- [Core JS]() is a modular standard library for JavaScript. ⭐ [24k stars](https://github.com/zloirock/core-js)
-- [Dayjs](https://day.js.org/) ⏰ is 2kB immutable date-time library alternative to Moment.js with the same modern API ⭐ [46k stars](https://github.com/iamkun/dayjs)
+- [Moment.js](https://momentjs.com/) is a JavaScript date library for parsing, validating, manipulating, and formatting dates. ⭐ [48k stars](https://github.com/moment/moment)
+- [Core.js]() is a modular standard library for JavaScript. ⭐ [24k stars](https://github.com/zloirock/core-js)
+- [Day.js](https://day.js.org/) ⏰ is 2kB immutable date-time library alternative to Moment.js with the same modern API ⭐ [46k stars](https://github.com/iamkun/dayjs)
 - [PDF.js](https://mozilla.github.io/pdf.js/) is a **PDF Reader** in JavaScript ⭐ [34.5k stars](https://github.com/mozilla/pdf.js)
 - [Video.js](https://videojs.com/) is an open-source HTML5 video player. ⭐ [37k stars](https://github.com/videojs/video.js)
-- [P5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else. ⭐ [20.7k stars](https://github.com/processing/p5.js)
+- [Hammer.js](https://hammerjs.github.io/) is a JavaScript library for multi-touch gestures. ⭐ [24k stars](https://github.com/hammerjs/hammer.js)
 - [Howler.js](https://howlerjs.com/) is a JavaScript audio library for the modern web. ⭐ [23k stars](https://github.com/goldfire/howler.js)
+- [P5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else. ⭐ [20.7k stars](https://github.com/processing/p5.js)
+- [Draggable.js](https://shopify.github.io/draggable/) is a lightweight, responsive, modern drag-and-drop library. ⭐ [17.5k stars](https://github.com/Shopify/draggable)
 - [Luxon](https://moment.github.io/luxon/) is a library for working with dates and times in JavaScript. ⭐ [15k stars](https://github.com/moment/luxon)
 - [Nuclear.js](https://nuclear.js.org/) Streaming music player that finds free music for you ⭐ [11.3k stars](https://github.com/nukeop/nuclear)
 - [Next Video](https://next-video.dev/)Add high-performance video to your Next.js app. ⭐ [GitHub](https://github.com/muxinc/next-video)
@@ -203,6 +207,18 @@ Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our co
 2. [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [40k stars](https://github.com/appwrite/appwrite)
 3. [MongoDB](https://www.mongodb.com/) is a general-purpose, document-based, distributed database built for modern application developers and for the cloud era. ⭐ [26k stars](https://github.com/mongodb/mongo)
 4. [GraphQL]() ⭐ [k stars]()
+
+[Amazon DynamoDB](https://aws.amazon.com/dynamodb) Fast, flexible NoSQL database service for single-digit millisecond performance at any scale.
+[Apache Cassandra](https://cassandra.apache.org) Manage massive amounts of data, fast, without losing sleep.
+[Elasticsearch](https://www.elastic.co/elasticsearch) is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases.
+[Nhost](https://nhost.io) is an open-source backend and development platform that enables developers to build and scale their web and mobile apps.
+[MongoDB Realm](https://www.mongodb.com/docs/realm) is a mobile-first database designed for modern, data-driven applications.
+[MySQL](https://www.mysql.com) Many of the world's largest and fastest-growing organizations including Facebook, Twitter, Booking.com, and Verizon rely on MySQL to save time and money powering their high-volume Web sites, business-critical systems and packaged software.
+[Oracle Database](https://www.oracle.com/database) services and products offer customers cost-optimized and high-performance versions of Oracle Database, the world's leading converged, multi-model database management system.
+[PocketBase](https://pocketbase.io) Open Source backend for your next SaaS and Mobile app in 1 file.
+[PostgreSQL](https://www.postgresql.org) is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
+[Redis](https://redis.io) The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker.
+[SQLite](https://www.sqlite.org) is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
 
 ## DataSet
 
@@ -287,7 +303,7 @@ Datos.gov...
 
 # Open Source
 
-## Self Hosted
+## Self Hosted Services
 
 - [Awesome SelfHosted](https://awesome-selfhosted.net/) is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers. ⭐ [172k stars](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Nextcloud](https://nextcloud.com/) is a suite of client-server software for creating and using file hosting services. ⭐ [26k stars](https://github.com/nextcloud/server)
@@ -445,15 +461,6 @@ Datos.gov...
 [CodeWhisperer](https://aws.amazon.com/codewhisperer) is a code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code.
 [Tabnine](https://www.tabnine.com) helps developers create better software, faster by providing insights learned from all the code in the world.
 
-## Lists of Resources for Developers
-
-- [Awesome](https://awesome.re/) lists about all kinds of interesting topics. ⭐ [294k stars](https://github.com/sindresorhus/awesome)
-- [Free-For Dev](https://free-for.dev/) is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. ⭐ [82k stars](https://github.com/ripienaar/free-for-dev)
-- [Free Stuff for Developer](https://freestuff.dev/) is a list of free stuff for developer by developer to use. ⭐ [1.5k stars](https://github.com/hilmanski/freeStuffDev/)
-- [LinksHub](https://www.linkshub.dev/) List of resources to free software, libraries, frameworks, and other tools. ⭐ [621 stars]()
-- [Freesets](https://freesets.vercel.app/) is a collection of free resources like icons, images, illustrations, components, libraries and more. ⭐ [GitHub](https://github.com/cosmoart/Freesets)
-- [Free-for-life](https://free.wdh.gg/) is a massive list including a huge amount of products and services that are completely free! ⭐ [GitHub](https://github.com/wdhdev/free-for-life)
-
 ## Tech News
 
 - [Hacker Tab](https://hackertab.dev/) is a **new tab extension** that shows you the latest news from Hacker News, Designer News, Product Hunt, GitHub, and Reddit.
@@ -561,6 +568,36 @@ Comparison of major documentation tools:
 [No-IP](https://www.noip.com) Nameservers Create an easy to remember hostname and never lose your connection again.
 [OpenDNS](https://www.opendns.com) offers a suite of consumer products that aim to make your internet faster, safer, and more reliable.
 [Quad9](https://quad9.net) is a security and privacy focused non-profit DNS service with no IP logging.
+
+## SSL
+
+[FreeSSL](https://www.freessl.org) is a free SSL certificate provider that offers free SSL certificates for single domains, with a simple and quick verification process.
+[InfinityFree](https://dash.infinityfree.com/sslCertificates) offers free SSL certificates with fast installation for your InfinityFree account.
+[Let's Encrypt](https://letsencrypt.org) is a widely trusted and fully automated SSL certificate provider, offering free SSL certificates to secure your website.
+[SSL.com](https://ssl.com) offers free 90-day SSL certificates for single domains and provides various paid certificate options.
+[WoSign](https://www.wosign.com) provides free SSL certificates for single domains; however, they are not as widely trusted as Let's Encrypt.
+[ZeroSSL](https://zerossl.com) Provides account driven SSL management and monitoring, certificates are provisioned with a 90 day lifespan on the free tier.
+
+## [Internet Archive](https://archive.org/)
+
+Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
+
+- [Wayback Machine](https://archive.org/web/) is a digital archive of the World Wide Web and other information on the Internet.
+- [Open Library](https://openlibrary.org/) is an open, editable library catalog, building towards a web page for every book ever published.
+- [Software Archive](https://archive.org/details/software) is a collection of software and software-related materials.
+- [Music Archive](https://archive.org/details/audio) is a collection of music and music-related materials.
+- [Video Archive](https://archive.org/details/movies) is a collection of movies and videos.
+- [Image Archive](https://archive.org/details/image) is a collection of images.
+-
+
+## Dev Resources Lists
+
+- [Awesome](https://awesome.re/) lists about all kinds of interesting topics. ⭐ [294k stars](https://github.com/sindresorhus/awesome)
+- [Free-For Dev](https://free-for.dev/) is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. ⭐ [82k stars](https://github.com/ripienaar/free-for-dev)
+- [Free Stuff for Developer](https://freestuff.dev/) is a list of free stuff for developer by developer to use. ⭐ [1.5k stars](https://github.com/hilmanski/freeStuffDev/)
+- [LinksHub](https://www.linkshub.dev/) List of resources to free software, libraries, frameworks, and other tools. ⭐ [621 stars]()
+- [Freesets](https://freesets.vercel.app/) is a collection of free resources like icons, images, illustrations, components, libraries and more. ⭐ [GitHub](https://github.com/cosmoart/Freesets)
+- [Free-for-life](https://free.wdh.gg/) is a massive list including a huge amount of products and services that are completely free! ⭐ [GitHub](https://github.com/wdhdev/free-for-life)
 
 # Career Development
 
