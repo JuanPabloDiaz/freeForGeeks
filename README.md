@@ -97,17 +97,19 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 <!-- https://open.spotify.com/episode/0XmsXLsgcgdv8xC5tQKtU1?si=0P6GsmiTS-2AtLtKtR95w&nd=1&dlsi=57403f542550491f -->
 
-- [Lodash](https://lodash.com/) is a modern JavaScript utility library delivering modularity, performance & extras.
-- [Moment.js](https://momentjs.com/) is a JavaScript date library for parsing, validating, manipulating, and formatting dates.
-- [Date-fns](https://date-fns.org/) is a modern JavaScript date utility library.
-- [Async](https://caolan.github.io/async/v3/) is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
-- [Day.js](https://day.js.org/) is a minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API.
-- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) provides an interface for fetching resources (including across the network).
 - [Axios.js](https://axios-http.com/) is a promise-based HTTP client for the browser and Node.js. ⭐ [104k stars](https://github.com/axios/axios)
-- [Ramda](https://ramdajs.com/) is a practical functional library for JavaScript programmers.
-- [Store.js](https://github.com/marcuswestin/store.js) is Cross-browser storage for all use cases, used across the web.
-- [Cookiejar](https://www.npmjs.com/package/cookiejar) is a simple, lightweight, and fast cookie manipulation library for JavaScript.
-- [cross-storage](https://github.com/zendesk/cross-storage) is a Cross domain local storage, with permissions
+- [Redux.js](https://redux.js.org/) is a predictable state container for JavaScript apps. ⭐ [61k stars](https://github.com/reduxjs/redux)
+- [Lodash](https://lodash.com/) is a modern JavaScript utility library delivering modularity, performance & extras. ⭐ [59k stars](https://github.com/lodash/lodash)
+- [Moment.js](https://momentjs.com/) is a JavaScript date library for parsing, validating, manipulating, and formatting dates. ⭐ [48k stars](https://github.com/moment/moment)
+- [Day.js](https://day.js.org/) ⏰ is a minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API. Its 2kB immutable date-time library alternative to Moment.js with the same modern API ⭐ [46k stars](https://github.com/iamkun/dayjs)
+- [Date-fns](https://date-fns.org/) is a modern JavaScript date utility library. ⭐ [33.5k stars](https://github.com/date-fns/date-fns)
+- [Async](https://caolan.github.io/async/v3/) is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript. ⭐ [28k stars](https://github.com/caolan/async)
+- [Immer](https://immerjs.github.io/immer/) is a tiny package that **allows you to work with immutable state in a more convenient way**. It is based on the copy-on-write mechanism. ⭐ [27k stars](https://github.com/immerjs/immer)
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) provides an interface for fetching resources (including across the network).
+- [Ramda](https://ramdajs.com/) is a practical functional library for JavaScript programmers. ⭐ [23.5k stars](https://github.com/ramda/ramda)
+- [Store.js](https://github.com/marcuswestin/store.js) is Cross-browser storage for all use cases, used across the web. ⭐ [14k stars](https://github.com/marcuswestin/store.js)
+- [Cookiejar](https://www.npmjs.com/package/cookiejar) is a simple, lightweight, and fast cookie manipulation library for JavaScript. ⭐ [GitHub](https://github.com/bmeck/node-cookiejar#readme)
+- [cross-storage](https://github.com/zendesk/cross-storage) is a Cross domain local storage, with permissions ⭐ [GitHub](https://github.com/zendesk/cross-storage)
 
 ## 3D and Animation Libraries
 
@@ -122,11 +124,10 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 ## Other JS libraries
 
-- [Moment.js](https://momentjs.com/) is a JavaScript date library for parsing, validating, manipulating, and formatting dates. ⭐ [48k stars](https://github.com/moment/moment)
 - [Core.js]() is a modular standard library for JavaScript. ⭐ [24k stars](https://github.com/zloirock/core-js)
-- [Day.js](https://day.js.org/) ⏰ is 2kB immutable date-time library alternative to Moment.js with the same modern API ⭐ [46k stars](https://github.com/iamkun/dayjs)
 - [PDF.js](https://mozilla.github.io/pdf.js/) is a **PDF Reader** in JavaScript ⭐ [34.5k stars](https://github.com/mozilla/pdf.js)
 - [Video.js](https://videojs.com/) is an open-source HTML5 video player. ⭐ [37k stars](https://github.com/videojs/video.js)
+- [Codemirror.js](https://codemirror.net/) is a versatile text editor implemented in JavaScript for the browser. ⭐ [26.5k stars](https://github.com/codemirror/codemirror5)
 - [Hammer.js](https://hammerjs.github.io/) is a JavaScript library for multi-touch gestures. ⭐ [24k stars](https://github.com/hammerjs/hammer.js)
 - [Howler.js](https://howlerjs.com/) is a JavaScript audio library for the modern web. ⭐ [23k stars](https://github.com/goldfire/howler.js)
 - [P5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else. ⭐ [20.7k stars](https://github.com/processing/p5.js)
