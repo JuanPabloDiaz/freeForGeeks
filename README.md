@@ -1,4 +1,4 @@
-# Free For Geeks 🤓
+<h1>Free For Geeks</h1>
 
 **Free For Geeks** is your curated toolbox for building better software. Free resources for all your dev needs.
 

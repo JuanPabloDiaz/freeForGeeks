@@ -1,18 +1,18 @@
-# DevKit Contributing Guidelines
+# Contributing Guidelines
 
 ## Getting Started
 
-1. [Fork](https://github.com/JuanPabloDiaz/devKit/fork) the repository on GitHub.
+1. [Fork](https://github.com/JuanPabloDiaz/freeForGeeks/fork) the repository on GitHub.
 2. Clone the forked repository to your local machine.
 
    ```sh
-   git clone https://github.com/<your_github_username>/devKit.git
+   git clone https://github.com/<your_github_username>/freeForGeeks.git
    ```
 
 3. Get into the root directory
 
    ```sh
-   cd devKit
+   cd freeForGeeks
    ```
 
 4. Install `docsify-cli` globally, which helps initializing and previewing the website locally.
