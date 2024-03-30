@@ -48,7 +48,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 4. [Chakra UI](https://chakra-ui.com/) is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications. ⭐ [36.2k stars](https://github.com/chakra-ui/chakra-ui)
 5. [DaisyUI](https://daisyui.com/) is the most popular, free and open-source Tailwind CSS component library. ⭐ [29.6k stars](https://github.com/saadeghi/daisyui)
 6. [React Admin](https://marmelab.com/react-admin/) is The React Framework for B2B Apps. | A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design ⭐ [24k stars](https://github.com/marmelab/react-admin)
-7. [Mantine](https://mantine.dev/) is a fully featured React components library. ⭐ [24k stars](https://github.com/mantinedev/mantine)
+7. 🔥 [Mantine](https://mantine.dev/) is a fully featured React components library. ⭐ [24k stars](https://github.com/mantinedev/mantine)
 8. [Next UI](https://nextui.org/) is a collection of beautifully designed, accessible, and customizable UI components for React. ⭐ [18.6k stars](https://github.com/nextui-org/nextui)
 9. [Semantic UI React](https://react.semantic-ui.com/) ⭐ [13.2k stars](https://github.com/Semantic-Org/Semantic-UI-React)
 10. [Radix UI - Primitives](https://www.radix-ui.com/primitives) is for building high-quality, accessible design systems and web apps. ⭐ [14k stars](https://github.com/radix-ui/primitives)
@@ -137,6 +137,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Luxon](https://moment.github.io/luxon/) is a library for working with dates and times in JavaScript. ⭐ [15k stars](https://github.com/moment/luxon)
 - [Nuclear.js](https://nuclear.js.org/) Streaming music player that finds free music for you ⭐ [11.3k stars](https://github.com/nukeop/nuclear)
 - [Next Video](https://next-video.dev/)Add high-performance video to your Next.js app. ⭐ [GitHub](https://github.com/muxinc/next-video)
+- [Hi-mom](https://www.npmjs.com/package/hi-mom) is a blazingly fast JavaScript library to say hi to your mom!⭐ [GitHub](https://github.com/tsivinsky/hi-mom)
+- [Danfo.js](https://danfo.jsdata.org/) is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data. ⭐ [GitHub](https://github.com/javascriptdata/danfojs)
 
 ## JavaScript
 
@@ -179,6 +181,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [ohmyzsh](https://ohmyz.sh/) is a delightful, open-source, community-driven framework for managing your Zsh configuration. ⭐ [170k stars](https://github.com/ohmyzsh/ohmyzsh)
 
+1. [Amplication](https://amplication.com/) is the Fastest Way in the World to Build Backend Services.🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding. ⭐ [13.3k stars](https://github.com/amplication/amplication)
+
 ## Serverless Frameworks
 
 - [Serverless Stack](https://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. ⭐ [20k stars](https://github.com/sst/sst)
@@ -195,21 +199,28 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [DummyJSON](https://dummyjson.com/) is a tool to generate massive amounts of fake data in the browser and node.js. ⭐ [1.3k stars](https://github.com/Ovi/DummyJSON)
 - [Call Of Duty API](https://codapi.dev/) Unofficial wrapper for the Call of Duty API. ⭐ [GitHub](https://github.com/Lierrmm/Node-CallOfDuty)
 
+### API Tools
+
+- [Hoppscotch](https://hoppscotch.io/) is a lightweight, fast, and customizable app for testing and designing APIs. ⭐ [60k stars](https://github.com/hoppscotch/hoppscotch)
+- [tRPC](https://trpc.io/) Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ⭐ [32.3k stars](https://github.com/trpc/trpc)
+
 ## Authentication
 
-- [Auth0](https://auth0.com/) is a flexible, drop-in solution to add authentication and authorization services to your applications. ⭐ [k stars]()
-- [Firebase Auth](https://firebase.google.com/) is a platform developed by Google for creating mobile and web applications. ⭐ [k stars]()
-- [Clerk](https://clerk.dev/) is a developer-first identity and user management platform. ⭐ [k stars]()
-- [Supabase Auth](https://supabase.io/) is an open-source Firebase alternative. ⭐ [k stars]()
-- [NextAuth.js](https://next-auth.js.org/) is a complete open-source authentication solution for Next.js applications. ⭐ [k stars]()
-- [Appwrite Auth](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [k stars]()
+- [Auth0](https://auth0.com/) is a flexible, drop-in solution to add authentication and authorization services to your applications. ⭐ [GitHub](https://github.com/auth0/nextjs-auth0)
+- [Firebase Auth](https://firebase.google.com/) is a platform developed by Google for creating mobile and web applications. ⭐ [GitHub](https://github.com/firebase)
+- [Clerk](https://clerk.dev/) is a developer-first identity and user management platform. ⭐ [GitHub](https://github.com/clerk/javascript)
+- [Supabase Auth](https://supabase.io/) is an open-source Firebase alternative. ⭐ [GitHub](https://github.com/supabase/auth)
+- [NextAuth.js](https://next-auth.js.org/) is a complete open-source authentication solution for Next.js applications. ⭐ [22k stars](https://github.com/nextauthjs/next-auth)
+- [Appwrite Auth](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [GitHub](https://github.com/appwrite/appwrite)
+- [SuperTokens](https://supertokens.com/) is an open-source alternative to Auth0/ Firebase Auth / AWS Cognito. ⭐ [12k stars](https://github.com/supertokens/supertokens-core)
 
 ## Database
 
-1. [Supabase](https://supabase.io/) is an open-source Firebase alternative. ⭐ [64k stars](https://github.com/supabase/supabase)
-2. [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [40k stars](https://github.com/appwrite/appwrite)
-3. [MongoDB](https://www.mongodb.com/) is a general-purpose, document-based, distributed database built for modern application developers and for the cloud era. ⭐ [26k stars](https://github.com/mongodb/mongo)
-4. [GraphQL]() ⭐ [k stars]()
+1. [Supabase](https://supabase.io/) is an open-source Firebase alternative. ⭐ [65k stars](https://github.com/supabase/supabase)
+2. [Nocodb](https://nocodb.com/) is an open source **Airtable Alternative** ⭐ [42k stars](https://github.com/nocodb/nocodb)
+3. [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [40k stars](https://github.com/appwrite/appwrite)
+4. [MongoDB](https://www.mongodb.com/) is a general-purpose, document-based, distributed database built for modern application developers and for the cloud era. ⭐ [26k stars](https://github.com/mongodb/mongo)
+5. [GraphQL]() ⭐ [k stars]()
 
 [Amazon DynamoDB](https://aws.amazon.com/dynamodb) Fast, flexible NoSQL database service for single-digit millisecond performance at any scale.
 [Apache Cassandra](https://cassandra.apache.org) Manage massive amounts of data, fast, without losing sleep.
@@ -261,7 +272,6 @@ Datos.gov...
 ## Testing
 
 - [PlayWright](https://playwright.dev/) enables reliable end-to-end testing for modern web apps. ⭐ [60k stars](https://github.com/microsoft/playwright)
-- [Hoppscotch](https://hoppscotch.io/) Hoppscotch is a lightweight, web-based API development ecosystem. ⭐ [60k stars](https://github.com/hoppscotch/hoppscotch)
 - [Cypress](https://www.cypress.io/) is a **JavaScript End to End Testing Framework**. ⭐ [46k stars](https://github.com/cypress-io/cypress)
 
 ## Security
@@ -302,12 +312,13 @@ Datos.gov...
 
 ## Monitoring
 
-- [Sentry](https://sentry.io) is a **real-time error tracking** that gives you insight into production deployments and information to reproduce and fix crashes. ⭐ [37k stars](https://github.com/getsentry/sentry)
-- [UpTimeRobot](https://uptimerobot.com) is a **website monitoring** service that checks your websites every 5 minutes and alerts you if your sites are down.
-- [New Relic](https://newrelic.com) is a **performance monitoring** tool that helps you to monitor, troubleshoot, and optimize your application performance. ⭐ [GitHub](https://github.com/newrelic)
+1. [Sentry](https://sentry.io) is a **real-time error tracking** that gives you insight into production deployments and information to reproduce and fix crashes. ⭐ [37k stars](https://github.com/getsentry/sentry)
+2. [UpTimeRobot](https://uptimerobot.com) is a **website monitoring** service that checks your websites every 5 minutes and alerts you if your sites are down.
+3. [Open Status](https://www.openstatus.dev/) is the open-source website & API monitoring platform. ⭐ [GitHub](https://github.com/openstatusHQ/openstatus)
+4. [checklyhq](https://checklyhq.com) is a **API monitoring** service that checks your APIs every 5 minutes and alerts you if your APIs are down. ⭐ [GitHub](https://github.com/checkly)
+5. [New Relic](https://newrelic.com) is a **performance monitoring** tool that helps you to monitor, troubleshoot, and optimize your application performance. ⭐ [GitHub](https://github.com/newrelic)
+
 - [Datadog](https://www.datadoghq.com) is a **cloud-scale monitoring** service that provides monitoring of servers, databases, tools, and services through a SaaS-based data analytics platform.
-- [checklyhq](https://checklyhq.com) is a **API monitoring** service that checks your APIs every 5 minutes and alerts you if your APIs are down. ⭐ [GitHub](https://github.com/checkly)
-- [Open Status](https://www.openstatus.dev/) is the open-source website & API monitoring platform. ⭐ [GitHub](https://github.com/openstatusHQ/openstatus)
 
 <div style="float: right">
 <a href="#">
@@ -346,6 +357,22 @@ Datos.gov...
 - [JDownloader](https://jdownloader.org/) is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [File Browser](https://filebrowser.org/) is a file manager that provides a web-based interface to manage your files. ⭐ [23k stars](https://github.com/filebrowser/filebrowser)
 - [Guacamole](https://guacamole.apache.org/) is a clientless remote desktop gateway. ⭐ [k stars]()
+
+## Search Engines
+
+1. [Elasticsearch](https://www.elastic.co/elasticsearch) is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. ⭐ [67.2k stars](https://github.com/elastic/elasticsearch)
+2. [MeiliSearch](https://www.meilisearch.com/) is a powerful, fast, open-source, easy to use, and deploy search engine. A lightning-fast search API that fits effortlessly into your apps, websites, and workflow ⭐ [47k stars](https://github.com/meilisearch/meilisearch)
+3. [zincsearch](https://zincsearch-docs.zinc.dev/) is a lightweight alternative to elasticsearch that requires minimal resources, written in Go. ⭐ [16.3k stars](https://github.com/zincsearch/zincsearch)
+
+- [Algolia](https://www.algolia.com/) is a hosted search engine capable of delivering real-time results from the first keystroke. ⭐ [GitHub](https://github.com/algolia)
+- [Solr](https://lucene.apache.org/solr/) is a standalone enterprise search server with a REST-like API. ⭐ [GitHub](https://github.com/apache/lucene-solr)
+
+## Terminal Tools
+
+- **The Fuck** is a Magnificent app which corrects your previous console command ⭐ [83k stars](https://github.com/nvbn/thefuck)
+- [Hyper](https://hyper.is/) is a terminal built on web technologies. ⭐ [36k stars]()
+- [Terminus](https://eugeny.github.io/terminus/) is a terminal for a more modern age. ⭐ [12k stars]()
+- **Partytown** Relocate resource intensive third-party scripts off of the main thread and into a web worker. ⭐ [12k stars](https://github.com/BuilderIO/partytown)
 
 ## Open Source For Apple
 
