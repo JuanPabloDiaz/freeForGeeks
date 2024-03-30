@@ -1,14 +1,14 @@
-# [DevKit](https://juanpablodiaz.github.io/devKit/#/)
+# Free For Geeks 🤓
 
-DevKit is your curated toolbox for building better software. Free resources for all your dev needs.
+**Free For Geeks** is your curated toolbox for building better software. Free resources for all your dev needs.
 
-A collection of links to **free resources** and **tools** for developers. It includes everything from **Frontend** and **Backend** to **DevOps**, **security**, **competitive programming** and more.
+A collection of links to **free resources** and **tools** for developers. It includes everything from **Frontend** and **Backend** to **DevSecOps**, **competitive programming** and more.
 
 <h3 style="color:orange">How to Contribute?</h3>
 
 🤝 Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
-⭐ [Star on GitHub](https://github.com/JuanPabloDiaz/devKit)
+⭐ [Star on GitHub](https://github.com/JuanPabloDiaz/freeForGeeks)
 
 # Table of Contents
 
@@ -643,6 +643,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [LinksHub](https://www.linkshub.dev/) List of resources to free software, libraries, frameworks, and other tools. ⭐ [621 stars]()
 - [Freesets](https://freesets.vercel.app/) is a collection of free resources like icons, images, illustrations, components, libraries and more. ⭐ [GitHub](https://github.com/cosmoart/Freesets)
 - [Free-for-life](https://free.wdh.gg/) is a massive list including a huge amount of products and services that are completely free! ⭐ [GitHub](https://github.com/wdhdev/free-for-life)
+- [Free Resources](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) is a list of free resources for almost everyone. ⭐ [GitHub](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone)
 
 # Career Development
 
@@ -654,6 +655,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Full-Stack Open](https://fullstackopen.com/en/) is a **free online course** that teaches you the **basics of web development**. ⭐ [GitHub](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
 - [The Odin Project](https://www.theodinproject.com/) is a **free online learning platform** that teaches you to code. ⭐ [GitHub](https://github.com/TheOdinProject)
 - [Cloud Study Network](https://cloudstudy.net/) is a curated list of free courses & certifications.. ⭐ [21k stars](https://github.com/cloudcommunity/Free-Certifications)
+- [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone)
 
 ## Job Boards
 
