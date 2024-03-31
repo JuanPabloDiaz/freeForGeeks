@@ -29,7 +29,7 @@ body:
   - type: input
     attributes:
       label: Sub Category
-      description: "Component Libraries", "JavaScript", "Colors", "Icons", "Frameworks", "Tools", "APIs", "Databases", "Security", "CI/CD", "Git", "Blogs", "Podcasts", "Books", "Courses", "Interview Preparation", "Resume Building", "Job Portals", "Freelancing", "Remote Jobs", "Tech Communities", "Conferences", "Hackathons", "Meetups", "Scholarships", "Internships", "Job Boards", "Tech Talks", "Webinars", "Workshops", "Bootcamps", "Mentorship", "Career Counselling", "Soft Skills", "Technical Skills", "Certifications", "Competitive Programming", "etc."
+      description: Component Libraries, JavaScript, Colors, Icons, Tools, APIs, Databases, Security, CI/CD, Courses, Job Boards, Competitive Programming, etc.
     validations:
       required: true
   - type: checkboxes
