@@ -1,0 +1,47 @@
+name: New Free Resource(s) 🤓
+description: Use this to add new Free Resource(s) for the Geeks
+title: "[Add] <write what you want to add>"
+body:
+  - type: input
+    attributes:
+      label: Site URL
+      description: Provide complete/valid URL.
+      placeholder: https://freeforgeeks.com
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Description of the Resource(s)
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Category
+      options:
+        - Frontend
+        - Backend
+        - DevSecOps
+        - Open Source
+        - Resources
+        - Career Development
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Sub Category
+      description: "Component Libraries", "JavaScript", "Colors", "Icons", "Frameworks", "Tools", "APIs", "Databases", "Security", "CI/CD", "Git", "Blogs", "Podcasts", "Books", "Courses", "Interview Preparation", "Resume Building", "Job Portals", "Freelancing", "Remote Jobs", "Tech Communities", "Conferences", "Hackathons", "Meetups", "Scholarships", "Internships", "Job Boards", "Tech Talks", "Webinars", "Workshops", "Bootcamps", "Mentorship", "Career Counselling", "Soft Skills", "Technical Skills", "Certifications", "Competitive Programming", "etc."
+    validations:
+      required: true
+  - type: checkboxes
+    id: no-duplicate-issues
+    attributes:
+      label: "Checklist"
+      options:
+        - label: "I have checked the existing issues"
+          required: true
+
+        - label: "I have read the [Contributing Guidelines](https://github.com/juanPabloDiaz/freeForGeeks/blob/main/CONTRIBUTING.md)"
+          required: true
+
+        - label: "I am willing to work on this issue (optional)"
+          required: false
