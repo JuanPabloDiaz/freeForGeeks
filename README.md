@@ -454,6 +454,26 @@ Datos.gov...
 - [Picresize](https://picresize.com/) is a tool to resize, shrink, and crop your pictures online.
 - [Image Compressor](https://www.imagecompressor.com/) is a tool to compress your images.
 
+## Digital Privacy
+
+[Surveillance Self-Defense](https://ssd.eff.org/en) "Tips, tools, and how-tos for safer online communications," by the Electronic Frontier Foundation. Basic defense guides, tool guides, and more advanced topics covered.
+[PrivacyTools](https://www.privacytools.io/) "You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance." Considered the standard for finding privacy-conscious alternatives to popular software.
+[DeleteMyData](https://deletemydata.io/) Guides for the "simplest way to delete your online accounts". How to delete your account, from Amazon to Google to Facebook to LinkedIn.
+[Switching Software](https://switching.software/) "Ethical, easy-to-use and privacy-conscious alternatives to well-known software." Mixed recommendations; some good, some bad, but overall an OK reference.
+[dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) A flexible DNS proxy, with support for modern encrypted DNS protocols such as [DNSCrypt v2](https://dnscrypt.info/protocol), [DNS-over-HTTPS](https://www.rfc-editor.org/rfc/rfc8484.txt) and [Anonymized DNSCrypt](https://github.com/DNSCrypt/dnscrypt-protocol/blob/master/ANONYMIZED-DNSCRYPT.txt).
+[Security In-A-Box](https://securityinabox.org/) Tools and tactics (guides) for digital security on Linux, Windows, Mac, Mobile, and Web.
+[r/degoogle](r/degoogle) Tips, resources, guides, and more for "expelling Google from your life." [Why You Should DeGoogle & Intro DeGoogling Techniques](https://www.reddit.com/r/degoogle/comments/huk4rp/why_you_should_degoogle_intro_degoogling/). [Huge list of alternatives to Google products and services](https://www.reddit.com/r/degoogle/comments/g1yu01/google_alternatives_huge_list_restore_your_privacy/). [r/Privacy's wiki on deGoogling is also *helpful.*](r/Privacy's wiki on deGoogling is also _helpful._)
+[r/privacy](r/privacy) Reddit community dedicated to digital privacy and freedom. Resources, news, guides, and more for securing your digital lives. [Their wiki is an indispensable source anyone interested in digital privacy](https://www.reddit.com/r/privacy/wiki/index).
+[They Track You](https://theytrackyou.com/) "A website to raise awareness of online privacy." Information on corporate and government tracking, defense of surveillance, and more. Very good for beginners.
+[Richard Stallman](https://www.stallman.org/) Reasons for not using products and services from the biggest technology companies, by the man behind the GNU Project and the Free Software Foundation.
+[_Google Data Collection_](https://www.ftc.gov/system/files/documents/public_comments/2018/08/ftc-2018-0074-d-0018-155525.pdf) A report on Google's Data Collection from the FTC by Professor Douglas Schmidt of Vanderbilt University. (From August 2018.)
+[Pi-hole](https://pi-hole.net/) "Network-wide Ad blocking" software.
+[CryptoPaper](https://github.com/cryptoseb/CryptoPaper) An article detailing "Privacy, Security, and Anonymity For Every Internet User."
+[Njalla](https://njal.la/) A privacy-aware domain service, starting at 15 € / year.
+[OpenStreetMaps](https://www.openstreetmap.org/#map=4/38.01/-95.84) Free and open-source map data. Explore "a map of the world, created by people like you and free to use under an open license."
+[Posteo](https://posteo.de/en) Private, secure, ad-free, and green premium email. Starts at 1 EUR per month.
+[Mailbox.org](https://mailbox.org/en/) Private, premium email. Standard subscription starts at 3 EUR per user per month.
+
 <div style="float: right">
 <a href="#">
 <img src="backtotop.jpg" width="100">
@@ -647,7 +667,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 
 # Career Development
 
-## Education
+## Learn to Code
 
 - [Developer Roadmap](https://roadmap.sh/), guides and other educational content **to help developers grow** in their careers. ⭐ [269k stars](https://github.com/kamranahmedse/developer-roadmap)
 - [FreeCodeCamp](https://www.freecodecamp.org/) is a **free online learning platform** that teaches you to code. ⭐ [385k stars](https://github.com/freeCodeCamp/freeCodeCamp)
@@ -656,6 +676,13 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [The Odin Project](https://www.theodinproject.com/) is a **free online learning platform** that teaches you to code. ⭐ [GitHub](https://github.com/TheOdinProject)
 - [Cloud Study Network](https://cloudstudy.net/) is a curated list of free courses & certifications.. ⭐ [21k stars](https://github.com/cloudcommunity/Free-Certifications)
 - [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone)
+- [Sololearn](https://www.sololearn.com/) is a free online learning platform that teaches you to code. Courses in Python, C++, Java, JavaScript, Web Fundamentals and more. ⭐ [GitHub]()
+  [SQLCourse](https://www.sqlcourse.com/) "Interactive Online SQL Training." "This unique introductory SQL tutorial not only provides easy-to-understand SQL instructions, but it allows you to practice what you learn using the on-line SQL interpreter. You will receive immediate results after submitting your SQL commands. You will be able to create your own unique tables as well as perform selects, inserts, updates, deletes, and drops on your tables."
+  [Open Source Society University](https://github.com/ossu) Open-source, community-driven university offering free, self-taught education in computer science, bioinformatics, and data science.
+  [CS50](https://www.youtube.com/c/cs50) "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course. "
+  [Geek's Lesson](https://www.youtube.com/c/GeeksLesson/) "This channel is about the art of computer science, consisting of educational contents from experts all around the world. We provide contents related to computer science domain such as Mathematics, Machine Learning, IT security, System Administration, Deep learning, Data Science, Natural language processing and Statistics. All contents of this channel solely dedicated for educational or research purpose in computer science. "
+  [The Missing Semester of your CS Education](https://missing.csail.mit.edu/) Everything you should learn in a computer science degree program, but don't. "We’ll teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!" Command line, Vim, environments, debugging, metaprogramming, security and cryptography, and more. From MIT CSAIL.
+  [Geeks for Geeks](https://www.geeksforgeeks.org/about/) Guides in various topics in programming, from data structures to algorithms, to interviewing and more. Practice programs, etc.
 
 ## Job Boards
 
