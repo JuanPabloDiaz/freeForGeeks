@@ -1,0 +1,48 @@
+name: ​Bug 🐞
+description: Report an issue or bug
+title: "[BUG] <write a small description here>"
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      id: description
+      description: A brief description of the issue or bug you found on the site, also include what you tried and what didn't work.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Screenshots
+      id: screenshots
+      description: Please add screenshots if possible.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Any additional information?
+      id: extrainfo
+      description: Add any other information that you think might be helpful.
+    validations:
+      required: false
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browser are you seeing the problem on?
+      multiple: true
+      options:
+        - Chrome
+        - Edge
+        - Firefox
+        - Safari
+  - type: checkboxes
+    id: no-duplicate-issues
+    attributes:
+      label: "Checklist"
+      options:
+        - label: "I have checked the existing issues"
+          required: true
+
+        - label: "I have read the [Contributing Guidelines](https://github.com/juanPabloDiaz/freeForGeeks/blob/main/CONTRIBUTING.md)"
+          required: true
+
+        - label: "I am willing to work on this issue (optional)"
+          required: false

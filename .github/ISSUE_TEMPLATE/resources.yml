@@ -29,7 +29,7 @@ body:
   - type: input
     attributes:
       label: Sub Category
-      description: Component Libraries, JavaScript, Colors, Icons, Tools, APIs, Databases, Security, CI/CD, Courses, Job Boards, Competitive Programming, etc.
+      description: For example... JavaScript, Colors, Icons, Tools, APIs, Databases, Component Libraries, Security, CI/CD, Courses, Job Boards, Competitive Programming, etc.
     validations:
       required: true
   - type: checkboxes
