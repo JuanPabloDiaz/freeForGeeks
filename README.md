@@ -4,13 +4,13 @@
 
 A collection of links to **free resources** and **tools** for developers. It includes everything from **Frontend** and **Backend** to **DevSecOps**, **competitive programming** and more.
 
+⭐ [Star on GitHub](https://github.com/JuanPabloDiaz/freeForGeeks)
+
 <h3 style="color:orange">How to Contribute?</h3>
 
 🤝 Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
-⭐ [Star on GitHub](https://github.com/JuanPabloDiaz/freeForGeeks)
-
-# Table of Contents
+<h1> Table of Contents </h1>
 
 - [Frontend](#frontend)
 - [Backend](#backend)
@@ -470,6 +470,13 @@ Datos.gov...
 - [Figma](https://www.figma.com/) is a web-based graphics editing and user interface design app.
 - [Sketch](https://www.sketch.com/) is a design toolkit for macOS.
 - [Canva](https://www.canva.com/) is a **free-to-use online graphic design tool** that simplifies the process of creating visual content
+
+## Miscellaneous
+
+- [Awesome](https://awesome.re) is a curated list of awesome lists.
+- [readme.com](https://readme.com) — Beautiful documentation made easy, free for Open Source.
+- [versionfeeds](https://versionfeeds.com) — Get notified when a new version of your favorite software is released.
+- [tiledesk](https://www.tiledesk.com) — Open Source Live Chat and Chatbots for Customer Support.
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
