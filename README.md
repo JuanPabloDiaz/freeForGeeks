@@ -151,6 +151,11 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) is a book series on JavaScript. ⭐ [177k stars](https://github.com/getify/You-Dont-Know-JS)
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) and data structures implemented in JavaScript with explanations and links to further readings ⭐ [181k stars](https://github.com/trekhleb/javascript-algorithms)
 
+## TypeScript
+
+- [TypeScript](https://www.typescriptlang.org/) is a typed superset of JavaScript that compiles to plain JavaScript. ⭐ [100k stars](https://github.com/microsoft/TypeScript)
+- [Zod](https://zod.dev/) is a TypeScript-first schema declaration and validation library. I'm using the term "schema" to broadly refer to any data type, from a simple string to a complex nested object. ⭐ [30k stars](https://github.com/colinhacks/zod)
+
 ## React
 
 - [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos. ⭐ [2k stars](https://github.com/reactplay/react-play)
@@ -171,6 +176,18 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Flex Box Froggy](https://flexboxfroggy.com/) is a game for learning CSS flexbox layout.
 - [Flukeout](https://flukeout.github.io/) is a game for learning CSS selectors.
 - [Coding Fantasy](https://codingfantasy.com/) is a game for learning CSS.
+
+<!-- -------------------------------------------- Need work -------------------------------------------- -->
+
+## Low Code
+
+1. [ToolJet](https://tooljet.io/) Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. ⭐ [27k stars](https://github.com/ToolJet/ToolJet)
+
+- [Bubble.io](https://bubble.io/) is a visual programming language for web and mobile applications. ⭐ [GitHub](
+- [Adalo](https://www.adalo.com/) is a no-code platform for building powerful web and mobile apps. ⭐ [GitHub](
+- [Webflow](https://webflow.com/) is a visual web development platform. ⭐ [GitHub](
+- [Wix](https://www.wix.com/) is a cloud-based web development platform. ⭐ [GitHub](
+- <!-- -------------------------------------------- Need work -------------------------------------------- -->
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
@@ -375,6 +392,14 @@ Datos.gov...
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
+## Projects (Beginner friendly Contribution)
+
+- [FindIssues]() aims to provide you access to the most recent created issues on github which is not assigned to anyone yet, with its advance search technique. ⭐ [GitHub](https://github.com/anand346/findissues)
+- [Up for Grabs](https://up-for-grabs.net/#/)
+- [First Contributions](https://firstcontributions.github.io/) helps beginners make your first open source contribution in 5 minutes. ⭐ [42k stars](https://github.com/firstcontributions/first-contributions)
+- [ProjectsHut](https://www.projectshut.tech/) is an open source web app that enables users to freely publish their projects and create user profiles within the platform ⭐ [GitHub](https://github.com/priyankarpal/projectshut)
+- [ProjectMate](https://www.projectmate.net/) Supercharge your open-source contributions with projectmate.net; Discover open-source projects, connect with experienced maintainers, and collaborate with a community of passionate contributors. Join over 200+ registered users who are already making a difference. ⭐ [GitHub](https://github.com/rohitdasu/projectmate)
+
 ## Dev Tools
 
 - [Dr. Link Check](https://www.drlinkcheck.com/) is a valuable web-based service designed to help website owners and administrators identify and address broken links on their websites. | Freemiun
@@ -484,6 +509,7 @@ Datos.gov...
 - [readme.com](https://readme.com) — Beautiful documentation made easy, free for Open Source.
 - [versionfeeds](https://versionfeeds.com) — Get notified when a new version of your favorite software is released.
 - [tiledesk](https://www.tiledesk.com) — Open Source Live Chat and Chatbots for Customer Support.
+- [Rocket.Chat](https://rocket.chat/) is a free and open-source `team chat collaboration platform` that allows users to communicate securely in real-time across devices on web, desktop, or mobile and to customize their interface with a range of plugins, themes, and integrations with other key software. ⭐ [39k stars](https://github.com/RocketChat/Rocket.Chat)
 
 # https://free-for.dev/#/?id=miscellaneous <!-- READ THIS AND ADD MORE RESOURCES -->
 
@@ -571,6 +597,7 @@ Comparison of major documentation tools:
 - [Next.js](https://nextjs.org/) is a **React framework**. ⭐ [119k stars](https://github.com/vercel/next.js)
 - [Tailwind CSS](https://tailwindcss.com/) is a **utility-first CSS framework** for rapid UI development. ⭐ [76.9k stars](https://github.com/tailwindlabs/tailwindcss)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is a **lightweight interpreted** Programming language. ⭐ [GitHub](https://github.com/topics/javascript)
+- [htmx](https://htmx.org/) is a high power tools for HTML ⭐ [32k stars](https://github.com/bigskysoftware/htmx)
 - [Filamentphp](https://filamentphp.com/) is a beautifully designed **open-source admin panel** for Laravel. | [GitHub](https://github.com/filamentphp/filament)
 - [Pkl lang](https://pkl-lang.org/) is a **configuration-as-code language** that offers rich validation and tooling. | [GitHub](https://github.com/apple/pkl-lang.org)
 
@@ -683,6 +710,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [CS50](https://www.youtube.com/c/cs50) is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.
 - [Geek's Lesson](https://www.youtube.com/c/GeeksLesson/) is a YouTube channel about the `art of computer science`. Offers tutorials on programming, web development, and more.
 - [The Missing Semester of your CS Education](https://missing.csail.mit.edu/) is a free MIT platform that teaches you the **skills you need to succeed Computer Science**. You will learn how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
+- [Web-Dev-For-Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/) is a free 24-episode course that teaches you the basics of web development. ⭐ [81k stars](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 ## Job Boards
 
