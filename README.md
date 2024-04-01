@@ -67,6 +67,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Tailwind Components](https://tailwindcomponents.com/) is an Open source Tailwind UI components and templates to bootstrap your new apps, projects or landing sites! ⭐ [GitHub](https://github.com/tailwindcomponents)
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com/) is a free Tailwind CSS Templates, Components and Resources. ⭐ [GitHub](https://github.com/tailwindtoolbox)
 
+<div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
+
 ## Data Visualization Components
 
 1. [D3js](https://d3js.org/) is a JavaScript library for bespoke data visualization. ⭐ [107k stars](https://github.com/d3)
@@ -113,6 +115,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Store.js](https://github.com/marcuswestin/store.js) is Cross-browser storage for all use cases, used across the web. ⭐ [14k stars](https://github.com/marcuswestin/store.js)
 - [Cookiejar](https://www.npmjs.com/package/cookiejar) is a simple, lightweight, and fast cookie manipulation library for JavaScript. ⭐ [GitHub](https://github.com/bmeck/node-cookiejar#readme)
 - [cross-storage](https://github.com/zendesk/cross-storage) is a Cross domain local storage, with permissions ⭐ [GitHub](https://github.com/zendesk/cross-storage)
+
+<div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
 ## 3D and Animation Libraries
 
@@ -168,11 +172,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Flukeout](https://flukeout.github.io/) is a game for learning CSS selectors.
 - [Coding Fantasy](https://codingfantasy.com/) is a game for learning CSS.
 
-<div style="float: right">
-<a href="#">
-<img src="backtotop.jpg" width="100">
-</a>
-</div>
+<div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
 <!-- Backend -->
 
@@ -223,17 +223,17 @@ A collection of links to **free resources** and **tools** for developers. It inc
 4. [MongoDB](https://www.mongodb.com/) is a general-purpose, document-based, distributed database built for modern application developers and for the cloud era. ⭐ [26k stars](https://github.com/mongodb/mongo)
 5. [GraphQL]() ⭐ [k stars]()
 
-[Amazon DynamoDB](https://aws.amazon.com/dynamodb) Fast, flexible NoSQL database service for single-digit millisecond performance at any scale.
-[Apache Cassandra](https://cassandra.apache.org) Manage massive amounts of data, fast, without losing sleep.
-[Elasticsearch](https://www.elastic.co/elasticsearch) is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases.
-[Nhost](https://nhost.io) is an open-source backend and development platform that enables developers to build and scale their web and mobile apps.
-[MongoDB Realm](https://www.mongodb.com/docs/realm) is a mobile-first database designed for modern, data-driven applications.
-[MySQL](https://www.mysql.com) Many of the world's largest and fastest-growing organizations including Facebook, Twitter, Booking.com, and Verizon rely on MySQL to save time and money powering their high-volume Web sites, business-critical systems and packaged software.
-[Oracle Database](https://www.oracle.com/database) services and products offer customers cost-optimized and high-performance versions of Oracle Database, the world's leading converged, multi-model database management system.
-[PocketBase](https://pocketbase.io) Open Source backend for your next SaaS and Mobile app in 1 file.
-[PostgreSQL](https://www.postgresql.org) is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
-[Redis](https://redis.io) The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker.
-[SQLite](https://www.sqlite.org) is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
+- [Amazon DynamoDB](https://aws.amazon.com/dynamodb) Fast, flexible NoSQL database service for single-digit millisecond performance at any scale.
+- [Apache Cassandra](https://cassandra.apache.org) Manage massive amounts of data, fast, without losing sleep.
+- [Elasticsearch](https://www.elastic.co/elasticsearch) is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases.
+- [Nhost](https://nhost.io) is an open-source backend and development platform that enables developers to build and scale their web and mobile apps.
+- [MongoDB Realm](https://www.mongodb.com/docs/realm) is a mobile-first database designed for modern, data-driven applications.
+- [MySQL](https://www.mysql.com) Many of the world's largest and fastest-growing organizations including Facebook, Twitter, Booking.com, and Verizon rely on MySQL to save time and money powering their high-volume Web sites, business-critical systems and packaged software.
+- [Oracle Database](https://www.oracle.com/database) services and products offer customers cost-optimized and high-performance versions of Oracle Database, the world's leading converged, multi-model database management system.
+- [PocketBase](https://pocketbase.io) Open Source backend for your next SaaS and Mobile app in 1 file.
+- [PostgreSQL](https://www.postgresql.org) is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
+- [Redis](https://redis.io) The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker.
+- [SQLite](https://www.sqlite.org) is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
 
 ## DataSet
 
@@ -256,11 +256,7 @@ Datos.gov...
 - [Colombian Data](https://datos.gov.co/) is the Colombian government's open data portal.
 - [Mexican Data](https://datos.gob.mx/) is the Mexican government's open data portal.
 
-<div style="float: right">
-<a href="#">
-<img src="backtotop.jpg" width="100">
-</a>
-</div>
+<div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
 <!-- DevSecOps -->
 
@@ -321,11 +317,7 @@ Datos.gov...
 
 - [Datadog](https://www.datadoghq.com) is a **cloud-scale monitoring** service that provides monitoring of servers, databases, tools, and services through a SaaS-based data analytics platform.
 
-<div style="float: right">
-<a href="#">
-<img src="backtotop.jpg" width="100">
-</a>
-</div>
+<div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
 <!-- Open Source  -->
 
@@ -379,6 +371,8 @@ Datos.gov...
 
 - [iOS apps](https://github.com/dkhamsing/open-source-ios-apps)
 
+<div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
+
 ## Dev Tools
 
 - [Dr. Link Check](https://www.drlinkcheck.com/) is a valuable web-based service designed to help website owners and administrators identify and address broken links on their websites. | Freemiun
@@ -402,7 +396,6 @@ Datos.gov...
 - [Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/) lets you create `personalized badges` to highlight your **skills** and **accomplishments** in your GitHub README file. ⭐ [125 stars](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 - [Contrib Rocks](https://contrib.rocks/) is a simple way to `generate a dynamic image of contributors` to keep your README.md file in sync. ⭐ [182 stars](https://github.com/lacolaco/contributors-img)
 - [Raw githubusercontent](https://raw.githubusercontent.com/) is a tool to get the raw content of a file hosted on GitHub. The URL format is: `https://raw.githubusercontent.com/${user}/${repo}/${branch}/${path}`
-
 - [Visitor Badge](https://visitorbadge.io/) is a **valuable tool** for any GitHub user who wants to **track their online presence** and build community around their projects. ⭐ [20 stars](https://github.com/estruyf/web-visitorbadge-nextjs)
 - [Octicons](https://primer.style/octicons/) is a scalable set of icons handcrafted by GitHub. ⭐ [k stars]()
 - [Emojis](https://gist.github.com/rxaviers/7360908) is a simple emoji **cheat sheet** to use when writing your GitHub README file.
@@ -448,7 +441,6 @@ Datos.gov...
 ## Tools to edit Images
 
 - [Squoosh](https://squoosh.app/) Make images smaller using best-in-class codecs, right in the browser. ⭐ [20.6k stars](https://github.com/GoogleChromeLabs/squoosh)
-
 - [Compress jpeg](https://compressjpeg.com/) is a tool to compress and resize your images.
 - [Compress jpg](https://compressjpg.net/) is a tool to compress and resize your images.
 - [Tiny png](https://tinypng.com/) is a tool to compress your images.
@@ -467,11 +459,7 @@ Datos.gov...
 - [They Track You](https://theytrackyou.com/) "A website to raise awareness of online privacy." Information on corporate and government tracking, defense of surveillance, and more. Very good for beginners.
 - [Richard Stallman](https://www.stallman.org/) Reasons for not using products and services from the biggest technology companies, by the man behind the GNU Project and the Free Software Foundation.
 
-<div style="float: right">
-<a href="#">
-<img src="backtotop.jpg" width="100">
-</a>
-</div>
+<div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
 <!-- Others -->
 
@@ -483,11 +471,7 @@ Datos.gov...
 - [Sketch](https://www.sketch.com/) is a design toolkit for macOS.
 - [Canva](https://www.canva.com/) is a **free-to-use online graphic design tool** that simplifies the process of creating visual content
 
-<div style="float: right">
-<a href="#">
-<img src="backtotop.jpg" width="100">
-</a>
-</div>
+<div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
 <!-- Resources -->
 
@@ -650,7 +634,6 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Music Archive](https://archive.org/details/audio) is a collection of music and music-related materials.
 - [Video Archive](https://archive.org/details/movies) is a collection of movies and videos.
 - [Image Archive](https://archive.org/details/image) is a collection of images.
--
 
 ## Dev Resources Lists
 
@@ -736,8 +719,4 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 
 - [Electron](https://www.electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
-<div style="float: right">
-<a href="#">
-<img src="backtotop.jpg" width="100">
-</a>
-</div>
+<div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
