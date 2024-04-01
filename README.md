@@ -218,22 +218,20 @@ A collection of links to **free resources** and **tools** for developers. It inc
 ## Database
 
 1. [Supabase](https://supabase.io/) is an open-source Firebase alternative. ⭐ [65k stars](https://github.com/supabase/supabase)
-2. [Nocodb](https://nocodb.com/) is an open source **Airtable Alternative** ⭐ [42k stars](https://github.com/nocodb/nocodb)
-3. [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [40k stars](https://github.com/appwrite/appwrite)
-4. [MongoDB](https://www.mongodb.com/) is a general-purpose, document-based, distributed database built for modern application developers and for the cloud era. ⭐ [26k stars](https://github.com/mongodb/mongo)
-5. [GraphQL]() ⭐ [k stars]()
-
-- [Amazon DynamoDB](https://aws.amazon.com/dynamodb) Fast, flexible NoSQL database service for single-digit millisecond performance at any scale.
-- [Apache Cassandra](https://cassandra.apache.org) Manage massive amounts of data, fast, without losing sleep.
-- [Elasticsearch](https://www.elastic.co/elasticsearch) is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases.
-- [Nhost](https://nhost.io) is an open-source backend and development platform that enables developers to build and scale their web and mobile apps.
-- [MongoDB Realm](https://www.mongodb.com/docs/realm) is a mobile-first database designed for modern, data-driven applications.
-- [MySQL](https://www.mysql.com) Many of the world's largest and fastest-growing organizations including Facebook, Twitter, Booking.com, and Verizon rely on MySQL to save time and money powering their high-volume Web sites, business-critical systems and packaged software.
-- [Oracle Database](https://www.oracle.com/database) services and products offer customers cost-optimized and high-performance versions of Oracle Database, the world's leading converged, multi-model database management system.
-- [PocketBase](https://pocketbase.io) Open Source backend for your next SaaS and Mobile app in 1 file.
-- [PostgreSQL](https://www.postgresql.org) is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
-- [Redis](https://redis.io) The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker.
-- [SQLite](https://www.sqlite.org) is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
+2. [Redis](https://redis.io) is an `in-memory database` that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. ⭐ [65k stars](https://github.com/redis/redis)
+3. [Nocodb](https://nocodb.com/) is an open source **Airtable Alternative** ⭐ [42k stars](https://github.com/nocodb/nocodb)
+4. [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [40k stars](https://github.com/appwrite/appwrite)
+5. [PocketBase](https://pocketbase.io) → Open Source backend for your next SaaS and Mobile app in 1 file. ⭐ [33k stars](https://github.com/pocketbase/pocketbase)
+6. [MongoDB](https://www.mongodb.com/) is a general-purpose, document-based, distributed database built for modern application developers and for the cloud era. ⭐ [26k stars](https://github.com/mongodb/mongo)
+7. [PostgreSQL](https://www.postgresql.org) is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. ⭐ [15k stars](https://github.com/postgres/postgres)
+8. [MySQL](https://www.mysql.com) is an open-source relational database management system. The world's most popular open-source database. ⭐ [10k stars](https://github.com/mysql/mysql-server)
+9. [GraphQL](https://graphql.com/) is the developer-friendly query language for the modern web. It transforms how apps fetch data from an API, enabling you to get exactly what you need with a single query—instead of wrangling responses from a patchwork of REST endpoints. ⭐ [10k stars](https://github.com/graphql-go/graphql)
+10. [Apache Cassandra](https://cassandra.apache.org) is an Open Source NoSQL Database. → Manage massive amounts of data, fast, without losing sleep. ⭐ [8.5k stars](https://github.com/apache/cassandra)
+11. [Nhost](https://nhost.io) is an open-source backend and development platform that enables developers to build and scale their web and mobile apps. ⭐ [7.5k stars](https://github.com/nhost/nhost)
+12. [SQLite](https://www.sqlite.org) is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. ⭐ [5.5k stars](https://github.com/sqlite/sqlite)
+13. [Amazon DynamoDB](https://aws.amazon.com/dynamodb) is a serverless, NoSQL, fully managed database service with single-digit millisecond response times at any scale, enabling you to develop and run modern applications while only paying for what you use. ⭐ [GitHub](https://github.com/aws-samples/aws-dynamodb-examples)
+14. [MongoDB Atlas Device](https://www.mongodb.com/docs/realm) is a fully managed cloud database developed by the same people that build MongoDB. Atlas Device SDK is a mobile-first database designed for modern, data-driven applications.
+15. [Oracle Database](https://www.oracle.com/database/technologies/appdev/xe.html#:~:text=Free%20Oracle%20Database%20for%20Everyone&text=You%20get%20an%20Oracle%20Database,and%20redistribute%20%E2%80%93%20all%20completely%20free!) is a free Oracle Database for Everyone. You get an Oracle Database to use, develop, test, and deploy applications. You can redistribute it – all completely free! ⭐ [GitHub](https://github.com/oracle)
 
 ## DataSet
 
@@ -325,6 +323,8 @@ Datos.gov...
 
 [awesomeopensource.com](https://awesomeopensource.com/) is a curated list of **open-source** projects that are looking for contributors. ⭐ [k stars]()
 
+<!--  ---------------------------- ********************* Need work *****************************  ---------------------------- -->
+
 ## Self Hosted Services
 
 - [Awesome SelfHosted](https://awesome-selfhosted.net/) is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers. ⭐ [172k stars](https://github.com/awesome-selfhosted/awesome-selfhosted)
@@ -350,6 +350,8 @@ Datos.gov...
 - [JDownloader](https://jdownloader.org/) is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [File Browser](https://filebrowser.org/) is a file manager that provides a web-based interface to manage your files. ⭐ [23k stars](https://github.com/filebrowser/filebrowser)
 - [Guacamole](https://guacamole.apache.org/) is a clientless remote desktop gateway. ⭐ [k stars]()
+
+<!--  ---------------------------- ********************* Need work *****************************  ---------------------------- -->
 
 ## Search Engines
 
@@ -447,7 +449,9 @@ Datos.gov...
 - [Picresize](https://picresize.com/) is a tool to resize, shrink, and crop your pictures online.
 - [Image Compressor](https://www.imagecompressor.com/) is a tool to compress your images.
 
-## Digital Privacy
+<!--  ---------------------------- ********************* ADD MORE RESOURCES *****************************  ---------------------------- -->
+
+## Digital Privacy → (need work)
 
 - [Surveillance Self-Defense](https://ssd.eff.org/en) "Tips, tools, and how-tos for safer online communications," by the Electronic Frontier Foundation. Basic defense guides, tool guides, and more advanced topics covered.
 - [PrivacyTools](https://www.privacytools.io/) "You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance." Considered the standard for finding privacy-conscious alternatives to popular software.
@@ -458,6 +462,7 @@ Datos.gov...
   [r/privacy](r/privacy) Reddit community dedicated to digital privacy and freedom. Resources, news, guides, and more for securing your digital lives. [Their wiki is an indispensable source anyone interested in digital privacy](https://www.reddit.com/r/privacy/wiki/index).
 - [They Track You](https://theytrackyou.com/) "A website to raise awareness of online privacy." Information on corporate and government tracking, defense of surveillance, and more. Very good for beginners.
 - [Richard Stallman](https://www.stallman.org/) Reasons for not using products and services from the biggest technology companies, by the man behind the GNU Project and the Free Software Foundation.
+<!--  ---------------------------- ********************* ADD MORE RESOURCES *****************************  ---------------------------- -->
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
@@ -471,6 +476,8 @@ Datos.gov...
 - [Sketch](https://www.sketch.com/) is a design toolkit for macOS.
 - [Canva](https://www.canva.com/) is a **free-to-use online graphic design tool** that simplifies the process of creating visual content
 
+<!--  ---------------------------- ********************* ADD MORE RESOURCES *****************************  ---------------------------- -->
+
 ## Miscellaneous
 
 - [Awesome](https://awesome.re) is a curated list of awesome lists.
@@ -478,11 +485,17 @@ Datos.gov...
 - [versionfeeds](https://versionfeeds.com) — Get notified when a new version of your favorite software is released.
 - [tiledesk](https://www.tiledesk.com) — Open Source Live Chat and Chatbots for Customer Support.
 
+# https://free-for.dev/#/?id=miscellaneous <!-- READ THIS AND ADD MORE RESOURCES -->
+
+<!--  ---------------------------- ********************* ADD MORE RESOURCES *****************************  ---------------------------- -->
+
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
 <!-- Resources -->
 
 # Resources
+
+<!--  ---------------------------- ********************* Need work *****************************  ---------------------------- -->
 
 ## Artificial Intelligence (AI)
 
@@ -503,6 +516,7 @@ Datos.gov...
 - [Cody](https://sourcegraph.com/cody) is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. ⭐ [1.5k stars](https://github.com/sourcegraph/cody)
 - [Awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
 - [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) is a platform with currently 3 AI's: ImageFX: allows you to make AI images, MusicFX: Allows you to generate AI Music, TextFX: Can explain words.
+- <!--  ---------------------------- ********************* Need work *****************************  ---------------------------- -->
 
 ## Code Generation
 
@@ -642,12 +656,12 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Video Archive](https://archive.org/details/movies) is a collection of movies and videos.
 - [Image Archive](https://archive.org/details/image) is a collection of images.
 
-## Dev Resources Lists
+## Free Developer Resource Hubs
 
 - [Awesome](https://awesome.re/) lists about all kinds of interesting topics. ⭐ [294k stars](https://github.com/sindresorhus/awesome)
 - [Free-For Dev](https://free-for.dev/) is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. ⭐ [82k stars](https://github.com/ripienaar/free-for-dev)
 - [Free Stuff for Developer](https://freestuff.dev/) is a list of free stuff for developer by developer to use. ⭐ [1.5k stars](https://github.com/hilmanski/freeStuffDev/)
-- [LinksHub](https://www.linkshub.dev/) List of resources to free software, libraries, frameworks, and other tools. ⭐ [621 stars]()
+- [LinksHub](https://www.linkshub.dev/) is a list of resources to free software, libraries, frameworks, and other tools. ⭐ [621 stars]()
 - [Freesets](https://freesets.vercel.app/) is a collection of free resources like icons, images, illustrations, components, libraries and more. ⭐ [GitHub](https://github.com/cosmoart/Freesets)
 - [Free-for-life](https://free.wdh.gg/) is a massive list including a huge amount of products and services that are completely free! ⭐ [GitHub](https://github.com/wdhdev/free-for-life)
 - [Free Resources](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) is a list of free resources for almost everyone. ⭐ [GitHub](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone)
@@ -658,18 +672,17 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 
 - [Developer Roadmap](https://roadmap.sh/), guides and other educational content **to help developers grow** in their careers. ⭐ [269k stars](https://github.com/kamranahmedse/developer-roadmap)
 - [FreeCodeCamp](https://www.freecodecamp.org/) is a **free online learning platform** that teaches you to code. ⭐ [385k stars](https://github.com/freeCodeCamp/freeCodeCamp)
-- [Code Crafters](https://codecrafters.io/) helps you master programming by recreating your favorite technologies from scratch. ⭐ [250k stars](https://github.com/codecrafters-io/build-your-own-x)
+- [Code Crafters](https://codecrafters.io/) → helps you master programming by recreating your favorite technologies from scratch. ⭐ [250k stars](https://github.com/codecrafters-io/build-your-own-x)
+- [Open Source Society University - CS](https://github.com/ossu) is a community-driven university offering free, self-taught education in `computer science`, bioinformatics, and data science. | Here is the path to a free self-taught education in Computer Science! ⭐ [161k stars](https://github.com/ossu/computer-science)
 - [Full-Stack Open](https://fullstackopen.com/en/) is a **free online course** that teaches you the **basics of web development**. ⭐ [GitHub](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
 - [The Odin Project](https://www.theodinproject.com/) is a **free online learning platform** that teaches you to code. ⭐ [GitHub](https://github.com/TheOdinProject)
 - [Cloud Study Network](https://cloudstudy.net/) is a curated list of free courses & certifications.. ⭐ [21k stars](https://github.com/cloudcommunity/Free-Certifications)
 - [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone)
-- [Sololearn](https://www.sololearn.com/) is a free online learning platform that teaches you to code. Courses in Python, C++, Java, JavaScript, Web Fundamentals and more. ⭐ [GitHub]()
-- [SQLCourse](https://www.sqlcourse.com/) "Interactive Online SQL Training." "This unique introductory SQL tutorial not only provides easy-to-understand SQL instructions, but it allows you to practice what you learn using the on-line SQL interpreter. You will receive immediate results after submitting your SQL commands. You will be able to create your own unique tables as well as perform selects, inserts, updates, deletes, and drops on your tables."
-- [Open Source Society University](https://github.com/ossu) Open-source, community-driven university offering free, self-taught education in computer science, bioinformatics, and data science.
-- [CS50](https://www.youtube.com/c/cs50) "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course. "
-- [Geek's Lesson](https://www.youtube.com/c/GeeksLesson/) "This channel is about the art of computer science, consisting of educational contents from experts all around the world. We provide contents related to computer science domain such as Mathematics, Machine Learning, IT security, System Administration, Deep learning, Data Science, Natural language processing and Statistics. All contents of this channel solely dedicated for educational or research purpose in computer science. "
-- [The Missing Semester of your CS Education](https://missing.csail.mit.edu/) Everything you should learn in a computer science degree program, but don't. "We’ll teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!" Command line, Vim, environments, debugging, metaprogramming, security and cryptography, and more. From MIT CSAIL.
-- [Geeks for Geeks](https://www.geeksforgeeks.org/about/) Guides in various topics in programming, from data structures to algorithms, to interviewing and more. Practice programs, etc.
+- [Sololearn](https://www.sololearn.com/) is a free online platform that offers coding lessons in Python, C++, Java, JavaScript, Web Fundamentals and more.
+- [SQLCourse](https://www.sqlcourse.com/) → Interactive Online SQL Training. Practice what you learn using a free online SQL interpreter.
+- [CS50](https://www.youtube.com/c/cs50) is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.
+- [Geek's Lesson](https://www.youtube.com/c/GeeksLesson/) is a YouTube channel about the `art of computer science`. Offers tutorials on programming, web development, and more.
+- [The Missing Semester of your CS Education](https://missing.csail.mit.edu/) is a free MIT platform that teaches you the **skills you need to succeed Computer Science**. You will learn how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
 
 ## Job Boards
 
