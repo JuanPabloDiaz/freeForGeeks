@@ -92,11 +92,13 @@ A collection of links to **free resources** and **tools** for developers. It inc
 3. [React-map-gl](https://visgl.github.io/react-map-gl/) is a suite of React components for Mapbox GL JS. ⭐ [7.5k stars](https://github.com/visgl/react-map-gl)
 4. [React Simple Maps](https://www.react-simple-maps.io/) is a library to create beautiful SVG maps in React. ⭐ [3k stars](https://github.com/zcreativelabs/react-simple-maps)
 5. [Google Map React](https://github.com/google-map-react/google-map-react)
-6. [React-leaflet](https://react-leaflet.js.org/) is a React components for Leaflet maps. ⭐ [5k stars](https://github.com/PaulLeCam/react-leaflet)
-7. [Pigeon Maps](https://pigeon-maps.js.org/) is a ReactJS Map library that uses and exposes the power of the Leaflet API. ⭐ [3.5k stars](https://github.com/mariusandra/pigeon-maps)
-8. [Mapkick](https://chartkick.com/mapkick-js) is a JavaScript library for interactive maps. Create beautiful, interactive maps with one line of JavaScript ⭐ [GitHub](https://github.com/ankane/mapkick.js)
-9. [a11y-dialog](https://a11y-dialog.netlify.app/) a11y-dialog is a lightweight yet flexible script to create accessible dialog windows. ⭐ [GitHub](https://github.com/KittyGiraudel/a11y-dialog)
-10. [OpenStreetMaps](https://www.openstreetmap.org/#map=4/38.01/-95.84) Free and open-source map data. Explore "a map of the world, created by people like you and free to use under an open license."
+6. [React Leaflet](https://react-leaflet.js.org/) is a React components for Leaflet maps. ⭐ [5k stars](https://github.com/PaulLeCam/react-leaflet)
+7. [React Leaflet Map Examples](https://tomickigrzegorz.github.io/react-leaflet-examples/) 🍁 A collection of examples on how to use the react-leaflet and leaflet libraries. ⭐ [GitHub](https://github.com/tomickigrzegorz/react-leaflet-examples)
+8. [Leaflet Map Examples](https://tomickigrzegorz.github.io/leaflet-examples/) 🍁 A collection of examples on how to use the leaflet library. ⭐ [GitHub](https://github.com/tomickigrzegorz/leaflet-examples)
+9. [Pigeon Maps](https://pigeon-maps.js.org/) is a ReactJS Map library that uses and exposes the power of the Leaflet API. ⭐ [3.5k stars](https://github.com/mariusandra/pigeon-maps)
+10. [Mapkick](https://chartkick.com/mapkick-js) is a JavaScript library for interactive maps. Create beautiful, interactive maps with one line of JavaScript ⭐ [GitHub](https://github.com/ankane/mapkick.js)
+11. [a11y-dialog](https://a11y-dialog.netlify.app/) a11y-dialog is a lightweight yet flexible script to create accessible dialog windows. ⭐ [GitHub](https://github.com/KittyGiraudel/a11y-dialog)
+12. [OpenStreetMaps](https://www.openstreetmap.org/#map=4/38.01/-95.84) Free and open-source map data. Explore "a map of the world, created by people like you and free to use under an open license."
 
 ## Utility libraries for JavaScript
 
@@ -159,6 +161,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 ## React
 
 - [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos. ⭐ [2k stars](https://github.com/reactplay/react-play)
+- [React Community](https://reactcommunity.org/) is a collection of React libraries and tools. ⭐ [GitHub](https://github.com/reactjs)
+- [React Tabs](https://reactcommunity.org/react-tabs/) is an accessible and easy tab component for ReactJS. ⭐ [3k stars](https://github.com/reactjs/react-tabs)
 
 ## Colors
 
@@ -216,6 +220,9 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [RANDOM USER GENERATOR](https://randomuser.me/) is a free, open-source API for generating random user data. Like Lorem Ipsum, but for people. ⭐ [1.3k stars](https://github.com/RandomAPI/Randomuser.me-Node)
 - [DummyJSON](https://dummyjson.com/) is a tool to generate massive amounts of fake data in the browser and node.js. ⭐ [1.3k stars](https://github.com/Ovi/DummyJSON)
 - [Call Of Duty API](https://codapi.dev/) Unofficial wrapper for the Call of Duty API. ⭐ [GitHub](https://github.com/Lierrmm/Node-CallOfDuty)
+- [IP Geolocation API](https://ipgeolocation.io/) is a free IP Geolocation API. ⭐ [GitHub](
+- [Ipapi.com](https://ipapi.com/) is a free IP Geolocation API. Real-time Geolocation & Reverse IP Lookup REST API. ⭐ [GitHub](https://github.com/apilayer/ipapi)
+- [Ipapi.co](https://ipapi.co/) is a free IP Geolocation API. ⭐ [GitHub](https://github.com/ipapi-co/ipapi-co.github.io)
 
 ### API Tools
 
@@ -399,6 +406,11 @@ Datos.gov...
 - [First Contributions](https://firstcontributions.github.io/) helps beginners make your first open source contribution in 5 minutes. ⭐ [42k stars](https://github.com/firstcontributions/first-contributions)
 - [ProjectsHut](https://www.projectshut.tech/) is an open source web app that enables users to freely publish their projects and create user profiles within the platform ⭐ [GitHub](https://github.com/priyankarpal/projectshut)
 - [ProjectMate](https://www.projectmate.net/) Supercharge your open-source contributions with projectmate.net; Discover open-source projects, connect with experienced maintainers, and collaborate with a community of passionate contributors. Join over 200+ registered users who are already making a difference. ⭐ [GitHub](https://github.com/rohitdasu/projectmate)
+- [Wekan](https://wekan.github.io/) is an open-source Trello-like kanban. | The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/ only. ⭐ [19k stars](https://github.com/wekan/wekan)
+- [Open Source Friday](https://opensourcefriday.com/) is a global movement that encourages open-source participation every Friday. ⭐ [GitHub](https://github.com/github/opensourcefriday)
+- [Open Source Guide](https://opensource.guide/) is a community guide to open-source for contributors and maintainers. ⭐ [13.5k stars](https://github.com/github/opensource.guide#readme)
+- [Open Source](https://opensource.com/) is a community of developers, designers, writers, and thinkers who believe that open-source is the way to make software better.
+- [Planka] is a Free open source kanban board for workgroups. ⭐ [6.2k stars](https://github.com/plankanban/planka)
 
 ## Dev Tools
 
