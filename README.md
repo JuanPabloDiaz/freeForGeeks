@@ -223,6 +223,10 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [IP Geolocation API](https://ipgeolocation.io/) is a free IP Geolocation API. ⭐ [GitHub](
 - [Ipapi.com](https://ipapi.com/) is a free IP Geolocation API. Real-time Geolocation & Reverse IP Lookup REST API. ⭐ [GitHub](https://github.com/apilayer/ipapi)
 - [Ipapi.co](https://ipapi.co/) is a free IP Geolocation API. ⭐ [GitHub](https://github.com/ipapi-co/ipapi-co.github.io)
+- [GeoDB Cities API](http://geodb-cities-api.wirefreethought.com/) is an online places database. It exposes city, county, island, region, and country data via both GraphQL and REST APIs.
+- [Country State City API](https://countrystatecity.in/) is a free API to get country, state, and city details. ⭐ [6.3k stars](https://github.com/dr5hn/countries-states-cities-database)
+- [Flags API](https://flagsapi.com/) is a free API to get country flags. ⭐ [GitHub](
+-
 
 ### API Tools
 
