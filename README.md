@@ -4,7 +4,7 @@
 
 A collection of links to **free resources** and **tools** for developers. It includes everything from **Frontend** and **Backend** to **DevSecOps**, **competitive programming** and more.
 
-⭐ [Star on GitHub](https://github.com/JuanPabloDiaz/freeForGeeks)
+⭐ [Star on GitHub](https://github.com/JuanPabloDiaz/freeForGeeks) ⭐ ☕ [Buy me a coffee](https://www.buymeacoffee.com/1diazdev) ☕
 
 <h3 style="color:orange">How to Contribute?</h3>
 
@@ -29,10 +29,11 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 1. [AdminLTE](https://adminlte.io/) is a fully responsive admin template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. ⭐ [44k stars](https://github.com/ColorlibHQ/AdminLTE)
 2. [Tabler](https://tabler.io/) is free and open-source HTML Dashboard UI Kit built on Bootstrap ⭐ [37k stars](https://github.com/tabler/tabler)
-3. [Core UI](https://coreui.io/) is a free Bootstrap admin template build with **HTML**. ⭐ [12k stars](https://github.com/coreui/coreui-free-bootstrap-admin-template) 💲💲
-4. [Material Dashboard](https://www.creative-tim.com/product/material-dashboard) is a free Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. ⭐ [11k stars](https://github.com/creativetimofficial/material-dashboard)
-5. [Tailwind Components - Dashboard](https://tailwindcomponents.com/components/dashboard) is a free Tailwind CSS Dashboard template. ⭐ [568 stars](https://github.com/tailwindcomponents/dashboard)
-6. [Tailwind Toolbox - Dashboard](https://tailwindtoolbox.github.io/Admin-Template) is a free Tailwind CSS Dashboard template. ⭐ [328 stars](https://github.com/tailwindtoolbox/Admin-Template)
+3. [Ngx Admin](https://akveo.github.io/ngx-admin/) is a free Angular admin dashboard template. ⭐ [25k stars](https://github.com/akveo/ngx-admin)
+4. [Core UI](https://coreui.io/) is a free Bootstrap admin template build with **HTML**. ⭐ [12k stars](https://github.com/coreui/coreui-free-bootstrap-admin-template) 💲💲
+5. [Material Dashboard](https://www.creative-tim.com/product/material-dashboard) is a free Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. ⭐ [11k stars](https://github.com/creativetimofficial/material-dashboard)
+6. [Tailwind Components - Dashboard](https://tailwindcomponents.com/components/dashboard) is a free Tailwind CSS Dashboard template. ⭐ [568 stars](https://github.com/tailwindcomponents/dashboard)
+7. [Tailwind Toolbox - Dashboard](https://tailwindtoolbox.github.io/Admin-Template) is a free Tailwind CSS Dashboard template. ⭐ [328 stars](https://github.com/tailwindtoolbox/Admin-Template)
 
 ## Component Libraries
 
@@ -146,6 +147,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Next Video](https://next-video.dev/)Add high-performance video to your Next.js app. ⭐ [GitHub](https://github.com/muxinc/next-video)
 - [Hi-mom](https://www.npmjs.com/package/hi-mom) is a blazingly fast JavaScript library to say hi to your mom!⭐ [GitHub](https://github.com/tsivinsky/hi-mom)
 - [Danfo.js](https://danfo.jsdata.org/) is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data. ⭐ [GitHub](https://github.com/javascriptdata/danfojs)
+- [Standard.js](https://standardjs.com/) is a JavaScript Style Guide, with linter & automatic code fixer. ⭐ [30k stars](https://github.com/standard/standard)
 
 ## JavaScript
 
@@ -205,10 +207,34 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 1. [Amplication](https://amplication.com/) is the Fastest Way in the World to Build Backend Services.🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding. ⭐ [13.3k stars](https://github.com/amplication/amplication)
 
+## Top Backend Frameworks
+
+1. [Deno](https://deno.land/) is a modern runtime for JavaScript and TypeScript. ⭐ [93k stars](https://github.com/denoland/deno)
+
+---
+
+## Others
+
+- [Biome.js](https://biomejs.com/) is a `toolchain for web projects`, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. ⭐ [10k stars](https://github.com/biomejs/biome)
+- [Format.js](https://formatjs.io/) is the monorepo home to all of the FormatJS related libraries, most notably react-intl. ⭐ [14k stars](https://github.com/formatjs/formatjs?tab=readme-ov-file)
+- [Orama](https://docs.askorama.ai/) - 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! ⭐ [8k stars](https://github.com/askorama/orama)
+
 ## Serverless Frameworks
 
 - [Serverless Stack](https://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. ⭐ [20k stars](https://github.com/sst/sst)
 - [Serverless](https://www.serverless.com/) Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! ⭐ [46k stars](https://github.com/serverless/serverless)
+
+## Web Framework
+
+- [Fastify](https://www.fastify.io/) is a fast and low overhead web framework, for Node.js. ⭐ [30.5k stars](https://github.com/fastify/fastify)
+
+## Logging Framework
+
+- [Pino.js](https://getpino.io/) is a super fast, all natural Node.js logger. ⭐ [13.2k stars](https://github.com/pinojs/pino)
+
+## Node.js
+
+- [Piscina.js](https://github.com/piscinajs/piscina) is a fast, efficient Node.js Worker Thread Pool implementation
 
 ## API
 
@@ -296,6 +322,7 @@ Datos.gov...
 
 - [PlayWright](https://playwright.dev/) enables reliable end-to-end testing for modern web apps. ⭐ [60k stars](https://github.com/microsoft/playwright)
 - [Cypress](https://www.cypress.io/) is a **JavaScript End to End Testing Framework**. ⭐ [46k stars](https://github.com/cypress-io/cypress)
+- [Fast Check](https://fast-check.dev/) is a property-based testing framework for JavaScript and TypeScript. ⭐ [4.1k stars](https://github.com/dubzzz/fast-check)
 
 ## Security
 
@@ -378,6 +405,12 @@ Datos.gov...
 - [JDownloader](https://jdownloader.org/) is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [File Browser](https://filebrowser.org/) is a file manager that provides a web-based interface to manage your files. ⭐ [23k stars](https://github.com/filebrowser/filebrowser)
 - [Guacamole](https://guacamole.apache.org/) is a clientless remote desktop gateway. ⭐ [k stars]()
+
+### Tutorial on Self Hosted Services
+
+- [Techno Tim](https://technotim.live/) is a full stack software engineer, content creator, and a HomeLab enthusiast. ⭐ [GitHub](https://github.com/timothystewart6)
+- [Christian Lempa](https://christianlempa.start.page/) - Educational videos about my Homelab and Tech Projects. ⭐ [GitHub](https://github.com/christianlempa)
+-
 
 <!--  ---------------------------- ********************* Need work *****************************  ---------------------------- -->
 
@@ -727,6 +760,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Geek's Lesson](https://www.youtube.com/c/GeeksLesson/) is a YouTube channel about the `art of computer science`. Offers tutorials on programming, web development, and more.
 - [The Missing Semester of your CS Education](https://missing.csail.mit.edu/) is a free MIT platform that teaches you the **skills you need to succeed Computer Science**. You will learn how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
 - [Web-Dev-For-Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/) is a free 24-episode course that teaches you the basics of web development. ⭐ [81k stars](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Total Typescript](https://totaltypescript.com/) is a comprehensive production-grade TypeScript training by Matt Pocock ⭐ [7.7k stars](https://github.com/total-typescript/beginners-typescript-tutorial)
 
 ## Job Boards
 
