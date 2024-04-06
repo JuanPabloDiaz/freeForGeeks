@@ -4,7 +4,7 @@
 
 A collection of links to **free resources** and **tools** for developers. It includes everything from **Frontend** and **Backend** to **DevSecOps**, **competitive programming** and more.
 
-⭐ [Star on GitHub](https://github.com/JuanPabloDiaz/freeForGeeks)
+⭐ [Star on GitHub](https://github.com/JuanPabloDiaz/freeForGeeks) ⭐ ☕ [Buy me a coffee](https://www.buymeacoffee.com/1diazdev) ☕
 
 <h3 style="color:orange">How to Contribute?</h3>
 
@@ -29,10 +29,11 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 1. [AdminLTE](https://adminlte.io/) is a fully responsive admin template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. ⭐ [44k stars](https://github.com/ColorlibHQ/AdminLTE)
 2. [Tabler](https://tabler.io/) is free and open-source HTML Dashboard UI Kit built on Bootstrap ⭐ [37k stars](https://github.com/tabler/tabler)
-3. [Core UI](https://coreui.io/) is a free Bootstrap admin template build with **HTML**. ⭐ [12k stars](https://github.com/coreui/coreui-free-bootstrap-admin-template) 💲💲
-4. [Material Dashboard](https://www.creative-tim.com/product/material-dashboard) is a free Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. ⭐ [11k stars](https://github.com/creativetimofficial/material-dashboard)
-5. [Tailwind Components - Dashboard](https://tailwindcomponents.com/components/dashboard) is a free Tailwind CSS Dashboard template. ⭐ [568 stars](https://github.com/tailwindcomponents/dashboard)
-6. [Tailwind Toolbox - Dashboard](https://tailwindtoolbox.github.io/Admin-Template) is a free Tailwind CSS Dashboard template. ⭐ [328 stars](https://github.com/tailwindtoolbox/Admin-Template)
+3. [Ngx Admin](https://akveo.github.io/ngx-admin/) is a free Angular admin dashboard template. ⭐ [25k stars](https://github.com/akveo/ngx-admin)
+4. [Core UI](https://coreui.io/) is a free Bootstrap admin template build with **HTML**. ⭐ [12k stars](https://github.com/coreui/coreui-free-bootstrap-admin-template) 💲💲
+5. [Material Dashboard](https://www.creative-tim.com/product/material-dashboard) is a free Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. ⭐ [11k stars](https://github.com/creativetimofficial/material-dashboard)
+6. [Tailwind Components - Dashboard](https://tailwindcomponents.com/components/dashboard) is a free Tailwind CSS Dashboard template. ⭐ [568 stars](https://github.com/tailwindcomponents/dashboard)
+7. [Tailwind Toolbox - Dashboard](https://tailwindtoolbox.github.io/Admin-Template) is a free Tailwind CSS Dashboard template. ⭐ [328 stars](https://github.com/tailwindtoolbox/Admin-Template)
 
 ## Component Libraries
 
@@ -92,11 +93,13 @@ A collection of links to **free resources** and **tools** for developers. It inc
 3. [React-map-gl](https://visgl.github.io/react-map-gl/) is a suite of React components for Mapbox GL JS. ⭐ [7.5k stars](https://github.com/visgl/react-map-gl)
 4. [React Simple Maps](https://www.react-simple-maps.io/) is a library to create beautiful SVG maps in React. ⭐ [3k stars](https://github.com/zcreativelabs/react-simple-maps)
 5. [Google Map React](https://github.com/google-map-react/google-map-react)
-6. [React-leaflet](https://react-leaflet.js.org/) is a React components for Leaflet maps. ⭐ [5k stars](https://github.com/PaulLeCam/react-leaflet)
-7. [Pigeon Maps](https://pigeon-maps.js.org/) is a ReactJS Map library that uses and exposes the power of the Leaflet API. ⭐ [3.5k stars](https://github.com/mariusandra/pigeon-maps)
-8. [Mapkick](https://chartkick.com/mapkick-js) is a JavaScript library for interactive maps. Create beautiful, interactive maps with one line of JavaScript ⭐ [GitHub](https://github.com/ankane/mapkick.js)
-9. [a11y-dialog](https://a11y-dialog.netlify.app/) a11y-dialog is a lightweight yet flexible script to create accessible dialog windows. ⭐ [GitHub](https://github.com/KittyGiraudel/a11y-dialog)
-10. [OpenStreetMaps](https://www.openstreetmap.org/#map=4/38.01/-95.84) Free and open-source map data. Explore "a map of the world, created by people like you and free to use under an open license."
+6. [React Leaflet](https://react-leaflet.js.org/) is a React components for Leaflet maps. ⭐ [5k stars](https://github.com/PaulLeCam/react-leaflet)
+7. [React Leaflet Map Examples](https://tomickigrzegorz.github.io/react-leaflet-examples/) 🍁 A collection of examples on how to use the react-leaflet and leaflet libraries. ⭐ [GitHub](https://github.com/tomickigrzegorz/react-leaflet-examples)
+8. [Leaflet Map Examples](https://tomickigrzegorz.github.io/leaflet-examples/) 🍁 A collection of examples on how to use the leaflet library. ⭐ [GitHub](https://github.com/tomickigrzegorz/leaflet-examples)
+9. [Pigeon Maps](https://pigeon-maps.js.org/) is a ReactJS Map library that uses and exposes the power of the Leaflet API. ⭐ [3.5k stars](https://github.com/mariusandra/pigeon-maps)
+10. [Mapkick](https://chartkick.com/mapkick-js) is a JavaScript library for interactive maps. Create beautiful, interactive maps with one line of JavaScript ⭐ [GitHub](https://github.com/ankane/mapkick.js)
+11. [a11y-dialog](https://a11y-dialog.netlify.app/) a11y-dialog is a lightweight yet flexible script to create accessible dialog windows. ⭐ [GitHub](https://github.com/KittyGiraudel/a11y-dialog)
+12. [OpenStreetMaps](https://www.openstreetmap.org/#map=4/38.01/-95.84) Free and open-source map data. Explore "a map of the world, created by people like you and free to use under an open license."
 
 ## Utility libraries for JavaScript
 
@@ -144,6 +147,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Next Video](https://next-video.dev/)Add high-performance video to your Next.js app. ⭐ [GitHub](https://github.com/muxinc/next-video)
 - [Hi-mom](https://www.npmjs.com/package/hi-mom) is a blazingly fast JavaScript library to say hi to your mom!⭐ [GitHub](https://github.com/tsivinsky/hi-mom)
 - [Danfo.js](https://danfo.jsdata.org/) is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data. ⭐ [GitHub](https://github.com/javascriptdata/danfojs)
+- [Standard.js](https://standardjs.com/) is a JavaScript Style Guide, with linter & automatic code fixer. ⭐ [30k stars](https://github.com/standard/standard)
 
 ## JavaScript
 
@@ -151,9 +155,16 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) is a book series on JavaScript. ⭐ [177k stars](https://github.com/getify/You-Dont-Know-JS)
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) and data structures implemented in JavaScript with explanations and links to further readings ⭐ [181k stars](https://github.com/trekhleb/javascript-algorithms)
 
+## TypeScript
+
+- [TypeScript](https://www.typescriptlang.org/) is a typed superset of JavaScript that compiles to plain JavaScript. ⭐ [100k stars](https://github.com/microsoft/TypeScript)
+- [Zod](https://zod.dev/) is a TypeScript-first schema declaration and validation library. I'm using the term "schema" to broadly refer to any data type, from a simple string to a complex nested object. ⭐ [30k stars](https://github.com/colinhacks/zod)
+
 ## React
 
 - [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos. ⭐ [2k stars](https://github.com/reactplay/react-play)
+- [React Community](https://reactcommunity.org/) is a collection of React libraries and tools. ⭐ [GitHub](https://github.com/reactjs)
+- [React Tabs](https://reactcommunity.org/react-tabs/) is an accessible and easy tab component for ReactJS. ⭐ [3k stars](https://github.com/reactjs/react-tabs)
 
 ## Colors
 
@@ -172,6 +183,11 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Flukeout](https://flukeout.github.io/) is a game for learning CSS selectors.
 - [Coding Fantasy](https://codingfantasy.com/) is a game for learning CSS.
 
+## Low Code
+
+1. [ToolJet](https://tooljet.io/) Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. ⭐ [27k stars](https://github.com/ToolJet/ToolJet)
+2. [Webflow](https://webflow.com/) is a visual web development platform. ⭐ [GitHub](https://github.com/webflow)
+
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
 <!-- Backend -->
@@ -184,10 +200,34 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 1. [Amplication](https://amplication.com/) is the Fastest Way in the World to Build Backend Services.🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding. ⭐ [13.3k stars](https://github.com/amplication/amplication)
 
+## Top Backend Frameworks
+
+1. [Deno](https://deno.land/) is a modern runtime for JavaScript and TypeScript. ⭐ [93k stars](https://github.com/denoland/deno)
+
+---
+
+## Others
+
+- [Biome.js](https://biomejs.com/) is a `toolchain for web projects`, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. ⭐ [10k stars](https://github.com/biomejs/biome)
+- [Format.js](https://formatjs.io/) is the monorepo home to all of the FormatJS related libraries, most notably react-intl. ⭐ [14k stars](https://github.com/formatjs/formatjs?tab=readme-ov-file)
+- [Orama](https://docs.askorama.ai/) - 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! ⭐ [8k stars](https://github.com/askorama/orama)
+
 ## Serverless Frameworks
 
 - [Serverless Stack](https://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. ⭐ [20k stars](https://github.com/sst/sst)
 - [Serverless](https://www.serverless.com/) Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! ⭐ [46k stars](https://github.com/serverless/serverless)
+
+## Web Framework
+
+- [Fastify](https://www.fastify.io/) is a fast and low overhead web framework, for Node.js. ⭐ [30.5k stars](https://github.com/fastify/fastify)
+
+## Logging Framework
+
+- [Pino.js](https://getpino.io/) is a super fast, all natural Node.js logger. ⭐ [13.2k stars](https://github.com/pinojs/pino)
+
+## Node.js
+
+- [Piscina.js](https://github.com/piscinajs/piscina) is a fast, efficient Node.js Worker Thread Pool implementation
 
 ## API
 
@@ -199,6 +239,13 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [RANDOM USER GENERATOR](https://randomuser.me/) is a free, open-source API for generating random user data. Like Lorem Ipsum, but for people. ⭐ [1.3k stars](https://github.com/RandomAPI/Randomuser.me-Node)
 - [DummyJSON](https://dummyjson.com/) is a tool to generate massive amounts of fake data in the browser and node.js. ⭐ [1.3k stars](https://github.com/Ovi/DummyJSON)
 - [Call Of Duty API](https://codapi.dev/) Unofficial wrapper for the Call of Duty API. ⭐ [GitHub](https://github.com/Lierrmm/Node-CallOfDuty)
+- [IP Geolocation API](https://ipgeolocation.io/) is a free IP Geolocation API. ⭐ [GitHub](
+- [Ipapi.com](https://ipapi.com/) is a free IP Geolocation API. Real-time Geolocation & Reverse IP Lookup REST API. ⭐ [GitHub](https://github.com/apilayer/ipapi)
+- [Ipapi.co](https://ipapi.co/) is a free IP Geolocation API. ⭐ [GitHub](https://github.com/ipapi-co/ipapi-co.github.io)
+- [GeoDB Cities API](http://geodb-cities-api.wirefreethought.com/) is an online places database. It exposes city, county, island, region, and country data via both GraphQL and REST APIs.
+- [Country State City API](https://countrystatecity.in/) is a free API to get country, state, and city details. ⭐ [6.3k stars](https://github.com/dr5hn/countries-states-cities-database)
+- [Flags API](https://flagsapi.com/) is a free API to get country flags. ⭐ [GitHub](
+-
 
 ### API Tools
 
@@ -218,22 +265,20 @@ A collection of links to **free resources** and **tools** for developers. It inc
 ## Database
 
 1. [Supabase](https://supabase.io/) is an open-source Firebase alternative. ⭐ [65k stars](https://github.com/supabase/supabase)
-2. [Nocodb](https://nocodb.com/) is an open source **Airtable Alternative** ⭐ [42k stars](https://github.com/nocodb/nocodb)
-3. [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [40k stars](https://github.com/appwrite/appwrite)
-4. [MongoDB](https://www.mongodb.com/) is a general-purpose, document-based, distributed database built for modern application developers and for the cloud era. ⭐ [26k stars](https://github.com/mongodb/mongo)
-5. [GraphQL]() ⭐ [k stars]()
-
-- [Amazon DynamoDB](https://aws.amazon.com/dynamodb) Fast, flexible NoSQL database service for single-digit millisecond performance at any scale.
-- [Apache Cassandra](https://cassandra.apache.org) Manage massive amounts of data, fast, without losing sleep.
-- [Elasticsearch](https://www.elastic.co/elasticsearch) is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases.
-- [Nhost](https://nhost.io) is an open-source backend and development platform that enables developers to build and scale their web and mobile apps.
-- [MongoDB Realm](https://www.mongodb.com/docs/realm) is a mobile-first database designed for modern, data-driven applications.
-- [MySQL](https://www.mysql.com) Many of the world's largest and fastest-growing organizations including Facebook, Twitter, Booking.com, and Verizon rely on MySQL to save time and money powering their high-volume Web sites, business-critical systems and packaged software.
-- [Oracle Database](https://www.oracle.com/database) services and products offer customers cost-optimized and high-performance versions of Oracle Database, the world's leading converged, multi-model database management system.
-- [PocketBase](https://pocketbase.io) Open Source backend for your next SaaS and Mobile app in 1 file.
-- [PostgreSQL](https://www.postgresql.org) is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
-- [Redis](https://redis.io) The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker.
-- [SQLite](https://www.sqlite.org) is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
+2. [Redis](https://redis.io) is an `in-memory database` that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. ⭐ [65k stars](https://github.com/redis/redis)
+3. [Nocodb](https://nocodb.com/) is an open source **Airtable Alternative** ⭐ [42k stars](https://github.com/nocodb/nocodb)
+4. [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [40k stars](https://github.com/appwrite/appwrite)
+5. [PocketBase](https://pocketbase.io) → Open Source backend for your next SaaS and Mobile app in 1 file. ⭐ [33k stars](https://github.com/pocketbase/pocketbase)
+6. [MongoDB](https://www.mongodb.com/) is a general-purpose, document-based, distributed database built for modern application developers and for the cloud era. ⭐ [26k stars](https://github.com/mongodb/mongo)
+7. [PostgreSQL](https://www.postgresql.org) is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. ⭐ [15k stars](https://github.com/postgres/postgres)
+8. [MySQL](https://www.mysql.com) is an open-source relational database management system. The world's most popular open-source database. ⭐ [10k stars](https://github.com/mysql/mysql-server)
+9. [GraphQL](https://graphql.com/) is the developer-friendly query language for the modern web. It transforms how apps fetch data from an API, enabling you to get exactly what you need with a single query—instead of wrangling responses from a patchwork of REST endpoints. ⭐ [10k stars](https://github.com/graphql-go/graphql)
+10. [Apache Cassandra](https://cassandra.apache.org) is an Open Source NoSQL Database. → Manage massive amounts of data, fast, without losing sleep. ⭐ [8.5k stars](https://github.com/apache/cassandra)
+11. [Nhost](https://nhost.io) is an open-source backend and development platform that enables developers to build and scale their web and mobile apps. ⭐ [7.5k stars](https://github.com/nhost/nhost)
+12. [SQLite](https://www.sqlite.org) is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. ⭐ [5.5k stars](https://github.com/sqlite/sqlite)
+13. [Amazon DynamoDB](https://aws.amazon.com/dynamodb) is a serverless, NoSQL, fully managed database service with single-digit millisecond response times at any scale, enabling you to develop and run modern applications while only paying for what you use. ⭐ [GitHub](https://github.com/aws-samples/aws-dynamodb-examples)
+14. [MongoDB Atlas Device](https://www.mongodb.com/docs/realm) is a fully managed cloud database developed by the same people that build MongoDB. Atlas Device SDK is a mobile-first database designed for modern, data-driven applications.
+15. [Oracle Database](https://www.oracle.com/database/technologies/appdev/xe.html#:~:text=Free%20Oracle%20Database%20for%20Everyone&text=You%20get%20an%20Oracle%20Database,and%20redistribute%20%E2%80%93%20all%20completely%20free!) is a free Oracle Database for Everyone. You get an Oracle Database to use, develop, test, and deploy applications. You can redistribute it – all completely free! ⭐ [GitHub](https://github.com/oracle)
 
 ## DataSet
 
@@ -270,6 +315,7 @@ Datos.gov...
 
 - [PlayWright](https://playwright.dev/) enables reliable end-to-end testing for modern web apps. ⭐ [60k stars](https://github.com/microsoft/playwright)
 - [Cypress](https://www.cypress.io/) is a **JavaScript End to End Testing Framework**. ⭐ [46k stars](https://github.com/cypress-io/cypress)
+- [Fast Check](https://fast-check.dev/) is a property-based testing framework for JavaScript and TypeScript. ⭐ [4.1k stars](https://github.com/dubzzz/fast-check)
 
 ## Security
 
@@ -323,33 +369,41 @@ Datos.gov...
 
 # Open Source
 
-[awesomeopensource.com](https://awesomeopensource.com/) is a curated list of **open-source** projects that are looking for contributors. ⭐ [k stars]()
+[AwesomeOpenSource.com](https://awesomeopensource.com/) is a curated list of **open-source** projects that are looking for contributors.
 
 ## Self Hosted Services
 
 - [Awesome SelfHosted](https://awesome-selfhosted.net/) is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers. ⭐ [172k stars](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [Nextcloud](https://nextcloud.com/) is a suite of client-server software for creating and using file hosting services. ⭐ [26k stars](https://github.com/nextcloud/server)
-- [Portainer](https://www.portainer.io/) is an open-source lightweight management UI which allows you to easily manage your Docker host or Swarm cluster. ⭐ [28k stars](https://github.com/portainer/portainer)
-- [Homer](https://homer-demo.netlify.app/) is a dead simple static HOMepage for your servER to keep your services on hand, from a simple yaml configuration file. ⭐ [8.5k stars](https://github.com/bastienwirtz/homer)
-- [Heimdall](https://heimdall.site/) is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. ⭐ [7k stars](https://github.com/linuxserver/Heimdall)
+- [Grafana](https://grafana.com/) is the open-source analytics and monitoring solution for every database. ⭐ [60k stars](https://github.com/grafana/grafana)
+- [Prometheus](https://prometheus.io/) is an open-source monitoring and alerting toolkit. ⭐ [52.1k stars](https://github.com/prometheus/prometheus)
 - [Pi-hole](https://pi-hole.net/) is a network-wide ad blocker. ⭐ [46.3k stars](https://github.com/pi-hole/pi-hole)
+- [Docker](https://www.docker.com/) is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. ⭐ [30k stars](https://github.com/docker/awesome-compose)
+- [Portainer](https://www.portainer.io/) is an open-source lightweight management UI which allows you to easily manage your Docker host or Swarm cluster. ⭐ [28k stars](https://github.com/portainer/portainer)
+- [Nextcloud](https://nextcloud.com/) is a suite of client-server software for creating and using file hosting services. ⭐ [26k stars](https://github.com/nextcloud/server)
 - [qBittorrent](https://www.qbittorrent.org/) is a free and open-source BitTorrent client. ⭐ [24.5k stars](https://github.com/qbittorrent/qBittorrent)
-- [Jackett](https://github.com/Jackett/Jackett)
+- [File Browser](https://filebrowser.org/) is a file manager that provides a web-based interface to manage your files. ⭐ [23k stars](https://github.com/filebrowser/filebrowser)
 - [Transmission](https://transmissionbt.com/) is a fast, easy, and free BitTorrent client. ⭐ [11.2k stars](https://github.com/transmission/transmission)
+- [Jackett](https://github.com/Jackett/Jackett) works as a proxy server: it translates queries from apps ([Sonarr](https://github.com/Sonarr/Sonarr), [Radarr](https://github.com/Radarr/Radarr), [SickRage](https://github.com/SiCKRAGE), [CouchPotato](https://couchpota.to/), [Mylar3](https://github.com/mylar3/mylar3), [Lidarr](https://github.com/lidarr/lidarr), [DuckieTV](https://github.com/SchizoDuckie/DuckieTV), [qBittorrent](https://www.qbittorrent.org/), [Nefarious](https://github.com/lardbit/nefarious) etc.) into tracker-site-specific http queries, parses the html or json response, and then sends results back to the requesting software. This allows for getting recent uploads (like RSS) and performing searches. Jackett is a single repository of maintained indexer scraping & translation logic - removing the burden from other apps. [11.1k stars](https://github.com/Jackett/Jackett)
+- [OpenVPN](https://openvpn.net/) is an open-source software application that implements virtual private network techniques for creating secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. ⭐ [10k stars](https://github.com/OpenVPN/openvpn)
 - [Sonarr](https://sonarr.tv/) is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort, and rename them. ⭐ [9.8k stars](https://github.com/Sonarr/Sonarr)
 - [RPI Monitor](https://xavierberger.github.io/RPi-Monitor-docs/index.html) is a monitoring tool for Raspberry Pi. A monitoring solution for Docker hosts and containers with Prometheus, Grafana, cAdvisor, NodeExporter, and alerting with AlertManager. ⭐ [9.5k stars](https://github.com/XavierBerger/RPi-Monitor)
-- [Prometheus](https://prometheus.io/) is an open-source monitoring and alerting toolkit. ⭐ [52.1k stars](https://github.com/prometheus/prometheus)
-- [Grafana](https://grafana.com/) is the open-source analytics and monitoring solution for every database. ⭐ [60k stars](https://github.com/grafana/grafana)
-- [cAdvisor](https://github.com/google/cadvisor)
-- [NodeExporter]()
-- [PiVPN](https://www.pivpn.io/) is a simple OpenVPN installer, designed for Raspberry Pi. ⭐ [k stars]()
-- [WireGuard](https://www.wireguard.com/) is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. ⭐ [k stars]()
-- [OpenVPN](https://openvpn.net/) is an open-source software application that implements virtual private network techniques for creating secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. ⭐ [k stars]()
-- [Docker](https://www.docker.com/) is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. ⭐ [k stars]()
+- [Radarr](https://radarr.video/) is a movie collection manager for Usenet and BitTorrent users. [9.2k stars](https://github.com/Radarr/Radarr)
+- [Homer](https://homer-demo.netlify.app/) is a dead simple static HOMepage for your servER to keep your services on hand, from a simple yaml configuration file. ⭐ [8.5k stars](https://github.com/bastienwirtz/homer)
+- [Heimdall](https://heimdall.site/) is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. ⭐ [7k stars](https://github.com/linuxserver/Heimdall)
+- [PiVPN](https://www.pivpn.io/) is a simple OpenVPN installer, designed for Raspberry Pi. ⭐ [7k stars](https://github.com/pivpn/pivpn)
 - [Shell In A Box](https://github.com/shellinabox/shellinabox) is a web-based terminal emulator that runs as a web-based SSH client on a web server.
+- [Lidarr](https://lidarr.audio/) is a music collection manager for Usenet and BitTorrent users. [3.3k stars](https://github.com/lidarr/lidarr)
+- [Guacamole](https://guacamole.apache.org/) is a clientless remote desktop gateway. ⭐ [3k stars](https://github.com/apache/guacamole-server)
+- [DuckieTV](https://schizoduckie.github.io/DuckieTV/) is a web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration. [1.1k stars](https://github.com/SchizoDuckie/DuckieTV)
+- [Nefarious](https://lardbit.github.io/nefarious/) is a web application that automatically downloads Movies and TV Shows. [1k stars](https://github.com/lardbit/nefarious)
+- [WireGuard](https://www.wireguard.com/) is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. ⭐ [GitHub](https://github.com/WireGuard)
 - [JDownloader](https://jdownloader.org/) is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
-- [File Browser](https://filebrowser.org/) is a file manager that provides a web-based interface to manage your files. ⭐ [23k stars](https://github.com/filebrowser/filebrowser)
-- [Guacamole](https://guacamole.apache.org/) is a clientless remote desktop gateway. ⭐ [k stars]()
+- [cAdvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+
+### Tutorial on Self Hosted Services
+
+- [Techno Tim](https://technotim.live/) is a full stack software engineer, content creator, and a HomeLab enthusiast. ⭐ [GitHub](https://github.com/timothystewart6)
+- [Christian Lempa](https://christianlempa.start.page/) - Educational videos about my Homelab and Tech Projects. ⭐ [GitHub](https://github.com/christianlempa)
 
 ## Search Engines
 
@@ -372,6 +426,19 @@ Datos.gov...
 - [iOS apps](https://github.com/dkhamsing/open-source-ios-apps)
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
+
+## Projects (Beginner friendly Contribution)
+
+- [FindIssues]() aims to provide you access to the most recent created issues on github which is not assigned to anyone yet, with its advance search technique. ⭐ [GitHub](https://github.com/anand346/findissues)
+- [Up for Grabs](https://up-for-grabs.net/#/)
+- [First Contributions](https://firstcontributions.github.io/) helps beginners make your first open source contribution in 5 minutes. ⭐ [42k stars](https://github.com/firstcontributions/first-contributions)
+- [ProjectsHut](https://www.projectshut.tech/) is an open source web app that enables users to freely publish their projects and create user profiles within the platform ⭐ [GitHub](https://github.com/priyankarpal/projectshut)
+- [ProjectMate](https://www.projectmate.net/) Supercharge your open-source contributions with projectmate.net; Discover open-source projects, connect with experienced maintainers, and collaborate with a community of passionate contributors. Join over 200+ registered users who are already making a difference. ⭐ [GitHub](https://github.com/rohitdasu/projectmate)
+- [Wekan](https://wekan.github.io/) is an open-source Trello-like kanban. | The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/ only. ⭐ [19k stars](https://github.com/wekan/wekan)
+- [Open Source Friday](https://opensourcefriday.com/) is a global movement that encourages open-source participation every Friday. ⭐ [GitHub](https://github.com/github/opensourcefriday)
+- [Open Source Guide](https://opensource.guide/) is a community guide to open-source for contributors and maintainers. ⭐ [13.5k stars](https://github.com/github/opensource.guide#readme)
+- [Open Source](https://opensource.com/) is a community of developers, designers, writers, and thinkers who believe that open-source is the way to make software better.
+- [Planka] is a Free open source kanban board for workgroups. ⭐ [6.2k stars](https://github.com/plankanban/planka)
 
 ## Dev Tools
 
@@ -447,6 +514,8 @@ Datos.gov...
 - [Picresize](https://picresize.com/) is a tool to resize, shrink, and crop your pictures online.
 - [Image Compressor](https://www.imagecompressor.com/) is a tool to compress your images.
 
+<!--  ---------------------------- ********************* ADD MORE RESOURCES  → (need work) *****************************  ---------------------------- -->
+
 ## Digital Privacy
 
 - [Surveillance Self-Defense](https://ssd.eff.org/en) "Tips, tools, and how-tos for safer online communications," by the Electronic Frontier Foundation. Basic defense guides, tool guides, and more advanced topics covered.
@@ -458,6 +527,7 @@ Datos.gov...
   [r/privacy](r/privacy) Reddit community dedicated to digital privacy and freedom. Resources, news, guides, and more for securing your digital lives. [Their wiki is an indispensable source anyone interested in digital privacy](https://www.reddit.com/r/privacy/wiki/index).
 - [They Track You](https://theytrackyou.com/) "A website to raise awareness of online privacy." Information on corporate and government tracking, defense of surveillance, and more. Very good for beginners.
 - [Richard Stallman](https://www.stallman.org/) Reasons for not using products and services from the biggest technology companies, by the man behind the GNU Project and the Free Software Foundation.
+<!--  ---------------------------- ********************* ADD MORE RESOURCES *****************************  ---------------------------- -->
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
@@ -471,12 +541,19 @@ Datos.gov...
 - [Sketch](https://www.sketch.com/) is a design toolkit for macOS.
 - [Canva](https://www.canva.com/) is a **free-to-use online graphic design tool** that simplifies the process of creating visual content
 
+<!--  ---------------------------- ********************* ADD MORE RESOURCES *****************************  ---------------------------- -->
+
 ## Miscellaneous
 
 - [Awesome](https://awesome.re) is a curated list of awesome lists.
 - [readme.com](https://readme.com) — Beautiful documentation made easy, free for Open Source.
 - [versionfeeds](https://versionfeeds.com) — Get notified when a new version of your favorite software is released.
 - [tiledesk](https://www.tiledesk.com) — Open Source Live Chat and Chatbots for Customer Support.
+- [Rocket.Chat](https://rocket.chat/) is a free and open-source `team chat collaboration platform` that allows users to communicate securely in real-time across devices on web, desktop, or mobile and to customize their interface with a range of plugins, themes, and integrations with other key software. ⭐ [39k stars](https://github.com/RocketChat/Rocket.Chat)
+
+# https://free-for.dev/#/?id=miscellaneous <!-- READ THIS AND ADD MORE RESOURCES -->
+
+<!--  ---------------------------- ********************* ADD MORE RESOURCES *****************************  ---------------------------- -->
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
@@ -492,23 +569,23 @@ Datos.gov...
 4. [Phind](https://phind.com) AI chatbot built for developers in a chat-like form.
 5. [Poe](https://poe.com) Poe is chat-based AI. Uses GPT-3.5.
 
-- [OpenAI](https://openai.com/) is an AI research lab ⭐ [55k stars](https://github.com/openai/openai-cookbook)
 - [TensorFlow](https://www.tensorflow.org/) is an Open Source Machine Learning Framework for Everyone ⭐ [190k stars](https://github.com/tensorflow/tensorflow)
-- [PyTorch](https://pytorch.org/)
-- [Keras](https://keras.io/)
-- [FastAI](https://www.fast.ai/)
-- [Hugging Face](https://huggingface.co/)
-- [Allen AI](https://allenai.org/)
-- [DeepAI](https://deepai.org/)
-- [Cody](https://sourcegraph.com/cody) is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. ⭐ [1.5k stars](https://github.com/sourcegraph/cody)
+- [Hugging Face](https://huggingface.co/) - The AI community building the future. ⭐ [124k stars](https://github.com/huggingface/transformers)
+- [PyTorch](https://pytorch.org/) is a Python package that provides two high-level features: Tensor computation (like NumPy) with strong GPU acceleration. Deep neural networks built on a tape-based autograd system ⭐ [77.3k stars](https://github.com/pytorch/pytorch)
+- [Keras](https://keras.io/) 3 is a multi-backend deep learning framework, with support for JAX, TensorFlow, and PyTorch. ⭐ [61k stars](https://github.com/keras-team/keras)
+- [OpenAI](https://openai.com/) is an AI research lab ⭐ [55k stars](https://github.com/openai/openai-cookbook)
+- [FastAI](https://www.fast.ai/) deep learning library ⭐ [25.5k stars](https://github.com/fastai/fastai)
+- [Allen AI](https://allenai.org/) ⭐ [GitHub](https://github.com/allenai)
+- [DeepAI](https://deepai.org/) ⭐ [GitHub](https://github.com/deepai-org)
+- [Cody](https://cody.dev) is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. ⭐ [1.7k stars](https://github.com/sourcegraph/cody)
 - [Awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
 - [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) is a platform with currently 3 AI's: ImageFX: allows you to make AI images, MusicFX: Allows you to generate AI Music, TextFX: Can explain words.
 
 ## Code Generation
 
-[Codeium](https://www.codeium.com) is a free AI-powered code completion tool. Codeium autocompletes your code with AI in all major IDEs. ⭐ [3k stars](https://github.com/Exafunction/codeium.vim)
-[CodeWhisperer](https://aws.amazon.com/codewhisperer) is a code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code.
-[Tabnine](https://www.tabnine.com) helps developers create better software, faster by providing insights learned from all the code in the world.
+- [Codeium](https://www.codeium.com) is a free AI-powered code completion tool. Codeium autocompletes your code with AI in all major IDEs. ⭐ [3k stars](https://github.com/Exafunction/codeium.vim)
+- [CodeWhisperer](https://aws.amazon.com/codewhisperer) is a code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code.
+- [Tabnine](https://www.tabnine.com) helps developers create better software, faster by providing insights learned from all the code in the world.
 
 ## Tech News
 
@@ -557,6 +634,7 @@ Comparison of major documentation tools:
 - [Next.js](https://nextjs.org/) is a **React framework**. ⭐ [119k stars](https://github.com/vercel/next.js)
 - [Tailwind CSS](https://tailwindcss.com/) is a **utility-first CSS framework** for rapid UI development. ⭐ [76.9k stars](https://github.com/tailwindlabs/tailwindcss)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is a **lightweight interpreted** Programming language. ⭐ [GitHub](https://github.com/topics/javascript)
+- [htmx](https://htmx.org/) is a high power tools for HTML ⭐ [32k stars](https://github.com/bigskysoftware/htmx)
 - [Filamentphp](https://filamentphp.com/) is a beautifully designed **open-source admin panel** for Laravel. | [GitHub](https://github.com/filamentphp/filament)
 - [Pkl lang](https://pkl-lang.org/) is a **configuration-as-code language** that offers rich validation and tooling. | [GitHub](https://github.com/apple/pkl-lang.org)
 
@@ -642,12 +720,12 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Video Archive](https://archive.org/details/movies) is a collection of movies and videos.
 - [Image Archive](https://archive.org/details/image) is a collection of images.
 
-## Dev Resources Lists
+## Free Developer Resource Hubs
 
 - [Awesome](https://awesome.re/) lists about all kinds of interesting topics. ⭐ [294k stars](https://github.com/sindresorhus/awesome)
 - [Free-For Dev](https://free-for.dev/) is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. ⭐ [82k stars](https://github.com/ripienaar/free-for-dev)
 - [Free Stuff for Developer](https://freestuff.dev/) is a list of free stuff for developer by developer to use. ⭐ [1.5k stars](https://github.com/hilmanski/freeStuffDev/)
-- [LinksHub](https://www.linkshub.dev/) List of resources to free software, libraries, frameworks, and other tools. ⭐ [621 stars]()
+- [LinksHub](https://www.linkshub.dev/) is a list of resources to free software, libraries, frameworks, and other tools. ⭐ [621 stars]()
 - [Freesets](https://freesets.vercel.app/) is a collection of free resources like icons, images, illustrations, components, libraries and more. ⭐ [GitHub](https://github.com/cosmoart/Freesets)
 - [Free-for-life](https://free.wdh.gg/) is a massive list including a huge amount of products and services that are completely free! ⭐ [GitHub](https://github.com/wdhdev/free-for-life)
 - [Free Resources](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) is a list of free resources for almost everyone. ⭐ [GitHub](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone)
@@ -658,18 +736,19 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 
 - [Developer Roadmap](https://roadmap.sh/), guides and other educational content **to help developers grow** in their careers. ⭐ [269k stars](https://github.com/kamranahmedse/developer-roadmap)
 - [FreeCodeCamp](https://www.freecodecamp.org/) is a **free online learning platform** that teaches you to code. ⭐ [385k stars](https://github.com/freeCodeCamp/freeCodeCamp)
-- [Code Crafters](https://codecrafters.io/) helps you master programming by recreating your favorite technologies from scratch. ⭐ [250k stars](https://github.com/codecrafters-io/build-your-own-x)
+- [Code Crafters](https://codecrafters.io/) → helps you master programming by recreating your favorite technologies from scratch. ⭐ [250k stars](https://github.com/codecrafters-io/build-your-own-x)
+- [Open Source Society University - CS](https://github.com/ossu) is a community-driven university offering free, self-taught education in `computer science`, bioinformatics, and data science. | Here is the path to a free self-taught education in Computer Science! ⭐ [161k stars](https://github.com/ossu/computer-science)
 - [Full-Stack Open](https://fullstackopen.com/en/) is a **free online course** that teaches you the **basics of web development**. ⭐ [GitHub](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
 - [The Odin Project](https://www.theodinproject.com/) is a **free online learning platform** that teaches you to code. ⭐ [GitHub](https://github.com/TheOdinProject)
 - [Cloud Study Network](https://cloudstudy.net/) is a curated list of free courses & certifications.. ⭐ [21k stars](https://github.com/cloudcommunity/Free-Certifications)
 - [Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone)
-- [Sololearn](https://www.sololearn.com/) is a free online learning platform that teaches you to code. Courses in Python, C++, Java, JavaScript, Web Fundamentals and more. ⭐ [GitHub]()
-- [SQLCourse](https://www.sqlcourse.com/) "Interactive Online SQL Training." "This unique introductory SQL tutorial not only provides easy-to-understand SQL instructions, but it allows you to practice what you learn using the on-line SQL interpreter. You will receive immediate results after submitting your SQL commands. You will be able to create your own unique tables as well as perform selects, inserts, updates, deletes, and drops on your tables."
-- [Open Source Society University](https://github.com/ossu) Open-source, community-driven university offering free, self-taught education in computer science, bioinformatics, and data science.
-- [CS50](https://www.youtube.com/c/cs50) "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Demanding, but definitely doable. Social, but educational. A focused topic, but broadly applicable skills. CS50 is the quintessential Harvard (and Yale!) course. "
-- [Geek's Lesson](https://www.youtube.com/c/GeeksLesson/) "This channel is about the art of computer science, consisting of educational contents from experts all around the world. We provide contents related to computer science domain such as Mathematics, Machine Learning, IT security, System Administration, Deep learning, Data Science, Natural language processing and Statistics. All contents of this channel solely dedicated for educational or research purpose in computer science. "
-- [The Missing Semester of your CS Education](https://missing.csail.mit.edu/) Everything you should learn in a computer science degree program, but don't. "We’ll teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!" Command line, Vim, environments, debugging, metaprogramming, security and cryptography, and more. From MIT CSAIL.
-- [Geeks for Geeks](https://www.geeksforgeeks.org/about/) Guides in various topics in programming, from data structures to algorithms, to interviewing and more. Practice programs, etc.
+- [Sololearn](https://www.sololearn.com/) is a free online platform that offers coding lessons in Python, C++, Java, JavaScript, Web Fundamentals and more.
+- [SQLCourse](https://www.sqlcourse.com/) → Interactive Online SQL Training. Practice what you learn using a free online SQL interpreter.
+- [CS50](https://www.youtube.com/c/cs50) is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.
+- [Geek's Lesson](https://www.youtube.com/c/GeeksLesson/) is a YouTube channel about the `art of computer science`. Offers tutorials on programming, web development, and more.
+- [The Missing Semester of your CS Education](https://missing.csail.mit.edu/) is a free MIT platform that teaches you the **skills you need to succeed Computer Science**. You will learn how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
+- [Web-Dev-For-Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/) is a free 24-episode course that teaches you the basics of web development. ⭐ [81k stars](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Total Typescript](https://totaltypescript.com/) is a comprehensive production-grade TypeScript training by Matt Pocock ⭐ [7.7k stars](https://github.com/total-typescript/beginners-typescript-tutorial)
 
 ## Job Boards
 
