@@ -514,9 +514,9 @@ Datos.gov...
 - [Picresize](https://picresize.com/) is a tool to resize, shrink, and crop your pictures online.
 - [Image Compressor](https://www.imagecompressor.com/) is a tool to compress your images.
 
-<!--  ---------------------------- ********************* ADD MORE RESOURCES *****************************  ---------------------------- -->
+<!--  ---------------------------- ********************* ADD MORE RESOURCES  → (need work) *****************************  ---------------------------- -->
 
-## Digital Privacy → (need work)
+## Digital Privacy
 
 - [Surveillance Self-Defense](https://ssd.eff.org/en) "Tips, tools, and how-tos for safer online communications," by the Electronic Frontier Foundation. Basic defense guides, tool guides, and more advanced topics covered.
 - [PrivacyTools](https://www.privacytools.io/) "You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance." Considered the standard for finding privacy-conscious alternatives to popular software.
@@ -561,8 +561,6 @@ Datos.gov...
 
 # Resources
 
-<!--  ---------------------------- ********************* Need work *****************************  ---------------------------- -->
-
 ## Artificial Intelligence (AI)
 
 1. [ChatGPT](https://chat.openai.com) is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models.
@@ -571,24 +569,23 @@ Datos.gov...
 4. [Phind](https://phind.com) AI chatbot built for developers in a chat-like form.
 5. [Poe](https://poe.com) Poe is chat-based AI. Uses GPT-3.5.
 
-- [OpenAI](https://openai.com/) is an AI research lab ⭐ [55k stars](https://github.com/openai/openai-cookbook)
 - [TensorFlow](https://www.tensorflow.org/) is an Open Source Machine Learning Framework for Everyone ⭐ [190k stars](https://github.com/tensorflow/tensorflow)
-- [PyTorch](https://pytorch.org/)
-- [Keras](https://keras.io/)
-- [FastAI](https://www.fast.ai/)
-- [Hugging Face](https://huggingface.co/)
-- [Allen AI](https://allenai.org/)
-- [DeepAI](https://deepai.org/)
-- [Cody](https://sourcegraph.com/cody) is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. ⭐ [1.5k stars](https://github.com/sourcegraph/cody)
+- [Hugging Face](https://huggingface.co/) - The AI community building the future. ⭐ [124k stars](https://github.com/huggingface/transformers)
+- [PyTorch](https://pytorch.org/) is a Python package that provides two high-level features: Tensor computation (like NumPy) with strong GPU acceleration. Deep neural networks built on a tape-based autograd system ⭐ [77.3k stars](https://github.com/pytorch/pytorch)
+- [Keras](https://keras.io/) 3 is a multi-backend deep learning framework, with support for JAX, TensorFlow, and PyTorch. ⭐ [61k stars](https://github.com/keras-team/keras)
+- [OpenAI](https://openai.com/) is an AI research lab ⭐ [55k stars](https://github.com/openai/openai-cookbook)
+- [FastAI](https://www.fast.ai/) deep learning library ⭐ [25.5k stars](https://github.com/fastai/fastai)
+- [Allen AI](https://allenai.org/) ⭐ [GitHub](https://github.com/allenai)
+- [DeepAI](https://deepai.org/) ⭐ [GitHub](https://github.com/deepai-org)
+- [Cody](https://cody.dev) is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster. ⭐ [1.7k stars](https://github.com/sourcegraph/cody)
 - [Awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
 - [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) is a platform with currently 3 AI's: ImageFX: allows you to make AI images, MusicFX: Allows you to generate AI Music, TextFX: Can explain words.
-- <!--  ---------------------------- ********************* Need work *****************************  ---------------------------- -->
 
 ## Code Generation
 
-[Codeium](https://www.codeium.com) is a free AI-powered code completion tool. Codeium autocompletes your code with AI in all major IDEs. ⭐ [3k stars](https://github.com/Exafunction/codeium.vim)
-[CodeWhisperer](https://aws.amazon.com/codewhisperer) is a code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code.
-[Tabnine](https://www.tabnine.com) helps developers create better software, faster by providing insights learned from all the code in the world.
+- [Codeium](https://www.codeium.com) is a free AI-powered code completion tool. Codeium autocompletes your code with AI in all major IDEs. ⭐ [3k stars](https://github.com/Exafunction/codeium.vim)
+- [CodeWhisperer](https://aws.amazon.com/codewhisperer) is a code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code.
+- [Tabnine](https://www.tabnine.com) helps developers create better software, faster by providing insights learned from all the code in the world.
 
 ## Tech News
 
