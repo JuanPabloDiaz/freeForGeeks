@@ -369,7 +369,7 @@ Datos.gov...
 
 # Open Source
 
-[awesomeopensource.com](https://awesomeopensource.com/) is a curated list of **open-source** projects that are looking for contributors. ⭐ [k stars]()
+[AwesomeOpenSource.com](https://awesomeopensource.com/) is a curated list of **open-source** projects that are looking for contributors.
 
 ## Self Hosted Services
 
@@ -383,22 +383,22 @@ Datos.gov...
 - [qBittorrent](https://www.qbittorrent.org/) is a free and open-source BitTorrent client. ⭐ [24.5k stars](https://github.com/qbittorrent/qBittorrent)
 - [File Browser](https://filebrowser.org/) is a file manager that provides a web-based interface to manage your files. ⭐ [23k stars](https://github.com/filebrowser/filebrowser)
 - [Transmission](https://transmissionbt.com/) is a fast, easy, and free BitTorrent client. ⭐ [11.2k stars](https://github.com/transmission/transmission)
+- [Jackett](https://github.com/Jackett/Jackett) works as a proxy server: it translates queries from apps ([Sonarr](https://github.com/Sonarr/Sonarr), [Radarr](https://github.com/Radarr/Radarr), [SickRage](https://github.com/SiCKRAGE), [CouchPotato](https://couchpota.to/), [Mylar3](https://github.com/mylar3/mylar3), [Lidarr](https://github.com/lidarr/lidarr), [DuckieTV](https://github.com/SchizoDuckie/DuckieTV), [qBittorrent](https://www.qbittorrent.org/), [Nefarious](https://github.com/lardbit/nefarious) etc.) into tracker-site-specific http queries, parses the html or json response, and then sends results back to the requesting software. This allows for getting recent uploads (like RSS) and performing searches. Jackett is a single repository of maintained indexer scraping & translation logic - removing the burden from other apps. [11.1k stars](https://github.com/Jackett/Jackett)
 - [OpenVPN](https://openvpn.net/) is an open-source software application that implements virtual private network techniques for creating secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. ⭐ [10k stars](https://github.com/OpenVPN/openvpn)
 - [Sonarr](https://sonarr.tv/) is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort, and rename them. ⭐ [9.8k stars](https://github.com/Sonarr/Sonarr)
 - [RPI Monitor](https://xavierberger.github.io/RPi-Monitor-docs/index.html) is a monitoring tool for Raspberry Pi. A monitoring solution for Docker hosts and containers with Prometheus, Grafana, cAdvisor, NodeExporter, and alerting with AlertManager. ⭐ [9.5k stars](https://github.com/XavierBerger/RPi-Monitor)
+- [Radarr](https://radarr.video/) is a movie collection manager for Usenet and BitTorrent users. [9.2k stars](https://github.com/Radarr/Radarr)
 - [Homer](https://homer-demo.netlify.app/) is a dead simple static HOMepage for your servER to keep your services on hand, from a simple yaml configuration file. ⭐ [8.5k stars](https://github.com/bastienwirtz/homer)
 - [Heimdall](https://heimdall.site/) is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. ⭐ [7k stars](https://github.com/linuxserver/Heimdall)
 - [PiVPN](https://www.pivpn.io/) is a simple OpenVPN installer, designed for Raspberry Pi. ⭐ [7k stars](https://github.com/pivpn/pivpn)
 - [Shell In A Box](https://github.com/shellinabox/shellinabox) is a web-based terminal emulator that runs as a web-based SSH client on a web server.
+- [Lidarr](https://lidarr.audio/) is a music collection manager for Usenet and BitTorrent users. [3.3k stars](https://github.com/lidarr/lidarr)
 - [Guacamole](https://guacamole.apache.org/) is a clientless remote desktop gateway. ⭐ [3k stars](https://github.com/apache/guacamole-server)
+- [DuckieTV](https://schizoduckie.github.io/DuckieTV/) is a web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration. [1.1k stars](https://github.com/SchizoDuckie/DuckieTV)
+- [Nefarious](https://lardbit.github.io/nefarious/) is a web application that automatically downloads Movies and TV Shows. [1k stars](https://github.com/lardbit/nefarious)
 - [WireGuard](https://www.wireguard.com/) is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. ⭐ [GitHub](https://github.com/WireGuard)
 - [JDownloader](https://jdownloader.org/) is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [cAdvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
-- [Jackett](https://github.com/Jackett/Jackett) works as a proxy server: it translates queries from apps ([Sonarr](https://github.com/Sonarr/Sonarr), [Radarr](https://github.com/Radarr/Radarr), [SickRage](https://github.com/SiCKRAGE), [CouchPotato](https://couchpota.to/), [Mylar3](https://github.com/mylar3/mylar3), [Lidarr](https://github.com/lidarr/lidarr), [DuckieTV](https://github.com/SchizoDuckie/DuckieTV), [qBittorrent](https://www.qbittorrent.org/), [Nefarious](https://github.com/lardbit/nefarious) etc.) into tracker-site-specific http queries, parses the html or json response, and then sends results back to the requesting software. This allows for getting recent uploads (like RSS) and performing searches. Jackett is a single repository of maintained indexer scraping & translation logic - removing the burden from other apps.
-- [Radarr](https://radarr.video/) is a movie collection manager for Usenet and BitTorrent users. [9.2k stars](https://github.com/Radarr/Radarr)
-- [Lidarr](https://lidarr.audio/) is a music collection manager for Usenet and BitTorrent users. [3.3k stars](https://github.com/lidarr/lidarr)
-[DuckieTV](https://schizoduckie.github.io/DuckieTV/) is a web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration. [1.1k stars](https://github.com/SchizoDuckie/DuckieTV)
-- [Nefarious](https://lardbit.github.io/nefarious/) is a web application that automatically downloads Movies and TV Shows. [1k stars](https://github.com/lardbit/nefarious)
 
 ### Tutorial on Self Hosted Services
 
