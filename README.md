@@ -1,3 +1,29 @@
+<!-- tabs:start -->
+
+#### **About**
+
+<h1>Free For Geeks</h1>
+
+**Free For Geeks** is your curated toolbox for building better software. Free resources for all your dev needs.
+
+A collection of links to **free resources** and **tools** for developers. It includes everything from **Frontend** and **Backend** to **DevSecOps**, **competitive programming** and more.
+
+#### **Developer**
+
+<h3 style="color:orange">Who is this for?</h3>
+
+👩‍💻 This is for developers, designers, and tech enthusiasts who want to build better software. It includes resources for **Frontend**, **Backend**, **DevSecOps**, **competitive programming** and more.
+
+#### **Contribute**
+
+<h3 style="color:orange">How to Contribute?</h3>
+
+🤝 Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+
+#### **Badge <span class="tab-badge">New!</span>**
+
+<!-- tabs:end -->
+
 The repository is a test and has <span id="star-count"></span> stars.
 
 1. [AdminLTE](https://adminlte.io/) is a fully responsive admin template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. ⭐ [stars](https://github.com/ColorlibHQ/AdminLTE)
@@ -10,17 +36,7 @@ The repository is a test and has <span id="star-count"></span> stars.
 
 ---
 
-<h1>Free For Geeks</h1>
-
-**Free For Geeks** is your curated toolbox for building better software. Free resources for all your dev needs.
-
-A collection of links to **free resources** and **tools** for developers. It includes everything from **Frontend** and **Backend** to **DevSecOps**, **competitive programming** and more.
-
 ⭐ [Star on GitHub](https://github.com/JuanPabloDiaz/freeForGeeks) ⭐ ☕ [Buy me a coffee](https://www.buymeacoffee.com/1diazdev) ☕
-
-<h3 style="color:orange">How to Contribute?</h3>
-
-🤝 Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
 <h1> Table of Contents </h1>
 

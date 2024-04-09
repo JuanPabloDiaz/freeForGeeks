@@ -110,6 +110,13 @@
           codeFontFamily: "Roboto Mono, Monaco, courier, monospace",
           bodyFontSize: "15px",
         },
+        tabs: {
+          persist: true, // default
+          sync: true, // default
+          theme: "material", // classic, material
+          tabComments: true, // default
+          tabHeadings: true, // default
+        },
       };
     </script>
     <script src="./js/githubStars.js"></script>
@@ -120,6 +127,28 @@
       type="text/javascript"
     ></script>
 
+    <!-- Tabs plugin https://jhildenbiddle.github.io/docsify-tabs/-->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+    <style>
+      :root {
+        --docsifytabs-border-color: #ededed4b;
+        --docsifytabs-tab-highlight-color: green;
+      }
+      .tab-badge {
+        position: absolute;
+        top: 0;
+        right: 0;
+        transform: translate(35%, -45%);
+        padding: 0.25em 0.35em;
+        border-radius: 3px;
+        background: red;
+        color: white;
+        font-family: sans-serif;
+        font-size: 11px;
+        font-weight: bold;
+      }
+    </style>
+    <!-- End Tabs plugin -->
     <style>
       blockquote:first-of-type {
         background-color: rgba(235, 248, 242, 0.363);
