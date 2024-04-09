@@ -834,3 +834,5 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Electron](https://www.electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
+
+<footer id="mb-footer"></footer>
