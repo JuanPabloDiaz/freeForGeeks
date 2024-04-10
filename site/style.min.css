@@ -1,0 +1,80 @@
+:root {
+  --colour-mono: 0, 0%;
+  --colour-orange: 24, 95%;
+  --colour-red: 349, 82%;
+  --colour-pink: 337, 79%;
+}
+
+::selection {
+  --mono: 100%;
+  background: hsl(var(--colour-orange), 50%);
+  color: hsl(var(--colour-mono), var(--mono));
+  text-shadow: none;
+  border-width: 0;
+  text-decoration: none;
+  border-color: transparent;
+  border-radius: 0;
+}
+
+/* COVER */
+section.cover,
+section.cover a {
+  color: hsl(var(--colour-mono), 100%) !important;
+  border: 0 !important;
+  background-color: red !important;
+}
+
+section.cover {
+  text-align: center !important;
+  background-color: whitesmoke !important;
+}
+
+section.cover .cover-main {
+  max-width: 100%;
+  background-color: darkblue !important;
+}
+
+section.cover p:last-child a:first-child {
+  width: 100% !important;
+  background-color: hsl(var(--colour-mono), 100%) !important;
+  font-weight: bold;
+  color: hsl(var(--colour-mono), 0%) !important;
+  background-color: purple !important;
+}
+
+section.cover p:last-child a:not(:first-child) {
+  text-decoration: none !important;
+  display: inline-block;
+  background-color: hsla(var(--colour-mono), 100%, 0.1);
+  padding: 0 2em;
+  line-height: 2.5em;
+  background-color: darkred !important;
+}
+/* BODY */
+
+.markdown-section code {
+  --mono: 90%;
+  background: hsla(var(--colour-mono), var(--mono), 0.1);
+  color: blueviolet;
+}
+
+/* TABLE */
+
+.markdown-section table {
+  /* --mono: 95%; */
+  display: table;
+  table-layout: fixed;
+  width: 90%;
+  border-radius: 1em !important;
+  border-collapse: collapse;
+}
+
+.markdown-section table tr {
+  background: none !important;
+}
+
+.markdown-section table th,
+.markdown-section table td {
+  --mono: 90%;
+  color: white;
+}
