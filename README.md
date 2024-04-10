@@ -1,3 +1,15 @@
+The repository is a test and has <span id="star-count"></span> stars.
+
+1. [AdminLTE](https://adminlte.io/) is a fully responsive admin template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. ⭐ [stars](https://github.com/ColorlibHQ/AdminLTE)
+2. [Tabler](https://tabler.io/) is free and open-source HTML Dashboard UI Kit built on Bootstrap ⭐ [stars](https://github.com/tabler/tabler)
+3. [Ngx Admin](https://akveo.github.io/ngx-admin/) is a free Angular admin dashboard template. ⭐ [stars](https://github.com/akveo/ngx-admin)
+4. [Core UI](https://coreui.io/) is a free Bootstrap admin template build with **HTML**. ⭐ [stars](https://github.com/coreui/coreui-free-bootstrap-admin-template) 💲💲
+5. [Material Dashboard](https://www.creative-tim.com/product/material-dashboard) is a free Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. ⭐ [stars](https://github.com/creativetimofficial/material-dashboard)
+6. [Tailwind Components - Dashboard](https://tailwindcomponents.com/components/dashboard) is a free Tailwind CSS Dashboard template. ⭐ [stars](https://github.com/tailwindcomponents/dashboard)
+7. [Tailwind Toolbox - Dashboard](https://tailwindtoolbox.github.io/Admin-Template) is a free Tailwind CSS Dashboard template. ⭐ [stars](https://github.com/tailwindtoolbox/Admin-Template)
+
+---
+
 <!-- tabs:start -->
 
 #### **About**
@@ -23,16 +35,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 #### **Badge <span class="tab-badge">New!</span>**
 
 <!-- tabs:end -->
-
-The repository is a test and has <span id="star-count"></span> stars.
-
-1. [AdminLTE](https://adminlte.io/) is a fully responsive admin template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. ⭐ [stars](https://github.com/ColorlibHQ/AdminLTE)
-2. [Tabler](https://tabler.io/) is free and open-source HTML Dashboard UI Kit built on Bootstrap ⭐ [stars](https://github.com/tabler/tabler)
-3. [Ngx Admin](https://akveo.github.io/ngx-admin/) is a free Angular admin dashboard template. ⭐ [stars](https://github.com/akveo/ngx-admin)
-4. [Core UI](https://coreui.io/) is a free Bootstrap admin template build with **HTML**. ⭐ [stars](https://github.com/coreui/coreui-free-bootstrap-admin-template) 💲💲
-5. [Material Dashboard](https://www.creative-tim.com/product/material-dashboard) is a free Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. ⭐ [stars](https://github.com/creativetimofficial/material-dashboard)
-6. [Tailwind Components - Dashboard](https://tailwindcomponents.com/components/dashboard) is a free Tailwind CSS Dashboard template. ⭐ [stars](https://github.com/tailwindcomponents/dashboard)
-7. [Tailwind Toolbox - Dashboard](https://tailwindtoolbox.github.io/Admin-Template) is a free Tailwind CSS Dashboard template. ⭐ [stars](https://github.com/tailwindtoolbox/Admin-Template)
 
 ---
 

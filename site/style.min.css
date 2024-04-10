@@ -17,6 +17,15 @@
 }
 
 /* COVER */
+
+section.cover.show {
+  /* docsify randomizes backgrounds */
+  background: #3f3f3f !important;
+  /* coverpage content can be taller than the screen on mobile */
+  height: auto;
+  min-height: 100vh;
+}
+
 section.cover,
 section.cover a {
   color: hsl(var(--colour-mono), 100%) !important;
@@ -26,12 +35,13 @@ section.cover a {
 
 section.cover {
   text-align: center !important;
-  background-color: whitesmoke !important;
 }
 
 section.cover .cover-main {
   max-width: 100%;
   background-color: darkblue !important;
+  /* ensures the logo doesn't get cut off on small screens */
+  margin-top: 4px;
 }
 
 section.cover p:last-child a:first-child {
@@ -77,4 +87,16 @@ section.cover p:last-child a:not(:first-child) {
 .markdown-section table td {
   --mono: 90%;
   color: white;
+}
+
+@media only screen and (min-width: 600px) {
+  section.cover ul {
+    display: grid;
+    grid-column-gap: 16px;
+    grid-template-columns: repeat(2, 50%);
+  }
+
+  section.cover ul li:nth-child(odd) {
+    text-align: right;
+  }
 }
