@@ -1,2 +1,5 @@
-/docs
-/favicon
+/github-stars/.vercel
+/github-stars/.env
+
+/api/.vercel
+/api/.env

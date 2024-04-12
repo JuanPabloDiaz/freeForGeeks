@@ -1,16 +1,30 @@
+<!-- The repository is a test and has <span id="star-count"></span> stars.
+
+1. [AdminLTE](https://adminlte.io/) is a fully responsive admin template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. ⭐ [stars](https://github.com/ColorlibHQ/AdminLTE)
+2. [Tabler](https://tabler.io/) is free and open-source HTML Dashboard UI Kit built on Bootstrap ⭐ [stars](https://github.com/tabler/tabler)
+3. [Ngx Admin](https://akveo.github.io/ngx-admin/) is a free Angular admin dashboard template. ⭐ [stars](https://github.com/akveo/ngx-admin)
+4. [Core UI](https://coreui.io/) is a free Bootstrap admin template build with **HTML**. ⭐ [stars](https://github.com/coreui/coreui-free-bootstrap-admin-template) 💲💲
+5. [Material Dashboard](https://www.creative-tim.com/product/material-dashboard) is a free Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. ⭐ [stars](https://github.com/creativetimofficial/material-dashboard)
+6. [Tailwind Components - Dashboard](https://tailwindcomponents.com/components/dashboard) is a free Tailwind CSS Dashboard template. ⭐ [stars](https://github.com/tailwindcomponents/dashboard)
+7. [Tailwind Toolbox - Dashboard](https://tailwindtoolbox.github.io/Admin-Template) is a free Tailwind CSS Dashboard template. ⭐ [stars](https://github.com/tailwindtoolbox/Admin-Template)
+
+--- -->
+
+<!-- tabs:start -->
+
+#### **About**
+
+<div style="display:flex; gap:10px;">
+<!-- <img src="./images/geek.ico" style="height:40px" /> -->
 <h1>Free For Geeks</h1>
+<img src="./images/geek.ico" style="height:40px" />
+</div>
 
 **Free For Geeks** is your curated toolbox for building better software. Free resources for all your dev needs.
 
 A collection of links to **free resources** and **tools** for developers. It includes everything from **Frontend** and **Backend** to **DevSecOps**, **competitive programming** and more.
 
-⭐ [Star on GitHub](https://github.com/JuanPabloDiaz/freeForGeeks) ⭐ ☕ [Buy me a coffee](https://www.buymeacoffee.com/1diazdev) ☕
-
-<h3 style="color:orange">How to Contribute?</h3>
-
-🤝 Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
-
-<h1> Table of Contents </h1>
+<h2>Table of Contents</h2>
 
 - [Frontend](#frontend)
 - [Backend](#backend)
@@ -20,6 +34,23 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Resources](#resources)
 - [Career Development](#career-development)
 - [Other Resources](#other-resources)
+
+#### **Contribute**
+
+<h3 style="color:orange">How to Contribute?</h3>
+
+🤝 Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+
+#### **Developer**
+
+<h3 style="color:orange">Who is this for?</h3>
+
+👩‍💻 This is for developers, designers, and tech enthusiasts who want to build better software. It includes resources for **Frontend**, **Backend**, **DevSecOps**, **competitive programming** and more.
+
+<!-- tabs:end -->
+<!-- #### **Badge <span class="tab-badge">New!</span>** -->
+
+<!-- ⭐ [Star on GitHub](https://github.com/JuanPabloDiaz/freeForGeeks) ⭐ ☕ [Buy me a coffee](https://www.buymeacoffee.com/1diazdev) ☕ -->
 
 # Frontend
 
@@ -427,7 +458,7 @@ Datos.gov...
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
-## Projects (Beginner friendly Contribution)
+F## Projects (Beginner friendly Contribution)
 
 - [FindIssues]() aims to provide you access to the most recent created issues on github which is not assigned to anyone yet, with its advance search technique. ⭐ [GitHub](https://github.com/anand346/findissues)
 - [Up for Grabs](https://up-for-grabs.net/#/)
@@ -454,6 +485,7 @@ Datos.gov...
 - [Stats](https://github-readme-stats.vercel.app): Get `up-to-date stats` on your GitHub **activity** and **contributions**, automatically integrated into your README.md with Readme Stats. It is a **dynamically generated GitHub stats** on your READMEs. ⭐ [64k stars](https://github.com/anuraghazra/github-readme-stats)
 - [Awesome GitHub Profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme) is a curated list of **awesome GitHub Profile READMEs**. ⭐ [22k stars](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [Best Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) is another tool to generate GitHub profile READMEs by filling out a **simple form**. ⭐ [19.5k stars](https://github.com/rahuldkjain/github-profile-readme-generator)
+- [Readme md Generator](https://www.npmjs.com/package/readme-md-generator) is a tool to generate a **README.md file** using a **CLI**. ⭐ [10.7k stars](https://github.com/kefranabg/readme-md-generator)
 - [Skill icons](https://skillicons.dev/) is an easy-to-use tool that allows you to generate beautiful and customizable icons representing your programming languages, frameworks, tools, and other technical skills. ⭐ [5k stars](https://github.com/tandpfun/skill-icons)
 - [Streak](https://streak-stats.demolab.com/) is a tool to add a **dynamic GitHub streak stats** to your GitHub profile. To stay motivated and show off your contribution streak! ⭐ [4k stars](https://github.com/denvercoder1/github-readme-streak-stats)
 - [Profile Summary Cards](https://github-profile-summary-cards.vercel.app/demo.html) is a tool to generate **GitHub profile summary cards**. ⭐ [2.3k stars](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -464,7 +496,7 @@ Datos.gov...
 - [Contrib Rocks](https://contrib.rocks/) is a simple way to `generate a dynamic image of contributors` to keep your README.md file in sync. ⭐ [182 stars](https://github.com/lacolaco/contributors-img)
 - [Raw githubusercontent](https://raw.githubusercontent.com/) is a tool to get the raw content of a file hosted on GitHub. The URL format is: `https://raw.githubusercontent.com/${user}/${repo}/${branch}/${path}`
 - [Visitor Badge](https://visitorbadge.io/) is a **valuable tool** for any GitHub user who wants to **track their online presence** and build community around their projects. ⭐ [20 stars](https://github.com/estruyf/web-visitorbadge-nextjs)
-- [Octicons](https://primer.style/octicons/) is a scalable set of icons handcrafted by GitHub. ⭐ [k stars]()
+- [Octicons](https://primer.style/octicons/) is a scalable set of icons handcrafted by GitHub. ⭐ [8.1k stars](https://github.com/primer/octicons)
 - [Emojis](https://gist.github.com/rxaviers/7360908) is a simple emoji **cheat sheet** to use when writing your GitHub README file.
 
 ## Icons
@@ -607,6 +639,11 @@ Datos.gov...
 9. [Zola](https://www.getzola.org/) is a fast static site generator in a single binary with everything built-in. ⭐ [12.5k stars](https://github.com/getzola/zola)
 10. [Pelican](https://blog.getpelican.com/) is a static site generator, written in Python. ⭐ [12k stars](https://github.com/getpelican/pelican)
 11. [Gridsome](https://gridsome.org/) is a Vue.js-powered static site generator for building CDN-ready websites for any headless CMS, local files, or APIs. ⭐ [8.5k stars](https://github.com/gridsome/gridsome)
+
+### Free Themes, Templates, and Starters
+
+- [Statichunt](https://statichunt.com/) is a free open-source Jamstack directory that lists hundreds of themes, starters, and resources for static sites. ⭐ [151 stars](https://github.com/statichunt/statichunt)
+- [taxonomy](https://statichunt.com/) is an open source application built using the new router, server components and everything new in Next.js 13.⭐ [17.4k stars](https://github.com/shadcn-ui/taxonomy)
 
 ## Documentation
 
@@ -806,3 +843,5 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Electron](https://www.electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
+
+<footer id="mb-footer"></footer>

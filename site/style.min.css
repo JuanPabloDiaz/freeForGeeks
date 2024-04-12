@@ -1,0 +1,101 @@
+:root {
+  --colour-mono: 0, 0%;
+  --colour-orange: 24, 95%;
+  --colour-red: 349, 82%;
+  --colour-pink: 337, 79%;
+}
+
+::selection {
+  --mono: 100%;
+  background: hsl(var(--colour-orange), 50%);
+  color: hsl(var(--colour-mono), var(--mono));
+  text-shadow: none;
+  border-width: 0;
+  text-decoration: none;
+  border-color: transparent;
+  border-radius: 0;
+}
+
+/* COVER */
+
+section.cover.show {
+  /* docsify cover backgrounds */
+  background: #131200 !important;
+  /* Otros buenos colores: #2f4858, #172121, #131200, #343e3d */
+  /* coverpage content can be taller than the screen on mobile */
+  height: auto;
+  min-height: 100vh;
+}
+
+section.cover,
+section.cover a {
+  color: hsl(var(--colour-mono), 100%) !important;
+  border: 0 !important;
+}
+
+section.cover {
+  text-align: center !important;
+}
+
+section.cover .cover-main {
+  max-width: 100%;
+  /* ensures the logo doesn't get cut off on small screens */
+  margin-top: 4px;
+}
+
+section.cover p:last-child a:first-child {
+  background-color: hsl(var(--colour-mono), 100%) !important;
+  font-weight: bold;
+  color: hsl(var(--colour-mono), 0%) !important;
+  /* background-color: purple !important; */
+}
+
+section.cover p:last-child a:not(:first-child) {
+  text-decoration: none !important;
+  display: inline-block;
+  background-color: hsla(var(--colour-mono), 100%, 0.1);
+  padding: 0 2em;
+  line-height: 2.5em;
+  /* background-color: darkred !important; */
+}
+
+/* BODY */
+
+.markdown-section code {
+  --mono: 90%;
+  background: hsla(var(--colour-mono), var(--mono), 0.1);
+  color: blueviolet;
+}
+
+/* TABLE */
+
+.markdown-section table {
+  /* --mono: 95%; */
+  display: table;
+  table-layout: fixed;
+  width: 90%;
+  border-radius: 1em !important;
+  border-collapse: collapse;
+}
+
+.markdown-section table tr {
+  background: none !important;
+}
+
+.markdown-section table th,
+.markdown-section table td {
+  --mono: 90%;
+  color: white;
+}
+
+@media only screen and (min-width: 600px) {
+  section.cover ul {
+    display: grid;
+    grid-column-gap: 16px;
+    grid-template-columns: repeat(2, 50%);
+  }
+
+  section.cover ul li:nth-child(odd) {
+    text-align: right;
+  }
+}
