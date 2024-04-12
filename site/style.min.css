@@ -19,8 +19,9 @@
 /* COVER */
 
 section.cover.show {
-  /* docsify randomizes backgrounds */
-  background: #3f3f3f !important;
+  /* docsify cover backgrounds */
+  background: #131200 !important;
+  /* Otros buenos colores: #2f4858, #172121, #131200, #343e3d */
   /* coverpage content can be taller than the screen on mobile */
   height: auto;
   min-height: 100vh;
@@ -30,7 +31,6 @@ section.cover,
 section.cover a {
   color: hsl(var(--colour-mono), 100%) !important;
   border: 0 !important;
-  background-color: red !important;
 }
 
 section.cover {
@@ -39,17 +39,15 @@ section.cover {
 
 section.cover .cover-main {
   max-width: 100%;
-  background-color: darkblue !important;
   /* ensures the logo doesn't get cut off on small screens */
   margin-top: 4px;
 }
 
 section.cover p:last-child a:first-child {
-  width: 100% !important;
   background-color: hsl(var(--colour-mono), 100%) !important;
   font-weight: bold;
   color: hsl(var(--colour-mono), 0%) !important;
-  background-color: purple !important;
+  /* background-color: purple !important; */
 }
 
 section.cover p:last-child a:not(:first-child) {
@@ -58,8 +56,9 @@ section.cover p:last-child a:not(:first-child) {
   background-color: hsla(var(--colour-mono), 100%, 0.1);
   padding: 0 2em;
   line-height: 2.5em;
-  background-color: darkred !important;
+  /* background-color: darkred !important; */
 }
+
 /* BODY */
 
 .markdown-section code {
