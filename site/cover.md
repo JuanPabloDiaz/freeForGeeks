@@ -1,4 +1,4 @@
-<img src="/images/logo.svg" alt="Free for Geeks logo" style="display: block; margin-left: auto; margin-right: auto; width: 45%;"/>
+<img src="/assets/images/logo.svg" alt="Free for Geeks logo"/>
 
 # Free resources for developers.
 
