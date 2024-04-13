@@ -15,9 +15,9 @@
 #### **About**
 
 <div style="display:flex; gap:10px;">
-<!-- <img src="./images/geek.ico" style="height:40px" /> -->
+<!-- <img src="./assets/images/geek.ico" style="height:40px" /> -->
 <h1>Free For Geeks</h1>
-<img src="./images/geek.ico" style="height:40px" />
+<img src="./assets/images/geek.ico" style="height:40px" />
 </div>
 
 **Free For Geeks** is your curated toolbox for building better software. Free resources for all your dev needs.
@@ -840,8 +840,8 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 
 # Other Great Resources
 
-- [Electron](https://www.electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
+
+- [Electron](https://www.electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 <footer id="mb-footer"></footer>

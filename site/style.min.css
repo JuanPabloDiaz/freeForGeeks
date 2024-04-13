@@ -89,6 +89,10 @@ section.cover p:last-child a:not(:first-child) {
   color: blueviolet;
 }
 
+nav a:hover {
+  opacity: 0.7;
+}
+
 /* TABLE */
 
 .markdown-section table {
