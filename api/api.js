@@ -1,14 +1,17 @@
 module.exports = async (req, res) => {
   const { owner, repo } = req.query;
 
-  const response = await fetch(
-    `https://api.github.com/repos/${owner}/${repo}`,
-    {
-      headers: {
-        Authorization: `token ${process.env.GITHUB_TOKEN}`,
-      },
-    }
-  );
+  // comendatado para no hacer fetch a la api de github por ahora.
+  // Estoy trabajando en otras cosas
+
+  // const response = await fetch(
+  //   `https://api.github.com/repos/${owner}/${repo}`,
+  //   {
+  //     headers: {
+  //       Authorization: `token ${process.env.GITHUB_TOKEN}`,
+  //     },
+  //   }
+  // );
 
   const data = await response.json();
 

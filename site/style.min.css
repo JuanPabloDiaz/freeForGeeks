@@ -27,6 +27,19 @@ section.cover.show {
   min-height: 100vh;
 }
 
+section.cover img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+}
+
+/* section.cover h1 {
+  background-color: indianred;
+  width: 100%;
+  margin: 0 auto;
+} */
+
 section.cover,
 section.cover a {
   color: hsl(var(--colour-mono), 100%) !important;
@@ -35,6 +48,15 @@ section.cover a {
 
 section.cover {
   text-align: center !important;
+}
+
+/* 3rd line: Stop searching... */
+section.cover p {
+  font-weight: lighter;
+  font-size: large;
+  padding: 0em;
+  color: whitesmoke;
+  opacity: 0.7;
 }
 
 section.cover .cover-main {
@@ -47,16 +69,16 @@ section.cover p:last-child a:first-child {
   background-color: hsl(var(--colour-mono), 100%) !important;
   font-weight: bold;
   color: hsl(var(--colour-mono), 0%) !important;
-  /* background-color: purple !important; */
+  opacity: 1;
 }
 
 section.cover p:last-child a:not(:first-child) {
   text-decoration: none !important;
   display: inline-block;
   background-color: hsla(var(--colour-mono), 100%, 0.1);
-  padding: 0 2em;
+  padding: 0 1em;
   line-height: 2.5em;
-  /* background-color: darkred !important; */
+  color: white !important;
 }
 
 /* BODY */
@@ -97,5 +119,14 @@ section.cover p:last-child a:not(:first-child) {
 
   section.cover ul li:nth-child(odd) {
     text-align: right;
+  }
+
+  section.cover img {
+    width: 60%;
+  }
+
+  section.cover p {
+    font-size: x-large;
+    padding: 0.5em;
   }
 }
