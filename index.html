@@ -205,26 +205,23 @@
     <!-- Top banner plugin https://github.com/Plugin-contrib/docsify-plugin/tree/master/packages/docsify-top-banner-plugin -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script>
 
-    <style>
-      :root {
-        --docsifytabs-border-color: #ededed4b;
-        --docsifytabs-tab-highlight-color: green;
+    <!-- Google Analytics tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-HTCV3LMBPR"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
       }
-      .tab-badge {
-        position: absolute;
-        top: 0;
-        right: 0;
-        transform: translate(35%, -45%);
-        padding: 0.25em 0.35em;
-        border-radius: 3px;
-        background: red;
-        color: white;
-        font-family: sans-serif;
-        font-size: 11px;
-        font-weight: bold;
-      }
-    </style>
-    <!-- End Tabs plugin -->
+      gtag("js", new Date());
+
+      gtag("config", "G-HTCV3LMBPR");
+    </script>
+
+    <!-- End Google Analytics  -->
+
     <style>
       blockquote:first-of-type {
         background-color: rgba(235, 248, 242, 0.363);
