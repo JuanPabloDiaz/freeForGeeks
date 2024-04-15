@@ -394,6 +394,18 @@ Datos.gov...
 
 - [Datadog](https://www.datadoghq.com) is a **cloud-scale monitoring** service that provides monitoring of servers, databases, tools, and services through a SaaS-based data analytics platform.
 
+## Analytics
+
+1. [Google Analytics](https://analytics.google.com) is a web analytics service offered by Google that tracks and reports website traffic.
+2. [Matomo](https://matomo.org) is a free and open-source web analytics application that runs on a PHP/MySQL webserver. ⭐ [19k stars](https://github.com/matomo-org/matomo)
+3. [Plausible](https://plausible.io) is a simple, privacy-friendly alternative to Google Analytics. | 2 months free ⭐ [18.2k stars](https://github.com/plausible/analytics)
+4. [PostHog](https://posthog.com) is an open-source product analytics tool. ⭐ [17k stars](https://github.com/PostHog/posthog)
+5. [Mixpanel](https://mixpanel.com) is a business analytics service and company that tracks user interactions with web and mobile applications. ⭐ [k stars](https://github.com/mixpanel)
+6. [Amplitude](https://amplitude.com) is a product analytics service that provides tools to understand user behavior. ⭐ [GitHub](https://github.com/amplitude)
+7. [Snowplow](https://snowplowanalytics.com) is an open-source platform for event data collection and warehousing. ⭐ [6.7k stars](https://github.com/snowplow/snowplow)
+8. [Countly](https://count.com) is an open-source, self-hosted product analytics tool. ⭐ [5.5k stars](https://github.com/Countly/countly-server)
+9. [GoatCounter](https://www.goatcounter.com) is a simple web analytics platform. ⭐ [4.1k stars](https://github.com/arp242/goatcounter)
+
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
 <!-- Open Source  -->
