@@ -185,6 +185,10 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [React Community](https://reactcommunity.org/) is a collection of React libraries and tools. ⭐ [GitHub](https://github.com/reactjs)
 - [React Tabs](https://reactcommunity.org/react-tabs/) is an accessible and easy tab component for ReactJS. ⭐ [3k stars](https://github.com/reactjs/react-tabs)
 
+## E-commerce
+
+- [Evershop](https://evershop.io/) is an Open-Source NodeJS Ecommerce Platform with essential commerce features. | Built with React, modular and fully customizable. ⭐ [3.3k stars](https://github.com/evershopcommerce/evershop)
+
 ## Colors
 
 - [AI Colors](https://aicolors.co/) is a tool to generate color palettes **using AI**.
