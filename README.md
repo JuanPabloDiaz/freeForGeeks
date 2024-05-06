@@ -1,4 +1,4 @@
-<!-- The repository is a test and has <span id="star-count"></span> stars.
+The repository is a test and has <span id="star-count"></span> stars.
 
 1. [AdminLTE](https://adminlte.io/) is a fully responsive admin template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. ⭐ [stars](https://github.com/ColorlibHQ/AdminLTE)
 2. [Tabler](https://tabler.io/) is free and open-source HTML Dashboard UI Kit built on Bootstrap ⭐ [stars](https://github.com/tabler/tabler)
@@ -8,7 +8,7 @@
 6. [Tailwind Components - Dashboard](https://tailwindcomponents.com/components/dashboard) is a free Tailwind CSS Dashboard template. ⭐ [stars](https://github.com/tailwindcomponents/dashboard)
 7. [Tailwind Toolbox - Dashboard](https://tailwindtoolbox.github.io/Admin-Template) is a free Tailwind CSS Dashboard template. ⭐ [stars](https://github.com/tailwindtoolbox/Admin-Template)
 
---- -->
+---
 
 <!-- tabs:start -->
 
@@ -470,6 +470,10 @@ Datos.gov...
 - [iOS apps](https://github.com/dkhamsing/open-source-ios-apps)
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
+
+## Personal Cloud Computer
+
+- [Puter](https://peter.com) is an Open Source Personal Cloud Computer: All your files, apps, and games in one place accessible from anywhere at any time. ⭐ [3.3k stars](https://github.com/HeyPuter/puter)
 
 ## Projects (Beginner friendly Contribution)
 

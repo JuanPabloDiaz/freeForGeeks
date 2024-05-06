@@ -1,17 +1,14 @@
 module.exports = async (req, res) => {
   const { owner, repo } = req.query;
 
-  // comendatado para no hacer fetch a la api de github por ahora.
-  // Estoy trabajando en otras cosas
-
-  // const response = await fetch(
-  //   `https://api.github.com/repos/${owner}/${repo}`,
-  //   {
-  //     headers: {
-  //       Authorization: `token ${process.env.GITHUB_TOKEN}`,
-  //     },
-  //   }
-  // );
+  const response = await fetch(
+    `https://freeforgeeks.vercel.app/repos/${owner}/${repo}`,
+    {
+      headers: {
+        Authorization: `token ${process.env.GITHUB_TOKEN}`,
+      },
+    }
+  );
 
   const data = await response.json();
 
@@ -22,7 +19,7 @@ module.exports = async (req, res) => {
   const allowedOrigins = [
     "http://127.0.0.1:5500",
     "https://juanpablodiaz.github.io",
-    "https://free-for-geeks.vercel.app",
+    "https://freeforgeeks.vercel.app",
     "https://freeforgeeks.com",
     "https://www.freeforgeeks.com", // when this is commented out, the cors error disappears when working locally
   ];
