@@ -762,6 +762,37 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Video Archive](https://archive.org/details/movies) is a collection of movies and videos.
 - [Image Archive](https://archive.org/details/image) is a collection of images.
 
+## Books
+
+- [Library of Congress](https://www.loc.gov/) is the largest library in the world, with millions of books, recordings, photographs, newspapers, maps, and manuscripts in its collections.
+- [Organism Earth's The Library](https://organism.earth/library) is a collection of free books, articles, and other resources.
+
+<!-- needs some work -->
+
+- [Project Gutenberg](https://www.gutenberg.org/) is a library of over 60,000 free ebooks.
+- [Standard Ebooks](https://standardebooks.org/) "Free and liberated ebooks, carefully produced for the true book lover." High-quality ebooks. Library includes 401 ebooks, covering many of the best and most essential books to humanity.
+- [OpenLibrary](https://openlibrary.org/) Online library catalog, with over 20 million records, providing access to over 1.7 million scanned versions of books. Apart of the [Internet Archive](https://archive.org/).
+- [Archive.org Books to Borrow](https://archive.org/details/inlibrary) A collection of books that can be borrowed by registered users for two weeks at a time. Books can be read online or with Adobe Digital Editions (DRM software). Catalog includes almost 1.7 million books.
+- [ZLibrary: Books](https://b-ok.cc/) The world's largest ebook library. 5.3 million of ebooks available for free download in almost every format. Includes many books still in copyright. A mirror of [Library Genesis](https://libgen.is/).
+- [Wikisource](https://wikisource.org/wiki/Main_Page) Free library of free-content textual sources. Books include those out-of-copyright, such as _Walden, or, Life in the Woods_ by Henry David Thoreau. You can download as PDF, EPUB, or MOBI. (From Wikimedia Foundation.)
+- [Early Modern Texts](https://www.earlymoderntexts.com/) Early modern philosophical texts made easier to read while maintaining the main arguments, doctrines, and lines of thought. Prepared by Jonathan Bennett, a professional scholar. Includes from Francis Bacon to Montaigne to Mary Wollstonecraft.
+- [Calibre](https://calibre-ebook.com/) Ebook manager available for Windows, Mac, and Linux. Read, create, and edit ebooks.
+- [Goodreads](https://www.goodreads.com/) Largest book recommendation site. Great for finding reviews of books. Catalog has over 2.6 billion books. Owned by Amazon.
+- [Most Recommended Books](https://mostrecommendedbooks.com/) Which books have shaped the world's most successful people?
+- [Goodbooks](https://www.goodbooks.io/) Book recommendations from successful people, like Bill Gates and Warrent Buffet. 8,500+ recommendations.
+- [r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS) A reddit thread with users submit free eBooks and resources to find free ebooks.
+- [BibleHub](https://biblehub.com/) "Bible Hub Online Parallel Bible, search and study tools including parallel texts, cross references, Treasury of Scripture, and commentaries. This site provides quick access to topical studies, interlinears, sermons, Strong's and many more resources"
+- [Whichbook](https://www.whichbook.net/) "Discover your next great read. Fancy something unusual and unpredictable? Funny or sexy? No problem. Use our unique mood and emotion search to find great books with exactly the flavour you've asked for."
+- [Bookdark](https://bookdark.com/) "Explore inspirational, famous and motivational books by clicking on either tags or authors." Authors include Shakespeare, Chekhov, Plato, and more.
+- [What Should I Read Next?](https://www.whatshouldireadnext.com/) "Enter a book you like and the site will analyse our huge database of real readers' favorite books to provide book recommendations and suggestions for what to read next. "
+- [The Internet Classics Archive](http://classics.mit.edu/index.html) Read from 441 works of classical literature from 59 different authors, including Greco-Roman works (Epictetus), Chinese works (Laotse), and Persian works, all with English translations.
+- [Books Read By](https://www.booksread.by) "Books Read By is a catalogue in the service of a greater reading culture. Founded by [Anonymous](https://www.madebyanonymous.com) in 2020, the site explores the reading habits of inspiring people (founders, leaders, makers, and everyone in between). Each survey is an intimate look into the books that have shaped and changed them."
+- [BookFinder.com](https://www.bookfinder.com/) Book search engine. "Find used books, rare books, textbooks, new and out-of-print books. Compare book prices, including shipping, from over 100,000 booksellers worldwide."
+- [Online Library of Liberty](https://oll.libertyfund.org/) "The OLL is a curated collection of scholarly works that engage with vital questions of liberty. Spanning the centuries from Hammurabi to Hume, and collecting material on topics from art and economics to law and political theory, the OLL provides you with a rich variety of texts to explore and consider."
+- [Open Book Publishers](https://www.openbookpublishers.com/section/14/1) "At Open Book Publishers we are changing the nature of the traditional academic book. Our books are published in hardback, paperback and ebook editions, but we also publish free online editions of every title in PDF, HTML and XML formats that can be read via our website, downloaded, reused or embedded anywhere. We are proud to say that our books are currently being accessed freely worldwide by over 20,000 readers each month. "
+- [PhilosophersNotes TV](https://www.youtube.com/playlist?list=PLj3yWdMwimwmSz4DXwtJkCeQ958RHnOfj) by Brian Johnson Big ideas from the best nonfiction, including self-help and philosophy.
+- <!-- needs some work -->
+
 ## Free Developer Resource Hubs
 
 - [Awesome](https://awesome.re/) lists about all kinds of interesting topics. ⭐ [294k stars](https://github.com/sindresorhus/awesome)
