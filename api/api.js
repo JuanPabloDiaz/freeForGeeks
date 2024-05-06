@@ -2,7 +2,7 @@ module.exports = async (req, res) => {
   const { owner, repo } = req.query;
 
   const response = await fetch(
-    `https://freeforgeeks.vercel.app/repos/${owner}/${repo}`,
+    `https://api.github.com/repos/${owner}/${repo}`,
     {
       headers: {
         Authorization: `token ${process.env.GITHUB_TOKEN}`,
