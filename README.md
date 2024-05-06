@@ -434,7 +434,8 @@ Datos.gov...
 - [Homer](https://homer-demo.netlify.app/) is a dead simple static HOMepage for your servER to keep your services on hand, from a simple yaml configuration file. ⭐ [8.5k stars](https://github.com/bastienwirtz/homer)
 - [Heimdall](https://heimdall.site/) is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. ⭐ [7k stars](https://github.com/linuxserver/Heimdall)
 - [PiVPN](https://www.pivpn.io/) is a simple OpenVPN installer, designed for Raspberry Pi. ⭐ [7k stars](https://github.com/pivpn/pivpn)
-- [Shell In A Box](https://github.com/shellinabox/shellinabox) is a web-based terminal emulator that runs as a web-based SSH client on a web server.
+- [Shell In A Box](https://code.google.com/archive/p/shellinabox/) is a web-based terminal emulator that runs as a web-based SSH client on a web server. ⭐ [2.8k stars](https://github.com/shellinabox/shellinabox)
+- [scrypted](https://scrypted.app/) is a high performance home video integration and automation platform. ⭐ [3.7k stars](https://github.com/koush/scrypted)
 - [Lidarr](https://lidarr.audio/) is a music collection manager for Usenet and BitTorrent users. [3.3k stars](https://github.com/lidarr/lidarr)
 - [Guacamole](https://guacamole.apache.org/) is a clientless remote desktop gateway. ⭐ [3k stars](https://github.com/apache/guacamole-server)
 - [DuckieTV](https://schizoduckie.github.io/DuckieTV/) is a web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration. [1.1k stars](https://github.com/SchizoDuckie/DuckieTV)
@@ -470,7 +471,7 @@ Datos.gov...
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
-F## Projects (Beginner friendly Contribution)
+## Projects (Beginner friendly Contribution)
 
 - [FindIssues]() aims to provide you access to the most recent created issues on github which is not assigned to anyone yet, with its advance search technique. ⭐ [GitHub](https://github.com/anand346/findissues)
 - [Up for Grabs](https://up-for-grabs.net/#/)
