@@ -47,7 +47,7 @@ window.onload = function () {
     // Make a GET request to the GitHub API's repository endpoint
     // fetch(`https://api.github.com/repos/${owner}/${repo}`)
     // fetch(`https://api.freeforgeeks.com/api?owner=${owner}&repo=${repo}`)
-    fetch(`https://free-for-geeks.vercel.app/api?owner=${owner}&repo=${repo}`)
+    fetch(`https://freeforgeeks.vercel.app/api?owner=${owner}&repo=${repo}`)
       .then((response) => {
         console.log("Status:", response.status);
         // console.log("Response:", response);
