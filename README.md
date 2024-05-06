@@ -475,6 +475,7 @@ Datos.gov...
 - [Open Source Guide](https://opensource.guide/) is a community guide to open-source for contributors and maintainers. ⭐ [13.5k stars](https://github.com/github/opensource.guide#readme)
 - [Open Source](https://opensource.com/) is a community of developers, designers, writers, and thinkers who believe that open-source is the way to make software better.
 - [Planka] is a Free open source kanban board for workgroups. ⭐ [6.2k stars](https://github.com/plankanban/planka)
+- [BioDrop](https://biodrop.io/) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe. ⭐ [GitHub](https://github.com/EddieHubCommunity/BioDrop)
 
 ## Dev Tools
 
