@@ -394,6 +394,18 @@ Datos.gov...
 
 - [Datadog](https://www.datadoghq.com) is a **cloud-scale monitoring** service that provides monitoring of servers, databases, tools, and services through a SaaS-based data analytics platform.
 
+## Analytics
+
+1. [Google Analytics](https://analytics.google.com) is a web analytics service offered by Google that tracks and reports website traffic.
+2. [Matomo](https://matomo.org) is a free and open-source web analytics application that runs on a PHP/MySQL webserver. ⭐ [19k stars](https://github.com/matomo-org/matomo)
+3. [Plausible](https://plausible.io) is a simple, privacy-friendly alternative to Google Analytics. | 2 months free ⭐ [18.2k stars](https://github.com/plausible/analytics)
+4. [PostHog](https://posthog.com) is an open-source product analytics tool. ⭐ [17k stars](https://github.com/PostHog/posthog)
+5. [Mixpanel](https://mixpanel.com) is a business analytics service and company that tracks user interactions with web and mobile applications. ⭐ [k stars](https://github.com/mixpanel)
+6. [Amplitude](https://amplitude.com) is a product analytics service that provides tools to understand user behavior. ⭐ [GitHub](https://github.com/amplitude)
+7. [Snowplow](https://snowplowanalytics.com) is an open-source platform for event data collection and warehousing. ⭐ [6.7k stars](https://github.com/snowplow/snowplow)
+8. [Countly](https://count.com) is an open-source, self-hosted product analytics tool. ⭐ [5.5k stars](https://github.com/Countly/countly-server)
+9. [GoatCounter](https://www.goatcounter.com) is a simple web analytics platform. ⭐ [4.1k stars](https://github.com/arp242/goatcounter)
+
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
 <!-- Open Source  -->
@@ -422,7 +434,8 @@ Datos.gov...
 - [Homer](https://homer-demo.netlify.app/) is a dead simple static HOMepage for your servER to keep your services on hand, from a simple yaml configuration file. ⭐ [8.5k stars](https://github.com/bastienwirtz/homer)
 - [Heimdall](https://heimdall.site/) is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. ⭐ [7k stars](https://github.com/linuxserver/Heimdall)
 - [PiVPN](https://www.pivpn.io/) is a simple OpenVPN installer, designed for Raspberry Pi. ⭐ [7k stars](https://github.com/pivpn/pivpn)
-- [Shell In A Box](https://github.com/shellinabox/shellinabox) is a web-based terminal emulator that runs as a web-based SSH client on a web server.
+- [Shell In A Box](https://code.google.com/archive/p/shellinabox/) is a web-based terminal emulator that runs as a web-based SSH client on a web server. ⭐ [2.8k stars](https://github.com/shellinabox/shellinabox)
+- [scrypted](https://scrypted.app/) is a high performance home video integration and automation platform. ⭐ [3.7k stars](https://github.com/koush/scrypted)
 - [Lidarr](https://lidarr.audio/) is a music collection manager for Usenet and BitTorrent users. [3.3k stars](https://github.com/lidarr/lidarr)
 - [Guacamole](https://guacamole.apache.org/) is a clientless remote desktop gateway. ⭐ [3k stars](https://github.com/apache/guacamole-server)
 - [DuckieTV](https://schizoduckie.github.io/DuckieTV/) is a web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration. [1.1k stars](https://github.com/SchizoDuckie/DuckieTV)
@@ -458,7 +471,7 @@ Datos.gov...
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
-F## Projects (Beginner friendly Contribution)
+## Projects (Beginner friendly Contribution)
 
 - [FindIssues]() aims to provide you access to the most recent created issues on github which is not assigned to anyone yet, with its advance search technique. ⭐ [GitHub](https://github.com/anand346/findissues)
 - [Up for Grabs](https://up-for-grabs.net/#/)
