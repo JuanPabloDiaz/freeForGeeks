@@ -357,6 +357,10 @@ Datos.gov...
 - [Stryker js](https://stryker-mutator.io/) is a mutation testing framework for JavaScript. ⭐ [k stars]()
 - [Ava](https://github.com/avajs/ava) is a Node.js test runner that lets you develop with confidence 🚀 ⭐ [k stars]()
 
+## IT Automation
+
+- [Ansible](https://www.ansible.com/) is a simple, agentless IT automation technology that can improve your current processes, migrate applications for better optimization, and provide a single language for DevOps practices across your organization. ⭐ [61.2k stars](https://github.com/ansible/ansible)
+
 ## Form Validation Frameworks
 
 - [Vest](https://vestjs.dev/) is a form validations framework that performs **form validations** and **provides feedback** to the user.
