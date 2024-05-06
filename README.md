@@ -1,15 +1,3 @@
-The repository is a test and has <span id="star-count"></span> stars.
-
-1. [AdminLTE](https://adminlte.io/) is a fully responsive admin template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. ⭐ [stars](https://github.com/ColorlibHQ/AdminLTE)
-2. [Tabler](https://tabler.io/) is free and open-source HTML Dashboard UI Kit built on Bootstrap ⭐ [stars](https://github.com/tabler/tabler)
-3. [Ngx Admin](https://akveo.github.io/ngx-admin/) is a free Angular admin dashboard template. ⭐ [stars](https://github.com/akveo/ngx-admin)
-4. [Core UI](https://coreui.io/) is a free Bootstrap admin template build with **HTML**. ⭐ [stars](https://github.com/coreui/coreui-free-bootstrap-admin-template) 💲💲
-5. [Material Dashboard](https://www.creative-tim.com/product/material-dashboard) is a free Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design. ⭐ [stars](https://github.com/creativetimofficial/material-dashboard)
-6. [Tailwind Components - Dashboard](https://tailwindcomponents.com/components/dashboard) is a free Tailwind CSS Dashboard template. ⭐ [stars](https://github.com/tailwindcomponents/dashboard)
-7. [Tailwind Toolbox - Dashboard](https://tailwindtoolbox.github.io/Admin-Template) is a free Tailwind CSS Dashboard template. ⭐ [stars](https://github.com/tailwindtoolbox/Admin-Template)
-
----
-
 <!-- tabs:start -->
 
 #### **About**
@@ -197,6 +185,10 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [React Community](https://reactcommunity.org/) is a collection of React libraries and tools. ⭐ [GitHub](https://github.com/reactjs)
 - [React Tabs](https://reactcommunity.org/react-tabs/) is an accessible and easy tab component for ReactJS. ⭐ [3k stars](https://github.com/reactjs/react-tabs)
 
+## E-commerce
+
+- [Evershop](https://evershop.io/) is an Open-Source NodeJS Ecommerce Platform with essential commerce features. | Built with React, modular and fully customizable. ⭐ [3.3k stars](https://github.com/evershopcommerce/evershop)
+
 ## Colors
 
 - [AI Colors](https://aicolors.co/) is a tool to generate color palettes **using AI**.
@@ -369,6 +361,10 @@ Datos.gov...
 - [Stryker js](https://stryker-mutator.io/) is a mutation testing framework for JavaScript. ⭐ [k stars]()
 - [Ava](https://github.com/avajs/ava) is a Node.js test runner that lets you develop with confidence 🚀 ⭐ [k stars]()
 
+## IT Automation
+
+- [Ansible](https://www.ansible.com/) is a simple, agentless IT automation technology that can improve your current processes, migrate applications for better optimization, and provide a single language for DevOps practices across your organization. ⭐ [61.2k stars](https://github.com/ansible/ansible)
+
 ## Form Validation Frameworks
 
 - [Vest](https://vestjs.dev/) is a form validations framework that performs **form validations** and **provides feedback** to the user.
@@ -487,6 +483,7 @@ Datos.gov...
 - [Open Source Guide](https://opensource.guide/) is a community guide to open-source for contributors and maintainers. ⭐ [13.5k stars](https://github.com/github/opensource.guide#readme)
 - [Open Source](https://opensource.com/) is a community of developers, designers, writers, and thinkers who believe that open-source is the way to make software better.
 - [Planka] is a Free open source kanban board for workgroups. ⭐ [6.2k stars](https://github.com/plankanban/planka)
+- [BioDrop](https://biodrop.io/) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe. ⭐ [GitHub](https://github.com/EddieHubCommunity/BioDrop)
 
 ## Dev Tools
 
@@ -773,6 +770,37 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Music Archive](https://archive.org/details/audio) is a collection of music and music-related materials.
 - [Video Archive](https://archive.org/details/movies) is a collection of movies and videos.
 - [Image Archive](https://archive.org/details/image) is a collection of images.
+
+## Books
+
+- [Library of Congress](https://www.loc.gov/) is the largest library in the world, with millions of books, recordings, photographs, newspapers, maps, and manuscripts in its collections.
+- [Organism Earth's The Library](https://organism.earth/library) is a collection of free books, articles, and other resources.
+
+<!-- needs some work -->
+
+- [Project Gutenberg](https://www.gutenberg.org/) is a library of over 60,000 free ebooks.
+- [Standard Ebooks](https://standardebooks.org/) "Free and liberated ebooks, carefully produced for the true book lover." High-quality ebooks. Library includes 401 ebooks, covering many of the best and most essential books to humanity.
+- [OpenLibrary](https://openlibrary.org/) Online library catalog, with over 20 million records, providing access to over 1.7 million scanned versions of books. Apart of the [Internet Archive](https://archive.org/).
+- [Archive.org Books to Borrow](https://archive.org/details/inlibrary) A collection of books that can be borrowed by registered users for two weeks at a time. Books can be read online or with Adobe Digital Editions (DRM software). Catalog includes almost 1.7 million books.
+- [ZLibrary: Books](https://b-ok.cc/) The world's largest ebook library. 5.3 million of ebooks available for free download in almost every format. Includes many books still in copyright. A mirror of [Library Genesis](https://libgen.is/).
+- [Wikisource](https://wikisource.org/wiki/Main_Page) Free library of free-content textual sources. Books include those out-of-copyright, such as _Walden, or, Life in the Woods_ by Henry David Thoreau. You can download as PDF, EPUB, or MOBI. (From Wikimedia Foundation.)
+- [Early Modern Texts](https://www.earlymoderntexts.com/) Early modern philosophical texts made easier to read while maintaining the main arguments, doctrines, and lines of thought. Prepared by Jonathan Bennett, a professional scholar. Includes from Francis Bacon to Montaigne to Mary Wollstonecraft.
+- [Calibre](https://calibre-ebook.com/) Ebook manager available for Windows, Mac, and Linux. Read, create, and edit ebooks.
+- [Goodreads](https://www.goodreads.com/) Largest book recommendation site. Great for finding reviews of books. Catalog has over 2.6 billion books. Owned by Amazon.
+- [Most Recommended Books](https://mostrecommendedbooks.com/) Which books have shaped the world's most successful people?
+- [Goodbooks](https://www.goodbooks.io/) Book recommendations from successful people, like Bill Gates and Warrent Buffet. 8,500+ recommendations.
+- [r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS) A reddit thread with users submit free eBooks and resources to find free ebooks.
+- [BibleHub](https://biblehub.com/) "Bible Hub Online Parallel Bible, search and study tools including parallel texts, cross references, Treasury of Scripture, and commentaries. This site provides quick access to topical studies, interlinears, sermons, Strong's and many more resources"
+- [Whichbook](https://www.whichbook.net/) "Discover your next great read. Fancy something unusual and unpredictable? Funny or sexy? No problem. Use our unique mood and emotion search to find great books with exactly the flavour you've asked for."
+- [Bookdark](https://bookdark.com/) "Explore inspirational, famous and motivational books by clicking on either tags or authors." Authors include Shakespeare, Chekhov, Plato, and more.
+- [What Should I Read Next?](https://www.whatshouldireadnext.com/) "Enter a book you like and the site will analyse our huge database of real readers' favorite books to provide book recommendations and suggestions for what to read next. "
+- [The Internet Classics Archive](http://classics.mit.edu/index.html) Read from 441 works of classical literature from 59 different authors, including Greco-Roman works (Epictetus), Chinese works (Laotse), and Persian works, all with English translations.
+- [Books Read By](https://www.booksread.by) "Books Read By is a catalogue in the service of a greater reading culture. Founded by [Anonymous](https://www.madebyanonymous.com) in 2020, the site explores the reading habits of inspiring people (founders, leaders, makers, and everyone in between). Each survey is an intimate look into the books that have shaped and changed them."
+- [BookFinder.com](https://www.bookfinder.com/) Book search engine. "Find used books, rare books, textbooks, new and out-of-print books. Compare book prices, including shipping, from over 100,000 booksellers worldwide."
+- [Online Library of Liberty](https://oll.libertyfund.org/) "The OLL is a curated collection of scholarly works that engage with vital questions of liberty. Spanning the centuries from Hammurabi to Hume, and collecting material on topics from art and economics to law and political theory, the OLL provides you with a rich variety of texts to explore and consider."
+- [Open Book Publishers](https://www.openbookpublishers.com/section/14/1) "At Open Book Publishers we are changing the nature of the traditional academic book. Our books are published in hardback, paperback and ebook editions, but we also publish free online editions of every title in PDF, HTML and XML formats that can be read via our website, downloaded, reused or embedded anywhere. We are proud to say that our books are currently being accessed freely worldwide by over 20,000 readers each month. "
+- [PhilosophersNotes TV](https://www.youtube.com/playlist?list=PLj3yWdMwimwmSz4DXwtJkCeQ958RHnOfj) by Brian Johnson Big ideas from the best nonfiction, including self-help and philosophy.
+- <!-- needs some work -->
 
 ## Free Developer Resource Hubs
 
