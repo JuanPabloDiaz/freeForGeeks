@@ -267,8 +267,9 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Ipapi.co](https://ipapi.co/) is a free IP Geolocation API. ⭐ [GitHub](https://github.com/ipapi-co/ipapi-co.github.io)
 - [GeoDB Cities API](http://geodb-cities-api.wirefreethought.com/) is an online places database. It exposes city, county, island, region, and country data via both GraphQL and REST APIs.
 - [Country State City API](https://countrystatecity.in/) is a free API to get country, state, and city details. ⭐ [6.3k stars](https://github.com/dr5hn/countries-states-cities-database)
-- [Flags API](https://flagsapi.com/) is a free API to get country flags. ⭐ [GitHub](
--
+- [Flags API](https://flagsapi.com/) is a free API to get country flags. ⭐ [GitHub]()
+- [SmartParse](https://smartparse.io) is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes: Up to 300 processing units, Browser uploads, Data quarantining, Circuit breakers and Job Alerts.
+- [SerpApi](https://serpapi.com/) - Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other machines. The free plan includes 100 successful API calls per month.
 
 ### API Tools
 
@@ -540,7 +541,7 @@ Datos.gov...
 
 - [Blurred](https://blurred.dev/) is a Next.js Image blurDataURL generator
 
-## emojis
+## Emojis
 
 - [EmojiDB](https://emojidb.org/) is a database of emojis.
 - [Gitmoji](https://gitmoji.dev/) is an emoji guide for your commit messages.
@@ -552,7 +553,7 @@ Datos.gov...
 - [Free File Convert](https://www.freeconvert.com/) is a tool to convert files from one format to another.
 - [PDF To Image](https://pdftoimage.com/) is a tool to convert PDF files to images.
 
-## Tools to edit Images
+## Image Optimization
 
 - [Squoosh](https://squoosh.app/) Make images smaller using best-in-class codecs, right in the browser. ⭐ [20.6k stars](https://github.com/GoogleChromeLabs/squoosh)
 - [Compress jpeg](https://compressjpeg.com/) is a tool to compress and resize your images.
@@ -560,6 +561,28 @@ Datos.gov...
 - [Tiny png](https://tinypng.com/) is a tool to compress your images.
 - [Picresize](https://picresize.com/) is a tool to resize, shrink, and crop your pictures online.
 - [Image Compressor](https://www.imagecompressor.com/) is a tool to compress your images.
+
+## Share Code
+
+- [BinShare](https://binshare.net) - Create & share code or binaries. Available to share as a beautiful image e.g. for Twitter / Facebook post or as a link e.g. for chats or forums.
+- [Carbon](https://carbon.now.sh) - create and share code snippets in an aesthetic screenshot-like image format. Usually used to aesthetically share/show off code snippets on Twitter or blog posts.
+- [Codepng](https://www.codepng.app) - Create excellent snapshots from your source code to share on social media.
+- [CodeToImage](https://codetoimage.com/) - Create screenshots of code or text to share on social media.
+- [Ray](https://ray.so/) - Create beautiful images of your code snippets.
+
+## Font
+
+- [dafont](https://www.dafont.com/) - The fonts presented on this website are their authors' property and are either freeware, shareware, demo versions, or public domain.
+- [Everything Fonts](https://everythingfonts.com/) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
+- [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts licensed for commercial work. Hand-selected these typefaces and presented them in an easy-to-use format.
+- [Google Fonts](https://fonts.google.com/) - Many free fonts are easy and quick to install on a website via a download or a link to Google's CDN.
+- [FontGet](https://www.fontget.com/) - Has a variety of fonts available to download and sorted neatly with tags.
+- [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional-grade fonts, 100% free for personal and commercial use.
+- [Befonts](https://befonts.com/) - Provides several unique fonts for personal or commercial use.
+- [Font of web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.
+- [fonts.xz.style](https://fonts.xz.style/) free and open source service for delivering font families to websites using CSS.
+- [Bunny](https://fonts.bunny.net) Privacy oriented Google Fonts
+- [FontsKey](https://www.fontskey.com/) - Provides free and commercial paid fonts for personal use and can enter text for quick filtering.
 
 <!--  ---------------------------- ********************* ADD MORE RESOURCES  → (need work) *****************************  ---------------------------- -->
 
@@ -588,19 +611,43 @@ Datos.gov...
 - [Sketch](https://www.sketch.com/) is a design toolkit for macOS.
 - [Canva](https://www.canva.com/) is a **free-to-use online graphic design tool** that simplifies the process of creating visual content
 
-<!--  ---------------------------- ********************* ADD MORE RESOURCES *****************************  ---------------------------- -->
-
 ## Miscellaneous
 
 - [Awesome](https://awesome.re) is a curated list of awesome lists.
-- [readme.com](https://readme.com) — Beautiful documentation made easy, free for Open Source.
-- [versionfeeds](https://versionfeeds.com) — Get notified when a new version of your favorite software is released.
-- [tiledesk](https://www.tiledesk.com) — Open Source Live Chat and Chatbots for Customer Support.
-- [Rocket.Chat](https://rocket.chat/) is a free and open-source `team chat collaboration platform` that allows users to communicate securely in real-time across devices on web, desktop, or mobile and to customize their interface with a range of plugins, themes, and integrations with other key software. ⭐ [39k stars](https://github.com/RocketChat/Rocket.Chat)
-
-# https://free-for.dev/#/?id=miscellaneous <!-- READ THIS AND ADD MORE RESOURCES -->
-
-<!--  ---------------------------- ********************* ADD MORE RESOURCES *****************************  ---------------------------- -->
+- [Readme](https://readme.com) — Beautiful documentation made easy, free for Open Source.
+- [Versionfeeds](https://versionfeeds.com) — Get notified when a new version of your favorite software is released.
+- [Tiledesk](https://www.tiledesk.com) — Open Source Live Chat and Chatbots for Customer Support.
+- [Rocket Chat](https://rocket.chat/) is a free and open-source `team chat collaboration platform` that allows users to communicate securely in real-time across devices on web, desktop, or mobile and to customize their interface with a range of plugins, themes, and integrations with other key software. ⭐ [39k stars](https://github.com/RocketChat/Rocket.Chat)
+- [Blynk](https://blynk.io) — A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices, Free Cloud & data storage. Mobile Apps are also available.
+- [Bricks Note Calculator](https://free.getbricks.app/) - a note-taking app (PWA) with a powerful built-in multiline calculator.
+- [Code Time](https://www.software.com/code-time) - an extension for time-tracking and coding metrics in VS Code, Atom, IntelliJ, Sublime Text, and more.
+- [Cronhooks](https://cronhooks.io/) - Schedule on-time or recurring webhooks. The free plan allows 5 ad-hoc schedules.
+- [Cron-job](https://cron-job.org) - Online cronjobs service. Unlimited jobs are free of charge.
+- [Datelist](https://datelist.io) - Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar
+- [Domain Forward](https://domain-forward.com/) - A straightforward tool to forward any URL or Domain. Free up to 5 domains and 200k requests per month.
+- [Elementor](https://elementor.com) — WordPress website builder. Free plan available with 40+ Basic Widgets.
+- [Form2Channel](https://form2channel.com) — Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram, or HTTP. No coding is necessary.
+- [Format Express](https://www.format-express.dev) - Instant online format for JSON / XML / SQL.
+- [Fossa](https://fossa.com/) - Scalable, end-to-end management for third-party code, license compliance and vulnerabilities.
+- [Fullcontact](https://www.fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile to your app. 500 free Person API matches/month
+- [Hook Relay](https://www.hookrelay.dev/) - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.
+- [Http2](https://http2.pro) — HTTP/2 protocol readiness test and client HTTP/2 support detection API.
+- [Kandi](https://kandi.openweaver.com/) — Jumpstart Application Development: build custom functions, and use cases, and complete applications faster through code snippets and open-source library reuse.
+- [Base64 decoder/encoder](https://devpal.co/base64-decode/) — Online free tool for decoding & encoding data.
+- [Newreleases](https://newreleases.io/) - Receive notifications on email, Slack, Telegram, Discord, and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.
+- [OnlineExifViewer](https://onlineexifviewer.com/) — View EXIF data online instantly for a photo including GPS location and metadata.
+- [PDFMonkey](https://www.pdfmonkey.io/) — Manage PDF templates in a dashboard, call the API with dynamic data, and download your PDF. Offers 300 free documents per month.
+- [QuickType](https://quicktype.io/) - Quickly auto-generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
+- [RandomKeygen](https://randomkeygen.com/) - A free mobile-friendly tool that offers a variety of randomly generated keys and passwords you can use to secure any application, service, or device.
+- [Redirection](https://redirection.io/) — SaaS tool for managing HTTP redirections for businesses, marketing and SEO.
+- [Redirect](https://redirect.ing/) - Fast & secure domain forwarding without managing servers or SSL certificates. Free plan includes 10 hostnames and 100,000 requests per month.
+- [Redirect pizza](https://redirect.pizza/) - Easily manage redirects with HTTPS support. The free plan includes 10 sources and 100,000 hits per month.
+- [ReqBin](https://www.reqbin.com/) — Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
+- [Smartcar API](https://smartcar.com) - An API for cars to locate, get fuel tank, battery levels, odometer, unlock/lock doors, etc.
+- [Snappify](https://snappify.com) - Enables developers to create stunning visuals. From beautiful code snippets to fully fletched technical presentations. The free plan includes up to 3 snaps at once with unlimited downloads and 5 AI-powered code explanations per month.
+- [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
+- [Superfeedr](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
+- [Videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
