@@ -289,6 +289,11 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Supportivekoala](https://supportivekoala.com/) — Allows you to autogenerate images by your input via templates. The free plan allows you to create up to 100 images per week.
 - [Roboflow](https://roboflow.com) - create and deploy a custom computer vision model with no prior machine learning experience required. The free tier includes up to 1,000 free source images.
 - [ROBOHASH](https://robohash.org/) - Web service to generate unique and cool images from any text.
+- [Weights & Biases](https://wandb.ai) — The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.
+- [Wit.ai](https://wit.ai/) — NLP for developers.
+- [Wolfram](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud.
+- [What The Diff](https://whatthediff.ai) an AI-powered code review assistant. The free plan has a limit of 25,000 monthly tokens (~10 PRs).
+- [Tavily AI](https://tavily.com/) Search API is a search engine optimized for LLMs and RAG, aimed at efficient, quick and persistent search results. 1000 request/month for the Free tier with No credit card required.
 
 ## GUI toolkits
 
@@ -311,8 +316,14 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Observable](https://observablehq.com/) — a place to create, collaborate, and learn with data. Free: Unlimited notebooks, Unlimited publishing, Five editors per notebook.
 - [Prefect Cloud](https://www.prefect.io/cloud/) is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines. it's a complete platform for dataflow automation. All plans include 20,000 free runs every month. That's enough to power ETL for most small businesses.
 - [Crawlbase](https://crawlbase.com/) — Crawl and scrape websites without proxies, infrastructure, or browsers. We solve captchas for you and prevent you from being blocked. The first 1000 calls are free of charge.
+- [SaturnCloud](https://saturncloud.io/) - Data science cloud environment that allows running Jupyter notebooks and Dask clusters. Thirty hours of free computation and 3 hours of Dask per month.
+- [Simplescraper](https://simplescraper.io) — Trigger your webhook after each operation. The free plan includes 100 cloud scrape credits.
+- [Select Star](https://www.selectstar.com/) - is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 Tables and 10 Users.
+- [Shipyard](https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user - more than enough to automate multiple workflows.
 
-## APIs, Data, and ML
+<!-- need work -->
+
+## APIs
 
 - [IP City](https://ip.city) is a free IP Geolocation API. 100 Free requests per day.
 - [Abstract API](https://www.abstractapi.com) is a collection for various use cases, including IP geolocation, gender detection, or email validation.
@@ -367,6 +378,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [News API](https://newsapi.org) — Search news on the web with code, and get JSON results. Developers get 3,000 queries free each month.
 - [OCR Space](https://ocr.space/) is a free `OCR API` parses image and pdf files that return the text results in JSON format. Twenty-five thousand requests per month are free.
 - [OpenAPI3 Designer](https://openapidesigner.com/) — Visually create Open API 3 definitions for free.
+- [OpenWeb Ninja](https://www.openwebninja.com/) - Extremely comprehensive real-time SERP and public data APIs: Google Search, Shopping, Jobs, Images, Lens, News, Google Maps Businesses / Places, Reviews, Photos, Website Emails and Social Contacts Scraper, Amazon, Yelp and more. All APIs include a free tier with 100 to 200 free monthly requests.
 - [Parse Hub](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, five projects free.
 - [PDF-API](https://pdf-api.io) is a `PDF Automation API`, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
 - [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
@@ -374,48 +386,21 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [QuickMocker](https://quickmocker.com/) is an API Mock, fake API, mock server, simulate or stub API, dummy API and web services, API for tests, test doubles, fake random data, response templating, create webhook, and more. Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. The free account provides one random subdomain, ten endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, and 50 history records in the requests log.
 - [Rapid api](https://rapidapi.com/) is the world’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!) and interactive examples.
 - [PipeDream](https://pipedream.com/requestbin) allow you to create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.
-
----
-
-- [SaturnCloud](https://saturncloud.io/) - Data science cloud environment that allows running Jupyter notebooks and Dask clusters. Thirty hours of free computation and 3 hours of Dask per month.
-- [Scraper's Proxy](https://scrapersproxy.com) — Simple HTTP proxy API for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including javascript rendering (more available if you contact support).
-- [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans are available.
-- [ScraperBox](https://scraperbox.com/) — Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. The free plan has 1000 requests per month.
-- [ScrapingDog](https://scrapingdog.com/) — Scrapingdog handles millions of proxies, browsers, and CAPTCHAs to provide you with the HTML of any web page in a single API call. It also includes Web Scraper for Chrome & Firefox and software for instant scraping demand. Free plans are available.
-- [scrapinghub](https://scrapinghub.com) — Data scraping with visual interface and plugins. The free plan includes unlimited scraping on a shared server.
-- [Simplescraper](https://simplescraper.io) — Trigger your webhook after each operation. The free plan includes 100 cloud scrape credits.
-- [Select Star](https://www.selectstar.com/) - is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 Tables and 10 Users.
-- [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into a RESTful API. Free plan available.
-- [Shipyard](https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user - more than enough to automate multiple workflows.
-- [shrtcode API](https://shrtco.de/docs) - Free URL Shortening API without authorization and no request limits.
-- [SerpApi](https://serpapi.com/) - Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other machines. The free plan includes 100 successful API calls per month.
-- [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. The free plan includes 2 APIs and 2,500 API calls per month. You don't need a credit card.
-- [Stoplight](https://stoplight.io/) - Saas for collaboratively designing and documenting for APIs. The free plan offers free design, mocking, and documentation tools.
-- [Svix](https://www.svix.com/) - Webhooks as a Service. Send up to 50,000 messages/month for free.
-- [TemplateTo](https://templateto.com) - Auto-Generate PDF/TXT documents from reusable templates with our drop-and-drop editor and simple API. The free plan comes with 450 PDFs/month and three templates.
-- [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features are free for unlimited usage.
-- [Webhook Store](https://www.openwebhook.io) - Tool for storing third-party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain _username_.github.webhook.store, free public domains _anything_.webhook.store.
-- [Weights & Biases](https://wandb.ai) — The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.
-- [wit.ai](https://wit.ai/) — NLP for developers.
-- [wolfram](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud.
-- [wrapapi](https://wrapapi.com/) — Turn any website into a parameterized API. 30k API calls per month.
-- [ZenRows](https://www.zenrows.com/) — Web Scraping API & proxy server that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting. The free tier of 1000 API calls.
-- [Zenscrape](https://zenscrape.com/web-scraping-api) — Web scraping API with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.
-- [ip-api](https://ip-api.com) — IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
-- [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering, and proxies. Two thousand free API calls per month.
-- [Zipcodebase](https://zipcodebase.com) - Free Zip Code API, access to Worldwide Postal Code Data. Ten thousand free requests/month.
-- [huggingface.co](https://huggingface.co) - Build, train, and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.
-- [vatcheckapi](https://vatcheckapi.com) - Simple and free VAT number validation API. Five hundred free requests per month.
-- [numlookupapi](https://numlookupapi.com) - Free phone number validation API - 100k free requests / month.
-- [Volca](https://volca.io#api) - Free API providing lists of technologies such as programming languages and database systems. Unlimited free requests.
-- [Query.me](https://query.me) - Collaborative data notebooks that execute script-like and allow to fetch and send data via SQL, API, and many custom blocks, like Slack and Email. Free for small Teams.
-- [ERD Lab](https://www.erdlab.io) — Free cloud-based entity relationship diagram (ERD) tool made for developers.
-- [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 monthly tokens (~10 PRs).
-- [Zipcodestack](https://zipcodestack.com) - Free Zip Code API and Postal Code Validation. Ten thousand free requests/month.
-- [Zuplo](https://zuplo.com/) - Add API Key authentication, rate limiting, and developer documentation to any API in minutes. The free plan offers up to 10 projects, unlimited production edge environments, 250 API keys, 100K monthly requests, and 1GB egress.
-- [OpenWeb Ninja](https://www.openwebninja.com/) - Extremely comprehensive real-time SERP and public data APIs: Google Search, Shopping, Jobs, Images, Lens, News, Google Maps Businesses / Places, Reviews, Photos, Website Emails and Social Contacts Scraper, Amazon, Yelp and more. All APIs include a free tier with 100 to 200 free monthly requests.
-- [Tavily AI](https://tavily.com/) - API for online serach and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.
-<!-- need work -->
+- [ScraperBox](https://scraperbox.com/) is an undetectable `web scraping API` using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. The free plan has 1000 requests per month.
+- [ScrapingDog](https://scrapingdog.com/) handles millions of proxies, browsers, and CAPTCHAs to provide you with the HTML of any web page in a single API call. It also includes Web Scraper for Chrome & Firefox and software for instant scraping demand. Free plans are available.
+- [Sheetson](https://sheetson.com) instantly `turn any Google Sheets into a RESTful API`. Free plan available.
+- [SofoData](https://www.sofodata.com/) let you `create secure RESTful APIs from CSV files`. Upload a CSV file and instantly access the data via its API allowing faster application development. The free plan includes 2 APIs and 2,500 API calls per month. You don't need a credit card.
+- [Svix](https://www.svix.com/) is a `webhooks as a Service`. Build a secure, reliable, and scalable webhook sending platform using the Svix webhook service. Send up to 50,000 messages/month for free.
+- [Webhook Store](https://www.openwebhook.io) is a tool for storing third-party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain _username_.github.webhook.store, free public domains _anything_.webhook.store.
+- [Wrap Api](https://wrapapi.com/) `turns any website into a parameterized API`. 30k API calls per month.
+- [ZenRows](https://www.zenrows.com/) is a `web scraping API & proxy server` that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting. The free tier of 1000 API calls.
+- [Zenscrape](https://zenscrape.com/web-scraping-api) is a `web scraping API` with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.
+- [IP-Api](https://ip-api.com) is an `IP Geolocation API`, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
+- [Zipcodebase](https://zipcodebase.com) is a free `Zip Code API`, access to Worldwide Postal Code Data. Ten thousand free requests/month.
+- [Vatcheckapi](https://vatcheckapi.com) is a simple and free `VAT number validation API`. Five hundred free requests per month.
+- [Numlookupapi](https://numlookupapi.com) is a free and reliable `phone number validation API` - 100k free requests / month.
+- [Zipcodestack](https://zipcodestack.com) is a free `Zip Code API and Postal Code Validation`. Ten thousand free requests/month.
+- [Zuplo](https://zuplo.com/) allow you to `add API Key authentication, rate limiting, and developer documentation to any API` in minutes. The free plan offers up to 10 projects, unlimited production edge environments, 250 API keys, 100K monthly requests, and 1GB egress.
 
 ### API Tools
 
