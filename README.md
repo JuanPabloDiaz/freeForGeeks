@@ -262,9 +262,9 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [RANDOM USER GENERATOR](https://randomuser.me/) is a free, open-source API for generating random user data. Like Lorem Ipsum, but for people. ⭐ [1.3k stars](https://github.com/RandomAPI/Randomuser.me-Node)
 - [DummyJSON](https://dummyjson.com/) is a tool to generate massive amounts of fake data in the browser and node.js. ⭐ [1.3k stars](https://github.com/Ovi/DummyJSON)
 - [Call Of Duty API](https://codapi.dev/) Unofficial wrapper for the Call of Duty API. ⭐ [GitHub](https://github.com/Lierrmm/Node-CallOfDuty)
-- [IP Geolocation API](https://ipgeolocation.io/) is a free IP Geolocation API. ⭐ [GitHub](
-- [Ipapi](https://ipapi.com/) is a free IP Geolocation API. Real-time Geolocation & Reverse IP Lookup REST API. ⭐ [GitHub](https://github.com/apilayer/ipapi)
-- [Ipapi.co](https://ipapi.co/) is a free IP Geolocation API. ⭐ [GitHub](https://github.com/ipapi-co/ipapi-co.github.io)
+- [IP Geolocation API](https://ipgeolocation.io/) is a free `IP Geolocation API`. ⭐ [GitHub](
+- [IP API](https://ipapi.com/) is a free IP Geolocation API. Real-time Geolocation & Reverse IP Lookup REST API. ⭐ [GitHub](https://github.com/apilayer/ipapi)
+- [IpApi.co](https://ipapi.co/) is a reliable `geolocation API` built on AWS, trusted by Fortune 500. The free tier offers 30k lookups/month (1k/day) without signup. ⭐ [GitHub](https://github.com/ipapi-co/ipapi-co.github.io)
 - [GeoDB Cities API](http://geodb-cities-api.wirefreethought.com/) is an online places database. It exposes city, county, island, region, and country data via both GraphQL and REST APIs.
 - [Country State City API](https://countrystatecity.in/) is a free API to get country, state, and city details. ⭐ [6.3k stars](https://github.com/dr5hn/countries-states-cities-database)
 - [Flags API](https://flagsapi.com/) is a free API to get country flags. ⭐ [GitHub]()
@@ -279,6 +279,16 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Bigml](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task.
 - [Comet](https://www.comet.com/site/) - The MLOps platform for experiment tracking, model production management, model registry, and complete data lineage, covering your workflow from training to production. Free for individuals and academics.
 - [Efemarai](https://efemarai.com) - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.
+- [Lightly](https://www.lightly.ai/) — Improve your machine-learning models by using the correct data. Use datasets of up to 1000 samples for free.
+- [Monkey learn](https://monkeylearn.com/) — Text analysis with machine learning, free 300 queries/month.
+- [Neptune](https://neptune.ai/) is a lightweight component that works with any MLOps stack. It helps you track, compare, monitor, and share your ML experiments and models with flexible Python. Log, store, display, organize, compare, and query all your MLOps metadata. Free for individuals: 1 member, 100 GB of metadata storage, 200h of monitoring/month
+- [Nyckel](https://www.nyckel.com) — Train, deploy, and invoke image and text ML models. Free training with up to 5,000 pieces of training data. 1000 model invokes per month free.
+- [Preset Cloud](https://preset.io/) is a `hosted Apache Superset` service. Forever free for teams of up to 5 users, featuring unlimited dashboards and charts, a no-code chart builder, and a collaborative SQL editor.
+- [PromptLeo](https://promptleo.com/) - Prompt engineering platform for creators and developers. It offers a prompt engineering library, forms, and API. The free plan provides one prompt formation, one prompt API endpoint, and 30 generations per month.
+- [PromptLoop](https://www.promptloop.com/) - Use AI and large language models like GPT-3 with a simple spreadsheet formula to transform, comprehend, and analyze text in Google Sheets. The first 2,000 credits are free each month.
+- [Supportivekoala](https://supportivekoala.com/) — Allows you to autogenerate images by your input via templates. The free plan allows you to create up to 100 images per week.
+- [Roboflow](https://roboflow.com) - create and deploy a custom computer vision model with no prior machine learning experience required. The free tier includes up to 1,000 free source images.
+- [ROBOHASH](https://robohash.org/) - Web service to generate unique and cool images from any text.
 
 ## GUI toolkits
 
@@ -297,6 +307,10 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [DB Designer](https://www.dbdesigner.net/) — Cloud-based Database schema design and modeling tool with a free starter plan of 2 Database models and ten tables per model.
 - [Deepnote](https://deepnote.com) - A new data science notebook. Jupyter is compatible with real-time collaboration and running in the cloud. The free tier includes unlimited personal projects, up to 750 hours of standard hardware, and teams with up to 3 editors.
 - [Diggernaut](https://www.diggernaut.com/) — Cloud-based web scraping and data extraction platform for turning any website to the dataset or working with it as an API. The free plan includes 5K page requests monthly.
+- [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community version with up to 3 authors and five projects. One compute profile per author with 4GB RAM.
+- [Observable](https://observablehq.com/) — a place to create, collaborate, and learn with data. Free: Unlimited notebooks, Unlimited publishing, Five editors per notebook.
+- [Prefect Cloud](https://www.prefect.io/cloud/) is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines. it's a complete platform for dataflow automation. All plans include 20,000 free runs every month. That's enough to power ETL for most small businesses.
+- [Crawlbase](https://crawlbase.com/) — Crawl and scrape websites without proxies, infrastructure, or browsers. We solve captchas for you and prevent you from being blocked. The first 1000 calls are free of charge.
 
 ## APIs, Data, and ML
 
@@ -326,73 +340,43 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [FraudLabs Pro](https://www.fraudlabspro.com) provides an advanced fraud prevention solution that helps protect your online business from payment fraud (also known as CNP fraud). Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. The Free Micro plan has 500 transactions per month.
 - [Geekflare API](https://geekflare.com/api) lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 3,000 API requests.
 - [GeoCod](https://geocod.xyz) is a Free `geocoding API`: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding).
+- [GeoDataSource](https://www.geodatasource.com) Location Search Web Service is a REST API to lookup for city name by using latitude and longitude coordinate. It will return the result in either JSON or XML containing the information of the nearest country, region, city, latitude, longitude, currency code, and more. Free API queries up to 500 times per month.
+- [Glitterly](https://glitterly.app/) is a tool to generate dynamic images from base templates. Restful API and nocode integrations. The free tier comes with 50 images/month and five templates.
+- [Hook0](https://www.hook0.com/) is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with seven days of history retention for free.
+- [Hoppscotch](https://hoppscotch.io) - A free, fast, and beautiful `API request builder`.
+- [IP Base](https://ipbase.com) is a `IP Geolocation API`. Free forever that spans 150 monthly requests.
+- [IP Geolocation](https://ipgeolocation.io/) is the `Best IP Geolocation API`. Forever free plan for developers with 30k requests per month (1k/day) limit.
+- [IP Geolocation API](https://www.abstractapi.com/ip-geolocation-api) is a `IP Geolocation API` from Abstract - Extensive free plan allowing 20,000 monthly requests.
+- [IP 2 Location](https://www.ip2location.com) is a freemium `IP geolocation and Proxy detection` service. LITE database is available for free download. Import the database in the server and perform a local query to determine the city, coordinates, and ISP information.
+- [IP2Location.io](https://www.ip2location.io/) is a Freemium, fast and reliable `IP geolocation API` to determine geolocation data like city, coordinates, ISP, etc. The free plan is available with 30k credits per month. Subscribe to paid plans for more advanced features or contact us for a personalized plan.
+- [IP info](https://ipinfo.io/) is a fast, accurate, and free (up to 50k/month) `IP address data API`. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.
+- [Big Data Cloud](https://www.bigdatacloud.com/) provides fast, accurate, and free (Unlimited or up to 10K-50K/month) APIs for modern web like `IP Geolocation, Reverse Geocoding, Networking Insights, Email and Phone Validation, Client Info` and more.
+- [JSON IP](https://getjsonip.com) is a free unlimited `IP address and geolocation API`. Returns the Public IP address of the client it is requested from. No registration is required for the free tier. Using CORS, data can be requested using client-side JS directly from the browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
+- [Kong](https://konghq.com/) is a unified API platform that helps you manage, secure, and run APIs across any cloud, team, gateway, protocol, or architecture. in other workds, an `API Marketplace` and powerful private and public API tools. With the free tier, some features such as monitoring, alerting, and support, are limited.
+- [Kreya](https://kreya.app) is a free cross-platform GUI tool that helps you `build and test gRPC APIs` faster. Can import gRPC APIs via server reflection.
+- [Mailbox Validator](https://www.mailboxvalidator.com) is an `email verification service` using real mail server connection to confirm valid email. The free API plan has 300 verifications per month.
+- [Meteo Source](https://www.meteosource.com/) is a `global weather API` for current and forecasted weather data. Forecasts are based on a machine learning combination of more weather models to achieve better accuracy. The free plan comes with 400 calls per day.
+- [Microlink](https://microlink.io/) is a fast, scalable, and reliable high-level API to control a headless browser built for businesses and developers. It `turns any website into data` such as metatags normalization, beauty link previews, scraping capabilities, or screenshots as a service. One hundred reqs/day, every day free.
+- [Mindee](https://developers.mindee.com/docs) is a powerful `OCR software` and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 250 pages per month.
+- [Mockfly](https://www.mockfly.dev/) is a trusted development tool for `API mocking and feature flag management`. Quickly generate and control mock APIs with an intuitive interface. The free tier offers 500 requests per day.
+- [Mocki](https://mocki.io) is a tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to develop and use without signup.
+- [Mocko](https://mocko.dev/) Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integration tests.
+- [Mocky](https://designer.mocky.io/) is a simple web app to generate custom HTTP responses for mocking HTTP requests. Also available as [open source](https://github.com/julien-lafont/Mocky).
+- [Reqres](https://reqres.in) is a free `hosted REST-API` ready to respond to your AJAX requests.
+- [Microenv](https://microenv.com) allow you to `create fake REST API` for developers with the possibility to generate code and app in a docker container.
+- [News API](https://newsapi.org) — Search news on the web with code, and get JSON results. Developers get 3,000 queries free each month.
+- [OCR Space](https://ocr.space/) is a free `OCR API` parses image and pdf files that return the text results in JSON format. Twenty-five thousand requests per month are free.
+- [OpenAPI3 Designer](https://openapidesigner.com/) — Visually create Open API 3 definitions for free.
+- [Parse Hub](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, five projects free.
+- [PDF-API](https://pdf-api.io) is a `PDF Automation API`, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
+- [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
+- [Postman](https://postman.com) is a simplify workflows and create better APIs – faster – with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.
+- [QuickMocker](https://quickmocker.com/) is an API Mock, fake API, mock server, simulate or stub API, dummy API and web services, API for tests, test doubles, fake random data, response templating, create webhook, and more. Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. The free account provides one random subdomain, ten endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, and 50 history records in the requests log.
+- [Rapid api](https://rapidapi.com/) is the world’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!) and interactive examples.
+- [PipeDream](https://pipedream.com/requestbin) allow you to create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.
 
 ---
 
-- [GeoDataSource](https://www.geodatasource.com) — Location search service looks up city names using latitude and longitude coordinates. Free API queries up to 500 times per month.
-- [Glitterly](https://glitterly.app/) - Programmatically generate dynamic images from base templates. Restful API and nocode integrations. The free tier comes with 50 images/month and five templates.
-- [GoodData](https://www.gooddata.com/) - Data as a Service - Create interactive and insightful dashboards. The free tier comes with five workspaces and 100 MB/workspace.
-- [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community version with up to 3 authors and five projects. One compute profile per author with 4GB RAM.
-- [Hook0](https://www.hook0.com/) - Hook0 is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with seven days of history retention for free.
-- [Hoppscotch](https://hoppscotch.io) - A free, fast, and beautiful API request builder.
-- [Hybiscus](https://hybiscus.dev/) - Build pdf reports using a simple declarative API. The free tier includes up to 100 single-page reports per month with the ability to customize color palettes and fonts.
-- [Invantive Cloud](https://cloud.invantive.com/) — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.
-- [ipaddress](https://ipaddress.sh) — Simple service to get a public IP address in different [formats](https://about.ipaddress.sh/).
-- [ipbase](https://ipbase.com) - IP Geolocation API - Forever free plan that spans 150 monthly requests.
-- [IP Geolocation](https://ipgeolocation.io/) — IP Geolocation API - Forever free plan for developers with 30k requests per month (1k/day) limit.
-- [IP Geolocation API](https://www.abstractapi.com/ip-geolocation-api) — IP Geolocation API from Abstract - Extensive free plan allowing 20,000 monthly requests.
-- [IP2Location](https://www.ip2location.com) — Freemium IP geolocation service. LITE database is available for free download. Import the database in the server and perform a local query to determine the city, coordinates, and ISP information.
-- [IP2Location](https://www.ip2location.io/) — Freemium, fast and reliable IP geolocation API to determine geolocation data like city, coordinates, ISP, etc. The free plan is available with 30k credits per month. Subscribe to paid plans for more advanced features or contact us for a personalized plan.
-- [ipapi](https://ipapi.co/) - IP Address Location API by Kloudend, Inc - A reliable geolocation API built on AWS, trusted by Fortune 500. The free tier offers 30k lookups/month (1k/day) without signup.
-- [ipapi](https://ipapi.is/) - A reliable IP Address API from Developers for Developers with the best Hosting Detection capabilities that exist. The free plan offers 1000 lookups without signup.
-- [IPinfo](https://ipinfo.io/) — Fast, accurate, and free (up to 50k/month) IP address data API. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.
-- [IPList](https://www.iplist.cc) — Lookup details about any IP address, such as Geo IP information, tor addresses, hostnames, and ASN details. Free for personal and business users.
-- [BigDataCloud](https://www.bigdatacloud.com/) - Provides fast, accurate, and free (Unlimited or up to 10K-50K/month) APIs for modern web like IP Geolocation, Reverse Geocoding, Networking Insights, Email and Phone Validation, Client Info and more.
-- [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides your business with reliable and helpful IP geolocation data.
-- [JSON2Video](https://json2video.com) - A video editing API to automate video marketing and social media videos, programmatically or with no code.
-- [JSON IP](https://getjsonip.com) — Returns the Public IP address of the client it is requested from. No registration is required for the free tier. Using CORS, data can be requested using client-side JS directly from the browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
-- [konghq](https://konghq.com/) — API Marketplace and powerful private and public API tools. With the free tier, some features such as monitoring, alerting, and support, are limited.
-- [Kreya](https://kreya.app) — Free gRPC GUI client to call and test gRPC APIs. Can import gRPC APIs via server reflection.
-- [Lightly](https://www.lightly.ai/) — Improve your machine-learning models by using the correct data. Use datasets of up to 1000 samples for free.
-- [LoginLlama](https://loginllama.app) - A login security API to detect fraudulent and suspicious logins and notify your customers. Free for 1,000 logins per month.
-- [MailboxValidator](https://www.mailboxvalidator.com) — Email verification service using real mail server connection to confirm valid email. The free API plan has 300 verifications per month.
-- [Meteosource Weather API](https://www.meteosource.com/) — global weather API for current and forecasted weather data. Forecasts are based on a machine learning combination of more weather models to achieve better accuracy. The free plan comes with 400 calls per day.
-- [microlink](https://microlink.io/) – It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities, or screenshots as a service. One hundred reqs/day, every day free.
-- [Mindee](https://developers.mindee.com/docs) – Mindee is a powerful OCR software and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 250 pages per month.
-- [monkeylearn](https://monkeylearn.com/) — Text analysis with machine learning, free 300 queries/month.
-- [MockAPI](https://www.mockapi.io/) — MockAPI is a simple tool that lets you quickly mock up APIs, generate custom data, and perform operations using a RESTful interface. MockAPI is meant to be a prototyping/testing/learning tool. One project/4 resources per project for free.
-- [Mockfly](https://www.mockfly.dev/) — Mockfly is a trusted development tool for API mocking and feature flag management. Quickly generate and control mock APIs with an intuitive interface. The free tier offers 500 requests per day.
-- [Mocki](https://mocki.io) - A tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to develop and use without signup.
-- [Mocko](https://mocko.dev/) — Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integration tests.
-- [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP requests. Also available as [open source](https://github.com/julien-lafont/Mocky).
-- [reqres](https://reqres.in) - A Free hosted REST-API ready to respond to your AJAX requests.
-- [microenv](https://microenv.com) — Create fake REST API for developers with the possibility to generate code and app in a docker container.
-- [neptune](https://neptune.ai/) - Log, store, display, organize, compare, and query all your MLOps metadata. Free for individuals: 1 member, 100 GB of metadata storage, 200h of monitoring/month
-- [News API](https://newsapi.org) — Search news on the web with code, and get JSON results. Developers get 3,000 queries free each month.
-- [Nordigen](https://nordigen.com) — Free open banking data API. PSD2. Connect 2300+ banks with your app/software in EU+UK.
-- [Nyckel](https://www.nyckel.com) — Train, deploy, and invoke image and text ML models. Free training with up to 5,000 pieces of training data. 1000 model invokes per month free.
-- [Observable](https://observablehq.com/) — a place to create, collaborate, and learn with data. Free: Unlimited notebooks, Unlimited publishing, Five editors per notebook.
-- [OCR.Space](https://ocr.space/) — An OCR API parses image and pdf files that return the text results in JSON format. Twenty-five thousand requests per month are free.
-- [Duply.co](https://duply.co) — Create dynamic images from API & URL, design template once and reuse it. The free tier offers 70 images/month creation from API & URL and Up to 100 through Form.
-- [OpenAPI3 Designer](https://openapidesigner.com/) — Visually create Open API 3 definitions for free.
-- [Orchest](https://orchest.io) — Visual pipeline editor and workflow orchestrator for data science, one instance for free, open source version available.
-- [parsehub](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, five projects free.
-- [PDF-API](https://pdf-api.io) - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
-- [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
-- [Postbacks](https://postbacks.io/) - Request HTTP callbacks for a later time. Eight thousand free requests on signup.
-- [Postman](https://postman.com) — Simplify workflows and create better APIs – faster – with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.
-- [PrefectCloud](https://www.prefect.io/cloud/) — A complete platform for dataflow automation. All plans include 20,000 free runs every month. That's enough to power ETL for most small businesses.
-- [Preset Cloud](https://preset.io/) - A hosted Apache Superset service. Forever free for teams of up to 5 users, featuring unlimited dashboards and charts, a no-code chart builder, and a collaborative SQL editor.
-- [PromptLeo](https://promptleo.com/) - Prompt engineering platform for creators and developers. It offers a prompt engineering library, forms, and API. The free plan provides one prompt formation, one prompt API endpoint, and 30 generations per month.
-- [PromptLoop](https://www.promptloop.com/) - Use AI and large language models like GPT-3 with a simple spreadsheet formula to transform, comprehend, and analyze text in Google Sheets. The first 2,000 credits are free each month.
-- [Crawlbase](https://crawlbase.com/) — Crawl and scrape websites without proxies, infrastructure, or browsers. We solve captchas for you and prevent you from being blocked. The first 1000 calls are free of charge.
-- [Public-Apis Github Repo](https://github.com/public-apis/public-apis) — A list of free public APIs.
-- [Supportivekoala](https://supportivekoala.com/) — Allows you to autogenerate images by your input via templates. The free plan allows you to create up to 100 images per week.
-- [QuickMocker](https://quickmocker.com/) — Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. The free account provides one random subdomain, ten endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, and 50 history records in the requests log.
-- [Rapidapi](https://rapidapi.com/) - World’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!) and interactive examples.
-- [RequestBin](https://requestbin.com) — Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.
-- [Roboflow](https://roboflow.com) - create and deploy a custom computer vision model with no prior machine learning experience required. The free tier includes up to 1,000 free source images.
-- [ROBOHASH](https://robohash.org/) - Web service to generate unique and cool images from any text.
 - [SaturnCloud](https://saturncloud.io/) - Data science cloud environment that allows running Jupyter notebooks and Dask clusters. Thirty hours of free computation and 3 hours of Dask per month.
 - [Scraper's Proxy](https://scrapersproxy.com) — Simple HTTP proxy API for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including javascript rendering (more available if you contact support).
 - [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans are available.
