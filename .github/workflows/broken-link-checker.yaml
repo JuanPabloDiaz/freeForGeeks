@@ -17,7 +17,7 @@ jobs:
       - name: Check Links
         uses: lycheeverse/lychee-action@v1.10.0
         with:
-          args: --verbose --no-progress './**/*.md' './**/*.html' './**/*.rst' --exclude-mail
+          args: --verbose --no-progress './**/*.md' './**/*.html' './**/*.rst' --exclude-mail --exclude 'http://localhost:*/*'
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - name: Create Issue From File
