@@ -1,0 +1,29 @@
+# source: https://github.com/lycheeverse/lychee-action/
+# https://github.com/userbradley/documentation.breadnet.co.uk/blob/main/.github/workflows/broken-link-checker.yaml
+
+name: Broken Link Checker
+on:
+  repository_dispatch:
+    types: [test]
+  workflow_dispatch:
+  schedule:
+    - cron: "00 18 * * *"
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Check Links
+        uses: lycheeverse/lychee-action@v1.10.0
+        with:
+          args: --verbose --no-progress './**/*.md' './**/*.html' './**/*.rst' --exclude-mail
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - name: Create Issue From File
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5.0.0
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: Broken Link
