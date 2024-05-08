@@ -1,6 +1,6 @@
 #!/bin/bash
 
-EXCLUDE_URLS_FILE=../white_list/exclude_urls.txt
+EXCLUDE_URLS_FILE=./scripts/exclude_urls.txt # White list of URLs to exclude from the check
 LYCHEE_OPTIONS="--verbose --no-progress './**/*.md' './**/*.html' './**/*.rst' --exclude-mail"
 
 while read -r url; do
