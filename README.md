@@ -653,6 +653,7 @@ Datos.gov...
 ## Dev Tools
 
 - [Dr. Link Check](https://www.drlinkcheck.com/) is a valuable web-based service designed to help website owners and administrators identify and address broken links on their websites. | Freemiun
+- [Broken link checker](https://www.npmjs.com/package/broken-link-checker) is a Node.js package that checks websites and web applications for broken links. ⭐ [1.5k stars](https://github.com/stevenvachon/broken-link-checker)
 - [lighthouse](https://developers.google.com/web/tools/lighthouse) is an automated auditing, performance metrics, and best practices. For improving the quality of web pages. ⭐ [28k stars](https://github.com/GoogleChrome/lighthouse)
 
 ## Tools
