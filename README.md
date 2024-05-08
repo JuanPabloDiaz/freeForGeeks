@@ -271,57 +271,37 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [SmartParse](https://smartparse.io) is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes: Up to 300 processing units, Browser uploads, Data quarantining, Circuit breakers and Job Alerts.
 - [SerpApi](https://serpapi.com/) - Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other machines. The free plan includes 100 successful API calls per month.
 
-<!-- need work -->
-
-## Machine Learning
-
-- [Arize AI](https://arize.com/) - Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models.
-- [Bigml](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task.
-- [Comet](https://www.comet.com/site/) - The MLOps platform for experiment tracking, model production management, model registry, and complete data lineage, covering your workflow from training to production. Free for individuals and academics.
-- [Efemarai](https://efemarai.com) - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.
-- [Lightly](https://www.lightly.ai/) — Improve your machine-learning models by using the correct data. Use datasets of up to 1000 samples for free.
-- [Monkey learn](https://monkeylearn.com/) — Text analysis with machine learning, free 300 queries/month.
-- [Neptune](https://neptune.ai/) is a lightweight component that works with any MLOps stack. It helps you track, compare, monitor, and share your ML experiments and models with flexible Python. Log, store, display, organize, compare, and query all your MLOps metadata. Free for individuals: 1 member, 100 GB of metadata storage, 200h of monitoring/month
-- [Nyckel](https://www.nyckel.com) — Train, deploy, and invoke image and text ML models. Free training with up to 5,000 pieces of training data. 1000 model invokes per month free.
-- [Preset Cloud](https://preset.io/) is a `hosted Apache Superset` service. Forever free for teams of up to 5 users, featuring unlimited dashboards and charts, a no-code chart builder, and a collaborative SQL editor.
-- [PromptLeo](https://promptleo.com/) - Prompt engineering platform for creators and developers. It offers a prompt engineering library, forms, and API. The free plan provides one prompt formation, one prompt API endpoint, and 30 generations per month.
-- [PromptLoop](https://www.promptloop.com/) - Use AI and large language models like GPT-3 with a simple spreadsheet formula to transform, comprehend, and analyze text in Google Sheets. The first 2,000 credits are free each month.
-- [Supportivekoala](https://supportivekoala.com/) — Allows you to autogenerate images by your input via templates. The free plan allows you to create up to 100 images per week.
-- [Roboflow](https://roboflow.com) - create and deploy a custom computer vision model with no prior machine learning experience required. The free tier includes up to 1,000 free source images.
-- [ROBOHASH](https://robohash.org/) - Web service to generate unique and cool images from any text.
-- [Weights & Biases](https://wandb.ai) — The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.
-- [Wit.ai](https://wit.ai/) — NLP for developers.
-- [Wolfram](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud.
-- [What The Diff](https://whatthediff.ai) an AI-powered code review assistant. The free plan has a limit of 25,000 monthly tokens (~10 PRs).
-- [Tavily AI](https://tavily.com/) Search API is a search engine optimized for LLMs and RAG, aimed at efficient, quick and persistent search results. 1000 request/month for the Free tier with No credit card required.
-
-## GUI toolkits
-
-- [Atlas toolkit](https://atlastk.org/) - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python, and Ruby.
-
-## Data
-
-- [Browse AI](https://www.browse.ai) — Extracting and monitoring data on the web. Fifty credits per month for free.
-- [Coupler](https://www.coupler.io/) - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, and collect and back up insights. The free plan has unlimited users, 100 runs with 1000 monthly rows, and unlimited integrations.
-- [Data Dead Drop](https://datadeaddrop.com) - Simple, free file sharing. Data self-destroys after access. Upload and download data via the browser or your favorite command line client.
-- [Data Fetcher](https://datafetcher.com) - Connect Airtable to any application or API with no code. Postman-like interface for running API requests in Airtable. Pre-built integrations with dozens of apps. The free plan includes 100 runs per month.
-- [Dataimporter](https://www.dataimporter.io) - Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month.
-- [Datalore](https://datalore.jetbrains.com) - Python notebooks by Jetbrains. Includes 10 GB of storage and 120 hours of runtime each month.
-- [Data Miner](https://dataminer.io/) - A browser extension (Google Chrome, MS Edge) for data extraction from web pages CSV or Excel. The free plan gives you 500 pages/month.
-- [Datapane](https://datapane.com) - API for building interactive reports in Python and deploying Python scripts and Jupyter Notebooks as self-service tools.
-- [DB Designer](https://www.dbdesigner.net/) — Cloud-based Database schema design and modeling tool with a free starter plan of 2 Database models and ten tables per model.
-- [Deepnote](https://deepnote.com) - A new data science notebook. Jupyter is compatible with real-time collaboration and running in the cloud. The free tier includes unlimited personal projects, up to 750 hours of standard hardware, and teams with up to 3 editors.
-- [Diggernaut](https://www.diggernaut.com/) — Cloud-based web scraping and data extraction platform for turning any website to the dataset or working with it as an API. The free plan includes 5K page requests monthly.
-- [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community version with up to 3 authors and five projects. One compute profile per author with 4GB RAM.
-- [Observable](https://observablehq.com/) — a place to create, collaborate, and learn with data. Free: Unlimited notebooks, Unlimited publishing, Five editors per notebook.
-- [Prefect Cloud](https://www.prefect.io/cloud/) is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines. it's a complete platform for dataflow automation. All plans include 20,000 free runs every month. That's enough to power ETL for most small businesses.
-- [Crawlbase](https://crawlbase.com/) — Crawl and scrape websites without proxies, infrastructure, or browsers. We solve captchas for you and prevent you from being blocked. The first 1000 calls are free of charge.
-- [SaturnCloud](https://saturncloud.io/) - Data science cloud environment that allows running Jupyter notebooks and Dask clusters. Thirty hours of free computation and 3 hours of Dask per month.
-- [Simplescraper](https://simplescraper.io) — Trigger your webhook after each operation. The free plan includes 100 cloud scrape credits.
-- [Select Star](https://www.selectstar.com/) - is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 Tables and 10 Users.
-- [Shipyard](https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user - more than enough to automate multiple workflows.
-
-<!-- need work -->
+- [Unsplash API](https://unsplash.com/developers) is a free API for high-quality, curated photos.
+- [Youtube API](https://developers.google.com/youtube) is a free API for YouTube.
+- [Watchmode](https://api.watchmode.com/) is a freemium API for `movies and TV shows`. The free plan includes 1000 requests per month.
+- [Pantry](https://getpantry.cloud/) is a free API for hosting small pieces of data. It let you setup a small database in seconds. 100 mb of JSON storage. It's like TinyDB but in the cloud.
+- [Waifu.pics](https://waifu.pics/), [Waifu API](https://www.waifu.im/), [Waifu.it](https://waifu.it/) are some popular free `anime waifus API`.
+- [IGDB](https://www.igdb.com/api) is a free API for `video games`. The API is free for both non-commercial and commercial projects.
+- [Discord](https://discord.com/developers/docs/intro) is a free API for Discord.
+- [World News](https://newsapi.org/), [World News API](https://worldnewsapi.com/) are free API for news. The World News API gives you access to thousands of news sources in over 50 languages from over 150 countries. News are semantically tagged allowing for semantic news search like never before.
+- [Random Data](https://random-data-api.com/) is a free API for random fake data. It does not require any authentication.
+- [Foreign Rates API](https://www.exchangerate-api.com/) is a free API for foreign exchange rates. The free plan includes 1,500 requests per month.
+- [kroki](https://kroki.io/) is a free API for `creating diagrams`. The free plan includes 1,000 requests per month.
+- [Google Docs](https://developers.google.com/docs/api) is a free API that lets you connect your app to Google Docs. Convert your docs into JSON.
+- [HTTP Status Dogs](https://httpstatusdogs.com/) is a free API for `HTTP status codes`. HTTP status codes are boring but not with HTTP Status Dogs. It returns images of dogs for each HTTP status code to make it easier to understand and remember.
+- [GeoKeo](https://geokeo.com/) is a free API for `geocoding`. It provides a simple API to convert addresses into geographic coordinates. in other words, it converts city names, street names, and postal codes into latitude and longitude. The free plan includes 2,500 api requests daily.
+- [TicketMaster](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/) is a free API for `events`. The API provides access to events, attractions, venues, classifications, and more. The free plan includes 500 requests per month.
+- [ollama](https://ollama.com/) let's you run LLM (Large Language Models) on your own machine. It's like OpenAI's GPT-3 but on your own machine. It's free and open-source. It comes with an API that you can listen to through localhost. ⭐ [64.8k stars](https://github.com/ollama/ollama)
+- [Free Dictionary API](https://dictionaryapi.dev/) is a free API for `dictionary`. The API provides access to definitions, synonyms, antonyms, translations, and more. ⭐ [GitHub](https://github.com/meetDeveloper/freeDictionaryAPI)
+- [Open Weather API](https://openweathermap.org/api) is a free API for weather. The API provides access to current weather data, forecasts, and historical data. The free plan includes 1,000 API calls per day.
+- [Alpha Vantage](https://www.alphavantage.co/) is a free API for `stock market data`. The API provides access to real-time and historical stock data. The free plan includes 25 requests per day.
+- [Deck of Cards](https://deckofcardsapi.com/) is an API to simulate a deck of cards. The API provides access to a deck of cards.
+- [Wordpress API](https://developer.wordpress.org/rest-api/) is a free API for WordPress. The API provides access to posts, pages, comments, taxonomies, and more.
+- [Spotify API](https://developer.spotify.com/documentation/web-api/) is a free API for Spotify. The API provides access to music, albums, playlists, artists, and more.
+- [Podcast Index](https://podcastindex.org/) is a free API for podcasts. The API provides access to podcasts, episodes, and more.
+- [Deepgram AI API](https://www.deepgram.com/) is a free API for `speech recognition`. The API provides access to `speech-to-text`, audio transcription, and more.
+- [Zen Quotes](https://zenquotes.io/) is a free API for `quotes`.
+- [Open Food Facts](https://world.openfoodfacts.org/) is a free API for `food products`. The API provides access to food products, ingredients, and more.
+- [Resend (for emails)](hhttps://resend.com/) is an API for sending emails. The free plan includes 100 emails per day or up to 3,000 emails a month.
+- [NASA (multiple APIs)](https://api.nasa.gov/) is a collection of free API for `space`. The API provides access to images, videos, asteroids, and more.
+- [The Movie DB API](https://www.themoviedb.org/documentation/api) is a free API for `movies`. The API provides access to movies, TV shows, actors, and more. It's like IMDB but not owned by Amazon. Free for non-commercial use.
+- [DigiDates](https://digidates.de/) provides a REST API for time and date calculations. Access to the API is free of charge and currently without limitation.
+- [OpenSky Network](https://opensky-network.org/) is a free API for `air traffic`. It lets you track flights in real-time. The API provides access to flights, airports, and more.
 
 ## APIs
 
@@ -406,6 +386,58 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [Hoppscotch](https://hoppscotch.io/) is a lightweight, fast, and customizable app for testing and designing APIs. ⭐ [60k stars](https://github.com/hoppscotch/hoppscotch)
 - [tRPC](https://trpc.io/) Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ⭐ [32.3k stars](https://github.com/trpc/trpc)
+
+<!-- need work -->
+
+## Machine Learning
+
+- [Arize AI](https://arize.com/) - Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models.
+- [Bigml](https://bigml.com/) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task.
+- [Comet](https://www.comet.com/site/) - The MLOps platform for experiment tracking, model production management, model registry, and complete data lineage, covering your workflow from training to production. Free for individuals and academics.
+- [Efemarai](https://efemarai.com) - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.
+- [Lightly](https://www.lightly.ai/) — Improve your machine-learning models by using the correct data. Use datasets of up to 1000 samples for free.
+- [Monkey learn](https://monkeylearn.com/) — Text analysis with machine learning, free 300 queries/month.
+- [Neptune](https://neptune.ai/) is a lightweight component that works with any MLOps stack. It helps you track, compare, monitor, and share your ML experiments and models with flexible Python. Log, store, display, organize, compare, and query all your MLOps metadata. Free for individuals: 1 member, 100 GB of metadata storage, 200h of monitoring/month
+- [Nyckel](https://www.nyckel.com) — Train, deploy, and invoke image and text ML models. Free training with up to 5,000 pieces of training data. 1000 model invokes per month free.
+- [Preset Cloud](https://preset.io/) is a `hosted Apache Superset` service. Forever free for teams of up to 5 users, featuring unlimited dashboards and charts, a no-code chart builder, and a collaborative SQL editor.
+- [PromptLeo](https://promptleo.com/) - Prompt engineering platform for creators and developers. It offers a prompt engineering library, forms, and API. The free plan provides one prompt formation, one prompt API endpoint, and 30 generations per month.
+- [PromptLoop](https://www.promptloop.com/) - Use AI and large language models like GPT-3 with a simple spreadsheet formula to transform, comprehend, and analyze text in Google Sheets. The first 2,000 credits are free each month.
+- [Supportivekoala](https://supportivekoala.com/) — Allows you to autogenerate images by your input via templates. The free plan allows you to create up to 100 images per week.
+- [Roboflow](https://roboflow.com) - create and deploy a custom computer vision model with no prior machine learning experience required. The free tier includes up to 1,000 free source images.
+- [ROBOHASH](https://robohash.org/) - Web service to generate unique and cool images from any text.
+- [Weights & Biases](https://wandb.ai) — The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.
+- [Wit.ai](https://wit.ai/) — NLP for developers.
+- [Wolfram](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud.
+- [What The Diff](https://whatthediff.ai) an AI-powered code review assistant. The free plan has a limit of 25,000 monthly tokens (~10 PRs).
+- [Tavily AI](https://tavily.com/) Search API is a search engine optimized for LLMs and RAG, aimed at efficient, quick and persistent search results. 1000 request/month for the Free tier with No credit card required.
+
+## GUI toolkits
+
+- [Atlas toolkit](https://atlastk.org/) - Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python, and Ruby.
+
+## Data
+
+- [Browse AI](https://www.browse.ai) — Extracting and monitoring data on the web. Fifty credits per month for free.
+- [Coupler](https://www.coupler.io/) - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, and collect and back up insights. The free plan has unlimited users, 100 runs with 1000 monthly rows, and unlimited integrations.
+- [Data Dead Drop](https://datadeaddrop.com) - Simple, free file sharing. Data self-destroys after access. Upload and download data via the browser or your favorite command line client.
+- [Data Fetcher](https://datafetcher.com) - Connect Airtable to any application or API with no code. Postman-like interface for running API requests in Airtable. Pre-built integrations with dozens of apps. The free plan includes 100 runs per month.
+- [Dataimporter](https://www.dataimporter.io) - Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month.
+- [Datalore](https://datalore.jetbrains.com) - Python notebooks by Jetbrains. Includes 10 GB of storage and 120 hours of runtime each month.
+- [Data Miner](https://dataminer.io/) - A browser extension (Google Chrome, MS Edge) for data extraction from web pages CSV or Excel. The free plan gives you 500 pages/month.
+- [Datapane](https://datapane.com) - API for building interactive reports in Python and deploying Python scripts and Jupyter Notebooks as self-service tools.
+- [DB Designer](https://www.dbdesigner.net/) — Cloud-based Database schema design and modeling tool with a free starter plan of 2 Database models and ten tables per model.
+- [Deepnote](https://deepnote.com) - A new data science notebook. Jupyter is compatible with real-time collaboration and running in the cloud. The free tier includes unlimited personal projects, up to 750 hours of standard hardware, and teams with up to 3 editors.
+- [Diggernaut](https://www.diggernaut.com/) — Cloud-based web scraping and data extraction platform for turning any website to the dataset or working with it as an API. The free plan includes 5K page requests monthly.
+- [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community version with up to 3 authors and five projects. One compute profile per author with 4GB RAM.
+- [Observable](https://observablehq.com/) — a place to create, collaborate, and learn with data. Free: Unlimited notebooks, Unlimited publishing, Five editors per notebook.
+- [Prefect Cloud](https://www.prefect.io/cloud/) is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines. it's a complete platform for dataflow automation. All plans include 20,000 free runs every month. That's enough to power ETL for most small businesses.
+- [Crawlbase](https://crawlbase.com/) — Crawl and scrape websites without proxies, infrastructure, or browsers. We solve captchas for you and prevent you from being blocked. The first 1000 calls are free of charge.
+- [SaturnCloud](https://saturncloud.io/) - Data science cloud environment that allows running Jupyter notebooks and Dask clusters. Thirty hours of free computation and 3 hours of Dask per month.
+- [Simplescraper](https://simplescraper.io) — Trigger your webhook after each operation. The free plan includes 100 cloud scrape credits.
+- [Select Star](https://www.selectstar.com/) - is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 Tables and 10 Users.
+- [Shipyard](https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user - more than enough to automate multiple workflows.
+
+<!-- need work -->
 
 ## Authentication
 
