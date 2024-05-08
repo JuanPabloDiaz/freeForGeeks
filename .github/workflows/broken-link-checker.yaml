@@ -7,7 +7,7 @@ on:
     types: [test]
   workflow_dispatch:
   schedule:
-    - cron: "00 18 * * *"
+    - cron: "*/2 * * * *" #"00 18 * * *"
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
