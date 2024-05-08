@@ -271,6 +271,38 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [SmartParse](https://smartparse.io) is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes: Up to 300 processing units, Browser uploads, Data quarantining, Circuit breakers and Job Alerts.
 - [SerpApi](https://serpapi.com/) - Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other machines. The free plan includes 100 successful API calls per month.
 
+- [Unsplash API](https://unsplash.com/developers) is a free API for high-quality, curated photos.
+- [Youtube API](https://developers.google.com/youtube) is a free API for YouTube.
+- [Watchmode](https://api.watchmode.com/) is a freemium API for `movies and TV shows`. The free plan includes 1000 requests per month.
+- [Pantry](https://getpantry.cloud/) is a free API for hosting small pieces of data. It let you setup a small database in seconds. 100 mb of JSON storage. It's like TinyDB but in the cloud.
+- [Waifu.pics](https://waifu.pics/), [Waifu API](https://www.waifu.im/), [Waifu.it](https://waifu.it/) are some popular free `anime waifus API`.
+- [IGDB](https://www.igdb.com/api) is a free API for `video games`. The API is free for both non-commercial and commercial projects.
+- [Discord](https://discord.com/developers/docs/intro) is a free API for Discord.
+- [World News](https://newsapi.org/), [World News API](https://worldnewsapi.com/) are free API for news. The World News API gives you access to thousands of news sources in over 50 languages from over 150 countries. News are semantically tagged allowing for semantic news search like never before.
+- [Random Data](https://random-data-api.com/) is a free API for random fake data. It does not require any authentication.
+- [Foreign Rates API](https://www.exchangerate-api.com/) is a free API for foreign exchange rates. The free plan includes 1,500 requests per month.
+- [kroki](https://kroki.io/) is a free API for `creating diagrams`. The free plan includes 1,000 requests per month.
+- [Google Docs](https://developers.google.com/docs/api) is a free API that lets you connect your app to Google Docs. Convert your docs into JSON.
+- [HTTP Status Dogs](https://httpstatusdogs.com/) is a free API for `HTTP status codes`. HTTP status codes are boring but not with HTTP Status Dogs. It returns images of dogs for each HTTP status code to make it easier to understand and remember.
+- [GeoKeo](https://geokeo.com/) is a free API for `geocoding`. It provides a simple API to convert addresses into geographic coordinates. in other words, it converts city names, street names, and postal codes into latitude and longitude. The free plan includes 2,500 api requests daily.
+- [TicketMaster](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/) is a free API for `events`. The API provides access to events, attractions, venues, classifications, and more. The free plan includes 500 requests per month.
+- [ollama](https://ollama.com/) let's you run LLM (Large Language Models) on your own machine. It's like OpenAI's GPT-3 but on your own machine. It's free and open-source. It comes with an API that you can listen to through localhost. ⭐ [64.8k stars](https://github.com/ollama/ollama)
+- [Free Dictionary API](https://dictionaryapi.dev/) is a free API for `dictionary`. The API provides access to definitions, synonyms, antonyms, translations, and more. ⭐ [GitHub](https://github.com/meetDeveloper/freeDictionaryAPI)
+- [Open Weather API](https://openweathermap.org/api) is a free API for weather. The API provides access to current weather data, forecasts, and historical data. The free plan includes 1,000 API calls per day.
+- [Alpha Vantage](https://www.alphavantage.co/) is a free API for `stock market data`. The API provides access to real-time and historical stock data. The free plan includes 25 requests per day.
+- [Deck of Cards](https://deckofcardsapi.com/) is an API to simulate a deck of cards. The API provides access to a deck of cards.
+- [Wordpress API](https://developer.wordpress.org/rest-api/) is a free API for WordPress. The API provides access to posts, pages, comments, taxonomies, and more.
+- [Spotify API](https://developer.spotify.com/documentation/web-api/) is a free API for Spotify. The API provides access to music, albums, playlists, artists, and more.
+- [Podcast Index](https://podcastindex.org/) is a free API for podcasts. The API provides access to podcasts, episodes, and more.
+- [Deepgram AI API](https://www.deepgram.com/) is a free API for `speech recognition`. The API provides access to `speech-to-text`, audio transcription, and more.
+- [Zen Quotes](https://zenquotes.io/) is a free API for `quotes`.
+- [Open Food Facts](https://world.openfoodfacts.org/) is a free API for `food products`. The API provides access to food products, ingredients, and more.
+- [Resend (for emails)](hhttps://resend.com/) is an API for sending emails. The free plan includes 100 emails per day or up to 3,000 emails a month.
+- [NASA (multiple APIs)](https://api.nasa.gov/) is a collection of free API for `space`. The API provides access to images, videos, asteroids, and more.
+- [The Movie DB API](https://www.themoviedb.org/documentation/api) is a free API for `movies`. The API provides access to movies, TV shows, actors, and more. It's like IMDB but not owned by Amazon. Free for non-commercial use.
+- [DigiDates](https://digidates.de/) provides a REST API for time and date calculations. Access to the API is free of charge and currently without limitation.
+- [OpenSky Network](https://opensky-network.org/) is a free API for `air traffic`. It lets you track flights in real-time. The API provides access to flights, airports, and more.
+
 ## APIs
 
 - [IP City](https://ip.city) is a free IP Geolocation API. 100 Free requests per day.
