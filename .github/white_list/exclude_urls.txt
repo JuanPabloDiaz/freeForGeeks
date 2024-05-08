@@ -1,0 +1,4 @@
+http://localhost:*/*
+https://www.canva.com/*
+https://www.indeed.com/*
+https://openai.com/*
