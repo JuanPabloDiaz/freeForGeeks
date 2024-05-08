@@ -17,8 +17,7 @@ jobs:
       - name: Check Links
         uses: lycheeverse/lychee-action@v1.10.0
         with:
-          args: --verbose --no-progress './**/*.md' './**/*.html' './**/*.rst' --exclude-mail --exclude 'http://localhost:*/*' --exclude 'https://www.canva.com' --exclude 'https://openai.com/' --exclude 'https://chatgpt.com/' --exclude 'https://recharts.org/' --exclude 'https://leetcode.com/' --exclude 'https://www.igdb.com/api' --exclude 'https://co.indeed.com/' --exclude 'https://konghq.com/'
-        env:
+          args: --verbose --no-progress './**/*.md' './**/*.html' './**/*.rst' --exclude-mail --exclude 'http://localhost:*/*' --exclude 'https://*.canva.com/*' --exclude 'https://*.openai.com/*' --exclude 'https://*.chatgpt.com/*' --exclude 'https://*.recharts.org/*' --exclude 'https://*.leetcode.com/*' --exclude 'https://*.igdb.com/*' --exclude 'https://*.indeed.com/*' --exclude 'https://*.konghq.com/*'
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
