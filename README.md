@@ -257,7 +257,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Public APIs](https://publicapis.dev/) is a collection of free public APIs. ⭐ [2.6k stars](https://github.com/marcelscruz/public-apis)
 - [Free APIs](https://free-apis.github.io/)<!-- https://free-apis.com/#/ --> is collection of free APIs derived from [Public APIs](https://github.com/public-apis/public-apis) ⭐ [286k stars](https://github.com/public-apis/public-apis) ⭐ [196k stars](https://github.com/Free-APIs/Free-APIs.github.io)
 - [Fakerjs](https://fakerjs.dev/) is a tool to generate massive amounts of fake data in the browser and node.js. ⭐ [11.5k stars](https://github.com/faker-js/faker)
-- [Api.publicapis](https://api.publicapis.org/)
 - [API COLOMBIA](https://api-colombia.com/) is a public api that contains info about Colombia, departments, cities, tourists places and presidents. ⭐ [GitHub](https://github.com/Mteheran/api-colombia)
 - [RANDOM USER GENERATOR](https://randomuser.me/) is a free, open-source API for generating random user data. Like Lorem Ipsum, but for people. ⭐ [1.3k stars](https://github.com/RandomAPI/Randomuser.me-Node)
 - [DummyJSON](https://dummyjson.com/) is a tool to generate massive amounts of fake data in the browser and node.js. ⭐ [1.3k stars](https://github.com/Ovi/DummyJSON)
@@ -634,7 +633,7 @@ Datos.gov...
 
 ## Personal Cloud Computer
 
-- [Puter](https://peter.com) is an Open Source Personal Cloud Computer: All your files, apps, and games in one place accessible from anywhere at any time. ⭐ [3.3k stars](https://github.com/HeyPuter/puter)
+- [Puter](https://puter.com) is an Open Source Personal Cloud Computer: All your files, apps, and games in one place accessible from anywhere at any time. ⭐ [3.3k stars](https://github.com/HeyPuter/puter)
 
 ## Projects (Beginner friendly Contribution)
 
@@ -749,7 +748,6 @@ Datos.gov...
 - [Font of web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.
 - [fonts.xz.style](https://fonts.xz.style/) free and open source service for delivering font families to websites using CSS.
 - [Bunny](https://fonts.bunny.net) Privacy oriented Google Fonts
-- [FontsKey](https://www.fontskey.com/) - Provides free and commercial paid fonts for personal use and can enter text for quick filtering.
 
 <!--  ---------------------------- ********************* ADD MORE RESOURCES  → (need work) *****************************  ---------------------------- -->
 
@@ -997,7 +995,6 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Standard Ebooks](https://standardebooks.org/) "Free and liberated ebooks, carefully produced for the true book lover." High-quality ebooks. Library includes 401 ebooks, covering many of the best and most essential books to humanity.
 - [OpenLibrary](https://openlibrary.org/) Online library catalog, with over 20 million records, providing access to over 1.7 million scanned versions of books. Apart of the [Internet Archive](https://archive.org/).
 - [Archive.org Books to Borrow](https://archive.org/details/inlibrary) A collection of books that can be borrowed by registered users for two weeks at a time. Books can be read online or with Adobe Digital Editions (DRM software). Catalog includes almost 1.7 million books.
-- [ZLibrary: Books](https://b-ok.cc/) The world's largest ebook library. 5.3 million of ebooks available for free download in almost every format. Includes many books still in copyright. A mirror of [Library Genesis](https://libgen.is/).
 - [Wikisource](https://wikisource.org/wiki/Main_Page) Free library of free-content textual sources. Books include those out-of-copyright, such as _Walden, or, Life in the Woods_ by Henry David Thoreau. You can download as PDF, EPUB, or MOBI. (From Wikimedia Foundation.)
 - [Early Modern Texts](https://www.earlymoderntexts.com/) Early modern philosophical texts made easier to read while maintaining the main arguments, doctrines, and lines of thought. Prepared by Jonathan Bennett, a professional scholar. Includes from Francis Bacon to Montaigne to Mary Wollstonecraft.
 - [Calibre](https://calibre-ebook.com/) Ebook manager available for Windows, Mac, and Linux. Read, create, and edit ebooks.
