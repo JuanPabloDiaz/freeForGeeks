@@ -292,7 +292,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [OpenWeb Ninja](https://www.openwebninja.com/) - Extremely comprehensive real-time SERP and public data APIs: Google Search, Shopping, Jobs, Images, Lens, News, Google Maps Businesses / Places, Reviews, Photos, Website Emails and Social Contacts Scraper, Amazon, Yelp and more. All APIs include a free tier with 100 to 200 free monthly requests.
 - [NASA (multiple APIs)](https://api.nasa.gov/) is a collection of free API for `space`. The API provides access to images, videos, asteroids, and more.
 
-<!-- Fake Data -->
+<!-- Test Data -->
 
 - [Beeceptor](https://beeceptor.com) is a Rest API mocking and intercepting in seconds. Replace the endpoint in the code and you are ready. It's that simple! Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone with a dashboard link can view submissions and answers).
 - [DummyJSON](https://dummyjson.com/) is a tool to generate massive amounts of `fake data` in the browser and node.js. ⭐ [1.3k stars](https://github.com/Ovi/DummyJSON)

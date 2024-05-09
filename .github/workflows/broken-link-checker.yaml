@@ -1,6 +1,8 @@
 # source: https://github.com/lycheeverse/lychee-action/
 # https://github.com/userbradley/documentation.breadnet.co.uk/blob/main/.github/workflows/broken-link-checker.yaml
 
+## Other link-checker option: https://github.com/marcelscruz/public-apis/blob/main/.github/workflows/validate_links.yml
+
 name: Broken Link Checker
 on:
   repository_dispatch:
@@ -18,6 +20,7 @@ jobs:
         uses: lycheeverse/lychee-action@v1.10.0
         with:
           args: --verbose --no-progress './**/*.md' './**/*.html' './**/*.rst' --exclude-mail --exclude 'http://localhost:*/*' --exclude 'https://*.canva.com/*' --exclude 'https://*.openai.com/*' --exclude 'https://*.chatgpt.com/*' --exclude 'https://*.recharts.org/*' --exclude 'https://*.leetcode.com/*' --exclude 'https://*.igdb.com/*' --exclude 'https://*.indeed.com/*' --exclude 'https://*.konghq.com/*' --exclude 'https://*.tableau.com/*' --exclude 'https://*.careerbuilder.com/*' --exclude 'https://*.phind.com/*' --exclude 'https://*.zenrows.com/*'
+        env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       # - name: Create Issue From File
       #   if: env.lychee_exit_code != 0
