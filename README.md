@@ -1071,10 +1071,11 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Awesome](https://awesome.re/) lists about all kinds of interesting topics. ⭐ [294k stars](https://github.com/sindresorhus/awesome)
 - [Free-For Dev](https://free-for.dev/) is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. ⭐ [82k stars](https://github.com/ripienaar/free-for-dev)
 - [Free Stuff for Developer](https://freestuff.dev/) is a list of free stuff for developer by developer to use. ⭐ [1.5k stars](https://github.com/hilmanski/freeStuffDev/)
-- [LinksHub](https://www.linkshub.dev/) is a list of resources to free software, libraries, frameworks, and other tools. ⭐ [621 stars]()
-- [Freesets](https://freesets.vercel.app/) is a collection of free resources like icons, images, illustrations, components, libraries and more. ⭐ [GitHub](https://github.com/cosmoart/Freesets)
-- [Free-for-life](https://free.wdh.gg/) is a massive list including a huge amount of products and services that are completely free! ⭐ [GitHub](https://github.com/wdhdev/free-for-life)
-- [Free Resources](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) is a list of free resources for almost everyone. ⭐ [GitHub](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone)
+- [LinksHub](https://www.linkshub.dev/) is a list of resources to free software, libraries, frameworks, and other tools. ⭐ [654 stars](https://github.com/rupali-codes/LinksHub)
+- [Freesets](https://freesets.vercel.app/) is a collection of free resources like icons, images, illustrations, components, libraries and more. ⭐ [52 stars](https://github.com/cosmoart/Freesets)
+- [Free-for-life](https://free.wdh.gg/) is a massive list including a huge amount of products and services that are completely free! ⭐ [491 stars](https://github.com/wdhdev/free-for-life)
+- [Free Resources](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) is a list of free resources for almost everyone. ⭐ [330 stars](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone)
+- [Dev Resources](https://devresourc.es/) is a collection of resources for developers. ⭐ [874 stars](https://github.com/marcelscruz/dev-resources)
 
 # Career Development
 
