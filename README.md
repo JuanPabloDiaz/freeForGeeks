@@ -282,7 +282,9 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 ## APIs
 
-<!-- Geolocation -->
+<!-- tabs:start -->
+
+#### **Geolocation**
 
 - [Big Data Cloud](https://www.bigdatacloud.com/) provides fast, accurate, and free (Unlimited or up to 10K-50K/month) APIs for modern web like `IP Geolocation, Reverse Geocoding, Networking Insights, Email and Phone Validation, Client Info` and more.
 - [Country State City API](https://countrystatecity.in/) is a free API to get country, state, and city details. ⭐ [6.3k stars](https://github.com/dr5hn/countries-states-cities-database)
@@ -308,7 +310,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Zipcodebase](https://zipcodebase.com) is a free `Zip Code API`, access to Worldwide Postal Code Data. Ten thousand free requests/month.
 - [Zipcodestack](https://zipcodestack.com) is a free `Zip Code API and Postal Code Validation`. Ten thousand free requests/month.
 
-<!-- Collections -->
+#### **Collections**
 
 - [Abstract API](https://www.abstractapi.com) is a collection for various use cases, including IP geolocation, gender detection, or email validation.
 - [Public APIs](https://publicapis.dev/) is a `collection of free public APIs`. ⭐ [2.6k stars](https://github.com/marcelscruz/public-apis)
@@ -318,7 +320,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [NASA (multiple APIs)](https://api.nasa.gov/) is a collection of free API for `space`. The API provides access to images, videos, asteroids, and more.
 - [Apislist](https://apislist.com/) is a collection of free APIs. Curated Playground for the Best Public Web APIs!
 
-<!-- Test Data -->
+#### **Test Data**
 
 - [Beeceptor](https://beeceptor.com) is a Rest API mocking and intercepting in seconds. Replace the endpoint in the code and you are ready. It's that simple! Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone with a dashboard link can view submissions and answers).
 - [DummyJSON](https://dummyjson.com/) is a tool to generate massive amounts of `fake data` in the browser and node.js. ⭐ [1.3k stars](https://github.com/Ovi/DummyJSON)
@@ -328,11 +330,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Microenv](https://microenv.com) allow you to `create fake REST API` for developers with the possibility to generate code and app in a docker container.
 - [QuickMocker](https://quickmocker.com/) is an API Mock, fake API, mock server, simulate or stub API, dummy API and web services, API for tests, test doubles, fake random data, response templating, create webhook, and more. Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. The free account provides one random subdomain, ten endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, and 50 history records in the requests log.
 
-<!-- Countries -->
-
-- [API COLOMBIA](https://api-colombia.com/) is a public api that contains info about Colombia, departments, cities, tourists places and presidents. ⭐ [GitHub](https://github.com/Mteheran/api-colombia)
-
-<!-- Entertainment -->
+#### **Entertainment**
 
 - [Discord](https://discord.com/developers/docs/intro) is a free API for Discord.
 - [Youtube API](https://developers.google.com/youtube) is a free API for YouTube.
@@ -349,7 +347,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Deck of Cards](https://deckofcardsapi.com/) is an API to simulate a deck of cards. The API provides access to a deck of cards.
 - [Bored API](https://www.boredapi.com/) is a free API for `random activities`. The API provides access to random activities. ⭐ [GitHub](https://github.com/drewthoennes/Bored-API)
 
-<!-- Scraping -->
+#### **Scraping**
 
 - [Apify](https://www.apify.com/) is the platform where developers build, deploy, and publish web scraping, data extraction, and web automation tools. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.
 - [Browser Cat](https://www.browsercat.com) is a headless browser API for automation, scraping, AI agent web access, image/pdf generation, and more. Free plan with 1k requests per month.
@@ -360,19 +358,100 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [ZenRows](https://www.zenrows.com/) is a `web scraping API & proxy server` that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting. The free tier of 1000 API calls.
 - [Zenscrape](https://zenscrape.com/web-scraping-api) is a `web scraping API` with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.
 
-<!-- Database -->
+#### **Mocking**
+
+- [Mockfly](https://www.mockfly.dev/) is a trusted development tool for `API mocking and feature flag management`. Quickly generate and control mock APIs with an intuitive interface. The free tier offers 500 requests per day.
+- [Mocki](https://mocki.io) is a tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to develop and use without signup.
+- [Mocko](https://mocko.dev/) Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integration tests.
+- [Mocky](https://designer.mocky.io/) is a simple web app to generate custom HTTP responses for mocking HTTP requests. Also available as [open source](https://github.com/julien-lafont/Mocky).
+- [Reqres](https://reqres.in) is a free `hosted REST-API` ready to respond to your AJAX requests.
+
+#### **Development Tools**
+
+<h3>Web Development Tools</h3>
+
+- [Doczilla](https://www.doczilla.app/) is a SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
+- [Doppio](https://doppio.sh/) is a fully managed API to generate and privately store documents and screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.
+- [Geekflare API](https://geekflare.com/api) lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 3,000 API requests.
+- [Glitterly](https://glitterly.app/) is a tool to generate dynamic images from base templates. Restful API and nocode integrations. The free tier comes with 50 images/month and five templates.
+
+<h3>API Development Tools</h3>
+
+- [Wrap Api](https://wrapapi.com/) `turns any website into a parameterized API`. 30k API calls per month.
+- [Postman](https://postman.com) is a simplify workflows and create better APIs – faster – with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.
+- [PipeDream](https://pipedream.com/requestbin) allow you to `create a free endpoint` to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.
+- [Hoppscotch](https://hoppscotch.io/) is a lightweight, fast, and customizable app for testing and designing APIs. A free, fast, and beautiful `API request builder`. ⭐ [60k stars](https://github.com/hoppscotch/hoppscotch)
+- [tRPC](https://trpc.io/) Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ⭐ [32.3k stars](https://github.com/trpc/trpc)
+
+<h3>Database</h3>
 
 - [Pantry](https://getpantry.cloud/) is a free API for hosting small pieces of data. It let you setup a small database in seconds. 100 mb of JSON storage. It's like TinyDB but in the cloud.
+
+<h3>Development Tools</h3>
+
+- [Colab](https://colab.research.google.com) is a free Jupyter notebook (Python) environment that requires no setup and runs entirely in the cloud. It includes free GPU and TPU.
+- [CurlHub](https://curlhub.io) is a `proxy service` for inspecting and debugging API calls. The free plan includes 10,000 requests per month.
+
+<h3>Documentation Tools</h3>
+
+- [API Toolkit](https://apitoolkit.io) - All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. The free plan covers servers with up to 20,000 requests per month.
+
+#### **Webhooks**
+
+- [Hook0](https://www.hook0.com/) is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with seven days of history retention for free.
+- [Svix](https://www.svix.com/) is a `webhooks as a Service`. Build a secure, reliable, and scalable webhook sending platform using the Svix webhook service. Send up to 50,000 messages/month for free.
+- [Webhook Store](https://www.openwebhook.io) is a tool for storing third-party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain _username_.github.webhook.store, free public domains _anything_.webhook.store.
+
+#### **Finance**
+
+- [Alpha Vantage](https://www.alphavantage.co/) is a free API for `stock market data`. The API provides access to real-time and historical stock data. The free plan includes 25 requests per day.
+- [Canopy](https://www.canopyapi.co/) is a GraphQL API for Amazon product, search, reviews, sales and category data. The free plan includes 100 calls per month.
+- [Currency Beacon](https://currencybeacon.com) is a realtime `currency and Forex Exchange Rate API` for fintech apps. The free plan includes 5,000 calls per month.
+- [Foreign Rates API](https://www.exchangerate-api.com/) is a free API for foreign exchange rates. The free plan includes 1,500 requests per month.
+
+#### **Weather**
+
+- [Open Weather API](https://openweathermap.org/api) is a free API for weather. The API provides access to current weather data, forecasts, and historical data. The free plan includes 1,000 API calls per day.
+- [Meteo Source](https://www.meteosource.com/) is a `global weather API` for current and forecasted weather data. Forecasts are based on a machine learning combination of more weather models to achieve better accuracy. The free plan comes with 400 calls per day.
+
+#### **Data**
+
+<h3>Data</h3>
+
+- [kroki](https://kroki.io/) is a free API for `creating diagrams`. The free plan includes 1,000 requests per month.
+- [ollama](https://ollama.com/) let's you run LLM (Large Language Models) on your own machine. It's like OpenAI's GPT-3 but on your own machine. It's free and open-source. It comes with an API that you can listen to through localhost. ⭐ [64.8k stars](https://github.com/ollama/ollama)
+- [Google Docs](https://developers.google.com/docs/api) is a free API that lets you connect your app to Google Docs. Convert your docs into JSON.
+
+<h3>Data Processing and Migration</h3>
+
+- [SmartParse](https://smartparse.io) is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes: Up to 300 processing units, Browser uploads, Data quarantining, Circuit breakers and Job Alerts.
+
+<h3>Data Extraction and Processing</h3>
+
+- [OCR Space](https://ocr.space/) is a free `OCR API` parses image and pdf files that return the text results in JSON format. Twenty-five thousand requests per month are free.
+- [Parse Hub](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, five projects free.
+- [Mindee](https://developers.mindee.com/docs) is a powerful `OCR software` and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 250 pages per month.
+
+<h3>Data as a Service (DaaS)</h3>
+
+- [Sheetson](https://sheetson.com) instantly `turn any Google Sheets into a RESTful API`. Free plan available.
+- [SofoData](https://www.sofodata.com/) let you `create secure RESTful APIs from CSV files`. Upload a CSV file and instantly access the data via its API allowing faster application development. The free plan includes 2 APIs and 2,500 API calls per month. You don't need a credit card.
+
+<h3>RESTful APIs</h3>
+
+- [Wordpress API](https://developer.wordpress.org/rest-api/) is a free API for WordPress. The API provides access to posts, pages, comments, taxonomies, and more.
+- [Commerce Layer](https://commercelayer.io) is a composable `commerce API` that can build, place, and manage orders from any front end. The developer plan allows 100 orders per month and up to 1,000 SKUs for free.
+
+#### **Others**
+
+<!-- Countries -->
+
+- [API COLOMBIA](https://api-colombia.com/) is a public api that contains info about Colombia, departments, cities, tourists places and presidents. ⭐ [GitHub](https://github.com/Mteheran/api-colombia)
 
 <!-- News -->
 
 - [World News](https://newsapi.org/), [World News API](https://worldnewsapi.com/) are free API for news. The World News API gives you access to thousands of news sources in over 50 languages from over 150 countries. News are semantically tagged allowing for semantic news search like never before.
 - [News API](https://newsapi.org) — Search news on the web with code, and get JSON results. Developers get 3,000 queries free each month.
-
-<!-- Weather -->
-
-- [Open Weather API](https://openweathermap.org/api) is a free API for weather. The API provides access to current weather data, forecasts, and historical data. The free plan includes 1,000 API calls per day.
-- [Meteo Source](https://www.meteosource.com/) is a `global weather API` for current and forecasted weather data. Forecasts are based on a machine learning combination of more weather models to achieve better accuracy. The free plan comes with 400 calls per day.
 
 <!-- Write -->
 
@@ -384,19 +463,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Mailbox Validator](https://www.mailboxvalidator.com) is an `email verification service` using real mail server connection to confirm valid email. The free API plan has 300 verifications per month.
 - [Vatcheckapi](https://vatcheckapi.com) is a simple and free `VAT number validation API`. Five hundred free requests per month.
 - [Numlookupapi](https://numlookupapi.com) is a free and reliable `phone number validation API` - 100k free requests / month.
-
-<!-- Data -->
-
-- [kroki](https://kroki.io/) is a free API for `creating diagrams`. The free plan includes 1,000 requests per month.
-- [ollama](https://ollama.com/) let's you run LLM (Large Language Models) on your own machine. It's like OpenAI's GPT-3 but on your own machine. It's free and open-source. It comes with an API that you can listen to through localhost. ⭐ [64.8k stars](https://github.com/ollama/ollama)
-- [Google Docs](https://developers.google.com/docs/api) is a free API that lets you connect your app to Google Docs. Convert your docs into JSON.
-
-<!-- Finance -->
-
-- [Alpha Vantage](https://www.alphavantage.co/) is a free API for `stock market data`. The API provides access to real-time and historical stock data. The free plan includes 25 requests per day.
-- [Canopy](https://www.canopyapi.co/) is a GraphQL API for Amazon product, search, reviews, sales and category data. The free plan includes 100 calls per month.
-- [Currency Beacon](https://currencybeacon.com) is a realtime `currency and Forex Exchange Rate API` for fintech apps. The free plan includes 5,000 calls per month.
-- [Foreign Rates API](https://www.exchangerate-api.com/) is a free API for foreign exchange rates. The free plan includes 1,500 requests per month.
 
 <!-- Health -->
 
@@ -416,19 +482,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 <!-- Email -->
 
 - [Resend (for emails)](https://resend.com/) is an API for sending emails. The free plan includes 100 emails per day or up to 3,000 emails a month.
-
-<!-- Data Processing and Migration -->
-
-- [SmartParse](https://smartparse.io) is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes: Up to 300 processing units, Browser uploads, Data quarantining, Circuit breakers and Job Alerts.
-
-<!-- Development Tools -->
-
-- [Colab](https://colab.research.google.com) is a free Jupyter notebook (Python) environment that requires no setup and runs entirely in the cloud. It includes free GPU and TPU.
-- [CurlHub](https://curlhub.io) is a `proxy service` for inspecting and debugging API calls. The free plan includes 10,000 requests per month.
-
-<!-- Documentation Tools -->
-
-- [API Toolkit](https://apitoolkit.io) - All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. The free plan covers servers with up to 20,000 requests per month.
 
 <!-- Error Codes APIs -->
 
@@ -463,14 +516,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [Fern](https://buildwithfern.com) is a `no-code API builder` that allows you to create APIs from Google Sheets, Airtable, and other sources. The free plan includes 1000 API calls per month. Use your API definition to generate SDKs in popular languages, and generate API reference documentation webpages. Add Markdown pages to your API reference and host them with Fern for a full documentation solution. OpenAPI fully supported.
 
-<!-- API Mocking -->
-
-- [Mockfly](https://www.mockfly.dev/) is a trusted development tool for `API mocking and feature flag management`. Quickly generate and control mock APIs with an intuitive interface. The free tier offers 500 requests per day.
-- [Mocki](https://mocki.io) is a tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to develop and use without signup.
-- [Mocko](https://mocko.dev/) Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integration tests.
-- [Mocky](https://designer.mocky.io/) is a simple web app to generate custom HTTP responses for mocking HTTP requests. Also available as [open source](https://github.com/julien-lafont/Mocky).
-- [Reqres](https://reqres.in) is a free `hosted REST-API` ready to respond to your AJAX requests.
-
 <!-- API Design -->
 
 - [OpenAPI3 Designer](https://openapidesigner.com/) — Visually create Open API 3 definitions for free.
@@ -480,47 +525,12 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Kong](https://konghq.com/) is a unified API platform that helps you manage, secure, and run APIs across any cloud, team, gateway, protocol, or architecture. in other workds, an `API Marketplace` and powerful private and public API tools. With the free tier, some features such as monitoring, alerting, and support, are limited.
 - [Zuplo](https://zuplo.com/) allow you to `add API Key authentication, rate limiting, and developer documentation to any API` in minutes. The free plan offers up to 10 projects, unlimited production edge environments, 250 API keys, 100K monthly requests, and 1GB egress.
 
-<!-- Webhooks -->
-
-- [Hook0](https://www.hook0.com/) is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with seven days of history retention for free.
-- [Svix](https://www.svix.com/) is a `webhooks as a Service`. Build a secure, reliable, and scalable webhook sending platform using the Svix webhook service. Send up to 50,000 messages/month for free.
-- [Webhook Store](https://www.openwebhook.io) is a tool for storing third-party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain _username_.github.webhook.store, free public domains _anything_.webhook.store.
-
-<!-- Data Extraction and Processing -->
-
-- [OCR Space](https://ocr.space/) is a free `OCR API` parses image and pdf files that return the text results in JSON format. Twenty-five thousand requests per month are free.
-- [Parse Hub](https://parsehub.com/) — Extract data from dynamic sites, turn dynamic websites into APIs, five projects free.
-- [Mindee](https://developers.mindee.com/docs) is a powerful `OCR software` and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 250 pages per month.
-
-<!-- Data as a Service (DaaS) -->
-
-- [Sheetson](https://sheetson.com) instantly `turn any Google Sheets into a RESTful API`. Free plan available.
-- [SofoData](https://www.sofodata.com/) let you `create secure RESTful APIs from CSV files`. Upload a CSV file and instantly access the data via its API allowing faster application development. The free plan includes 2 APIs and 2,500 API calls per month. You don't need a credit card.
-
-<!-- Web Development Tools -->
-
-- [Doczilla](https://www.doczilla.app/) is a SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
-- [Doppio](https://doppio.sh/) is a fully managed API to generate and privately store documents and screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.
-- [Geekflare API](https://geekflare.com/api) lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 3,000 API requests.
-- [Glitterly](https://glitterly.app/) is a tool to generate dynamic images from base templates. Restful API and nocode integrations. The free tier comes with 50 images/month and five templates.
-
-<!-- API Development Tools -->
-
-- [Wrap Api](https://wrapapi.com/) `turns any website into a parameterized API`. 30k API calls per month.
-- [Postman](https://postman.com) is a simplify workflows and create better APIs – faster – with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.
-- [PipeDream](https://pipedream.com/requestbin) allow you to `create a free endpoint` to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.
-- [Hoppscotch](https://hoppscotch.io/) is a lightweight, fast, and customizable app for testing and designing APIs. A free, fast, and beautiful `API request builder`. ⭐ [60k stars](https://github.com/hoppscotch/hoppscotch)
-- [tRPC](https://trpc.io/) Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ⭐ [32.3k stars](https://github.com/trpc/trpc)
-
-<!-- RESTful APIs -->
-
-- [Wordpress API](https://developer.wordpress.org/rest-api/) is a free API for WordPress. The API provides access to posts, pages, comments, taxonomies, and more.
-- [Commerce Layer](https://commercelayer.io) is a composable `commerce API` that can build, place, and manage orders from any front end. The developer plan allows 100 orders per month and up to 1,000 SKUs for free.
-
 <!-- Others -->
 
 - [OpenSky Network](https://opensky-network.org/) is a free API for `air traffic`. It lets you track flights in real-time. The API provides access to flights, airports, and more.
 - [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
+
+<!-- tabs:end -->
 
 <!-- need work -->
 
