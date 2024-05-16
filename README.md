@@ -223,9 +223,32 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 1. [Amplication](https://amplication.com/) is the Fastest Way in the World to Build Backend Services.🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding. ⭐ [13.3k stars](https://github.com/amplication/amplication)
 
-## Top Backend Frameworks
+## Runtime Environments
 
-1. [Deno](https://deno.land/) is a modern runtime for JavaScript and TypeScript. ⭐ [93k stars](https://github.com/denoland/deno)
+- [Deno](https://deno.land/) is a modern runtime for JavaScript and TypeScript. ⭐ [93k stars](https://github.com/denoland/deno)
+- [Go](https://go.dev/) is an open-source programming language that makes it easy to build simple, reliable, and efficient software. ⭐ [120.1k stars](https://github.com/golang/go)
+- [Elixir](https://elixir-lang.org/) is a dynamic, functional language for building scalable and maintainable applications. ⭐ [23.4k stars](https://github.com/elixir-lang/elixir)
+- [Rust](https://www.rust-lang.org/) is a language empowering everyone to build reliable and efficient software. ⭐ [93.5k stars](https://github.com/rust-lang/rust)
+- [Scala](https://www.scala-lang.org/) is a modern multi-paradigm programming language designed to express common programming patterns in a concise, elegant, and type-safe way. ⭐ [14.3k stars](https://github.com/scala/scala)
+- [Python](https://www.python.org/) is a programming language that lets you work quickly and integrate systems more effectively. ⭐ [201k stars](https://github.com/python/)
+- [Ruby](https://www.ruby-lang.org/en/) is a dynamic, open-source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. ⭐ [21.6k stars](https://github.com/ruby/ruby)
+
+## Server-Side Scripting Language
+
+- [PHP](https://www.php.net/) is a popular general-purpose scripting language that is especially suited to web development. ⭐ [GitHub](https://github.com/php)
+
+## Top 10 Backend Frameworks
+
+1. [Laravel](https://laravel.com/) is a PHP web application framework with expressive, elegant syntax, intended for the development of web applications following the model–view–controller (MVC) architectural pattern. ⭐ [77k stars](https://github.com/laravel/laravel)
+2. [Django](https://www.djangoproject.com/) is a high-level Python web framework that encourages rapid development and clean, pragmatic design. ⭐ [77.1k stars](https://github.com/django/django)
+3. [Spring Boot](https://spring.io/projects/spring-boot) is an open-source Java-based framework used to create micro-services. It is developed by Pivotal Team and is used to build stand-alone and production-ready spring applications. ⭐ [73.1k stars](https://github.com/spring-projects/spring-boot)
+4. [Flask](https://flask.palletsprojects.com/en/3.0.x/) is a lightweight WSGI web application framework. It is a `micro web framework` written in Python. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. ⭐ [66.5k stars](https://github.com/pallets/flask)
+5. [NestJS](https://nestjs.com/) is a framework for building efficient, scalable Node.js server-side applications. It uses progressive JavaScript, is built with TypeScript (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming). ⭐ [65k stars](https://github.com/nestjs/nest)
+6. [Express.js](https://expressjs.com/) is a minimal and flexible Node.js web application framework, designed for building web applications and APIs. ⭐ [64k stars](https://github.com/expressjs/express)
+7. [Ruby on Rails](https://rubyonrails.org/) is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller (MVC) framework, providing default structures for a database, a web service, and web pages. ⭐ [55k stars](https://github.com/rails/rails)
+8. [Koa.js](https://koajs.com/) is a new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs. By leveraging async functions, Koa allows you to ditch callbacks and greatly increase error-handling. ⭐ [35k stars](https://github.com/koajs/koa)
+9. [Phoenix](https://www.phoenixframework.org/) is a web development framework written in Elixir which implements the server-side Model-View-Controller (MVC) pattern. ⭐ [20.7k stars](https://github.com/phoenixframework/phoenix)
+10. [ASP.NET Core](https://dotnet.microsoft.com/learn/aspnet/what-is-aspnet-core) is a free and open-source web framework developed by Microsoft for building modern internet-connected applications. It is a modular framework that runs on both the full .NET Framework, on Windows, and the cross-platform .NET Core. ⭐ [12.4k stars](https://github.com/dotnet/AspNetCore.Docs)
 
 ---
 
@@ -865,6 +888,7 @@ Datos.gov...
 - [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
 - [Superfeedr](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
 - [Videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
+- [Meta Tags](https://metatags.io/) — Identify the meta tags of a website.
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
@@ -1084,6 +1108,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Developer Roadmap](https://roadmap.sh/), guides and other educational content **to help developers grow** in their careers. ⭐ [269k stars](https://github.com/kamranahmedse/developer-roadmap)
 - [FreeCodeCamp](https://www.freecodecamp.org/) is a **free online learning platform** that teaches you to code. ⭐ [385k stars](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Code Crafters](https://codecrafters.io/) → helps you master programming by recreating your favorite technologies from scratch. ⭐ [250k stars](https://github.com/codecrafters-io/build-your-own-x)
+- [The Algorithms](https://the-algorithms.com/) is an Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language. A group of programmers helping each other build new things, whether it be writing complex encryption programs, or simple ciphers. Our goal is to work together to document and model beautiful, helpful and interesting algorithms using code. ⭐ [200k stars](https://github.com/TheAlgorithms)
 - [Open Source Society University - CS](https://github.com/ossu) is a community-driven university offering free, self-taught education in `computer science`, bioinformatics, and data science. | Here is the path to a free self-taught education in Computer Science! ⭐ [161k stars](https://github.com/ossu/computer-science)
 - [Full-Stack Open](https://fullstackopen.com/en/) is a **free online course** that teaches you the **basics of web development**. ⭐ [GitHub](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
 - [The Odin Project](https://www.theodinproject.com/) is a **free online learning platform** that teaches you to code. ⭐ [GitHub](https://github.com/TheOdinProject)
