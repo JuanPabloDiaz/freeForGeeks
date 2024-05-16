@@ -250,13 +250,14 @@ A collection of links to **free resources** and **tools** for developers. It inc
 9. [Phoenix](https://www.phoenixframework.org/) is a web development framework written in Elixir which implements the server-side Model-View-Controller (MVC) pattern. ⭐ [20.7k stars](https://github.com/phoenixframework/phoenix)
 10. [ASP.NET Core](https://dotnet.microsoft.com/learn/aspnet/what-is-aspnet-core) is a free and open-source web framework developed by Microsoft for building modern internet-connected applications. It is a modular framework that runs on both the full .NET Framework, on Windows, and the cross-platform .NET Core. ⭐ [12.4k stars](https://github.com/dotnet/AspNetCore.Docs)
 
----
+<!-- need some work -->
 
 ## Others
 
 - [Biome.js](https://biomejs.com/) is a `toolchain for web projects`, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. ⭐ [10k stars](https://github.com/biomejs/biome)
 - [Format.js](https://formatjs.io/) is the monorepo home to all of the FormatJS related libraries, most notably react-intl. ⭐ [14k stars](https://github.com/formatjs/formatjs?tab=readme-ov-file)
 - [Orama](https://docs.askorama.ai/) - 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! ⭐ [8k stars](https://github.com/askorama/orama)
+<!-- need some work -->
 
 ## Serverless Frameworks
 
@@ -301,6 +302,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [IP 2 Location](https://www.ip2location.com) is a freemium `IP geolocation and Proxy detection` service. LITE database is available for free download. Import the database in the server and perform a local query to determine the city, coordinates, and ISP information.
 - [IP2Location.io](https://www.ip2location.io/) is a Freemium, fast and reliable `IP geolocation API` to determine geolocation data like city, coordinates, ISP, etc. The free plan is available with 30k credits per month. Subscribe to paid plans for more advanced features or contact us for a personalized plan.
 - [IP info](https://ipinfo.io/) is a fast, accurate, and free (up to 50k/month) `IP address data API`. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.
+- [IPify](https://www.ipify.org/) is a simple public IP address API.
 - [IP-Api](https://ip-api.com) is an `IP Geolocation API`, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
 - [JSON IP](https://getjsonip.com) is a free unlimited `IP address and geolocation API`. Returns the Public IP address of the client it is requested from. No registration is required for the free tier. Using CORS, data can be requested using client-side JS directly from the browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
 - [Zipcodebase](https://zipcodebase.com) is a free `Zip Code API`, access to Worldwide Postal Code Data. Ten thousand free requests/month.
@@ -329,7 +331,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [API COLOMBIA](https://api-colombia.com/) is a public api that contains info about Colombia, departments, cities, tourists places and presidents. ⭐ [GitHub](https://github.com/Mteheran/api-colombia)
 
-<!-- Entretainment -->
+<!-- Entertainment -->
 
 - [Discord](https://discord.com/developers/docs/intro) is a free API for Discord.
 - [Youtube API](https://developers.google.com/youtube) is a free API for YouTube.
@@ -344,6 +346,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Unsplash API](https://unsplash.com/developers) is a free API for high-quality, curated photos.
 - [Waifu.pics](https://waifu.pics/), [Waifu API](https://www.waifu.im/), [Waifu.it](https://waifu.it/) are some popular free `anime waifus API`.
 - [Deck of Cards](https://deckofcardsapi.com/) is an API to simulate a deck of cards. The API provides access to a deck of cards.
+- [Bored API](https://www.boredapi.com/) is a free API for `random activities`. The API provides access to random activities. ⭐ [GitHub](https://github.com/drewthoennes/Bored-API)
 
 <!-- Scraping -->
 
@@ -553,6 +556,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 Data.gov...
 
 - [US Data](https://www.data.gov/) is the home of the U.S. Government's open data. Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.
+- [Data USA](https://datausa.io/) is a comprehensive visualization engine for shared US government data.
 - [UK Data](https://data.gov.uk/) is the UK government's open data portal.
 - [Australian Data](https://data.gov.au/) is the Australian government's open data portal.
 - [Singapore Data](https://data.gov.sg/) is the Singapore government's open data portal.
