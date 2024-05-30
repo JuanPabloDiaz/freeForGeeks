@@ -837,6 +837,7 @@ Datos.gov...
 4. [Lucide](https://lucide.dev/) is a set of **free, open-source, and customizable icons** for your projects. ⭐ [8.1k stars](https://github.com/lucide-icons/lucide)
 5. [Tabler Icons](https://tabler.io/icons) is a set of **over 800 free and open-source** icons for your web projects. ⭐ [k stars]()
 6. [React Icons](https://react-icons.github.io/react-icons/) ⭐ [k stars]()
+[Iconse.js](http://icones.js.org)
 
 - [Devicon](https://devicon.dev/) is a collection of icons for popular programming languages, frameworks, and tools. ⭐ [k stars]()
 - [Zondicons](http://www.zondicons.com/) is a set of free premium SVG icons for you to use on your digital products. ⭐ [GitHub](https://github.com/sschoger/zondicons)
