@@ -168,6 +168,9 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Hi-mom](https://www.npmjs.com/package/hi-mom) is a blazingly fast JavaScript library to say hi to your mom!⭐ [GitHub](https://github.com/tsivinsky/hi-mom)
 - [Danfo.js](https://danfo.jsdata.org/) is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data. ⭐ [GitHub](https://github.com/javascriptdata/danfojs)
 - [Standard.js](https://standardjs.com/) is a JavaScript Style Guide, with linter & automatic code fixer. ⭐ [30k stars](https://github.com/standard/standard)
+- [Swiper](https://swiperjs.com/) is the most modern mobile `touch slider`. ⭐ [39k stars](https://github.com/nolimits4web/swiper)
+- [Glide](https://glidejs.com/) is a dependency-free JavaScript ES6 `slider and carousel`. It's lightweight, flexible, adaptive, and mobile-friendly. ⭐ [7.2k stars](https://github.com/glidejs/glide)
+- [Embla Carousel](https://embla-carousel.com/) A lightweight `carousel library` with fluid motion and great swipe precision. ⭐ [5.5k stars](https://github.com/davidjerleke/embla-carousel)
 
 ## JavaScript
 
