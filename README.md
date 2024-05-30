@@ -873,6 +873,7 @@ Datos.gov...
 ## Image Optimization
 
 - [Squoosh](https://squoosh.app/) Make images smaller using best-in-class codecs, right in the browser. ⭐ [20.6k stars](https://github.com/GoogleChromeLabs/squoosh)
+- [Imagy](https://imagy.app/) is a tool to compress and resize your images.
 - [Compress jpeg](https://compressjpeg.com/) is a tool to compress and resize your images.
 - [Compress jpg](https://compressjpg.net/) is a tool to compress and resize your images.
 - [Tiny png](https://tinypng.com/) is a tool to compress your images.
