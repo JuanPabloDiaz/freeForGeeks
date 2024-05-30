@@ -184,6 +184,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos. ⭐ [2k stars](https://github.com/reactplay/react-play)
 - [React Community](https://reactcommunity.org/) is a collection of React libraries and tools. ⭐ [GitHub](https://github.com/reactjs)
 - [React Tabs](https://reactcommunity.org/react-tabs/) is an accessible and easy tab component for ReactJS. ⭐ [3k stars](https://github.com/reactjs/react-tabs)
+- [React Hook Form](https://react-hook-form.com/) is a performant, flexible, and extensible forms with easy-to-use validation. ⭐ [40k stars](https://github.com/react-hook-form/react-hook-form)
 
 ## E-commerce
 
