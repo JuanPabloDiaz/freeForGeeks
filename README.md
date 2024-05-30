@@ -801,10 +801,14 @@ Datos.gov...
 - [Dr. Link Check](https://www.drlinkcheck.com/) is a valuable web-based service designed to help website owners and administrators identify and address broken links on their websites. | Freemiun
 - [Broken link checker](https://www.npmjs.com/package/broken-link-checker) is a Node.js package that checks websites and web applications for broken links. ⭐ [1.5k stars](https://github.com/stevenvachon/broken-link-checker)
 - [lighthouse](https://developers.google.com/web/tools/lighthouse) is an automated auditing, performance metrics, and best practices. For improving the quality of web pages. ⭐ [28k stars](https://github.com/GoogleChrome/lighthouse)
+- [Responsively](https://responsively.app) is a modified web browser that helps in responsive web development. A web developer's must have dev-tool. ⭐ [21.9k stars](https://github.com/responsively-org/responsively-app)
 
 ## Tools
 
 - [Material Design](https://m3.material.io/) is a collection of tools and resources for developers to build high-quality digital experiences.
+- [ProductiveHub](https://www.productive-hub.com/) enhance your productivity and help you beat procrastination, streamlining your journey to peak productivity.
+- [Freeter](https://freeter.io/) is a smarter way to work on your computer. Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, MacOS. Free and Open-Source.
+- [Open Source Design](https://opensourcedesign.net/) is a community of designers and developers pushing more open design processes and improving the user experience and interface design of open-source software.
 
 ## GitHub Tools
 
