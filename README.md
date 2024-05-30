@@ -120,6 +120,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 10. [Mapkick](https://chartkick.com/mapkick-js) is a JavaScript library for interactive maps. Create beautiful, interactive maps with one line of JavaScript ⭐ [GitHub](https://github.com/ankane/mapkick.js)
 11. [a11y-dialog](https://a11y-dialog.netlify.app/) a11y-dialog is a lightweight yet flexible script to create accessible dialog windows. ⭐ [GitHub](https://github.com/KittyGiraudel/a11y-dialog)
 12. [OpenStreetMaps](https://www.openstreetmap.org/#map=4/38.01/-95.84) Free and open-source map data. Explore "a map of the world, created by people like you and free to use under an open license."
+13. [React Google Maps](https://visgl.github.io/react-google-maps/) is a react components and hooks for the Google Maps JavaScript API. ⭐ [GitHub](https://github.com/visgl/react-google-maps)
 
 ## Utility libraries for JavaScript
 
