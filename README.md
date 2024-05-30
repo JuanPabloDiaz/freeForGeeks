@@ -832,21 +832,21 @@ Datos.gov...
 ## Icons
 
 1. [Iconify](https://icon-sets.iconify.design/) is a modern **icon framework** that allows you to use **over 50,000 icons** from popular icon sets. ⭐ [GitHub](https://github.com/iconify)
-2. [Google Icons](https://fonts.google.com/icons) is a collection of **free, open-source, and customizable icons** for your projects. ⭐ [k stars]()
+2. [Google Icons](https://fonts.google.com/icons) is a collection of **free, open-source, and customizable icons** for your projects.
 3. [Simple Icons](https://simpleicons.org/) is a collection of **SVG logos** for popular brands. ⭐ [17.7k stars](https://github.com/simple-icons/simple-icons)
-4. [Lucide](https://lucide.dev/) is a set of **free, open-source, and customizable icons** for your projects. ⭐ [8.1k stars](https://github.com/lucide-icons/lucide)
-5. [Tabler Icons](https://tabler.io/icons) is a set of **over 800 free and open-source** icons for your web projects. ⭐ [k stars]()
-6. [React Icons](https://react-icons.github.io/react-icons/) ⭐ [k stars]()
-[Iconse.js](http://icones.js.org)
+4. [Tabler Icons](https://tabler.io/icons) is a set of **over 800 free and open-source** icons for your web projects. ⭐ [17.4k stars](https://github.com/tabler/tabler-icons)
+5. [Devicon](https://devicon.dev/) is a collection of icons for popular programming languages, frameworks, and tools. ⭐ [8.2k stars](https://github.com/devicons/devicon)
+6. [Lucide](https://lucide.dev/) is a set of **free, open-source, and customizable icons** for your projects. ⭐ [8.1k stars](https://github.com/lucide-icons/lucide)
+7. [React Icons](https://react-icons.github.io/react-icons/) ⭐ [11.2k stars](https://github.com/react-icons/react-icons)
+8. [Iconse.js](http://icones.js.org) is an icon Explorer with Instant searching, powered by `Iconify` ⭐ [5k stars](https://github.com/antfu-collective/icones)
+9. [Radix Icons](https://www.radix-ui.com/icons) ⭐ [2.1k stars](https://github.com/radix-ui/icons)
 
-- [Devicon](https://devicon.dev/) is a collection of icons for popular programming languages, frameworks, and tools. ⭐ [k stars]()
 - [Zondicons](http://www.zondicons.com/) is a set of free premium SVG icons for you to use on your digital products. ⭐ [GitHub](https://github.com/sschoger/zondicons)
-- [Radix Icons](https://www.radix-ui.com/icons) ⭐ [k stars]()
 
 ## Favicons
 
-- [Real Favicon Generator](https://realfavicongenerator.net/) ⭐ [k stars]()
-- [Favicon](https://favicon.io/) ⭐ [k stars]()
+- [Real Favicon Generator](https://realfavicongenerator.net/)
+- [Favicon](https://favicon.io/)
 
 ## Backgrounds
 
