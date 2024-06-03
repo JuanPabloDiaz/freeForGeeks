@@ -697,6 +697,12 @@ Datos.gov...
 
 - [Heroku](https://www.heroku.com) is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. ⭐ [k stars]()
 
+## Project Management Tools
+
+- [Taiga](https://taiga.io/) is a project management platform for startups and `agile developers` & designers who want a simple, beautiful tool that makes work truly enjoyable. ⭐ [GitHub](https://github.com/kaleidos-ventures/taiga)
+- [Odoo](https://www.odoo.com/) is a suite of open-source business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Open Source Apps To Grow Your Business. ⭐ [35.4k stars](https://github.com/odoo/odoo)
+-
+
 ## Monitoring
 
 1. [Sentry](https://sentry.io) is a **real-time error tracking** that gives you insight into production deployments and information to reproduce and fix crashes. ⭐ [37k stars](https://github.com/getsentry/sentry)
