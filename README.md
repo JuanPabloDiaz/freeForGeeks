@@ -915,6 +915,12 @@ Datos.gov...
 - [fonts.xz.style](https://fonts.xz.style/) free and open source service for delivering font families to websites using CSS.
 - [Bunny](https://fonts.bunny.net) Privacy oriented Google Fonts
 
+## Tools for Taming Text
+
+- [CoreNLP](https://stanfordnlp.github.io/CoreNLP/) is a Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc. ⭐ [9.5k stars](https://github.com/stanfordnlp/CoreNLP)
+- [NLTK](https://www.nltk.org/) is a leading platform for building Python programs to work with human language data. ⭐ [13k stars](https://github.com/nltk/nltk)
+- [Apache OpenNLP](https://opennlp.apache.org/) is a machine learning based toolkit for the processing of natural language text. ⭐ [1.5k stars](https://github.com/apache/opennlp)
+
 <!--  ---------------------------- ********************* ADD MORE RESOURCES  → (need work) *****************************  ---------------------------- -->
 
 ## Digital Privacy
