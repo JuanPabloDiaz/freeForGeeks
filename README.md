@@ -190,6 +190,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [React Community](https://reactcommunity.org/) is a collection of React libraries and tools. ⭐ [GitHub](https://github.com/reactjs)
 - [React Tabs](https://reactcommunity.org/react-tabs/) is an accessible and easy tab component for ReactJS. ⭐ [3k stars](https://github.com/reactjs/react-tabs)
 - [React Hook Form](https://react-hook-form.com/) is a performant, flexible, and extensible forms with easy-to-use validation. ⭐ [40k stars](https://github.com/react-hook-form/react-hook-form)
+- [Formik](https://formik.org/) is the world's most popular open source form library for React and React Native. Build forms in React, without the tears. ⭐ [33.6k stars](https://github.com/jaredpalmer/formik)
 
 ## E-commerce
 
