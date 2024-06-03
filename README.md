@@ -701,7 +701,8 @@ Datos.gov...
 
 - [Taiga](https://taiga.io/) is a project management platform for startups and `agile developers` & designers who want a simple, beautiful tool that makes work truly enjoyable. ⭐ [GitHub](https://github.com/kaleidos-ventures/taiga)
 - [Odoo](https://www.odoo.com/) is a suite of open-source business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Open Source Apps To Grow Your Business. ⭐ [35.4k stars](https://github.com/odoo/odoo)
--
+- [Kanboard](https://kanboard.org/) is a simple visual task board software. it is a free and open source Kanban project management software. ⭐ [8.2k stars](https://github.com/kanboard/kanboard)
+- [Wekan](https://wekan.github.io/) is an open-source Trello-like kanban. | The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/ only. ⭐ [19k stars](https://github.com/wekan/wekan)
 
 ## Monitoring
 
@@ -802,7 +803,6 @@ Datos.gov...
 - [First Contributions](https://firstcontributions.github.io/) helps beginners make your first open source contribution in 5 minutes. ⭐ [42k stars](https://github.com/firstcontributions/first-contributions)
 - [ProjectsHut](https://www.projectshut.tech/) is an open source web app that enables users to freely publish their projects and create user profiles within the platform ⭐ [GitHub](https://github.com/priyankarpal/projectshut)
 - [ProjectMate](https://www.projectmate.net/) Supercharge your open-source contributions with projectmate.net; Discover open-source projects, connect with experienced maintainers, and collaborate with a community of passionate contributors. Join over 200+ registered users who are already making a difference. ⭐ [GitHub](https://github.com/rohitdasu/projectmate)
-- [Wekan](https://wekan.github.io/) is an open-source Trello-like kanban. | The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/ only. ⭐ [19k stars](https://github.com/wekan/wekan)
 - [Open Source Friday](https://opensourcefriday.com/) is a global movement that encourages open-source participation every Friday. ⭐ [GitHub](https://github.com/github/opensourcefriday)
 - [Open Source Guide](https://opensource.guide/) is a community guide to open-source for contributors and maintainers. ⭐ [13.5k stars](https://github.com/github/opensource.guide#readme)
 - [Open Source](https://opensource.com/) is a community of developers, designers, writers, and thinkers who believe that open-source is the way to make software better.
