@@ -104,7 +104,9 @@ A collection of links to **free resources** and **tools** for developers. It inc
 11. [Vega](https://vega.github.io/vega/) is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs. ⭐ [10.8k stars](https://github.com/vega/vega)
 12. [Victory](https://formidable.com/open-source/victory/) is a React.js components for modular charting and data visualization. ⭐ [10.7k stars](https://github.com/FormidableLabs/victory)
 13. [C3js](https://c3js.org/) is a D3-based reusable chart library. ⭐ [9.7k stars](https://github.com/c3js/c3)
-14. [React Graph Gallery](https://www.react-graph-gallery.com/) ⭐ [GitHub](https://github.com/holtzy/react-graph-gallery)
+14. [Dygraphs](https://dygraphs.com/) is a flexible open-source JavaScript charting library. ⭐ [3.2k stars](https://github.com/danvk/dygraphs)
+15. [Datawrapper](https://www.datawrapper.de/) is a data visualization tool that enables you to create charts, maps, and tables. ⭐ [1.3k stars](https://github.com/datawrapper/datawrapper)
+16. [React Graph Gallery](https://www.react-graph-gallery.com/) ⭐ [GitHub](https://github.com/holtzy/react-graph-gallery)
 
 ## Maps and Geolocation
 
