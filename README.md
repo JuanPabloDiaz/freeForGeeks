@@ -924,6 +924,10 @@ Datos.gov...
 - [NLTK](https://www.nltk.org/) is a leading platform for building Python programs to work with human language data. ⭐ [13k stars](https://github.com/nltk/nltk)
 - [Apache OpenNLP](https://opennlp.apache.org/) is a machine learning based toolkit for the processing of natural language text. ⭐ [1.5k stars](https://github.com/apache/opennlp)
 
+## Writing Tools
+
+- [Etherpad](https://etherpad.org/) is a highly customizable Open Source online editor providing collaborative editing in real-time. It is similar to Google Docs. ⭐ [16k stars](https://github.com/ether/etherpad-lite)
+
 <!--  ---------------------------- ********************* ADD MORE RESOURCES  → (need work) *****************************  ---------------------------- -->
 
 ## Digital Privacy
