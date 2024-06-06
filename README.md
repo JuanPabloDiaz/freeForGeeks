@@ -1219,7 +1219,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 
 ## Learn to Code
 
-- [Developer Roadmap](https://roadmap.sh/), guides and other educational content **to help developers grow** in their careers. ⭐ [269k stars](https://github.com/kamranahmedse/developer-roadmap)
+- [Developer Roadmaps](https://roadmap.sh/) is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings. **To help developers grow** in their careers. ⭐ [279k stars](https://github.com/kamranahmedse/developer-roadmap)
 - [FreeCodeCamp](https://www.freecodecamp.org/) is a **free online learning platform** that teaches you to code. ⭐ [385k stars](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Code Crafters](https://codecrafters.io/) → helps you master programming by recreating your favorite technologies from scratch. ⭐ [250k stars](https://github.com/codecrafters-io/build-your-own-x)
 - [The Algorithms](https://the-algorithms.com/) is an Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language. A group of programmers helping each other build new things, whether it be writing complex encryption programs, or simple ciphers. Our goal is to work together to document and model beautiful, helpful and interesting algorithms using code. ⭐ [200k stars](https://github.com/TheAlgorithms)
