@@ -151,9 +151,18 @@ A collection of links to **free resources** and **tools** for developers. It inc
 3. [Pixi.js](https://www.pixijs.com/) is a fast, lightweight 2D library that works across all devices. ⭐ [42.1k stars](https://github.com/pixijs/pixijs)
 4. [Babylon.js](https://www.babylonjs.com/) is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ⭐ [22k stars](https://github.com/BabylonJS/Babylon.js)
 5. [React Spring](https://react-spring.io/) is a spring-physics based animation library for React applications. ⭐ [28k stars](https://github.com/pmndrs/react-spring)
-6. [GSAP](https://gsap.com) is a professional-grade JavaScript animation for the modern web. ⭐ [18.3k stars](https://github.com/greensock/GSAP)
-7. [Matter.js](https://brm.io/matter-js/) is a a 2D physics engine for the web ▲● ■ ⭐ [16k stars](https://github.com/liabru/matter-js)
-8. [Auto Animate](https://auto-animate.formkit.com/) is a zero-config, drop-in animation utility that adds smooth transitions to your web app. ⭐ [12k stars](https://github.com/formkit/auto-animate)
+6. [Framer Motion](https://www.framer.com/motion/) is a production-ready motion library for React. ⭐ [22.5k stars](https://github.com/framer/motion)
+7. [GSAP](https://gsap.com) is a professional-grade JavaScript animation for the modern web. ⭐ [18.3k stars](https://github.com/greensock/GSAP)
+8. [A-frame](https://aframe.io/) is a web framework for building 3D/AR/VR experiences. ⭐ [16.3k stars](https://github.com/aframevr/aframe)
+9. [Matter.js](https://brm.io/matter-js/) is a a 2D physics engine for the web ▲● ■ ⭐ [16k stars](https://github.com/liabru/matter-js)
+10. [Auto Animate](https://auto-animate.formkit.com/) is a zero-config, drop-in animation utility that adds smooth transitions to your web app. ⭐ [12k stars](https://github.com/formkit/auto-animate)
+
+## Slider and Carousel Libraries
+
+- [Swiper](https://swiperjs.com/) is the most modern mobile `touch slider`. ⭐ [39k stars](https://github.com/nolimits4web/swiper)
+- [Glide](https://glidejs.com/) is a dependency-free JavaScript ES6 `slider and carousel`. It's lightweight, flexible, adaptive, and mobile-friendly. ⭐ [7.2k stars](https://github.com/glidejs/glide)
+- [Embla Carousel](https://embla-carousel.com/) A lightweight `carousel library` with fluid motion and great swipe precision. ⭐ [5.5k stars](https://github.com/davidjerleke/embla-carousel)
+- [Divz](https://lewhunt.github.io/divz/) is a React component that lets you `scroll, swipe and zoom through HTML content on the 3D z-axis`. Ideal to showcase your portfolio, media or products. ⭐ [GitHub](https://github.com/lewhunt/divz)
 
 ## Other JS libraries
 
@@ -171,9 +180,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Hi-mom](https://www.npmjs.com/package/hi-mom) is a blazingly fast JavaScript library to say hi to your mom!⭐ [GitHub](https://github.com/tsivinsky/hi-mom)
 - [Danfo.js](https://danfo.jsdata.org/) is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data. ⭐ [GitHub](https://github.com/javascriptdata/danfojs)
 - [Standard.js](https://standardjs.com/) is a JavaScript Style Guide, with linter & automatic code fixer. ⭐ [30k stars](https://github.com/standard/standard)
-- [Swiper](https://swiperjs.com/) is the most modern mobile `touch slider`. ⭐ [39k stars](https://github.com/nolimits4web/swiper)
-- [Glide](https://glidejs.com/) is a dependency-free JavaScript ES6 `slider and carousel`. It's lightweight, flexible, adaptive, and mobile-friendly. ⭐ [7.2k stars](https://github.com/glidejs/glide)
-- [Embla Carousel](https://embla-carousel.com/) A lightweight `carousel library` with fluid motion and great swipe precision. ⭐ [5.5k stars](https://github.com/davidjerleke/embla-carousel)
 
 ## JavaScript
 
