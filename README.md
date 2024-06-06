@@ -141,6 +141,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Store.js](https://github.com/marcuswestin/store.js) is Cross-browser storage for all use cases, used across the web. ⭐ [14k stars](https://github.com/marcuswestin/store.js)
 - [Cookiejar](https://www.npmjs.com/package/cookiejar) is a simple, lightweight, and fast cookie manipulation library for JavaScript. ⭐ [GitHub](https://github.com/bmeck/node-cookiejar#readme)
 - [cross-storage](https://github.com/zendesk/cross-storage) is a Cross domain local storage, with permissions ⭐ [GitHub](https://github.com/zendesk/cross-storage)
+- [Tempo](https://tempojs.com/) is the easiest way to work with `dates` in JavaScript. 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.⭐ [2.2k stars](https://github.com/formkit/tempo)
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
