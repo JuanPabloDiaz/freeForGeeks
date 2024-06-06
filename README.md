@@ -721,6 +721,8 @@ Datos.gov...
 4. [checklyhq](https://checklyhq.com) is a **API monitoring** service that checks your APIs every 5 minutes and alerts you if your APIs are down. ⭐ [GitHub](https://github.com/checkly)
 5. [New Relic](https://newrelic.com) is a **performance monitoring** tool that helps you to monitor, troubleshoot, and optimize your application performance. ⭐ [GitHub](https://github.com/newrelic)
 
+- [lighthouse](https://developers.google.com/web/tools/lighthouse) is an automated auditing, performance metrics, and best practices. For improving the quality of web pages. ⭐ [28k stars](https://github.com/GoogleChrome/lighthouse)
+- [GTmetrix](https://gtmetrix.com) tells you how your website performs, why it's slow, and how to optimize it.
 - [Datadog](https://www.datadoghq.com) is a **cloud-scale monitoring** service that provides monitoring of servers, databases, tools, and services through a SaaS-based data analytics platform.
 
 ## Analytics
@@ -823,7 +825,6 @@ Datos.gov...
 
 - [Dr. Link Check](https://www.drlinkcheck.com/) is a valuable web-based service designed to help website owners and administrators identify and address broken links on their websites. | Freemiun
 - [Broken link checker](https://www.npmjs.com/package/broken-link-checker) is a Node.js package that checks websites and web applications for broken links. ⭐ [1.5k stars](https://github.com/stevenvachon/broken-link-checker)
-- [lighthouse](https://developers.google.com/web/tools/lighthouse) is an automated auditing, performance metrics, and best practices. For improving the quality of web pages. ⭐ [28k stars](https://github.com/GoogleChrome/lighthouse)
 - [Responsively](https://responsively.app) is a modified web browser that helps in responsive web development. A web developer's must have dev-tool. ⭐ [21.9k stars](https://github.com/responsively-org/responsively-app)
 
 ## Tools
