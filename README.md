@@ -1234,6 +1234,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Web-Dev-For-Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/) is a free 24-episode course that teaches you the basics of web development. ⭐ [81k stars](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [Total Typescript](https://totaltypescript.com/) is a comprehensive production-grade TypeScript training by Matt Pocock ⭐ [7.7k stars](https://github.com/total-typescript/beginners-typescript-tutorial)
 - [Python Tutor](https://pythontutor.com/) is a free online tool that helps you visualize code execution step by step. It helps you do programming homework assignments in Python, Java, C, C++, and JavaScript.
+- [SQL Practice](https://www.sql-practice.com/) querys with an online terminal. Solve SQL query questions using a practice database. Learn and improve your SQL skills.
 
 ## Job Boards
 
