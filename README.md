@@ -963,6 +963,7 @@ Datos.gov...
 - [Figma](https://www.figma.com/) is a web-based graphics editing and user interface design app.
 - [Sketch](https://www.sketch.com/) is a design toolkit for macOS.
 - [Canva](https://www.canva.com/) is a **free-to-use online graphic design tool** that simplifies the process of creating visual content
+- [Shots](https://shots.so/) is a tool to create beautiful screenshots for your app or website. Perfect to display your product in a professional way.
 
 ## Miscellaneous
 
