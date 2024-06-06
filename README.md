@@ -337,9 +337,10 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 #### **Test Data**
 
+- [Fakerjs](https://fakerjs.dev/) is a tool to generate massive amounts of `fake data` in the browser and node.js. ⭐ [11.5k stars](https://github.com/faker-js/faker)
+- [Retool](https://retool.com/api-generator) is a `REST API Generator`. A tool to generate `fake data` for testing and development. Generate a custom dataset that you can read and write to via a REST API.
 - [Beeceptor](https://beeceptor.com) is a Rest API mocking and intercepting in seconds. Replace the endpoint in the code and you are ready. It's that simple! Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone with a dashboard link can view submissions and answers).
 - [DummyJSON](https://dummyjson.com/) is a tool to generate massive amounts of `fake data` in the browser and node.js. ⭐ [1.3k stars](https://github.com/Ovi/DummyJSON)
-- [Fakerjs](https://fakerjs.dev/) is a tool to generate massive amounts of `fake data` in the browser and node.js. ⭐ [11.5k stars](https://github.com/faker-js/faker)
 - [Random User Generator](https://randomuser.me/) is a free, open-source API for generating random user data. Like Lorem Ipsum, but for people. ⭐ [1.3k stars](https://github.com/RandomAPI/Randomuser.me-Node)
 - [Random Data](https://random-data-api.com/) is a free API for random fake data. It does not require any authentication.
 - [Microenv](https://microenv.com) allow you to `create fake REST API` for developers with the possibility to generate code and app in a docker container.
