@@ -1294,6 +1294,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Total Typescript](https://totaltypescript.com/) is a comprehensive production-grade TypeScript training by Matt Pocock ⭐ [7.7k stars](https://github.com/total-typescript/beginners-typescript-tutorial)
 - [Python Tutor](https://pythontutor.com/) is a free online tool that helps you visualize code execution step by step. It helps you do programming homework assignments in Python, Java, C, C++, and JavaScript.
 - [SQL Practice](https://www.sql-practice.com/) querys with an online terminal. Solve SQL query questions using a practice database. Learn and improve your SQL skills.
+- [TypeHero](https://typehero.dev/) is a free course that teaches you the basics of TypeScript. Practice by compleating challenges. ⭐ [5.4k stars](https://github.com/typehero/typehero)
 
 ## Job Boards
 
