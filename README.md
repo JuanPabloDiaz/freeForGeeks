@@ -1148,6 +1148,10 @@ Comparison of major documentation tools:
 - [htmx](https://htmx.org/) is a high power tools for HTML ⭐ [32k stars](https://github.com/bigskysoftware/htmx)
 - [Filamentphp](https://filamentphp.com/) is a beautifully designed **open-source admin panel** for Laravel. | [GitHub](https://github.com/filamentphp/filament)
 - [Pkl lang](https://pkl-lang.org/) is a **configuration-as-code language** that offers rich validation and tooling. | [GitHub](https://github.com/apple/pkl-lang.org)
+- [Vue](https://vuejs.org/) is a **progressive JavaScript framework**. | [45k stars](https://github.com/vuejs/core)
+- [Svelte](https://svelte.dev/) is a **radical new approach to building user interfaces**. | [77k stars](https://github.com/sveltejs/svelte)
+- [Angular](https://angular.dev/) is a **platform and framework for building single-page client applications** using HTML and TypeScript. | [95k stars](https://github.com/angular/angular)
+- [Astro](https://astro.build/) is a **new kind of static site builder** that delivers lightning-fast performance with a modern developer experience. | [44k stars](https://github.com/withastro/astro)
 
 ## Blogs
 
