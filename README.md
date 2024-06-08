@@ -273,6 +273,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Biome.js](https://biomejs.com/) is a `toolchain for web projects`, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. ⭐ [10k stars](https://github.com/biomejs/biome)
 - [Format.js](https://formatjs.io/) is the monorepo home to all of the FormatJS related libraries, most notably react-intl. ⭐ [14k stars](https://github.com/formatjs/formatjs?tab=readme-ov-file)
 - [Orama](https://docs.askorama.ai/) - 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! ⭐ [8k stars](https://github.com/askorama/orama)
+- [flagsmith](https://www.flagsmith.com/) is an open-source, fully supported, Feature Flag and Remote Config service. Use our hosted API, deploy to your own private cloud, or run on-premise. ⭐ [4.5k stars](https://github.com/Flagsmith/flagsmith)
+
 <!-- need some work -->
 
 ## Serverless Frameworks
@@ -364,6 +366,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 <h6>Machine Learning</h6>
 
 - [ollama](https://ollama.com/) let's you run LLM (Large Language Models) on your own machine. It's like OpenAI's GPT-3 but on your own machine. It's free and open-source. It comes with an API that you can listen to through localhost. ⭐ [64.8k stars](https://github.com/ollama/ollama)
+- [Deepgram AI API](https://www.deepgram.com/) is a free API for `speech recognition`. The API provides access to `speech-to-text`, audio transcription, and more.
 
 <h6>Data Processing and Migration</h6>
 
@@ -489,87 +492,101 @@ A collection of links to **free resources** and **tools** for developers. It inc
 #### **Others**
 
 <!-- Countries -->
+<h6>Countries</h6>
 
 - [API COLOMBIA](https://api-colombia.com/) is a public api that contains info about Colombia, departments, cities, tourists places and presidents. ⭐ [GitHub](https://github.com/Mteheran/api-colombia)
 
 <!-- News -->
+<h6>News</h6>
 
 - [World News](https://newsapi.org/), [World News API](https://worldnewsapi.com/) are free API for news. The World News API gives you access to thousands of news sources in over 50 languages from over 150 countries. News are semantically tagged allowing for semantic news search like never before.
 - [News API](https://newsapi.org) — Search news on the web with code, and get JSON results. Developers get 3,000 queries free each month.
 
 <!-- Write -->
+<h6>Write</h6>
 
 - [Free Dictionary API](https://dictionaryapi.dev/) is a free API for `dictionary`. The API provides access to definitions, synonyms, antonyms, translations, and more. ⭐ [GitHub](https://github.com/meetDeveloper/freeDictionaryAPI)
 - [Zen Quotes](https://zenquotes.io/) is a free API for `quotes`.
 
 <!-- Validation -->
+<h6>Validation</h6>
 
 - [Mailbox Validator](https://www.mailboxvalidator.com) is an `email verification service` using real mail server connection to confirm valid email. The free API plan has 300 verifications per month.
 - [Vatcheckapi](https://vatcheckapi.com) is a simple and free `VAT number validation API`. Five hundred free requests per month.
 - [Numlookupapi](https://numlookupapi.com) is a free and reliable `phone number validation API` - 100k free requests / month.
 
 <!-- Health -->
+<h6>Health</h6>
 
 - [Disease](https://disease.sh/) is a free API for Current cases and more stuff about COVID-19 and Influenza.
 
 <!-- Food -->
+<h6>Food</h6>
 
 - [Open Food Facts](https://world.openfoodfacts.org/) is a free API for `food products`. The API provides access to food products, ingredients, and more.
 
-<!-- PDF -->
+<h6>PDF</h6>
 
 - [API Template](https://apitemplate.io) allow you to `auto-generate images` and `PDF documents` with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates.
 - [Advicement](https://advicement.io) helps you `generate PDF documents with JSON to PDF API` based on LaTeX templates. The free plan allows 50 API calls per month and access to a library of templates.
 - [Export SDK](https://exportsdk.com) is a `PDF generator API` with drag-and-drop template editor that provides an SDK and no-code integrations. The free plan has 250 monthly pages, unlimited users, and three templates.
 - [PDF-API](https://pdf-api.io) is a `PDF Automation API`, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
+- [Gotenberg](https://gotenberg.dev) is a `Docker-powered stateless API for converting HTML, Markdown, LaTeX, Office documents, and images to PDF`. The free plan includes 1000 requests per month. ⭐ [7.1k stars](https://github.com/gotenberg/gotenberg)
 
 <!-- Email -->
+<h6>Email</h6>
 
 - [Resend (for emails)](https://resend.com/) is an API for sending emails. The free plan includes 100 emails per day or up to 3,000 emails a month.
 
 <!-- Error Codes APIs -->
+<h6>Error Codes</h6>
 
 - [HTTP Status Dogs](https://httpstatusdogs.com/) is a free API for `HTTP status codes`. HTTP status codes are boring but not with HTTP Status Dogs. It returns images of dogs for each HTTP status code to make it easier to understand and remember.
 
 <!-- General Purpose APIs -->
+<h6>General Purpose</h6>
 
 - [Cloudmersive](https://cloudmersive.com/) is a `utility API` platform with full access to expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month.
 
 <!-- dates APIs -->
+<h6>Dates</h6>
 
 - [Calendarific](https://calendarific.com) is a developer-friendly, worldwide RESTful API giving you access to public, local & bank holidays and observances; and spanning over 230 countries, 3,300+ states and 100+ languages. The free plan includes 1,000 calls per month.
 - [DigiDates](https://digidates.de/) provides a REST API for time and date calculations. Access to the API is free of charge and currently without limitation.
 
-<!-- Machine Learning APIs -->
-
-- [Deepgram AI API](https://www.deepgram.com/) is a free API for `speech recognition`. The API provides access to `speech-to-text`, audio transcription, and more.
-
 <!-- Open Source Tools -->
+<h6>Open Source Tools</h6>
 
 - [Dream Factory](https://dreamfactory.com/) is an open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service, and it instantly creates a comprehensive REST API platform with live documentation and user management.
 
 <!-- Fraud Detection APIs -->
+<h6>Fraud Detection</h6>
 
 - [FraudLabs Pro](https://www.fraudlabspro.com) provides an advanced fraud prevention solution that helps protect your online business from payment fraud (also known as CNP fraud). Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. The Free Micro plan has 500 transactions per month.
 
 <!-- gRPC Tools -->
+<h6>gRPC</h6>
 
 - [Kreya](https://kreya.app) is a free cross-platform GUI tool that helps you `build and test gRPC APIs` faster. Can import gRPC APIs via server reflection.
 
 <!-- no-code Tools -->
+<h6>No-Code</h6>
 
 - [Fern](https://buildwithfern.com) is a `no-code API builder` that allows you to create APIs from Google Sheets, Airtable, and other sources. The free plan includes 1000 API calls per month. Use your API definition to generate SDKs in popular languages, and generate API reference documentation webpages. Add Markdown pages to your API reference and host them with Fern for a full documentation solution. OpenAPI fully supported.
 
 <!-- API Design -->
+<h6>API Design</h6>
 
 - [OpenAPI3 Designer](https://openapidesigner.com/) — Visually create Open API 3 definitions for free.
 
 <!-- API Management -->
+<h6>API Management</h6>
 
 - [Kong](https://konghq.com/) is a unified API platform that helps you manage, secure, and run APIs across any cloud, team, gateway, protocol, or architecture. in other workds, an `API Marketplace` and powerful private and public API tools. With the free tier, some features such as monitoring, alerting, and support, are limited.
 - [Zuplo](https://zuplo.com/) allow you to `add API Key authentication, rate limiting, and developer documentation to any API` in minutes. The free plan offers up to 10 projects, unlimited production edge environments, 250 API keys, 100K monthly requests, and 1GB egress.
 
 <!-- Others -->
+<h6>Others</h6>
 
 - [OpenSky Network](https://opensky-network.org/) is a free API for `air traffic`. It lets you track flights in real-time. The API provides access to flights, airports, and more.
 - [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
@@ -637,6 +654,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [NextAuth.js](https://next-auth.js.org/) is a complete open-source authentication solution for Next.js applications. ⭐ [22k stars](https://github.com/nextauthjs/next-auth)
 - [Appwrite Auth](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [GitHub](https://github.com/appwrite/appwrite)
 - [SuperTokens](https://supertokens.com/) is an open-source alternative to Auth0/ Firebase Auth / AWS Cognito. ⭐ [12k stars](https://github.com/supertokens/supertokens-core)
+- [Logto](https://logto.io/) is an Auth0 alternative designed for modern apps and SaaS products. It offers a seamless developer experience and is well-suited for individuals and growing companies. ⭐ [7.5k stars](https://github.com/logto-io/logto)
 
 ## Database
 
@@ -655,6 +673,10 @@ A collection of links to **free resources** and **tools** for developers. It inc
 13. [Amazon DynamoDB](https://aws.amazon.com/dynamodb) is a serverless, NoSQL, fully managed database service with single-digit millisecond response times at any scale, enabling you to develop and run modern applications while only paying for what you use. ⭐ [GitHub](https://github.com/aws-samples/aws-dynamodb-examples)
 14. [MongoDB Atlas Device](https://www.mongodb.com/docs/realm) is a fully managed cloud database developed by the same people that build MongoDB. Atlas Device SDK is a mobile-first database designed for modern, data-driven applications.
 15. [Oracle Database](https://www.oracle.com/database/technologies/appdev/xe.html#:~:text=Free%20Oracle%20Database%20for%20Everyone&text=You%20get%20an%20Oracle%20Database,and%20redistribute%20%E2%80%93%20all%20completely%20free!) is a free Oracle Database for Everyone. You get an Oracle Database to use, develop, test, and deploy applications. You can redistribute it – all completely free! ⭐ [GitHub](https://github.com/oracle)
+
+## Headless CMS
+
+- [Directus](https://directus.io/) is an open-source headless CMS and API for custom databases. It decouples the content from the presentation layer, making it easy to manage and deliver content to any device or platform. Directus handles APIs, Auth, Admin, and more. ⭐ [26k stars](https://github.com/directus/directus)
 
 ## DataSet
 
@@ -693,6 +715,7 @@ Datos.gov...
 - [PlayWright](https://playwright.dev/) enables reliable end-to-end testing for modern web apps. ⭐ [60k stars](https://github.com/microsoft/playwright)
 - [Cypress](https://www.cypress.io/) is a **JavaScript End to End Testing Framework**. ⭐ [46k stars](https://github.com/cypress-io/cypress)
 - [Fast Check](https://fast-check.dev/) is a property-based testing framework for JavaScript and TypeScript. ⭐ [4.1k stars](https://github.com/dubzzz/fast-check)
+- [SonarQube](https://www.sonarqube.org) is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities. ⭐ [8.7k stars](https://github.com/SonarSource/sonarqube)
 
 ## Security
 
