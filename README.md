@@ -203,9 +203,9 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 ## Starter Templates
 
+- [Create T3](https://create-t3.gg/) is the best way to start a full-stack, typesafe Next.js app. Simply run `npm create t3-app@latest`. T3 stack includes Next.js, tRPC, Tailwind CSS, TypeScript, Prisma, Drizzle, NextAuth.js. ⭐ [GitHub](https://github.com/t3-oss/create-t3-app)
 - [Create React App](https://create-react-app.dev/) is a tool to create React apps with no build configuration. Simply run `npx create-react-app my-app` ⭐ [102k stars](https://github.com/facebook/create-react-app)
-- [Create T3](https://create-t3.dev/) is the best way to start a full-stack, typesafe Next.js app. Simply run `npm create t3-app@latest`. T3 stack includes Next.js, tRPC, Tailwind CSS, TypeScript, Prisma, Drizzle, NextAuth.js. ⭐ [GitHub](https://github.com/t3-oss/create-t3-app)
--
+- [Create an Astro project](https://astro.build/) Simply run `npm create astro@latest`. ⭐ [GitHub](https://github.com/withastro/astro)
 
 ## E-commerce
 
