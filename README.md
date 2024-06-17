@@ -83,6 +83,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 19. [Sonner](https://sonner.emilkowal.ski/) is an opinionated **toast component** for React. ⭐ [7k stars](https://github.com/emilkowalski/sonner)
 20. [Float UI](https://floatui.com/) offers all the vital building blocks you need to transform your idea into a great-looking startup. ⭐ [3k stars](https://github.com/MarsX-dev/floatui)
 21. [Meraki UI](https://merakiui.com/) is a collection of responsive Tailwind CSS components that enhance the user experience of your website. with support for RTL languages, and a sleek Dark Mode. ⭐ [2.3k stars](https://github.com/merakiui/merakiui)
+22. [React Headless Components](https://github.com/jxom/awesome-react-headless-components) is a collection of headless components for React. ⭐ [1k stars](https://github.com/jxom/awesome-react-headless-components)
 
 - [Tailwind Components](https://tailwindcomponents.com/) is an Open source Tailwind UI components and templates to bootstrap your new apps, projects or landing sites! ⭐ [GitHub](https://github.com/tailwindcomponents)
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com/) is a free Tailwind CSS Templates, Components and Resources. ⭐ [GitHub](https://github.com/tailwindtoolbox)
