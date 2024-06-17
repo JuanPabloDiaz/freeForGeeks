@@ -201,6 +201,12 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [React Hook Form](https://react-hook-form.com/) is a performant, flexible, and extensible forms with easy-to-use validation. ⭐ [40k stars](https://github.com/react-hook-form/react-hook-form)
 - [Formik](https://formik.org/) is the world's most popular open source form library for React and React Native. Build forms in React, without the tears. ⭐ [33.6k stars](https://github.com/jaredpalmer/formik)
 
+## Starter Templates
+
+- [Create React App](https://create-react-app.dev/) is a tool to create React apps with no build configuration. Simply run `npx create-react-app my-app` ⭐ [102k stars](https://github.com/facebook/create-react-app)
+- [Create T3](https://create-t3.dev/) is the best way to start a full-stack, typesafe Next.js app. Simply run `npm create t3-app@latest`. T3 stack includes Next.js, tRPC, Tailwind CSS, TypeScript, Prisma, Drizzle, NextAuth.js. ⭐ [GitHub](https://github.com/t3-oss/create-t3-app)
+-
+
 ## E-commerce
 
 - [Evershop](https://evershop.io/) is an Open-Source NodeJS Ecommerce Platform with essential commerce features. | Built with React, modular and fully customizable. ⭐ [3.3k stars](https://github.com/evershopcommerce/evershop)
