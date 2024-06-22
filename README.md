@@ -896,7 +896,7 @@ Datos.gov...
 
 - [Material Design](https://m3.material.io/) is a collection of tools and resources for developers to build high-quality digital experiences.
 - [ProductiveHub](https://www.productive-hub.com/) enhance your productivity and help you beat procrastination, streamlining your journey to peak productivity.
-- [Freeter](https://freeter.io/) is a smarter way to work on your computer. Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, MacOS. Free and Open-Source.
+- [Freeter](https://freeter.io/) is a smarter way to work on your computer. Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, MacOS. Free and Open-Source. ⭐ [242 stars](https://github.com/FreeterApp/Freeter)
 - [Open Source Design](https://opensourcedesign.net/) is a community of designers and developers pushing more open design processes and improving the user experience and interface design of open-source software.
 
 ## GitHub Tools
@@ -1067,7 +1067,7 @@ Datos.gov...
 - [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
 - [Superfeedr](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
 - [Videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
-- [Meta Tags](https://metatags.io/) — Identify the meta tags of a website.
+- [Meta Tags](https://metatags.io/) — Identify the metadata of a webpage.
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
