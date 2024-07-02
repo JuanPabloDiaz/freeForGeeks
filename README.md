@@ -953,6 +953,7 @@ Datos.gov...
 - [Gitmoji](https://gitmoji.dev/) is an emoji guide for your commit messages.
 - [Emojicopy](https://www.emojicopy.com/) is a tool to copy and paste emojis.
 - [Emojipedia](https://emojipedia.org/) is a comprehensive resource for emojis.
+- [emoji-picker-element](https://www.npmjs.com/package/emoji-picker-element) is a lightweight emoji picker, distributed as a web component. ⭐ [1.5k stars](https://github.com/nolanlawson/emoji-picker-element)
 
 ## File Converters
 
