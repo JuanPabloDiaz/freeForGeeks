@@ -1139,6 +1139,7 @@ Datos.gov...
 6. [MkDocs](https://www.mkdocs.org/) is a simple static site generator for building project documentation. ⭐ [18k stars](https://github.com/mkdocs/mkdocs)
 7. [jsdoc](https://jsdoc.app/) is an API **documentation generator for JavaScript**. It `automatically generates` documentation from your code. ⭐ [15k stars](https://github.com/jsdoc/jsdoc)
 8. [typedoc](https://typedoc.org/) is a **documentation generator for TypeScript** projects. it `automatically generates` documentation from your code. ⭐ [7k stars](https://github.com/TypeStrong/typedoc)
+9. [Starlight (Astro)](https://starlight.astro.build/) Has everything you need to build a stellar documentation website. Fast, accessible, and easy-to-use. ⭐ [4.5k stars](https://github.com/withastro/starlight)
 
 Comparison of major documentation tools:
 
