@@ -1,0 +1,12 @@
+{
+  "printWidth": 80,          // Wrap lines at 80 characters
+  "tabWidth": 2,             // Use 2 spaces for indentation
+  "useTabs": false,          // Use spaces instead of tabs
+  "semi": false,             // Do not add semicolons at the ends of statements
+  "singleQuote": true,       // Use single quotes instead of double quotes
+  "trailingComma": "none",   // Do not add trailing commas
+  "bracketSpacing": true,    // Print spaces between brackets in object literals
+  "arrowParens": "avoid",    // Omit parentheses when possible for single-argument arrow functions
+  "proseWrap": "preserve",   // Wrap prose as-is (maintain existing wrapping)
+  "endOfLine": "lf"          // Use LF for line breaks (Unix-style)
+}
