@@ -21,8 +21,8 @@ jobs:
       - name: Install Prettier
         run: npm install -g prettier
 
-      - name: Run Prettier
-        run: prettier --write "**/*.md"
+      - name: Run Prettier on README.md
+        run: prettier --write "README.md"
 
       - name: Check for changes
         id: check_changes
