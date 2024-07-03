@@ -1,4 +1,4 @@
-name: Format Code with Prettier
+name: Prettier
 
 on:
   issues:
@@ -18,8 +18,11 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Install Prettier
+        run: npm install -g prettier
+
       - name: Run Prettier
-        run: npx prettier --write \"**/*.{md}\"
+        run: prettier --write "**/*.md"
 
       - name: Check for changes
         id: check_changes
