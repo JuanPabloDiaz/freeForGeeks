@@ -3,3 +3,6 @@
 
 /api/.vercel
 /api/.env
+
+# Run lighthouse CI: npx unlighthouse --site https://freeforgeeks.com/
+/.unlighthouse/
