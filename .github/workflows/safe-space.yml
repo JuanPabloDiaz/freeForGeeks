@@ -11,4 +11,5 @@ jobs:
         uses: charliegerard/safe-space@master
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          message: "this message is toxic"
           toxicity_threshold: 0.7
