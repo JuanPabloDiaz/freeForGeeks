@@ -1,15 +1,31 @@
 name: Safe Space
-on: [issue_comment, pull_request_review]
+on:
+  issue_comment:
+    types: [created]
+  pull_request_review:
+    types: [submitted]
 
 jobs:
   toxic_check:
-    runs-on: [ubuntu-latest]
+    runs-on: ubuntu-latest
     name: Toxicity check
     steps:
       - uses: actions/checkout@v2
+
       - name: Safe space - action step
+        id: toxic_check
         uses: charliegerard/safe-space@master
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          message: "this message is toxic"
           toxicity_threshold: 0.7
+
+      - name: Flag toxic comment
+        if: steps.toxic_check.outputs.toxic == 'true'
+        run: |
+          COMMENT_ID=$(jq -r .comment.id $GITHUB_EVENT_PATH)
+          COMMENT_URL=$(jq -r .comment.html_url $GITHUB_EVENT_PATH)
+          curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+               -X POST -d "{\"body\": \"⚠️ This comment has been flagged for toxicity. Please adhere to the community guidelines. \\n\\n [Link to comment](${COMMENT_URL})\"}" \
+               "https://api.github.com/repos/${{ github.repository }}/issues/comments/${COMMENT_ID}/reactions"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
