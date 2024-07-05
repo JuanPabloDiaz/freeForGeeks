@@ -11,8 +11,8 @@ on:
     branches:
       - main
   workflow_dispatch:
-  # schedule:
-  #     - cron: '30 12 * * 1-5'
+  schedule: # Run every weekday at 12:30 UTC
+    - cron: "30 12 * * 1-5"
 
 jobs:
   Check-for-broken-links:
