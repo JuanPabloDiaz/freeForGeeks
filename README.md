@@ -163,7 +163,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [Swiper](https://swiperjs.com/) is the most modern mobile `touch slider`. ⭐ [39k stars](https://github.com/nolimits4web/swiper)
 - [Glide](https://glidejs.com/) is a dependency-free JavaScript ES6 `slider and carousel`. It's lightweight, flexible, adaptive, and mobile-friendly. ⭐ [7.2k stars](https://github.com/glidejs/glide)
-- [Embla Carousel](https://embla-carousel.com/) A lightweight `carousel library` with fluid motion and great swipe precision. ⭐ [5.5k stars](https://github.com/davidjerleke/embla-carousel)
+- [Embla Carousel](https://www.embla-carousel.com/) A lightweight `carousel library` with fluid motion and great swipe precision. ⭐ [5.5k stars](https://github.com/davidjerleke/embla-carousel)
 - [Divz](https://lewhunt.github.io/divz/) is a React component that lets you `scroll, swipe and zoom through HTML content on the 3D z-axis`. Ideal to showcase your portfolio, media or products. ⭐ [GitHub](https://github.com/lewhunt/divz)
 
 ## Other JS libraries
