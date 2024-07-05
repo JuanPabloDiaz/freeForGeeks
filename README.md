@@ -1014,8 +1014,6 @@ Datos.gov...
 - [DeleteMyData](https://deletemydata.io/) Guides for the "simplest way to delete your online accounts". How to delete your account, from Amazon to Google to Facebook to LinkedIn.
 - [Switching Software](https://switching.software/) "Ethical, easy-to-use and privacy-conscious alternatives to well-known software." Mixed recommendations; some good, some bad, but overall an OK reference.
 - [Security In-A-Box](https://securityinabox.org/) Tools and tactics (guides) for digital security on Linux, Windows, Mac, Mobile, and Web.
-- [r/degoogle](r/degoogle) Tips, resources, guides, and more for "expelling Google from your life." [Why You Should DeGoogle & Intro DeGoogling Techniques](https://www.reddit.com/r/degoogle/comments/huk4rp/why_you_should_degoogle_intro_degoogling/). [Huge list of alternatives to Google products and services](https://www.reddit.com/r/degoogle/comments/g1yu01/google_alternatives_huge_list_restore_your_privacy/). [r/Privacy's wiki on deGoogling is also *helpful.*](r/Privacy's wiki on deGoogling is also _helpful._)
-  [r/privacy](r/privacy) Reddit community dedicated to digital privacy and freedom. Resources, news, guides, and more for securing your digital lives. [Their wiki is an indispensable source anyone interested in digital privacy](https://www.reddit.com/r/privacy/wiki/index).
 - [They Track You](https://theytrackyou.com/) "A website to raise awareness of online privacy." Information on corporate and government tracking, defense of surveillance, and more. Very good for beginners.
 - [Richard Stallman](https://www.stallman.org/) Reasons for not using products and services from the biggest technology companies, by the man behind the GNU Project and the Free Software Foundation.
 <!--  ---------------------------- ********************* ADD MORE RESOURCES *****************************  ---------------------------- -->
@@ -1263,7 +1261,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Goodreads](https://www.goodreads.com/) Largest book recommendation site. Great for finding reviews of books. Catalog has over 2.6 billion books. Owned by Amazon.
 - [Most Recommended Books](https://mostrecommendedbooks.com/) Which books have shaped the world's most successful people?
 - [Goodbooks](https://www.goodbooks.io/) Book recommendations from successful people, like Bill Gates and Warrent Buffet. 8,500+ recommendations.
-- [r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS) A reddit thread with users submit free eBooks and resources to find free ebooks.
+- [FreeEBOOKS](https://reddit.com/r/FreeEBOOKS) A reddit thread with users submit free eBooks and resources to find free ebooks.
 - [BibleHub](https://biblehub.com/) "Bible Hub Online Parallel Bible, search and study tools including parallel texts, cross references, Treasury of Scripture, and commentaries. This site provides quick access to topical studies, interlinears, sermons, Strong's and many more resources"
 - [Whichbook](https://www.whichbook.net/) "Discover your next great read. Fancy something unusual and unpredictable? Funny or sexy? No problem. Use our unique mood and emotion search to find great books with exactly the flavour you've asked for."
 - [Bookdark](https://bookdark.com/) "Explore inspirational, famous and motivational books by clicking on either tags or authors." Authors include Shakespeare, Chekhov, Plato, and more.
