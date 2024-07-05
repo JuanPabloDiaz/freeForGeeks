@@ -1,0 +1,6 @@
+[dictionary]
+accept = [
+  "Warrent", # Name is spelled correctly.
+  "Daa", # It's correct in our context.
+	"OLL", # It's correct in our context.
+]
