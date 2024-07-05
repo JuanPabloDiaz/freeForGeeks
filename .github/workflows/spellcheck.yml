@@ -3,7 +3,7 @@ name: Spellcheck
 on:
   push:
     branches:
-      - main # Adjust this branch name if needed
+      - main
   pull_request:
     types:
       - opened
