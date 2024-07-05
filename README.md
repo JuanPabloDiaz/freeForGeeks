@@ -792,7 +792,7 @@ Datos.gov...
 4. [PostHog](https://posthog.com) is an open-source product analytics tool. ⭐ [17k stars](https://github.com/PostHog/posthog)
 5. [Mixpanel](https://mixpanel.com) is a business analytics service and company that tracks user interactions with web and mobile applications. ⭐ [k stars](https://github.com/mixpanel)
 6. [Amplitude](https://amplitude.com) is a product analytics service that provides tools to understand user behavior. ⭐ [GitHub](https://github.com/amplitude)
-7. [Snowplow](https://snowplowanalytics.com) is an open-source platform for event data collection and warehousing. ⭐ [6.7k stars](https://github.com/snowplow/snowplow)
+7. [Snowplow](https://snowplow.io/) is an open-source platform for event data collection and warehousing. ⭐ [6.7k stars](https://github.com/snowplow/snowplow)
 8. [Countly](https://count.com) is an open-source, self-hosted product analytics tool. ⭐ [5.5k stars](https://github.com/Countly/countly-server)
 9. [GoatCounter](https://www.goatcounter.com) is a simple web analytics platform. ⭐ [4.1k stars](https://github.com/arp242/goatcounter)
 10. [Open Web Analytics](https://www.openwebanalytics.com) is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app. Please consider sponsoring this project. ⭐ [2.5k stars](https://github.com/Open-Web-Analytics/Open-Web-Analytics)
