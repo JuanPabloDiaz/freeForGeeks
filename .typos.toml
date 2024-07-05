@@ -11,9 +11,9 @@ ro = "ro"
 hd = "hd"
 dur = "dur"
 pn = "pn"
-Warrent = "Warrent", # Name is spelled correctly.
-Daa = "Daa", # It's correct in our context.
-OLL =	"OLL", # It's correct in our context.
+Warrent = "Warrent" # Name is spelled correctly.
+Daa = "Daa" # It's correct in our context.
+OLL =	"OLL" # It's correct in our context.
 
 [type.po]
 extend-glob = ["*.po"]
