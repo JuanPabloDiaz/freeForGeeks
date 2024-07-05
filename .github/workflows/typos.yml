@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://json.schemastore.org/github-workflow
 
-name: "Spelling"
+name: "Typos"
 # I take care of your fat fingers and ESL mistakes.
 
 on: # yamllint disable-line rule:truthy
