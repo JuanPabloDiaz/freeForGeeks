@@ -30,7 +30,7 @@ jobs:
         uses: lycheeverse/lychee-action@v1.10.0
         with:
           fail: true
-          args: --verbose --no-progress '**/*.md' # --exclude-mail
+          args: --verbose --no-progress '**/*.md'
           output: ${{ env.issue-content }}
 
       # Permissions (issues: read)
