@@ -1217,7 +1217,7 @@ Comparison of major documentation tools:
 - [Glauca](https://docs.glauca.digital/hexdns/) Nameservers Glauca offers free DNS hosting for up to 3 domains with DNSSEC support.
 - [Google Public DNS](https://developers.google.com/speed/public-dns) is a DNS service developed by Google.
 - [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns)FreeDNS allows you to keep your domain visible on the internet. It provides DNS hosting with secondary DNS backup to ensure availability.
-- [NextDNS](https://nextdns.io) Resolver Similiar to AdGuard DNS, a DNS resolution service which allows you to specify allow/deny lists
+- [NextDNS](https://nextdns.io) Resolver Similar to AdGuard DNS, a DNS resolution service which allows you to specify allow/deny lists
 - [No-IP](https://www.noip.com) Nameservers Create an easy to remember hostname and never lose your connection again.
 - [OpenDNS](https://www.opendns.com) offers a suite of consumer products that aim to make your internet faster, safer, and more reliable.
 - [Quad9](https://quad9.net) is a security and privacy focused non-profit DNS service with no IP logging.
@@ -1308,8 +1308,8 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Web-Dev-For-Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/) is a free 24-episode course that teaches you the basics of web development. ⭐ [81k stars](https://github.com/microsoft/Web-Dev-For-Beginners)
 - [Total Typescript](https://totaltypescript.com/) is a comprehensive production-grade TypeScript training by Matt Pocock ⭐ [7.7k stars](https://github.com/total-typescript/beginners-typescript-tutorial)
 - [Python Tutor](https://pythontutor.com/) is a free online tool that helps you visualize code execution step by step. It helps you do programming homework assignments in Python, Java, C, C++, and JavaScript.
-- [SQL Practice](https://www.sql-practice.com/) querys with an online terminal. Solve SQL query questions using a practice database. Learn and improve your SQL skills.
-- [TypeHero](https://typehero.dev/) is a free course that teaches you the basics of TypeScript. Practice by compleating challenges. ⭐ [5.4k stars](https://github.com/typehero/typehero)
+- [SQL Practice](https://www.sql-practice.com/) queries with an online terminal. Solve SQL query questions using a practice database. Learn and improve your SQL skills.
+- [TypeHero](https://typehero.dev/) is a free course that teaches you the basics of TypeScript. Practice by completing challenges. ⭐ [5.4k stars](https://github.com/typehero/typehero)
 
 ## Job Boards
 
