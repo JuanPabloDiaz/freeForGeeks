@@ -4,18 +4,18 @@
 # You find further information about lychee-action in the documentation at:
 # https://github.com/lycheeverse/lychee-action
 
-name: Readme Links Watcher
+name: Check for broken links
 
 on:
   pull_request:
     branches:
       - main
   workflow_dispatch:
-  # schedule:
-  #     - cron: '30 12 * * 1-5'
+  schedule: # Run every weekday at 12:30 UTC
+    - cron: "30 12 * * 1-5"
 
 jobs:
-  Broken-Link-Checker:
+  Check-for-broken-links:
     runs-on: ubuntu-latest
     permissions:
       contents: read

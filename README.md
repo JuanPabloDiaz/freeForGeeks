@@ -163,7 +163,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [Swiper](https://swiperjs.com/) is the most modern mobile `touch slider`. ⭐ [39k stars](https://github.com/nolimits4web/swiper)
 - [Glide](https://glidejs.com/) is a dependency-free JavaScript ES6 `slider and carousel`. It's lightweight, flexible, adaptive, and mobile-friendly. ⭐ [7.2k stars](https://github.com/glidejs/glide)
-- [Embla Carousel](https://embla-carousel.com/) A lightweight `carousel library` with fluid motion and great swipe precision. ⭐ [5.5k stars](https://github.com/davidjerleke/embla-carousel)
+- [Embla Carousel](https://www.embla-carousel.com/) A lightweight `carousel library` with fluid motion and great swipe precision. ⭐ [5.5k stars](https://github.com/davidjerleke/embla-carousel)
 - [Divz](https://lewhunt.github.io/divz/) is a React component that lets you `scroll, swipe and zoom through HTML content on the 3D z-axis`. Ideal to showcase your portfolio, media or products. ⭐ [GitHub](https://github.com/lewhunt/divz)
 
 ## Other JS libraries
@@ -401,7 +401,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Country State City API](https://countrystatecity.in/) is a free API to get country, state, and city details. ⭐ [6.3k stars](https://github.com/dr5hn/countries-states-cities-database)
 - [DB-IP](https://db-ip.com/api/free) is a free IP geolocation API with 1k request per IP per day.lite database under the CC-BY 4.0 License is free too.
 - [Flags API](https://flagsapi.com/) is a free API to get country flags. ⭐ [GitHub]()
-- [GeoCod](https://geocod.xyz) is a Free `geocoding API`: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding).
+- [GeoCod](https://geocode.xyz/) is a Free `geocoding API`: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding).
 - [GeoDB Cities API](http://geodb-cities-api.wirefreethought.com/) is an online places database. It exposes city, county, island, region, and country data via both GraphQL and REST APIs.
 - [GeoKeo](https://geokeo.com/) is a free API for `geocoding`. It provides a simple API to convert addresses into geographic coordinates. in other words, it converts city names, street names, and postal codes into latitude and longitude. The free plan includes 2,500 api requests daily.
 - [GeoDataSource](https://www.geodatasource.com) Location Search Web Service is a REST API to lookup for city name by using latitude and longitude coordinate. It will return the result in either JSON or XML containing the information of the nearest country, region, city, latitude, longitude, currency code, and more. Free API queries up to 500 times per month.
@@ -792,7 +792,7 @@ Datos.gov...
 4. [PostHog](https://posthog.com) is an open-source product analytics tool. ⭐ [17k stars](https://github.com/PostHog/posthog)
 5. [Mixpanel](https://mixpanel.com) is a business analytics service and company that tracks user interactions with web and mobile applications. ⭐ [k stars](https://github.com/mixpanel)
 6. [Amplitude](https://amplitude.com) is a product analytics service that provides tools to understand user behavior. ⭐ [GitHub](https://github.com/amplitude)
-7. [Snowplow](https://snowplowanalytics.com) is an open-source platform for event data collection and warehousing. ⭐ [6.7k stars](https://github.com/snowplow/snowplow)
+7. [Snowplow](https://snowplow.io/) is an open-source platform for event data collection and warehousing. ⭐ [6.7k stars](https://github.com/snowplow/snowplow)
 8. [Countly](https://count.com) is an open-source, self-hosted product analytics tool. ⭐ [5.5k stars](https://github.com/Countly/countly-server)
 9. [GoatCounter](https://www.goatcounter.com) is a simple web analytics platform. ⭐ [4.1k stars](https://github.com/arp242/goatcounter)
 10. [Open Web Analytics](https://www.openwebanalytics.com) is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app. Please consider sponsoring this project. ⭐ [2.5k stars](https://github.com/Open-Web-Analytics/Open-Web-Analytics)
@@ -906,7 +906,7 @@ Datos.gov...
 - [Awesome GitHub Profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme) is a curated list of **awesome GitHub Profile READMEs**. ⭐ [22k stars](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [Best Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) is another tool to generate GitHub profile READMEs by filling out a **simple form**. ⭐ [19.5k stars](https://github.com/rahuldkjain/github-profile-readme-generator)
 - [Readme md Generator](https://www.npmjs.com/package/readme-md-generator) is a tool to generate a **README.md file** using a **CLI**. ⭐ [10.7k stars](https://github.com/kefranabg/readme-md-generator)
-- [Metrics](metrics.lecoq.io) is a tool to generate **GitHub metrics** for your profile. It Support GitHub Actions. ⭐ [8.5k stars](https://github.com/lowlighter/metrics)
+- [Metrics](https://metrics.lecoq.io/) is a tool to generate **GitHub metrics** for your profile. It Support GitHub Actions. ⭐ [8.5k stars](https://github.com/lowlighter/metrics)
 - [Skill icons](https://skillicons.dev/) is an easy-to-use tool that allows you to generate beautiful and customizable icons representing your programming languages, frameworks, tools, and other technical skills. ⭐ [5k stars](https://github.com/tandpfun/skill-icons)
 - [Streak](https://streak-stats.demolab.com/) is a tool to add a **dynamic GitHub streak stats** to your GitHub profile. To stay motivated and show off your contribution streak! ⭐ [4k stars](https://github.com/denvercoder1/github-readme-streak-stats)
 - [Profile Summary Cards](https://github-profile-summary-cards.vercel.app/demo.html) is a tool to generate **GitHub profile summary cards**. ⭐ [2.3k stars](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -1014,8 +1014,6 @@ Datos.gov...
 - [DeleteMyData](https://deletemydata.io/) Guides for the "simplest way to delete your online accounts". How to delete your account, from Amazon to Google to Facebook to LinkedIn.
 - [Switching Software](https://switching.software/) "Ethical, easy-to-use and privacy-conscious alternatives to well-known software." Mixed recommendations; some good, some bad, but overall an OK reference.
 - [Security In-A-Box](https://securityinabox.org/) Tools and tactics (guides) for digital security on Linux, Windows, Mac, Mobile, and Web.
-- [r/degoogle](r/degoogle) Tips, resources, guides, and more for "expelling Google from your life." [Why You Should DeGoogle & Intro DeGoogling Techniques](https://www.reddit.com/r/degoogle/comments/huk4rp/why_you_should_degoogle_intro_degoogling/). [Huge list of alternatives to Google products and services](https://www.reddit.com/r/degoogle/comments/g1yu01/google_alternatives_huge_list_restore_your_privacy/). [r/Privacy's wiki on deGoogling is also *helpful.*](r/Privacy's wiki on deGoogling is also _helpful._)
-  [r/privacy](r/privacy) Reddit community dedicated to digital privacy and freedom. Resources, news, guides, and more for securing your digital lives. [Their wiki is an indispensable source anyone interested in digital privacy](https://www.reddit.com/r/privacy/wiki/index).
 - [They Track You](https://theytrackyou.com/) "A website to raise awareness of online privacy." Information on corporate and government tracking, defense of surveillance, and more. Very good for beginners.
 - [Richard Stallman](https://www.stallman.org/) Reasons for not using products and services from the biggest technology companies, by the man behind the GNU Project and the Free Software Foundation.
 <!--  ---------------------------- ********************* ADD MORE RESOURCES *****************************  ---------------------------- -->
@@ -1263,13 +1261,12 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Goodreads](https://www.goodreads.com/) Largest book recommendation site. Great for finding reviews of books. Catalog has over 2.6 billion books. Owned by Amazon.
 - [Most Recommended Books](https://mostrecommendedbooks.com/) Which books have shaped the world's most successful people?
 - [Goodbooks](https://www.goodbooks.io/) Book recommendations from successful people, like Bill Gates and Warrent Buffet. 8,500+ recommendations.
-- [r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS) A reddit thread with users submit free eBooks and resources to find free ebooks.
+- [FreeEBOOKS](https://reddit.com/r/FreeEBOOKS) A reddit thread with users submit free eBooks and resources to find free ebooks.
 - [BibleHub](https://biblehub.com/) "Bible Hub Online Parallel Bible, search and study tools including parallel texts, cross references, Treasury of Scripture, and commentaries. This site provides quick access to topical studies, interlinears, sermons, Strong's and many more resources"
 - [Whichbook](https://www.whichbook.net/) "Discover your next great read. Fancy something unusual and unpredictable? Funny or sexy? No problem. Use our unique mood and emotion search to find great books with exactly the flavour you've asked for."
 - [Bookdark](https://bookdark.com/) "Explore inspirational, famous and motivational books by clicking on either tags or authors." Authors include Shakespeare, Chekhov, Plato, and more.
 - [What Should I Read Next?](https://www.whatshouldireadnext.com/) "Enter a book you like and the site will analyse our huge database of real readers' favorite books to provide book recommendations and suggestions for what to read next. "
 - [The Internet Classics Archive](http://classics.mit.edu/index.html) Read from 441 works of classical literature from 59 different authors, including Greco-Roman works (Epictetus), Chinese works (Laotse), and Persian works, all with English translations.
-- [Books Read By](https://www.booksread.by) "Books Read By is a catalogue in the service of a greater reading culture. Founded by [Anonymous](https://www.madebyanonymous.com) in 2020, the site explores the reading habits of inspiring people (founders, leaders, makers, and everyone in between). Each survey is an intimate look into the books that have shaped and changed them."
 - [BookFinder](https://www.bookfinder.com/) Book search engine. "Find used books, rare books, textbooks, new and out-of-print books. Compare book prices, including shipping, from over 100,000 booksellers worldwide."
 - [Online Library of Liberty](https://oll.libertyfund.org/) "The OLL is a curated collection of scholarly works that engage with vital questions of liberty. Spanning the centuries from Hammurabi to Hume, and collecting material on topics from art and economics to law and political theory, the OLL provides you with a rich variety of texts to explore and consider."
 - [Open Book Publishers](https://www.openbookpublishers.com/section/14/1) "At Open Book Publishers we are changing the nature of the traditional academic book. Our books are published in hardback, paperback and ebook editions, but we also publish free online editions of every title in PDF, HTML and XML formats that can be read via our website, downloaded, reused or embedded anywhere. We are proud to say that our books are currently being accessed freely worldwide by over 20,000 readers each month. "
