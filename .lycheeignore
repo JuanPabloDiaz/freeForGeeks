@@ -1,3 +1,6 @@
+<!-- This is a list of URLs that Lychee should ignore. -->
+<!-- False Positive URL -->
+
 https://github.com/JuanPabloDiaz/freeForGeeks
 http://localhost:3000/
 https://world.openfoodfacts.org/
@@ -18,3 +21,4 @@ https://www.openwebanalytics.com/
 https://www.ncworks.gov/
 https://perplexity.ai/
 https://snowplow.io/
+https://www.wireguard.com/
