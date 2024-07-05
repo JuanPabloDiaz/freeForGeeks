@@ -1,4 +1,10 @@
-name: Check links
+# This workflow uses the lychee-action to check the links
+# in your markdown files for validity.
+# You can exclude links via a .lycheeignore file in your repository root.
+# You find further information about lychee-action in the documentation at:
+# https://github.com/lycheeverse/lychee-action
+
+name: Readme Links Watcher
 
 on:
   pull_request:
@@ -9,7 +15,7 @@ on:
   #     - cron: '30 12 * * 1-5'
 
 jobs:
-  validate:
+  Broken-Link-Checker:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -30,7 +36,7 @@ jobs:
         uses: lycheeverse/lychee-action@v1.10.0
         with:
           fail: true
-          args: --verbose --no-progress '**/*.md'
+          args: --verbose --no-progress --exclude-file .lycheeignore '**/*.md'
           output: ${{ env.issue-content }}
 
       # Permissions (issues: read)
