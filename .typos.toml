@@ -1,6 +1,23 @@
-[dictionary]
-accept = [
-  "Warrent", # Name is spelled correctly.
-  "Daa", # It's correct in our context.
-	"OLL", # It's correct in our context.
-]
+[default.extend-words]
+mosquitto = "mosquitto"
+HASS = "HASS"
+Juni = "Juni"
+bck = "bck"
+Automations = "Automations"
+automations = "automations"
+ws = "ws"
+WS = "WS"
+ro = "ro"
+hd = "hd"
+dur = "dur"
+pn = "pn"
+Warrent = "Warrent", # Name is spelled correctly.
+Daa = "Daa", # It's correct in our context.
+OLL =	"OLL", # It's correct in our context.
+
+[type.po]
+extend-glob = ["*.po"]
+check-file = false
+
+[files]
+extend-exclude = ["*.md"]
