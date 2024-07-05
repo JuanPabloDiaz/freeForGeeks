@@ -1,16 +1,4 @@
 [default.extend-words]
-mosquitto = "mosquitto"
-HASS = "HASS"
-Juni = "Juni"
-bck = "bck"
-Automations = "Automations"
-automations = "automations"
-ws = "ws"
-WS = "WS"
-ro = "ro"
-hd = "hd"
-dur = "dur"
-pn = "pn"
 Warrent = "Warrent" # Name is spelled correctly.
 Daa = "Daa" # It's correct in our context.
 OLL =	"OLL" # It's correct in our context.
