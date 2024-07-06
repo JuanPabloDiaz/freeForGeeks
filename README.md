@@ -722,6 +722,7 @@ Datos.gov...
 - [PlayWright](https://playwright.dev/) enables reliable end-to-end testing for modern web apps. ⭐ [60k stars](https://github.com/microsoft/playwright)
 - [Cypress](https://www.cypress.io/) is a **JavaScript End to End Testing Framework**. ⭐ [46k stars](https://github.com/cypress-io/cypress)
 - [Vitest](https://vitest.dev/) is the next generation testing framework powered by Vite. ⭐ [12.3k stars](https://github.com/vitest-dev/vitest)
+- [Robot Framework](https://robotframework.org/) is a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA). ⭐ [9.5k stars](https://github.com/robotframework/robotframework)
 - [SonarQube](https://www.sonarqube.org) is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities. ⭐ [8.7k stars](https://github.com/SonarSource/sonarqube)
 - [Fast Check](https://fast-check.dev/) is a property-based testing framework for JavaScript and TypeScript. ⭐ [4.1k stars](https://github.com/dubzzz/fast-check)
 
