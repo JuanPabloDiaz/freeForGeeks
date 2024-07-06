@@ -202,6 +202,10 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [React Hook Form](https://react-hook-form.com/) is a performant, flexible, and extensible forms with easy-to-use validation. ⭐ [40k stars](https://github.com/react-hook-form/react-hook-form)
 - [Formik](https://formik.org/) is the world's most popular open source form library for React and React Native. Build forms in React, without the tears. ⭐ [33.6k stars](https://github.com/jaredpalmer/formik)
 
+## Vue
+
+- [VeeValidate](https://vee-validate.logaretm.com/v4/) is the most popular `Vue.js form` library. It takes care of value tracking, validation, errors, submissions and more. ⭐ [10.6k stars](https://github.com/logaretm/vee-validate)
+
 ## Starter Templates
 
 - [Create T3](https://create.t3.gg/) is the best way to start a full-stack, typesafe Next.js app. Simply run `npm create t3-app@latest`. T3 stack includes Next.js, tRPC, Tailwind CSS, TypeScript, Prisma, Drizzle, NextAuth.js. ⭐ [GitHub](https://github.com/t3-oss/create-t3-app)
