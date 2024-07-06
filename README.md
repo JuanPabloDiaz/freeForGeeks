@@ -467,7 +467,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 <h6>Fun and Miscellaneous</h6>
 
 - [Deck of Cards](https://deckofcardsapi.com/) is an API to simulate a deck of cards. The API provides access to a deck of cards.
-- [Bored API](https://www.boredapi.com/) is a free API for `random activities`. The API provides access to random activities. ⭐ [GitHub](https://github.com/drewthoennes/Bored-API)
 
 #### **Scraping**
 
