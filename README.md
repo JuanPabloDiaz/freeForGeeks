@@ -936,8 +936,8 @@ Datos.gov...
 7. [React Icons](https://react-icons.github.io/react-icons/) ⭐ [11.2k stars](https://github.com/react-icons/react-icons)
 8. [Iconse.js](http://icones.js.org) is an icon Explorer with Instant searching, powered by `Iconify` ⭐ [5k stars](https://github.com/antfu-collective/icones)
 9. [Radix Icons](https://www.radix-ui.com/icons) ⭐ [2.1k stars](https://github.com/radix-ui/icons)
-
-- [Zondicons](http://www.zondicons.com/) is a set of free premium SVG icons for you to use on your digital products. ⭐ [GitHub](https://github.com/sschoger/zondicons)
+10. [Flagpack](https://flagpack.xyz/) is a collection of `flags icons` in SVG format. ⭐ [568 stars](https://github.com/Yummygum/flagpack-core)
+11. [Zondicons](http://www.zondicons.com/) is a set of free premium SVG icons for you to use on your digital products. ⭐ [56 stars](https://github.com/sschoger/zondicons)
 
 ## Favicons
 
