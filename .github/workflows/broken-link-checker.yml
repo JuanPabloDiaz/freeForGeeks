@@ -7,12 +7,15 @@
 name: Check for broken links
 
 on:
+  schedule: # Run every weekday at 12:30 UTC
+    - cron: "30 12 * * 1-5"
   pull_request:
     branches:
       - main
+  push:
+    branches:
+      - main
   workflow_dispatch:
-  schedule: # Run every weekday at 12:30 UTC
-    - cron: "30 12 * * 1-5"
 
 jobs:
   Check-for-broken-links:
