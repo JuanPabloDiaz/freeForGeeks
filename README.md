@@ -911,7 +911,8 @@ Datos.gov...
 - [Best Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) is another tool to generate GitHub profile READMEs by filling out a **simple form**. ⭐ [19.5k stars](https://github.com/rahuldkjain/github-profile-readme-generator)
 - [Readme md Generator](https://www.npmjs.com/package/readme-md-generator) is a tool to generate a **README.md file** using a **CLI**. ⭐ [10.7k stars](https://github.com/kefranabg/readme-md-generator)
 - [Metrics](https://metrics.lecoq.io/) is a tool to generate **GitHub metrics** for your profile. It Support GitHub Actions. ⭐ [8.5k stars](https://github.com/lowlighter/metrics)
-- [Skill icons](https://skillicons.dev/) is an easy-to-use tool that allows you to generate beautiful and customizable icons representing your programming languages, frameworks, tools, and other technical skills. ⭐ [5k stars](https://github.com/tandpfun/skill-icons)
+- [Skill icons](https://skillicons.dev/) is an easy-to-use tool that allows you to generate beautiful and customizable icons representing your programming languages, frameworks, tools, and other technical skills. ⭐ [6.5k stars](https://github.com/tandpfun/skill-icons)
+- - [Skill icons (UpToDate)](https://github.com/LelouchFR/skill-icons) is an easy-to-use tool that allows you to generate beautiful and customizable icons representing your programming languages, frameworks, tools, and other technical skills. ⭐ [81 stars](https://github.com/LelouchFR/skill-icons)
 - [Streak](https://streak-stats.demolab.com/) is a tool to add a **dynamic GitHub streak stats** to your GitHub profile. To stay motivated and show off your contribution streak! ⭐ [4k stars](https://github.com/denvercoder1/github-readme-streak-stats)
 - [Profile Summary Cards](https://github-profile-summary-cards.vercel.app/demo.html) is a tool to generate **GitHub profile summary cards**. ⭐ [2.3k stars](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 - [Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/) is a tool to add a **dynamic** **activity graph** to your GitHub profile. ⭐ [1.4k stars](https://github.com/Ashutosh00710/github-readme-activity-graph)
@@ -997,6 +998,7 @@ Datos.gov...
 - [Font of web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.
 - [fonts.xz.style](https://fonts.xz.style/) free and open source service for delivering font families to websites using CSS.
 - [Bunny](https://fonts.bunny.net) Privacy oriented Google Fonts
+- [Typegrow (LinkedIn Text Formatter)](https://typegrow.com/tools/linkedin-text-formatter) - A tool to format your LinkedIn posts and comments with bold, italic, and strikethrough text.
 
 ## Tools for Taming Text
 
