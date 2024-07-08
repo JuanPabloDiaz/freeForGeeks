@@ -80,10 +80,9 @@ A collection of links to **free resources** and **tools** for developers. It inc
 16. [Grommet](https://v2.grommet.io/) is a React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package. ⭐ [8.5k stars](https://github.com/grommet/grommet)
 17. [Hyper UI](https://hyperui.dev/) is a collection of beautiful, accessible, and customizable UI components for React. ⭐ [8k stars](https://github.com/markmead/hyperui)
 18. [React Suite](https://rsuitejs.com/) is a suite of React components. ⭐ [8k stars](https://github.com/rsuite/rsuite)
-19. [Sonner](https://sonner.emilkowal.ski/) is an opinionated **toast component** for React. ⭐ [7k stars](https://github.com/emilkowalski/sonner)
-20. [Float UI](https://floatui.com/) offers all the vital building blocks you need to transform your idea into a great-looking startup. ⭐ [3k stars](https://github.com/MarsX-dev/floatui)
-21. [Meraki UI](https://merakiui.com/) is a collection of responsive Tailwind CSS components that enhance the user experience of your website. with support for RTL languages, and a sleek Dark Mode. ⭐ [2.3k stars](https://github.com/merakiui/merakiui)
-22. [React Headless Components](https://github.com/jxom/awesome-react-headless-components) is a collection of headless components for React. ⭐ [1k stars](https://github.com/jxom/awesome-react-headless-components)
+19. [Float UI](https://floatui.com/) offers all the vital building blocks you need to transform your idea into a great-looking startup. ⭐ [3k stars](https://github.com/MarsX-dev/floatui)
+20. [Meraki UI](https://merakiui.com/) is a collection of responsive Tailwind CSS components that enhance the user experience of your website. with support for RTL languages, and a sleek Dark Mode. ⭐ [2.3k stars](https://github.com/merakiui/merakiui)
+21. [React Headless Components](https://github.com/jxom/awesome-react-headless-components) is a collection of headless components for React. ⭐ [1k stars](https://github.com/jxom/awesome-react-headless-components)
 
 - [Tailwind Components](https://tailwindcomponents.com/) is an Open source Tailwind UI components and templates to bootstrap your new apps, projects or landing sites! ⭐ [GitHub](https://github.com/tailwindcomponents)
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com/) is a free Tailwind CSS Templates, Components and Resources. ⭐ [GitHub](https://github.com/tailwindtoolbox)
@@ -162,6 +161,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 ## Slider and Carousel Libraries
 
 - [Swiper](https://swiperjs.com/) is the most modern mobile `touch slider`. ⭐ [39k stars](https://github.com/nolimits4web/swiper)
+- [Flicking](https://flickity.metafizzy.co/) is a touch-friendly, **responsive**, and customizable carousel. ⭐ [7.5k stars](https://github.com/metafizzy/flickity)
 - [Glide](https://glidejs.com/) is a dependency-free JavaScript ES6 `slider and carousel`. It's lightweight, flexible, adaptive, and mobile-friendly. ⭐ [7.2k stars](https://github.com/glidejs/glide)
 - [Embla Carousel](https://www.embla-carousel.com/) A lightweight `carousel library` with fluid motion and great swipe precision. ⭐ [5.5k stars](https://github.com/davidjerleke/embla-carousel)
 - [Divz](https://lewhunt.github.io/divz/) is a React component that lets you `scroll, swipe and zoom through HTML content on the 3D z-axis`. Ideal to showcase your portfolio, media or products. ⭐ [GitHub](https://github.com/lewhunt/divz)
@@ -196,11 +196,18 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 ## React
 
-- [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos. ⭐ [2k stars](https://github.com/reactplay/react-play)
-- [React Community](https://reactcommunity.org/) is a collection of React libraries and tools. ⭐ [GitHub](https://github.com/reactjs)
-- [React Tabs](https://reactcommunity.org/react-tabs/) is an accessible and easy tab component for ReactJS. ⭐ [3k stars](https://github.com/reactjs/react-tabs)
+- [Zustand](https://zustand-demo.pmnd.rs/) is a small, fast and scalable `bearbones state-management solution` using simplified flux principles. Has a comfy API based on hooks, isn't boilerplatey or opinionated. ⭐ [44.5k stars](https://github.com/pmndrs/zustand)
 - [React Hook Form](https://react-hook-form.com/) is a performant, flexible, and extensible forms with easy-to-use validation. ⭐ [40k stars](https://github.com/react-hook-form/react-hook-form)
 - [Formik](https://formik.org/) is the world's most popular open source form library for React and React Native. Build forms in React, without the tears. ⭐ [33.6k stars](https://github.com/jaredpalmer/formik)
+- [Tanstack Table](https://tanstack.com/table/latest) is a headless UI for building powerful tables & datagrids ⭐ [25k stars](https://github.com/tanstack/table)
+- [DnD-Kit](https://dndkit.com/) is a modern, lightweight, performant `drag-and-drop` toolkit for React. ⭐ [12k stars](https://github.com/clauderic/dnd-kit)
+- [React Community](https://reactcommunity.org/) is a collection of React libraries and tools. ⭐ [GitHub](https://github.com/reactjs)
+- [Sonner](https://sonner.emilkowal.ski/) is an opinionated **toast component** for React. ⭐ [7k stars](https://github.com/emilkowalski/sonner)
+- [Wouter](https://npm.im/wouter) is a tiny router for modern React and Preact apps that relies on Hooks. ⭐ [6.5k stars](https://github.com/molefrog/wouter)
+- [React Tabs](https://reactcommunity.org/react-tabs/) is an accessible and easy tab component for ReactJS. ⭐ [3k stars](https://github.com/reactjs/react-tabs)
+- [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos. ⭐ [2k stars](https://github.com/reactplay/react-play)
+- [Virtua](https://inokawa.github.io/virtua/) is a zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte. ⭐ [1.5k stars](https://github.com/inokawa/virtua)
+- [React Aria Modal](https://davidtheclark.github.io/react-aria-modal/demo/) is a fully accessible React modal component. ⭐ [1k stars](https://github.com/davidtheclark/react-aria-modal)
 
 ## Vue
 
@@ -661,7 +668,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Firebase Auth](https://firebase.google.com/) is a platform developed by Google for creating mobile and web applications. ⭐ [GitHub](https://github.com/firebase)
 - [Clerk](https://clerk.dev/) is a developer-first identity and user management platform. ⭐ [GitHub](https://github.com/clerk/javascript)
 - [Supabase Auth](https://supabase.io/) is an open-source Firebase alternative. ⭐ [GitHub](https://github.com/supabase/auth)
-- [NextAuth.js](https://next-auth.js.org/) is a complete open-source authentication solution for Next.js applications. ⭐ [22k stars](https://github.com/nextauthjs/next-auth)
+- [NextAuth.js / Auth.js](https://next-auth.js.org/) is a complete open-source authentication solution for Next.js applications. ⭐ [22k stars](https://github.com/nextauthjs/next-auth)
 - [Appwrite Auth](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [GitHub](https://github.com/appwrite/appwrite)
 - [SuperTokens](https://supertokens.com/) is an open-source alternative to Auth0/ Firebase Auth / AWS Cognito. ⭐ [12k stars](https://github.com/supertokens/supertokens-core)
 - [Logto](https://logto.io/) is an Auth0 alternative designed for modern apps and SaaS products. It offers a seamless developer experience and is well-suited for individuals and growing companies. ⭐ [7.5k stars](https://github.com/logto-io/logto)
