@@ -1,0 +1,34 @@
+name: Auto assign & Label
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  auto-assign:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+    # From Github marketplace: https://github.com/marketplace/actions/auto-assign-issue
+      - name: 'Auto-assign issue'
+        uses: pozil/auto-assign-issue@v1
+        with:
+          assignees: juanPabloDiaz
+          numOfAssignee: 1
+          allowSelfAssign: true
+
+      - name: Check issue title for 'add' keyword and add good first issue label
+        if: contains(github.event.issue.title, 'add', 'i')
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const labels = ['good first issue'];
+            const issue_number = context.payload.issue.number;
+            await github.issues.addLabels({
+              issue_number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: labels
+            });
