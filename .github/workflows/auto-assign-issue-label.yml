@@ -20,15 +20,12 @@ jobs:
 
       - name: Check issue title for 'add' keyword and add good first issue label
         if: contains(github.event.issue.title, 'add')
-        uses: actions/github-script@v5
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const labels = ['good first issue'];
-            const issue_number = context.payload.issue.number;
-            await github.issues.addLabels({
-              issue_number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              labels: labels
-            });
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          issue_number=$(jq -r '.issue.number' "$GITHUB_EVENT_PATH")
+          labels='["good first issue"]'
+          curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${GITHUB_REPOSITORY}/issues/${issue_number}/labels \
+            -d "$labels"
