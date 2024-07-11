@@ -474,6 +474,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 <h6>Fun and Miscellaneous</h6>
 
 - [Deck of Cards](https://deckofcardsapi.com/) is an API to simulate a deck of cards. The API provides access to a deck of cards.
+- [Bored API](https://bored.api.lewagon.com/) is a free API for `random activities`. The API provides access to random activities. ⭐ [GitHub](https://github.com/drewthoennes/Bored-API)
 
 #### **Scraping**
 
@@ -761,11 +762,12 @@ Datos.gov...
 
 - [Ansible](https://www.ansible.com/) is a simple, agentless IT automation technology that can improve your current processes, migrate applications for better optimization, and provide a single language for DevOps practices across your organization. ⭐ [61.2k stars](https://github.com/ansible/ansible)
 
-## Form Validation Frameworks
+## Form Management Tools
 
 - [Vest](https://vestjs.dev/) is a form validations framework that performs **form validations** and **provides feedback** to the user.
 - [Joi](https://joi.dev/) is a powerful schema description language and data validator for JavaScript.
 - [Formik](https://formik.org/) is a small library that helps you with the 3 most annoying parts: getting values in and out of form state, validation, and handling form submission.
+- [Web3Forms](https://web3forms.com/) simplifies form creation, submission handling, and storage for websites without requiring backend setup.
 
 ## CI
 
