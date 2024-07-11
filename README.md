@@ -1051,7 +1051,7 @@ Datos.gov...
 - [Awesome](https://awesome.re) is a curated list of awesome lists.
 - [Readme](https://readme.com) — Beautiful documentation made easy, free for Open Source.
 - [Versionfeeds](https://versionfeeds.com) — Get notified when a new version of your favorite software is released.
-- [Tiledesk](https://www.tiledesk.com) — Open Source Live Chat and Chatbots for Customer Support.
+- [Tiledesk](https://tiledesk.com) — Open Source Live Chat and Chatbots for Customer Support.
 - [Rocket Chat](https://rocket.chat/) is a free and open-source `team chat collaboration platform` that allows users to communicate securely in real-time across devices on web, desktop, or mobile and to customize their interface with a range of plugins, themes, and integrations with other key software. ⭐ [39k stars](https://github.com/RocketChat/Rocket.Chat)
 - [Blynk](https://blynk.io) — A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices, Free Cloud & data storage. Mobile Apps are also available.
 - [Bricks Note Calculator](https://free.getbricks.app/) - a note-taking app (PWA) with a powerful built-in multiline calculator.
