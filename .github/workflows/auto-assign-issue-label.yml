@@ -19,7 +19,7 @@ jobs:
           allowSelfAssign: true
 
       - name: Check issue title for 'add' keyword and add good first issue label
-        if: contains(github.event.issue.title, 'add', 'i')
+        if: contains(github.event.issue.title, 'add')
         uses: actions/github-script@v5
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
