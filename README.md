@@ -437,6 +437,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [Abstract API](https://www.abstractapi.com) is a collection for various use cases, including IP geolocation, gender detection, or email validation.
 - [Public APIs](https://publicapis.dev/) is a `collection of free public APIs`. ⭐ [2.6k stars](https://github.com/marcelscruz/public-apis)
+- [Public-api-lists](https://public-api-lists.github.io/public-api-lists/) is a collective list of free APIs for use in software and web development. ⭐ [9.6k stars](https://github.com/public-api-lists/public-api-lists)
 - [Free APIs](https://free-apis.github.io/)<!-- https://free-apis.com/#/ --> is `collection of free APIs` derived from [Public APIs](https://github.com/public-apis/public-apis) ⭐ [286k stars](https://github.com/public-apis/public-apis) ⭐ [196k stars](https://github.com/Free-APIs/Free-APIs.github.io)
 - [Rapid api](https://rapidapi.com/) is the world’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!) and interactive examples.
 - [OpenWeb Ninja](https://www.openwebninja.com/) - Extremely comprehensive real-time SERP and public data APIs: Google Search, Shopping, Jobs, Images, Lens, News, Google Maps Businesses / Places, Reviews, Photos, Website Emails and Social Contacts Scraper, Amazon, Yelp and more. All APIs include a free tier with 100 to 200 free monthly requests.
@@ -515,8 +516,13 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [API COLOMBIA](https://api-colombia.com/) is a public api that contains info about Colombia, departments, cities, tourists places and presidents. ⭐ [GitHub](https://github.com/Mteheran/api-colombia)
 
+<!-- Security -->
+<h6>Security</h6>
+
+- [IntelOwl’s](https://intelowlproject.github.io/) is a free API for `threat intelligence`. The API provides access to threat intelligence data. ⭐ [3.2k stars](https://github.com/intelowlproject/IntelOwl)
+
 <!-- News -->
-<h6>News</h6>
+  <h6>News</h6>
 
 - [World News](https://newsapi.org/), [World News API](https://worldnewsapi.com/) are free API for news. The World News API gives you access to thousands of news sources in over 50 languages from over 150 countries. News are semantically tagged allowing for semantic news search like never before.
 - [News API](https://newsapi.org) — Search news on the web with code, and get JSON results. Developers get 3,000 queries free each month.
