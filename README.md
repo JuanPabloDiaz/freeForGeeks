@@ -345,6 +345,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Nightingale](https://nightingale.rest/) A modern, resource-friendly REST client for Windows 10. ⭐ [723 stars](https://github.com/jenius-apps/nightingale-rest-api-client)
 - [RecipeUI](https://recipeui.com/) is the open source Postman alternative with type safety built in. ⭐ [1.7k stars](https://github.com/RecipeUI/RecipeUI)
 - [Apidog](https://apidog.com/) is a complete set of tools that connects the entire API lifecycle, helping R&D teams implement best practices for API Design-first development.
+- [Render API](https://docs.render.com/api) provides a public REST API for managing your services and other resources programmatically. ⭐ [GitHub](https://github.com/renderinc)
 
 <h6>Documentation Tools</h6>
 
