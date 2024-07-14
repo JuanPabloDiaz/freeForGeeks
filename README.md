@@ -164,6 +164,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Flicking](https://flickity.metafizzy.co) is a touch-friendly, **responsive**, and customizable carousel. ⭐ [7.5k stars](https://github.com/metafizzy/flickity)
 - [Glide](https://glidejs.com) is a dependency-free JavaScript ES6 `slider and carousel`. It's lightweight, flexible, adaptive, and mobile-friendly. ⭐ [7.2k stars](https://github.com/glidejs/glide)
 - [Embla Carousel](https://www.embla-carousel.com) A lightweight `carousel library` with fluid motion and great swipe precision. ⭐ [5.5k stars](https://github.com/davidjerleke/embla-carousel)
+- [Keen-Slider](https://keen-slider.io) is a free library agnostic touch slider with native touch/swipe behavior and great performance. ⭐ [4.7k stars](https://github.com/rcbyr/keen-slider
 - [Divz](https://lewhunt.github.io/divz) is a React component that lets you `scroll, swipe and zoom through HTML content on the 3D z-axis`. Ideal to showcase your portfolio, media or products. ⭐ [GitHub](https://github.com/lewhunt/divz)
 
 ## Other JS libraries
@@ -969,6 +970,10 @@ Datos.gov...
 ## Blur Images
 
 - [Blurred](https://blurred.dev) is a Next.js Image blurDataURL generator
+
+## Image Component
+
+- [Unpic](https://unpic.pics/) is the ultimate open source toolkit for displaying images on the web. ⭐ [1.5k stars](https://github.com/ascorbic/unpic-img)
 
 ## Emojis
 
