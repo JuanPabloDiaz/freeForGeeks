@@ -778,6 +778,7 @@ Datos.gov...
 2. [Joi](https://joi.dev) is a powerful schema description language and **data validation library** for JavaScript. ⭐ [21k stars](https://github.com/hapijs/joi)
 3. [Formkit](https://formkit.com) is an open-source form framework for Vue. ⭐ [4.5k stars](https://github.com/formkit/formkit)
 4. [Vest](https://vestjs.dev) is a form validations framework that performs **form validations** and **provides feedback** to the user. ⭐ [2.5k stars](https://github.com/ealush/vest)
+5. [Form.taxi](https://form.taxi) is an endpoint for HTML forms submissions. With notifications, spam blocker and GDPR-compliant data processing.
 
 ## CI
 
