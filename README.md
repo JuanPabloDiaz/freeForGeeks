@@ -416,7 +416,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Flags API](https://flagsapi.com) is a free API to get country flags. ⭐ [GitHub]()
 - [GeoCod](https://geocode.xyz) is a Free `geocoding API`: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding).
 - [GeoDB Cities API](http://geodb-cities-api.wirefreethought.com) is an online places database. It exposes city, county, island, region, and country data via both GraphQL and REST APIs.
-- [GeoKeo](https://geokeo.com) is a free API for `geocoding`. It provides a simple API to convert addresses into geographic coordinates. in other words, it converts city names, street names, and postal codes into latitude and longitude. The free plan includes 2,500 api requests daily.
 - [GeoDataSource](https://www.geodatasource.com) Location Search Web Service is a REST API to lookup for city name by using latitude and longitude coordinate. It will return the result in either JSON or XML containing the information of the nearest country, region, city, latitude, longitude, currency code, and more. Free API queries up to 500 times per month.
 - [IP Geolocation API](https://ipgeolocation.io) is a free IP geolocation API. ⭐ [GitHub]()
 - [IP API](https://ipapi.com) is a free IP Geolocation API. Real-time Geolocation & Reverse IP Lookup REST API. ⭐ [GitHub](https://github.com/apilayer/ipapi)
