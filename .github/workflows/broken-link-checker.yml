@@ -41,7 +41,7 @@ jobs:
           fail: true
           # args: --verbose --no-progress --exclude-file .lycheeignore '**/*.md'
           # args: --verbose --no-progress 'README.md'
-          args: README.md'
+          args: README.md
           output: ${{ env.issue-content }}
 
       # Permissions (issues: read)
