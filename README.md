@@ -210,6 +210,14 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Virtua](https://inokawa.github.io/virtua) is a zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte. ⭐ [1.5k stars](https://github.com/inokawa/virtua)
 - [React Aria Modal](https://davidtheclark.github.io/react-aria-modal/demo) is a fully accessible React modal component. ⭐ [1k stars](https://github.com/davidtheclark/react-aria-modal)
 
+### React Components
+
+- [Whatsapp Button](react-floating-whatsapp.vercel.app) is a Simple react component for adding a **floating WhatsApp button** to your project. ⭐ [GitHub](https://github.com/awran5/react-floating-whatsapp)
+
+### React Hooks
+
+- [React-hanger](https://codesandbox.io/s/44m70xm70) is a collection of utility hooks for React. ⭐ [2k stars](https://github.com/kitze/react-hanger)
+
 ## Vue
 
 - [VeeValidate](https://vee-validate.logaretm.com/v4) is the most popular `Vue.js form` library. It takes care of value tracking, validation, errors, submissions and more. ⭐ [10.6k stars](https://github.com/logaretm/vee-validate)
@@ -909,6 +917,7 @@ Datos.gov...
 - [Open Source](https://opensource.com) is a community of developers, designers, writers, and thinkers who believe that open-source is the way to make software better.
 - [Planka] is a Free open source kanban board for workgroups. ⭐ [6.2k stars](https://github.com/plankanban/planka)
 - [BioDrop](https://biodrop.io) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe. ⭐ [GitHub](https://github.com/EddieHubCommunity/BioDrop)
+- [Developer portfolios](https://github.com/emmabostian/developer-portfolios) is a list of developer portfolios for your inspiration. ⭐ [7k stars](https://github.com/emmabostian/developer-portfolios)
 
 ## Dev Tools
 
