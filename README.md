@@ -973,7 +973,7 @@ Datos.gov...
 
 ## Image Component
 
-- [Unpic](https://unpic.pics/) is the ultimate open source toolkit for displaying images on the web. ⭐ [1.5k stars](https://github.com/ascorbic/unpic-img)
+- [Unpic](https://unpic.pics) is the ultimate open source toolkit for displaying images on the web. ⭐ [1.5k stars](https://github.com/ascorbic/unpic-img)
 
 ## Emojis
 
@@ -1180,17 +1180,33 @@ Comparison of major documentation tools:
 
 ## Official Docs
 
+<!-- tabs:start -->
+
+#### **Frontend**
+
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is a **lightweight interpreted** Programming language. ⭐ [GitHub](https://github.com/topics/javascript)
 - [React](https://react.dev) is a **JavaScript library**. ⭐ [220k stars](https://github.com/facebook/react)
 - [Next.js](https://nextjs.org) is a **React framework**. ⭐ [119k stars](https://github.com/vercel/next.js)
 - [Tailwind CSS](https://tailwindcss.com) is a **utility-first CSS framework** for rapid UI development. ⭐ [76.9k stars](https://github.com/tailwindlabs/tailwindcss)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is a **lightweight interpreted** Programming language. ⭐ [GitHub](https://github.com/topics/javascript)
+- [Vue](https://vuejs.org) is a **progressive JavaScript framework**. ⭐ [45k stars](https://github.com/vuejs/core)
+- [Svelte](https://svelte.dev) is a **radical new approach to building user interfaces**. ⭐ [77k stars](https://github.com/sveltejs/svelte)
+- [Angular](https://angular.dev) is a **platform and framework for building single-page client applications** using HTML and TypeScript. ⭐ [95k stars](https://github.com/angular/angular)
+- [Astro](https://astro.build) is a **new kind of static site builder** that delivers lightning-fast performance with a modern developer experience. ⭐ [44k stars](https://github.com/withastro/astro)
+- [Preact](https://preactjs.com) is a **fast 3kB alternative to React** with the same modern API. ⭐ [37k stars](https://github.com/preactjs/preact)
+- [Solid](https://www.solidjs.com) is a **declarative JavaScript library for creating user interfaces**. ⭐ [32k stars](https://github.com/solidjs/solid)
 - [htmx](https://htmx.org) is a high power tools for HTML ⭐ [32k stars](https://github.com/bigskysoftware/htmx)
-- [Filamentphp](https://filamentphp.com) is a beautifully designed **open-source admin panel** for Laravel. | [GitHub](https://github.com/filamentphp/filament)
-- [Pkl lang](https://pkl-lang.org) is a **configuration-as-code language** that offers rich validation and tooling. | [GitHub](https://github.com/apple/pkl-lang.org)
-- [Vue](https://vuejs.org) is a **progressive JavaScript framework**. | [45k stars](https://github.com/vuejs/core)
-- [Svelte](https://svelte.dev) is a **radical new approach to building user interfaces**. | [77k stars](https://github.com/sveltejs/svelte)
-- [Angular](https://angular.dev) is a **platform and framework for building single-page client applications** using HTML and TypeScript. | [95k stars](https://github.com/angular/angular)
-- [Astro](https://astro.build) is a **new kind of static site builder** that delivers lightning-fast performance with a modern developer experience. | [44k stars](https://github.com/withastro/astro)
+- [Alpine](https://alpinejs.dev) is a **minimal, lightweight, JS framework**. ⭐ [28k stars](https://github.com/alpinejs/alpine)
+- [Hyperapp](https://hyperapp.dev) is a **1 KB JavaScript library for building frontend applications**. ⭐ [20k stars](https://github.com/jorgebucaran/hyperapp)
+- [Inferno](https://infernojs.org) is an **extremely fast, React-like JavaScript library** for building modern user interfaces. ⭐ [16k stars](https://github.com/infernojs/inferno)
+- [Aurelia](https://aurelia.io) is a **JavaScript client framework for mobile, desktop, and web leveraging simple conventions and empowering creativity**. ⭐ [12k stars](https://github.com/aurelia/framework)
+- [Cycle.js](https://cycle.js.org) is a **functional and reactive JavaScript framework** for predictable code. ⭐ [11k stars](https://github.com/cyclejs/cyclejs)
+
+#### **Backend**
+
+- [Filamentphp](https://filamentphp.com) is a beautifully designed **open-source admin panel** for Laravel. ⭐[GitHub](https://github.com/filamentphp/filament)
+- [Pkl lang](https://pkl-lang.org) is a **configuration-as-code language** that offers rich validation and tooling. ⭐ [GitHub](https://github.com/apple/pkl-lang.org)
+
+<!-- tabs:end -->
 
 ## Blogs
 
