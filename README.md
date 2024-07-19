@@ -437,6 +437,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [IP info](https://ipinfo.io) is a fast, accurate, and free (up to 50k/month) `IP address data API`. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.
 - [IPify](https://www.ipify.org) is a simple public IP address API.
 - [IP-Api](https://ip-api.com) is an IP geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
+- [Rest Countries](https://restcountries.com) is a free API to get information about countries.
 - [JSON IP](https://getjsonip.com) is a free unlimited `IP address and geolocation API`. Returns the Public IP address of the client it is requested from. No registration is required for the free tier. Using CORS, data can be requested using client-side JS directly from the browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
 - [Zipcodebase](https://zipcodebase.com) is a free `Zip Code API`, access to Worldwide Postal Code Data. Ten thousand free requests/month.
 - [Zipcodestack](https://zipcodestack.com) is a free `Zip Code API and Postal Code Validation`. Ten thousand free requests/month.
