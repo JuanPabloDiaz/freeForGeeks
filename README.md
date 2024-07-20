@@ -29,6 +29,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 🤝 Please read the [CONTRIBUTING guidelines](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
+![Alt](https://repobeats.axiom.co/api/embed/bd3fc0a07cc29d4d8873a866e5c3c9752f50714c.svg "Repobeats analytics image")
+
 #### **Developer**
 
 <h3 style="color:orange">Who is this for?</h3>
@@ -953,6 +955,7 @@ Datos.gov...
 - [Visitor Badge](https://visitorbadge.io) is a **valuable tool** for any GitHub user who wants to **track their online presence** and build community around their projects. ⭐ [20 stars](https://github.com/estruyf/web-visitorbadge-nextjs)
 - [Octicons](https://primer.style/octicons) is a scalable set of icons handcrafted by GitHub. ⭐ [8.1k stars](https://github.com/primer/octicons)
 - [Emojis](https://gist.github.com/rxaviers/7360908) is a simple emoji **cheat sheet** to use when writing your GitHub README file.
+- [Repobeats](https://repobeats.axiom.co) is a way to embed contributor analytics into your GitHub project's README. ⭐ [GitHub](https://github.com/axiomhq)
 
 ## Icons
 
