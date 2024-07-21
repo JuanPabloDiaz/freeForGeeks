@@ -212,7 +212,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 ### React Components
 
-- [Whatsapp Button](react-floating-whatsapp.vercel.app) is a Simple react component for adding a **floating WhatsApp button** to your project. ⭐ [GitHub](https://github.com/awran5/react-floating-whatsapp)
+- [Whatsapp Button](https://react-floating-whatsapp.vercel.app) is a Simple react component for adding a **floating WhatsApp button** to your project. ⭐ [GitHub](https://github.com/awran5/react-floating-whatsapp)
 
 ### React Hooks
 
@@ -756,11 +756,12 @@ Datos.gov...
 ## Security
 
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) is a collection of various awesome lists for hackers, pentesters, and security researchers.
-- [OWASP](https://owasp.org) is a nonprofit foundation that works to improve the security of software. ⭐ [k stars]()
-- [NIST](https://www.nist.gov) is a non-regulatory federal agency within the U.S. Department of Commerce. ⭐ [k stars]()
-
-- [Snyk](https://snyk.io) specializes in **JavaScript security** ⭐ [k stars]()
-- [Trivy](https://trivy.dev) is a container security scanner designed specifically for **Docker images**. ⭐ [k stars]()
+- [OWASP](https://owasp.org) is a nonprofit foundation that works to improve the security of software. ⭐ [GitHub](https://github.com/OWASP)
+- [NIST](https://www.nist.gov) is a non-regulatory federal agency within the U.S. Department of Commerce.
+- [Snyk](https://snyk.io) specializes in **JavaScript security** ⭐ [5k stars](https://github.com/snyk/cli)
+- [Trivy](https://trivy.dev) is a container security scanner designed specifically for **Docker images**. ⭐ [23k stars](https://github.com/aquasecurity/trivy)
+- [Renovate](https://www.mend.io/renovate) is a **dependency update tool** that creates pull requests to keep dependencies up-to-date with the latest versions. ⭐ [17k stars](https://github.com/renovatebot/renovate)
+- [Dependabot](https://dependabot.com) is a **dependency update tool** that creates pull requests to keep dependencies up-to-date with the latest versions. ⭐ [5k stars](https://github.com/dependabot/dependabot-core)
 
 ## Testing Frameworks
 
