@@ -967,10 +967,11 @@ Datos.gov...
 5. [Devicon](https://devicon.dev) is a collection of icons for popular programming languages, frameworks, and tools. ⭐ [8.2k stars](https://github.com/devicons/devicon)
 6. [Lucide](https://lucide.dev) is a set of **free, open-source, and customizable icons** for your projects. ⭐ [8.1k stars](https://github.com/lucide-icons/lucide)
 7. [React Icons](https://react-icons.github.io/react-icons) ⭐ [11.2k stars](https://github.com/react-icons/react-icons)
-8. [Iconse.js](http://icones.js.org) is an icon Explorer with Instant searching, powered by `Iconify` ⭐ [5k stars](https://github.com/antfu-collective/icones)
-9. [Radix Icons](https://www.radix-ui.com/icons) ⭐ [2.1k stars](https://github.com/radix-ui/icons)
-10. [Flagpack](https://flagpack.xyz) is a collection of `flags icons` in SVG format. ⭐ [568 stars](https://github.com/Yummygum/flagpack-core)
-11. [Zondicons](http://www.zondicons.com) is a set of free premium SVG icons for you to use on your digital products. ⭐ [56 stars](https://github.com/sschoger/zondicons)
+8. [css.gg](https://css.gg) is a set of 700+ **animated CSS icons**. Open-source CSS, SVG and Figma UI Icons. ⭐ [10k stars](https://github.com/astrit/css.gg)
+9. [Iconse.js](http://icones.js.org) is an icon Explorer with Instant searching, powered by `Iconify` ⭐ [5k stars](https://github.com/antfu-collective/icones)
+10. [Radix Icons](https://www.radix-ui.com/icons) ⭐ [2.1k stars](https://github.com/radix-ui/icons)
+11. [Flagpack](https://flagpack.xyz) is a collection of `flags icons` in SVG format. ⭐ [568 stars](https://github.com/Yummygum/flagpack-core)
+12. [Zondicons](http://www.zondicons.com) is a set of free premium SVG icons for you to use on your digital products. ⭐ [56 stars](https://github.com/sschoger/zondicons)
 
 ## Favicons
 
@@ -1146,10 +1147,11 @@ Datos.gov...
 
 ## Tech News
 
-- [Hacker Tab](https://hackertab.dev) is a **new tab extension** that shows you the latest news from Hacker News, Designer News, Product Hunt, GitHub, and Reddit.
+- [Hacker Tab](https://hackertab.dev) is a **new tab extension** that shows you the latest news from Hacker News, Designer News, Product Hunt, GitHub, and Reddit. ⭐ [586 stars](https://github.com/medyo/hackertab.dev)
 - [Reddit Programming](https://www.reddit.com/r/programming) is a subreddit for discussion and news about computer programming.
 - [TLDR Newsletter](https://tldr.tech) is a daily newsletter with links and TLDRs of the most interesting stories in tech.
 - [GitHub trending](https://github.com/trending) is a daily snapshot of the most popular projects on GitHub by the number of stars.
+- [Daily.dev](https://daily.dev) is a browser extension that shows you the latest tech news, tutorials, and tools in your new tab. ⭐ [17.5k stars](https://github.com/dailydotdev/daily)
 
 ## Static Site Generator
 
