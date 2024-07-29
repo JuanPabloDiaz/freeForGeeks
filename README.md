@@ -207,6 +207,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [React Community](https://reactcommunity.org) is a collection of React libraries and tools. ⭐ [GitHub](https://github.com/reactjs)
 - [Sonner](https://sonner.emilkowal.ski) is an opinionated **toast component** for React. ⭐ [7k stars](https://github.com/emilkowalski/sonner)
 - [Wouter](https://npm.im/wouter) is a tiny router for modern React and Preact apps that relies on Hooks. ⭐ [6.5k stars](https://github.com/molefrog/wouter)
+- [Plasmic](https://www.plasmic.app) is an open-source visual editing and content platform for building websites and apps. Integrate with existing codebases. Ship incredibly fast. ⭐ [5k stars](https://github.com/plasmicapp/plasmic)
 - [React Tabs](https://reactcommunity.org/react-tabs) is an accessible and easy tab component for ReactJS. ⭐ [3k stars](https://github.com/reactjs/react-tabs)
 - [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos. ⭐ [2k stars](https://github.com/reactplay/react-play)
 - [Virtua](https://inokawa.github.io/virtua) is a zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte. ⭐ [1.5k stars](https://github.com/inokawa/virtua)
@@ -250,6 +251,10 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Flex Box Froggy](https://flexboxfroggy.com) is a game for learning CSS flexbox layout.
 - [Flukeout](https://flukeout.github.io) is a game for learning CSS selectors.
 - [Coding Fantasy](https://codingfantasy.com) is a game for learning CSS.
+
+## CSS
+
+- [Tachyons](https://tachyons.io) is a functional CSS toolkit. Quickly build and design new UI without writing CSS. ⭐ [12k stars](https://github.com/tachyons-css/tachyons)
 
 ## Low Code
 
@@ -793,12 +798,12 @@ Datos.gov...
 
 ## CI
 
-- [Travis CI](https://travis-ci.org) is a **continuous integration** service used to build and test software projects hosted at GitHub. ⭐ [k stars]()
-- [Circle CI](https://circleci.com) is a modern, **developer-friendly** continuous integration and continuous delivery (CI/CD) platform. ⭐ [k stars]()
+- [Travis CI](https://travis-ci.org) is a **continuous integration** service used to build and test software projects hosted at GitHub. ⭐ [9k stars](https://github.com/travis-ci/travis-ci)
+- [Circle CI](https://circleci.com) is a modern, **developer-friendly** continuous integration and continuous delivery (CI/CD) platform. ⭐ [GitHub](https://github.com/circleci)
 
 ## CD
 
-- [Heroku](https://www.heroku.com) is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. ⭐ [k stars]()
+- [Heroku](https://www.heroku.com) is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. ⭐ [GitHub](https://github.com/heroku)
 
 ## Project Management Tools
 
@@ -821,16 +826,18 @@ Datos.gov...
 
 ## Analytics
 
-1. [Google Analytics](https://analytics.google.com) is a web analytics service offered by Google that tracks and reports website traffic.
-2. [Matomo](https://matomo.org) is a free and open-source web analytics application that runs on a PHP/MySQL webserver. ⭐ [19k stars](https://github.com/matomo-org/matomo)
-3. [Plausible](https://plausible.io) is a simple, privacy-friendly alternative to Google Analytics. | 2 months free ⭐ [18.2k stars](https://github.com/plausible/analytics)
-4. [PostHog](https://posthog.com) is an open-source product analytics tool. ⭐ [17k stars](https://github.com/PostHog/posthog)
-5. [Mixpanel](https://mixpanel.com) is a business analytics service and company that tracks user interactions with web and mobile applications. ⭐ [k stars](https://github.com/mixpanel)
-6. [Amplitude](https://amplitude.com) is a product analytics service that provides tools to understand user behavior. ⭐ [GitHub](https://github.com/amplitude)
-7. [Snowplow](https://snowplow.io) is an open-source platform for event data collection and warehousing. ⭐ [6.7k stars](https://github.com/snowplow/snowplow)
-8. [Countly](https://count.com) is an open-source, self-hosted product analytics tool. ⭐ [5.5k stars](https://github.com/Countly/countly-server)
-9. [GoatCounter](https://www.goatcounter.com) is a simple web analytics platform. ⭐ [4.1k stars](https://github.com/arp242/goatcounter)
-10. [Open Web Analytics](https://www.openwebanalytics.com) is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app. Please consider sponsoring this project. ⭐ [2.5k stars](https://github.com/Open-Web-Analytics/Open-Web-Analytics)
+- [Google Analytics](https://analytics.google.com) is a web analytics service offered by Google that tracks and reports website traffic.
+- [Simple Analytics](https://simpleanalytics.com) is a simple, clean, and privacy-friendly analytics tool.
+
+1. [Matomo](https://matomo.org) is a free and open-source web analytics application that runs on a PHP/MySQL webserver. ⭐ [19k stars](https://github.com/matomo-org/matomo)
+2. [Plausible](https://plausible.io) is a simple, privacy-friendly alternative to Google Analytics. | 2 months free ⭐ [18.2k stars](https://github.com/plausible/analytics)
+3. [PostHog](https://posthog.com) is an open-source product analytics tool. ⭐ [17k stars](https://github.com/PostHog/posthog)
+4. [Mixpanel](https://mixpanel.com) is a business analytics service and company that tracks user interactions with web and mobile applications. ⭐ [k stars](https://github.com/mixpanel)
+5. [Amplitude](https://amplitude.com) is a product analytics service that provides tools to understand user behavior. ⭐ [GitHub](https://github.com/amplitude)
+6. [Snowplow](https://snowplow.io) is an open-source platform for event data collection and warehousing. ⭐ [6.7k stars](https://github.com/snowplow/snowplow)
+7. [Countly](https://count.com) is an open-source, self-hosted product analytics tool. ⭐ [5.5k stars](https://github.com/Countly/countly-server)
+8. [GoatCounter](https://www.goatcounter.com) is a simple web analytics platform. ⭐ [4.1k stars](https://github.com/arp242/goatcounter)
+9. [Open Web Analytics](https://www.openwebanalytics.com) is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app. Please consider sponsoring this project. ⭐ [2.5k stars](https://github.com/Open-Web-Analytics/Open-Web-Analytics)
 
 ## CSS Analyzers
 
@@ -845,7 +852,8 @@ Datos.gov...
 
 # Open Source
 
-[AwesomeOpenSource](https://awesomeopensource.com) is a curated list of **open-source** projects that are looking for contributors.
+[Open Source Heroes](https://opensource-heroes.com) is a platform that helps you find open-source projects to contribute to. It provides a list of projects that are looking for contributors, and you can filter them by programming language, issue type, and more.
+[Awesome Open Source](https://awesomeopensource.com) is a curated list of **open-source** projects that are looking for contributors.
 
 ## Self Hosted Services
 
@@ -928,6 +936,9 @@ Datos.gov...
 - [Dr. Link Check](https://www.drlinkcheck.com) is a valuable web-based service designed to help website owners and administrators identify and address broken links on their websites. | Freemiun
 - [Broken link checker](https://www.npmjs.com/package/broken-link-checker) is a Node.js package that checks websites and web applications for broken links. ⭐ [1.5k stars](https://github.com/stevenvachon/broken-link-checker)
 - [Responsively](https://responsively.app) is a modified web browser that helps in responsive web development. A web developer's must have dev-tool. ⭐ [21.9k stars](https://github.com/responsively-org/responsively-app)
+- [DDEV](https://ddev.com) is an open-source tool that makes it simple to get local development environments up and running in minutes. Docker-based local PHP+Node.js web development environments. ⭐ [2.5k stars](https://github.com/ddev/ddev)
+- [Upto.Site](https://upto.site) is a free URL shortening service that allows users to create short URLs quickly and easily.
+- [f5bot](https://f5bot.com) is a free service that monitors the web for mentions of your brand, product, or other keywords. Get an email when your brand is mentioned on Reddit, Hacker News, or anywhere else on the web.
 
 ## Tools
 
@@ -1112,6 +1123,7 @@ Datos.gov...
 - [Superfeedr](https://superfeedr.com) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
 - [Videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
 - [Meta Tags](https://metatags.io) — Identify the metadata of a webpage.
+- [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools) is the best design tools and plugins for everything
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
@@ -1345,6 +1357,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Free-for-life](https://free.wdh.gg) is a massive list including a huge amount of products and services that are completely free! ⭐ [491 stars](https://github.com/wdhdev/free-for-life)
 - [Free Resources](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) is a list of free resources for almost everyone. ⭐ [330 stars](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone)
 - [Dev Resources](https://devresourc.es) is a collection of resources for developers. ⭐ [874 stars](https://github.com/marcelscruz/dev-resources)
+- [TOOOLS.design](https://toools.design) is a growing archive of 1,500+ design resources, frequently updated for the community.
 
 # Career Development
 
