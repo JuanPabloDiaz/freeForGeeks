@@ -507,6 +507,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 #### **Mocking**
 
+- [Mockae](https://mockae.com/) is an open-source fake API that uses Lua to generate dynamic, custom HTTP responses for mocking HTTP requests. ⭐ [GitHub](https://github.com/cyrilbois/mockae).
 - [Mockfly](https://www.mockfly.dev) is a trusted development tool for `API mocking and feature flag management`. Quickly generate and control mock APIs with an intuitive interface. The free tier offers 500 requests per day.
 - [Mocki](https://mocki.io) is a tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to develop and use without signup.
 - [Mocko](https://mocko.dev) Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integration tests.
