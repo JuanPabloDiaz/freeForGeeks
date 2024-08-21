@@ -920,16 +920,21 @@ Datos.gov...
 
 ## Projects (Beginner friendly Contribution)
 
-- [FindIssues]() aims to provide you access to the most recent created issues on github which is not assigned to anyone yet, with its advance search technique. ⭐ [GitHub](https://github.com/anand346/findissues)
-- [Up for Grabs](https://up-for-grabs.net/#)
 - [First Contributions](https://firstcontributions.github.io) helps beginners make your first open source contribution in 5 minutes. ⭐ [42k stars](https://github.com/firstcontributions/first-contributions)
+- [FindIssues](https://www.findissues.me/) aims to provide you access to the most recent created issues on github which is not assigned to anyone yet, with its advance search technique. ⭐ [GitHub](https://github.com/anand346/findissues)
+- [First Timers Only](https://www.firsttimersonly.com) is a list of issues that are labeled "first-timers-only". These are issues that are easy to fix and are perfect for beginners. ⭐ [GitHub](https://github.com/shanselman/firsttimersonly)
+- [Up For Grabs](https://up-for-grabs.net) is a list of projects with issues that are labeled "up-for-grabs". These are issues that are easy to fix and are perfect for beginners. ⭐ [GitHub](https://github.com/up-for-grabs/up-for-grabs.net)
+- [Good First Issue](https://goodfirstissue.dev) is a list of projects with issues that are labeled "good-first-issue". These are issues that are easy to fix and are perfect for beginners. ⭐ [GitHub](https://github.com/DeepSourceCorp/good-first-issue)
+- [CodeTriage](https://www.codetriage.com) is a platform that helps you find open-source projects that need help. You can subscribe to projects and get a new issue in your inbox every day. ⭐ [GitHub](https://github.com/codetriage/codetriage)
+- [24 Pull Requests](https://24pullrequests.com) is a platform that helps you find open-source projects that need help. You can get paid for fixing issues. ⭐ [GitHub](https://github.com/24pullrequests/24pullrequests)
 - [ProjectsHut](https://www.projectshut.tech) is an open source web app that enables users to freely publish their projects and create user profiles within the platform ⭐ [GitHub](https://github.com/priyankarpal/projectshut)
 - [ProjectMate](https://www.projectmate.net) Supercharge your open-source contributions with projectmate.net; Discover open-source projects, connect with experienced maintainers, and collaborate with a community of passionate contributors. Join over 200+ registered users who are already making a difference. ⭐ [GitHub](https://github.com/rohitdasu/projectmate)
 - [Open Source Friday](https://opensourcefriday.com) is a global movement that encourages open-source participation every Friday. ⭐ [GitHub](https://github.com/github/opensourcefriday)
 - [Open Source Guide](https://opensource.guide) is a community guide to open-source for contributors and maintainers. ⭐ [13.5k stars](https://github.com/github/opensource.guide#readme)
 - [Open Source](https://opensource.com) is a community of developers, designers, writers, and thinkers who believe that open-source is the way to make software better.
-- [Planka] is a Free open source kanban board for workgroups. ⭐ [6.2k stars](https://github.com/plankanban/planka)
+- [Planka](https://planka.app/) is a Free open source kanban board for workgroups. ⭐ [6.2k stars](https://github.com/plankanban/planka)
 - [Developer portfolios](https://github.com/emmabostian/developer-portfolios) is a list of developer portfolios for your inspiration. ⭐ [7k stars](https://github.com/emmabostian/developer-portfolios)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com) is a month-long celebration of open source software. It encourages participation in the open-source community, for beginners and veterans alike.
 
 ## Dev Tools
 
@@ -1358,6 +1363,22 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Free Resources](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) is a list of free resources for almost everyone. ⭐ [330 stars](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone)
 - [Dev Resources](https://devresourc.es) is a collection of resources for developers. ⭐ [874 stars](https://github.com/marcelscruz/dev-resources)
 - [TOOOLS.design](https://toools.design) is a growing archive of 1,500+ design resources, frequently updated for the community.
+
+## Podcasts
+
+### Web Development Podcasts
+
+- [Syntax](https://syntax.fm) is a podcast about web development.
+- [ShopTalk Show](https://shoptalkshow.com) is a podcast about front-end web design, development, and UX.
+- [Virtual Coffee](https://virtualcoffee.io) Virtual Coffee is an intimate community for developers at all stages of the journey. It is a place to ask questions, share knowledge, and build friendships. ⭐ [GitHub](https://github.com/Virtual-Coffee)
+- [The Junior Jobs Podcast](https://podcasters.spotify.com/pod/show/junior-jobs/episodes/59--The-Problem-With-Changing-Careers-and-How-To-Overcome-It--Junior-Jobs-e2lnm9f) is a weekly podcast about how junior developers can get their first job in tech, with Erik Andersen.
+- [The Changelog](https://changelog.com) is a podcast about open source and the people who make it.
+
+### Cybersecurity Podcasts
+
+- [Darknet Diaries](https://darknetdiaries.com) is a podcast about true stories from the dark side of the internet.
+- [Click Here](https://clickhereshow.com) is a podcast about web design and development.
+- [Security Now](https://twit.tv/shows/security-now) is a podcast about cybersecurity.
 
 # Career Development
 
