@@ -1281,8 +1281,8 @@ Comparison of major documentation tools:
 
 ## CDN
 
-- [CDN js](https://github.com/cdnjs/cdnjs) is a community-driven **content delivery network** for web-related libraries. 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers. ⭐ [k stars]()
-- [jsDelivr](https://www.jsdelivr.com) is a free **Open Source CDN** for open source projects. ⭐ [k stars]()
+- [jsDelivr](https://www.jsdelivr.com) is a free **Open Source CDN** for open source projects. ⭐ [6k stars](https://github.com/jsdelivr/jsdelivr)
+- [CDNjs](https://cdnjs.com/) is a community-driven **content delivery network** for web-related libraries. 🤖 CDN assets - **The #1 free and open source CDN built to make life easier for developers**. ⭐ [5k stars](https://github.com/cdnjs/cdnjs)
 
 ## DNS
 
