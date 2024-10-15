@@ -923,6 +923,7 @@ Datos.gov...
 - [First Contributions](https://firstcontributions.github.io) helps beginners make your first open source contribution in 5 minutes. ⭐ [42k stars](https://github.com/firstcontributions/first-contributions)
 - [FindIssues](https://www.findissues.me/) aims to provide you access to the most recent created issues on github which is not assigned to anyone yet, with its advance search technique. ⭐ [GitHub](https://github.com/anand346/findissues)
 - [First Timers Only](https://www.firsttimersonly.com) is a list of issues that are labeled "first-timers-only". These are issues that are easy to fix and are perfect for beginners. ⭐ [GitHub](https://github.com/shanselman/firsttimersonly)
+- [My First PR](https://myfirstpr.github.io) helps beginners make their first open-source contribution. ⭐ [GitHub](https://github.com/my-first-pr)
 - [Up For Grabs](https://up-for-grabs.net) is a list of projects with issues that are labeled "up-for-grabs". These are issues that are easy to fix and are perfect for beginners. ⭐ [GitHub](https://github.com/up-for-grabs/up-for-grabs.net)
 - [Good First Issue](https://goodfirstissue.dev) is a list of projects with issues that are labeled "good-first-issue". These are issues that are easy to fix and are perfect for beginners. ⭐ [GitHub](https://github.com/DeepSourceCorp/good-first-issue)
 - [CodeTriage](https://www.codetriage.com) is a platform that helps you find open-source projects that need help. You can subscribe to projects and get a new issue in your inbox every day. ⭐ [GitHub](https://github.com/codetriage/codetriage)
@@ -1233,6 +1234,7 @@ Comparison of major documentation tools:
 - [Inferno](https://infernojs.org) is an **extremely fast, React-like JavaScript library** for building modern user interfaces. ⭐ [16k stars](https://github.com/infernojs/inferno)
 - [Aurelia](https://aurelia.io) is a **JavaScript client framework for mobile, desktop, and web leveraging simple conventions and empowering creativity**. ⭐ [12k stars](https://github.com/aurelia/framework)
 - [Cycle.js](https://cycle.js.org) is a **functional and reactive JavaScript framework** for predictable code. ⭐ [11k stars](https://github.com/cyclejs/cyclejs)
+- [Analog](https://analog.cash) is the fullstack **Angular meta-framework**. ⭐ [3k stars](https://github.com/analogjs/analog)
 
 #### **Backend**
 
@@ -1327,6 +1329,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 
 - [Library of Congress](https://www.loc.gov) is the largest library in the world, with millions of books, recordings, photographs, newspapers, maps, and manuscripts in its collections.
 - [Organism Earth's The Library](https://organism.earth/library) is a collection of free books, articles, and other resources.
+- [Free-programming-books](https://ebookfoundation.github.io/free-programming-books) List of Free Learning Resources In Many Languages. ⭐ [336k stars](https://github.com/EbookFoundation/free-programming-books)
 
 <!-- needs some work -->
 
@@ -1363,6 +1366,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Free Resources](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) is a list of free resources for almost everyone. ⭐ [330 stars](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone)
 - [Dev Resources](https://devresourc.es) is a collection of resources for developers. ⭐ [874 stars](https://github.com/marcelscruz/dev-resources)
 - [TOOOLS.design](https://toools.design) is a growing archive of 1,500+ design resources, frequently updated for the community.
+- [Hubdev](https://www.hubdev.tools) is a collection of resources and tools for developers, Utilize advanced semantic search, powered by Vercel SDK, OpenAI, and Supabase, to find exactly what you need. ⭐ [40 stars](https://github.com/xavimondev/hubdev.tools)
 
 ## Podcasts
 
@@ -1377,7 +1381,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 ### Cybersecurity Podcasts
 
 - [Darknet Diaries](https://darknetdiaries.com) is a podcast about true stories from the dark side of the internet.
-- [Click Here](https://clickhereshow.com) is a podcast about web design and development.
+- [Click Here](https://clickhereshow.com) is a cybersecurity-based podcast.
 - [Security Now](https://twit.tv/shows/security-now) is a podcast about cybersecurity.
 
 # Career Development
@@ -1403,6 +1407,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Python Tutor](https://pythontutor.com) is a free online tool that helps you visualize code execution step by step. It helps you do programming homework assignments in Python, Java, C, C++, and JavaScript.
 - [SQL Practice](https://www.sql-practice.com) queries with an online terminal. Solve SQL query questions using a practice database. Learn and improve your SQL skills.
 - [TypeHero](https://typehero.dev) is a free course that teaches you the basics of TypeScript. Practice by completing challenges. ⭐ [5.4k stars](https://github.com/typehero/typehero)
+- [33 JavaScript concepts](https://github.com/leonardomso/33-js-concepts) every developer should know. ⭐ [64k stars](https://github.com/leonardomso/33-js-concepts)
 
 ## Job Boards
 
@@ -1414,6 +1419,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [National Hire Network](https://www.hirenetworks.com)
 - [Dice](https://www.dice.com)
 - [O-Net](https://www.mynextmove.org)
+- [awesome-job-boards](https://github.com/tramcar/awesome-job-boards?tab=readme-ov-file) is a curated list of awesome niche job boards.
 
 ### Jobs in NC
 
