@@ -359,7 +359,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [CurlHub](https://curlhub.io) is a `proxy service` for inspecting and debugging API calls. The free plan includes 10,000 requests per month. ⭐ [GitHub](https://github.com/curlhub/curlhub)
 - [Firecamp](https://firecamp.io) is a free API tool for `API testing, debugging, monitoring, and automation`. ⭐ [1.7k stars](https://github.com/firecamp-dev/firecamp)
 - [Nightingale](https://nightingale.rest) A modern, resource-friendly REST client for Windows 10. ⭐ [723 stars](https://github.com/jenius-apps/nightingale-rest-api-client)
-- [RecipeUI](https://recipeui.com) is the open source Postman alternative with type safety built in. ⭐ [1.7k stars](https://github.com/RecipeUI/RecipeUI)
 - [Apidog](https://apidog.com) is a complete set of tools that connects the entire API lifecycle, helping R&D teams implement best practices for API Design-first development.
 - [Render API](https://docs.render.com/api) provides a public REST API for managing your services and other resources programmatically. ⭐ [GitHub](https://github.com/renderinc)
 
@@ -921,9 +920,9 @@ Datos.gov...
 ## Projects (Beginner friendly Contribution)
 
 - [First Contributions](https://firstcontributions.github.io) helps beginners make your first open source contribution in 5 minutes. ⭐ [42k stars](https://github.com/firstcontributions/first-contributions)
-- [FindIssues](https://www.findissues.me/) aims to provide you access to the most recent created issues on github which is not assigned to anyone yet, with its advance search technique. ⭐ [GitHub](https://github.com/anand346/findissues)
+- [FindIssues](https://www.findissues.vercel.app/) aims to provide you access to the most recent created issues on github which is not assigned to anyone yet, with its advance search technique. ⭐ [GitHub](https://github.com/anand346/findissues)
 - [First Timers Only](https://www.firsttimersonly.com) is a list of issues that are labeled "first-timers-only". These are issues that are easy to fix and are perfect for beginners. ⭐ [GitHub](https://github.com/shanselman/firsttimersonly)
-- [My First PR](https://myfirstpr.github.io) helps beginners make their first open-source contribution. ⭐ [GitHub](https://github.com/my-first-pr)
+- [My First PR](https://my-first-pr.github.io) helps beginners make their first open-source contribution. ⭐ [GitHub](https://github.com/my-first-pr)
 - [Up For Grabs](https://up-for-grabs.net) is a list of projects with issues that are labeled "up-for-grabs". These are issues that are easy to fix and are perfect for beginners. ⭐ [GitHub](https://github.com/up-for-grabs/up-for-grabs.net)
 - [Good First Issue](https://goodfirstissue.dev) is a list of projects with issues that are labeled "good-first-issue". These are issues that are easy to fix and are perfect for beginners. ⭐ [GitHub](https://github.com/DeepSourceCorp/good-first-issue)
 - [CodeTriage](https://www.codetriage.com) is a platform that helps you find open-source projects that need help. You can subscribe to projects and get a new issue in your inbox every day. ⭐ [GitHub](https://github.com/codetriage/codetriage)
@@ -1112,7 +1111,6 @@ Datos.gov...
 - [Fossa](https://fossa.com) - Scalable, end-to-end management for third-party code, license compliance and vulnerabilities.
 - [Fullcontact](https://www.fullcontact.com/developer/pricing) — Help your users know more about their contacts by adding social profile to your app. 500 free Person API matches/month
 - [Hook Relay](https://www.hookrelay.dev) - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.
-- [Http2](https://http2.pro) — HTTP/2 protocol readiness test and client HTTP/2 support detection API.
 - [Base64 decoder/encoder](https://devpal.co/base64-decode) — Online free tool for decoding & encoding data.
 - [Newreleases](https://newreleases.io) - Receive notifications on email, Slack, Telegram, Discord, and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.
 - [OnlineExifViewer](https://onlineexifviewer.com) — View EXIF data online instantly for a photo including GPS location and metadata.
@@ -1120,7 +1118,6 @@ Datos.gov...
 - [QuickType](https://quicktype.io) - Quickly auto-generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
 - [RandomKeygen](https://randomkeygen.com) - A free mobile-friendly tool that offers a variety of randomly generated keys and passwords you can use to secure any application, service, or device.
 - [Redirection](https://redirection.io) — SaaS tool for managing HTTP redirections for businesses, marketing and SEO.
-- [Redirect](https://redirect.ing) - Fast & secure domain forwarding without managing servers or SSL certificates. Free plan includes 10 hostnames and 100,000 requests per month.
 - [Redirect pizza](https://redirect.pizza) - Easily manage redirects with HTTPS support. The free plan includes 10 sources and 100,000 hits per month.
 - [ReqBin](https://www.reqbin.com) — Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
 - [Smartcar API](https://smartcar.com) - An API for cars to locate, get fuel tank, battery levels, odometer, unlock/lock doors, etc.
@@ -1234,7 +1231,7 @@ Comparison of major documentation tools:
 - [Inferno](https://infernojs.org) is an **extremely fast, React-like JavaScript library** for building modern user interfaces. ⭐ [16k stars](https://github.com/infernojs/inferno)
 - [Aurelia](https://aurelia.io) is a **JavaScript client framework for mobile, desktop, and web leveraging simple conventions and empowering creativity**. ⭐ [12k stars](https://github.com/aurelia/framework)
 - [Cycle.js](https://cycle.js.org) is a **functional and reactive JavaScript framework** for predictable code. ⭐ [11k stars](https://github.com/cyclejs/cyclejs)
-- [Analog](https://analog.cash) is the fullstack **Angular meta-framework**. ⭐ [3k stars](https://github.com/analogjs/analog)
+- [Analog](https://analogjs.org/) is the fullstack **Angular meta-framework**. ⭐ [3k stars](https://github.com/analogjs/analog)
 
 #### **Backend**
 
