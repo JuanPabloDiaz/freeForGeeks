@@ -17,7 +17,7 @@ jobs:
         uses: treosh/lighthouse-ci-action@v10
         with:
           urls: |
-            https://freeforgeeks.com/
+            https://freeforgeeks.jpdiaz.dev/
           budgetPath: ./budget.json # test performance budgets
           uploadArtifacts: true # save results as an action artifacts
           temporaryPublicStorage: true # upload lighthouse report to the temporary storage
@@ -35,7 +35,7 @@ jobs:
             const commentBody = `
             **Check the Lighthouse CI Report** 🚀
 
-            1. **Audit URL**:\`https://freeforgeeks.com/\`
+            1. **Audit URL**:\`https://freeforgeeks.jpdiaz.dev/\`
             2. **Open the [Lighthouse CI action here](${actionUrl})**
             3. **Check the Report**:
                - Click on \`lighthouse\` > \`Audit URLs using Lighthouse\` > \`Uploading\` > \`open the report\` to see the full report.

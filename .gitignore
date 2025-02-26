@@ -4,5 +4,5 @@
 /api/.vercel
 /api/.env
 
-# Run lighthouse CI: npx unlighthouse --site https://freeforgeeks.com/
+# Run lighthouse CI: npx unlighthouse --site https://freeforgeeks.jpdiaz.dev/
 /.unlighthouse/

@@ -21,7 +21,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Others](#others)
 - [Resources](#resources)
 - [Career Development](#career-development)
-- [Other Resources](#other-resources)
+- [Other Resources](#other-great-resources)
 
 #### **Contribute**
 

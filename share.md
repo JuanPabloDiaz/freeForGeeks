@@ -2,7 +2,7 @@ Hello everyone!
 
 Are you tired of wasting time searching for dev tools? Start building better software with FreeForGeeks!
 
-https://FreeForGeeks.com is your curated toolbox for building better software. We provide a comprehensive list of FREE resources for all your development needs.
+https://FreeForGeeks.jpdiaz.dev is your curated toolbox for building better software. We provide a comprehensive list of FREE resources for all your development needs.
 
 Whether you're a frontend developer building user interfaces, a backend developer crafting powerful APIs, or a DevSecOps engineer ensuring smooth deployments, FreeForGeeks has you covered.
 

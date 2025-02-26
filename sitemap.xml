@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://freeforgeeks.com/#/</loc>
-    <lastmod>2024-02-01</lastmod>
+    <loc>https://freeforgeeks.jpdiaz.dev/#/</loc>
+    <lastmod>2025-02-26</lastmod>
   </url>
+  <url>
+    <loc>https://freeforgeeks.jpdiaz.dev/#/?id=frontend</loc>
+    <lastmod>2025-02-26</lastmod>
+  </url>
+    <url>
+    <loc>https://freeforgeeks.jpdiaz.dev/#/?id=frontend</loc>
+    <lastmod>2025-02-26</lastmod>
+  </url>
+    <url>
+    <loc>https://freeforgeeks.jpdiaz.dev/#/?id=backend</loc>
+    <lastmod>2025-02-26</lastmod>
+  </url>
+    <url>
+    <loc>https://freeforgeeks.jpdiaz.dev/#/?id=devsecops</loc>
+    <lastmod>2025-02-26</lastmod>
+  </url>
+    <url>
+    <loc>https://freeforgeeks.jpdiaz.dev/#/?id=open-source</loc>
+    <lastmod>2025-02-26</lastmod>
+  </url>
+    <url>
+    <loc>https://freeforgeeks.jpdiaz.dev/#/?id=others</loc>
+    <lastmod>2025-02-26</lastmod>
+  </url>
+    <url>
+    <loc>https://freeforgeeks.jpdiaz.dev/#/?id=resources</loc>
+    <lastmod>2025-02-26</lastmod>
+  </url>
+    <url>
+    <loc>https://freeforgeeks.jpdiaz.dev/#/?id=career-development</loc>
+    <lastmod>2025-02-26</lastmod>
+  </url>
+    <url>
+    <loc>https://freeforgeeks.jpdiaz.dev/#/?id=other-great-resources</loc>
+    <lastmod>2025-02-26</lastmod>
+  </url>
+
 </urlset>

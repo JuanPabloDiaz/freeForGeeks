@@ -6,7 +6,7 @@ body:
     attributes:
       label: Site URL
       description: Provide complete/valid URL.
-      placeholder: https://freeforgeeks.com
+      placeholder: https://freeforgeeks.jpdiaz.dev
     validations:
       required: true
   - type: textarea
