@@ -1362,6 +1362,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Free For Life](https://free.hrsn.dev) is a massive list including a huge amount of products and services that are completely free! ⭐ [491 stars](https://github.com/wdhdev/free-for-life)
 - [Free Resources](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) is a list of free resources for almost everyone. ⭐ [330 stars](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone)
 - [Dev Resources](https://devresourc.es) is a collection of resources for developers. ⭐ [874 stars](https://github.com/marcelscruz/dev-resources)
+- [JSONing](https://jsoning.com/) is a collection of JSON tools, including a validator, comparator, JSONPath tester, JSON schema generator, mock REST API, and more.
 - [TOOOLS.design](https://toools.design) is a growing archive of 1,500+ design resources, frequently updated for the community.
 - [Hubdev](https://www.hubdev.tools) is a collection of resources and tools for developers, Utilize advanced semantic search, powered by Vercel SDK, OpenAI, and Supabase, to find exactly what you need. ⭐ [40 stars](https://github.com/xavimondev/hubdev.tools)
 
