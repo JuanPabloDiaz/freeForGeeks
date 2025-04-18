@@ -163,10 +163,14 @@ A collection of links to **free resources** and **tools** for developers. It inc
 ## Slider and Carousel Libraries
 
 - [Swiper](https://swiperjs.com) is the most modern mobile `touch slider`. ⭐ [39k stars](https://github.com/nolimits4web/swiper)
+- [PhotoSwipe](https://photoswipe.com) is a JavaScript image gallery for mobile and desktop, modular, framework independent, responsive, zoomable, with mouse/touch support. ⭐ [25k stars](https://github.com/dimsemenov/PhotoSwipe)
+- [lightGallery](https://www.lightgalleryjs.com) is a modular, responsive, lightbox gallery plugin for mobile and desktop. ⭐ [7k stars](https://github.com/sachinchoolur/lightGallery)
 - [Flicking](https://flickity.metafizzy.co) is a touch-friendly, **responsive**, and customizable carousel. ⭐ [7.5k stars](https://github.com/metafizzy/flickity)
 - [Glide](https://glidejs.com) is a dependency-free JavaScript ES6 `slider and carousel`. It's lightweight, flexible, adaptive, and mobile-friendly. ⭐ [7.2k stars](https://github.com/glidejs/glide)
 - [Embla Carousel](https://www.embla-carousel.com) A lightweight `carousel library` with fluid motion and great swipe precision. ⭐ [5.5k stars](https://github.com/davidjerleke/embla-carousel)
-- [Keen-Slider](https://keen-slider.io) is a free library agnostic touch slider with native touch/swipe behavior and great performance. ⭐ [4.7k stars](https://github.com/rcbyr/keen-slider
+- [Keen-Slider](https://keen-slider.io) is a free library agnostic touch slider with native touch/swipe behavior and great performance. ⭐ [4.7k stars](https://github.com/rcbyr/keen-slider)
+- [React Image Gallery](https://linxtion.com/demo/react-image-gallery) is a React image gallery component with thumbnail support. ⭐ [4k stars](https://github.com/xiaolin/react-image-gallery)
+- [React Photo Gallery](https://neptunian.github.io/react-photo-gallery) is a responsive image gallery component for React. ⭐ [2k stars](https://github.com/neptunian/react-photo-gallery)
 - [Divz](https://lewhunt.github.io/divz) is a React component that lets you `scroll, swipe and zoom through HTML content on the 3D z-axis`. Ideal to showcase your portfolio, media or products. ⭐ [GitHub](https://github.com/lewhunt/divz)
 
 ## Other JS libraries
