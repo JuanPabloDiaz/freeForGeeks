@@ -21,13 +21,13 @@ jobs:
         with:
           fetch-depth: 2
 
-      - name: Check for changes in stars.json
-        id: check_changes
+      - name: Check for stars.json
+        id: check_file
         run: |
-          if git diff --name-only HEAD^ HEAD | grep -q "stars.json"; then
-            echo "stars_json_changed=true" >> $GITHUB_OUTPUT
+          if [ -f "data/stars.json" ]; then
+            echo "stars_json_exists=true" >> $GITHUB_OUTPUT
           else
-            echo "stars_json_changed=false" >> $GITHUB_OUTPUT
+            echo "stars_json_exists=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Install Vercel CLI
@@ -35,17 +35,22 @@ jobs:
 
       - name: Debug Info
         run: |
-          echo "Checking for stars.json changes..."
-          git diff --name-only HEAD^ HEAD
+          echo "Checking stars.json status:"
+          if [ -f "data/stars.json" ]; then
+            echo "stars.json exists"
+            cat data/stars.json
+          else
+            echo "stars.json does not exist"
+          fi
 
       - name: Deploy to Vercel
+        if: steps.check_file.outputs.stars_json_exists == 'true'
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
         run: |
-          echo "Using Project ID: $VERCEL_PROJECT_ID"
-          echo "Using Org ID: $VERCEL_ORG_ID"
+          echo "Starting Vercel deployment..."
           vercel pull --yes --environment=production --token="$VERCEL_TOKEN" --scope="$VERCEL_ORG_ID"
           vercel build --prod --token="$VERCEL_TOKEN"
           vercel deploy --prebuilt --prod --token="$VERCEL_TOKEN"
