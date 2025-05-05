@@ -85,6 +85,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 19. [Float UI](https://floatui.com) offers all the vital building blocks you need to transform your idea into a great-looking startup. ⭐ [3k stars](https://github.com/MarsX-dev/floatui)
 20. [Meraki UI](https://merakiui.com) is a collection of responsive Tailwind CSS components that enhance the user experience of your website. with support for RTL languages, and a sleek Dark Mode. ⭐ [2.3k stars](https://github.com/merakiui/merakiui)
 21. [React Headless Components](https://github.com/jxom/awesome-react-headless-components) is a collection of headless components for React. ⭐ [1k stars](https://github.com/jxom/awesome-react-headless-components)
+22. [Starwind](https://starwind.dev) is a set of powerful, accessible components for your `Astro` projects. Styled with Tailwind CSS v4. ⭐ [GitHub](https://github.com/starwind-ui/starwind-ui)
 
 - [Tailwind Components](https://tailwindcomponents.com) is an Open source Tailwind UI components and templates to bootstrap your new apps, projects or landing sites! ⭐ [GitHub](https://github.com/tailwindcomponents)
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com) is a free Tailwind CSS Templates, Components and Resources. ⭐ [GitHub](https://github.com/tailwindtoolbox)
@@ -508,7 +509,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 #### **Mocking**
 
-- [Mockae](https://mockae.com/) is an open-source fake API that uses Lua to generate dynamic, custom HTTP responses for mocking HTTP requests. ⭐ [GitHub](https://github.com/cyrilbois/mockae).
+- [Mockae](https://mockae.com) is an open-source fake API that uses Lua to generate dynamic, custom HTTP responses for mocking HTTP requests. ⭐ [GitHub](https://github.com/cyrilbois/mockae).
 - [Mockfly](https://www.mockfly.dev) is a trusted development tool for `API mocking and feature flag management`. Quickly generate and control mock APIs with an intuitive interface. The free tier offers 500 requests per day.
 - [Mocki](https://mocki.io) is a tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to develop and use without signup.
 - [Mocko](https://mocko.dev) Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integration tests.
@@ -934,7 +935,7 @@ Datos.gov...
 - [Open Source Friday](https://opensourcefriday.com) is a global movement that encourages open-source participation every Friday. ⭐ [GitHub](https://github.com/github/opensourcefriday)
 - [Open Source Guide](https://opensource.guide) is a community guide to open-source for contributors and maintainers. ⭐ [13.5k stars](https://github.com/github/opensource.guide#readme)
 - [Open Source](https://opensource.com) is a community of developers, designers, writers, and thinkers who believe that open-source is the way to make software better.
-- [Planka](https://planka.app/) is a Free open source kanban board for workgroups. ⭐ [6.2k stars](https://github.com/plankanban/planka)
+- [Planka](https://planka.app) is a Free open source kanban board for workgroups. ⭐ [6.2k stars](https://github.com/plankanban/planka)
 - [Developer portfolios](https://github.com/emmabostian/developer-portfolios) is a list of developer portfolios for your inspiration. ⭐ [7k stars](https://github.com/emmabostian/developer-portfolios)
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com) is a month-long celebration of open source software. It encourages participation in the open-source community, for beginners and veterans alike.
 
@@ -985,11 +986,12 @@ Datos.gov...
 5. [Devicon](https://devicon.dev) is a collection of icons for popular programming languages, frameworks, and tools. ⭐ [8.2k stars](https://github.com/devicons/devicon)
 6. [Lucide](https://lucide.dev) is a set of **free, open-source, and customizable icons** for your projects. ⭐ [8.1k stars](https://github.com/lucide-icons/lucide)
 7. [React Icons](https://react-icons.github.io/react-icons) ⭐ [11.2k stars](https://github.com/react-icons/react-icons)
-8. [css.gg](https://css.gg) is a set of 700+ **animated CSS icons**. Open-source CSS, SVG and Figma UI Icons. ⭐ [10k stars](https://github.com/astrit/css.gg)
-9. [Iconse.js](http://icones.js.org) is an icon Explorer with Instant searching, powered by `Iconify` ⭐ [5k stars](https://github.com/antfu-collective/icones)
-10. [Radix Icons](https://www.radix-ui.com/icons) ⭐ [2.1k stars](https://github.com/radix-ui/icons)
-11. [Flagpack](https://flagpack.xyz) is a collection of `flags icons` in SVG format. ⭐ [568 stars](https://github.com/Yummygum/flagpack-core)
-12. [Zondicons](http://www.zondicons.com) is a set of free premium SVG icons for you to use on your digital products. ⭐ [56 stars](https://github.com/sschoger/zondicons)
+8. [Feather Icons](https://feathericons.com) is a collection of `open-source icons` designed on a 24x24 grid with an emphasis on simplicity, consistency, and readability. ⭐ [26k stars](https://github.com/feathericons/feather)
+9. [css.gg](https://css.gg) is a set of 700+ **animated CSS icons**. Open-source CSS, SVG and Figma UI Icons. ⭐ [10k stars](https://github.com/astrit/css.gg)
+10. [Iconse.js](http://icones.js.org) is an icon Explorer with Instant searching, powered by `Iconify` ⭐ [5k stars](https://github.com/antfu-collective/icones)
+11. [Radix Icons](https://www.radix-ui.com/icons) ⭐ [2.1k stars](https://github.com/radix-ui/icons)
+12. [Flagpack](https://flagpack.xyz) is a collection of `flags icons` in SVG format. ⭐ [568 stars](https://github.com/Yummygum/flagpack-core)
+13. [Zondicons](http://www.zondicons.com) is a set of free premium SVG icons for you to use on your digital products. ⭐ [56 stars](https://github.com/sschoger/zondicons)
 
 ## Favicons
 
@@ -999,6 +1001,7 @@ Datos.gov...
 ## Backgrounds
 
 - [Hero Patterns](https://heropatterns.com) is a collection of repeatable SVG background patterns for you to use on your web projects. ⭐ [GitHub](https://github.com/sschoger/hero-patterns)
+- [SVG Backgrounds](https://www.svgbackgrounds.com) is a collection of SVG backgrounds for you to use on your web projects.
 
 ## Blur Images
 
@@ -1232,7 +1235,7 @@ Comparison of major documentation tools:
 - [Inferno](https://infernojs.org) is an **extremely fast, React-like JavaScript library** for building modern user interfaces. ⭐ [16k stars](https://github.com/infernojs/inferno)
 - [Aurelia](https://aurelia.io) is a **JavaScript client framework for mobile, desktop, and web leveraging simple conventions and empowering creativity**. ⭐ [12k stars](https://github.com/aurelia/framework)
 - [Cycle.js](https://cycle.js.org) is a **functional and reactive JavaScript framework** for predictable code. ⭐ [11k stars](https://github.com/cyclejs/cyclejs)
-- [Analog](https://analogjs.org/) is the fullstack **Angular meta-framework**. ⭐ [3k stars](https://github.com/analogjs/analog)
+- [Analog](https://analogjs.org) is the fullstack **Angular meta-framework**. ⭐ [3k stars](https://github.com/analogjs/analog)
 
 #### **Backend**
 
@@ -1282,7 +1285,7 @@ Comparison of major documentation tools:
 ## CDN
 
 - [jsDelivr](https://www.jsdelivr.com) is a free **Open Source CDN** for open source projects. ⭐ [6k stars](https://github.com/jsdelivr/jsdelivr)
-- [CDNjs](https://cdnjs.com/) is a community-driven **content delivery network** for web-related libraries. 🤖 CDN assets - **The #1 free and open source CDN built to make life easier for developers**. ⭐ [5k stars](https://github.com/cdnjs/cdnjs)
+- [CDNjs](https://cdnjs.com) is a community-driven **content delivery network** for web-related libraries. 🤖 CDN assets - **The #1 free and open source CDN built to make life easier for developers**. ⭐ [5k stars](https://github.com/cdnjs/cdnjs)
 
 ## DNS
 
@@ -1363,7 +1366,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Free For Life](https://free.hrsn.dev) is a massive list including a huge amount of products and services that are completely free! ⭐ [491 stars](https://github.com/wdhdev/free-for-life)
 - [Free Resources](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) is a list of free resources for almost everyone. ⭐ [330 stars](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone)
 - [Dev Resources](https://devresourc.es) is a collection of resources for developers. ⭐ [874 stars](https://github.com/marcelscruz/dev-resources)
-- [JSONing](https://jsoning.com/) is a collection of JSON tools, including a validator, comparator, JSONPath tester, JSON schema generator, mock REST API, and more.
+- [JSONing](https://jsoning.com) is a collection of JSON tools, including a validator, comparator, JSONPath tester, JSON schema generator, mock REST API, and more.
 - [TOOOLS.design](https://toools.design) is a growing archive of 1,500+ design resources, frequently updated for the community.
 - [Hubdev](https://www.hubdev.tools) is a collection of resources and tools for developers, Utilize advanced semantic search, powered by Vercel SDK, OpenAI, and Supabase, to find exactly what you need. ⭐ [40 stars](https://github.com/xavimondev/hubdev.tools)
 
@@ -1407,6 +1410,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [SQL Practice](https://www.sql-practice.com) queries with an online terminal. Solve SQL query questions using a practice database. Learn and improve your SQL skills.
 - [TypeHero](https://typehero.dev) is a free course that teaches you the basics of TypeScript. Practice by completing challenges. ⭐ [5.4k stars](https://github.com/typehero/typehero)
 - [33 JavaScript concepts](https://github.com/leonardomso/33-js-concepts) every developer should know. ⭐ [64k stars](https://github.com/leonardomso/33-js-concepts)
+- [Free Certifications for Developers (in Spanish)](https://www.freecodecamp.org/espanol/news/1000-certificaciones-gratis-para-desarrolladores) is a list of free certifications for developers that FreeCodeCamp published in Spanish.
 
 ## Job Boards
 
