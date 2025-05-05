@@ -1,36 +1,24 @@
-// scripts/githubStars.js
-
-async function fetchGitHubStars(repo) {
-  const url = `https://api.github.com/repos/${repo}`;
+async function loadStarsData() {
   try {
-    const response = await fetch(url);
-    if (!response.ok) throw new Error(`Bad response: ${response.status}`);
-    const data = await response.json();
-    return data.stargazers_count;
+    const response = await fetch("./data/stars.json");
+    if (!response.ok)
+      throw new Error(`Failed to load stars.json: ${response.status}`);
+    return await response.json();
   } catch (err) {
-    console.warn(
-      `❌ No se pudieron obtener estrellas para ${repo}:`,
-      err.message
-    );
-    return null; // Falla silenciosa
+    console.error("Error loading stars.json:", err.message);
+    return {};
   }
 }
 
-function extractRepoFromURL(url) {
-  const match = url.match(/^https:\/\/github\.com\/([^\/]+\/[^\/\s#?]+)/);
-  return match ? match[1] : null;
-}
-
 async function updateGitHubStars() {
+  const starsData = await loadStarsData();
   const links = document.querySelectorAll('a[href*="github.com"]');
+
   for (const link of links) {
     const repo = extractRepoFromURL(link.href);
-    if (!repo) continue;
+    if (!repo || !(repo in starsData)) continue;
 
-    const stars = await fetchGitHubStars(repo);
-    if (stars === null) continue;
-
-    // Busca un texto tipo "⭐ 1234" dentro del enlace y reemplázalo
+    const stars = starsData[repo];
     const starTextRegex = /⭐\s?\d[\d,\.]*/;
     const newStarText = `⭐ ${stars.toLocaleString()}`;
 
@@ -46,7 +34,6 @@ async function updateGitHubStars() {
       }
     }
 
-    // Si no encontró texto de estrellas, opcional: agregarlo
     if (!replaced) {
       const span = document.createElement("span");
       span.textContent = ` ${newStarText}`;
@@ -55,7 +42,12 @@ async function updateGitHubStars() {
   }
 }
 
-// Integrarlo como plugin de Docsify
+function extractRepoFromURL(url) {
+  const match = url.match(/^https:\/\/github\.com\/([^\/]+\/[^\/\s#?]+)/);
+  return match ? match[1] : null;
+}
+
+// Integrate with Docsify
 window.$docsify = window.$docsify || {};
 window.$docsify.plugins = (window.$docsify.plugins || []).concat((hook) => {
   hook.doneEach(() => {
