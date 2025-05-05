@@ -1412,6 +1412,16 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [33 JavaScript concepts](https://github.com/leonardomso/33-js-concepts) every developer should know. ⭐ [64k stars](https://github.com/leonardomso/33-js-concepts)
 - [Free Certifications for Developers (in Spanish)](https://www.freecodecamp.org/espanol/news/1000-certificaciones-gratis-para-desarrolladores) is a list of free certifications for developers that FreeCodeCamp published in Spanish.
 
+### Learn SQL
+
+- [SQLZoo](https://sqlzoo.net) is a website that provides an interactive, hands-on approach to learning Structured Query Language (SQL)
+- [SQLBolt](https://sqlbolt.com) is a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
+- [DataLemur](https://www.datalemur.com) is a place to practice SQL Interview and Data Science Interview questions.
+- [SQL Practice](https://www.sql-practice.com) is an SQL playground for you to practice SQL querys with an online terminal. Solve SQL query questions using a practice database.
+- [Mystery](https://mystery.knightlab.com) is a website and a game developed by Knight Lab at Northwestern University, designed to teach and practice SQL by solving a murder mystery.
+- [Data School](https://www.dataschool.com/learn-sql) is a community-driven school of free web books and content written by people who work with data for people who work with data.
+- [SQL Easy](https://www.sql-easy.com/es) is the best & quickest way to learn SQL
+
 ## Job Boards
 
 - [Remote OK](https://remoteok.io)
