@@ -13,6 +13,14 @@ async function loadStarsData() {
   }
 }
 
+// Function to format numbers as "85.5k stars"
+function formatStarsCount(stars) {
+  if (stars >= 1000) {
+    return `${(stars / 1000).toFixed(1)}k`; // Add one decimal place
+  }
+  return stars.toString();
+}
+
 async function updateGitHubStars() {
   const starsData = await loadStarsData();
   const links = document.querySelectorAll('a[href*="github.com"]');
@@ -24,8 +32,9 @@ async function updateGitHubStars() {
     if (!repo || excludedRepos.includes(repo) || !(repo in starsData)) continue;
 
     const stars = starsData[repo];
-    const starTextRegex = /⭐\s?\d[\d,\.]*/;
-    const newStarText = `⭐ ${stars.toLocaleString()}`;
+    const formattedStars = formatStarsCount(stars); // Format the star count
+    const starTextRegex = /⭐\s?\d[\d,\.]*\s?stars?/;
+    const newStarText = `⭐ ${formattedStars} stars`;
 
     let replaced = false;
     for (const node of link.childNodes) {
