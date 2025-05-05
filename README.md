@@ -777,15 +777,15 @@ Datos.gov...
 
 ## Testing Frameworks
 
-- [Jest](https://jestjs.io) is a delightful JavaScript Testing Framework with a focus on simplicity. ⭐ [k stars]()
-- [Mocha](https://mochajs.org) is a feature-rich JavaScript test framework running on Node.js and in the browser. ⭐ [k stars]()
-- [Jasmine](https://jasmine.github.io) is a behavior-driven development framework for testing JavaScript code. ⭐ [k stars]()
-- [Cypress](https://www.cypress.io) is a **JavaScript End to End Testing Framework**. ⭐ [k stars]()
-- [Puppeteer](https://pptr.dev) is a **Node library** which provides a high-level API over the Chrome DevTools Protocol. ⭐ [k stars]()
-- [Karma](https://karma-runner.github.io/latest/index.html) is a simple tool that allows you to execute JavaScript code in multiple real browsers. ⭐ [k stars]()
-- [WebdriverIO](https://webdriver.io) is a **Next-gen browser and mobile automation test framework** for Node.js. ⭐ [k stars]()
-- [Stryker js](https://stryker-mutator.io) is a mutation testing framework for JavaScript. ⭐ [k stars]()
-- [Ava](https://github.com/avajs/ava) is a Node.js test runner that lets you develop with confidence 🚀 ⭐ [k stars]()
+- [Jest](https://jestjs.io) is a delightful JavaScript Testing Framework with a focus on simplicity. ⭐ [k stars](https://github.com/jestjs/jest)
+- [Mocha](https://mochajs.org) is a feature-rich JavaScript test framework running on Node.js and in the browser. ⭐ [k stars](https://github.com/mochajs/mocha)
+- [Jasmine](https://jasmine.github.io) is a behavior-driven development framework for testing JavaScript code. ⭐ [k stars](https://github.com/jasmine/jasmine)
+- [Cypress](https://www.cypress.io) is a **JavaScript End to End Testing Framework**. ⭐ [k stars](https://github.com/cypress-io/cypress)
+- [Puppeteer](https://pptr.dev) is a **Node library** which provides a high-level API over the Chrome DevTools Protocol. ⭐ [k stars](https://github.com/puppeteer/puppeteer)
+- [Karma](https://karma-runner.github.io/latest/index.html) is a simple tool that allows you to execute JavaScript code in multiple real browsers. ⭐ [k stars](https://github.com/karma-runner/karma)
+- [WebdriverIO](https://webdriver.io) is a **Next-gen browser and mobile automation test framework** for Node.js. ⭐ [k stars](https://github.com/webdriverio/webdriverio)
+- [Stryker js](https://stryker-mutator.io) is a mutation testing framework for JavaScript. ⭐ [k stars](https://github.com/stryker-mutator/stryker-js)
+- [Ava](https://github.com/avajs) is a Node.js test runner that lets you develop with confidence ⭐ [k stars](https://github.com/avajs/ava)
 
 ## IT Automation
 
@@ -837,7 +837,7 @@ Datos.gov...
 1. [Matomo](https://matomo.org) is a free and open-source web analytics application that runs on a PHP/MySQL webserver. ⭐ [19k stars](https://github.com/matomo-org/matomo)
 2. [Plausible](https://plausible.io) is a simple, privacy-friendly alternative to Google Analytics. | 2 months free ⭐ [18.2k stars](https://github.com/plausible/analytics)
 3. [PostHog](https://posthog.com) is an open-source product analytics tool. ⭐ [17k stars](https://github.com/PostHog/posthog)
-4. [Mixpanel](https://mixpanel.com) is a business analytics service and company that tracks user interactions with web and mobile applications. ⭐ [k stars](https://github.com/mixpanel)
+4. [Mixpanel](https://mixpanel.com) is a business analytics service and company that tracks user interactions with web and mobile applications. ⭐ [GitHub](https://github.com/mixpanel)
 5. [Amplitude](https://amplitude.com) is a product analytics service that provides tools to understand user behavior. ⭐ [GitHub](https://github.com/amplitude)
 6. [Snowplow](https://snowplow.io) is an open-source platform for event data collection and warehousing. ⭐ [6.7k stars](https://github.com/snowplow/snowplow)
 7. [Countly](https://count.com) is an open-source, self-hosted product analytics tool. ⭐ [5.5k stars](https://github.com/Countly/countly-server)
@@ -1278,12 +1278,12 @@ Comparison of major documentation tools:
 ### Images Hosting
 
 - [Cloudinary](https://cloudinary.com) is a cloud-based image and video management solution. ⭐ [GitHub](https://github.com/cloudinary)
-- [imgur](https://imgur.com) is a free image hosting service. ⭐ [k stars]()
-- [Imgix](https://www.imgix.com) is a real-time image processing and delivery service. ⭐ [k stars]()
-- [Cloudimage](https://www.cloudimage.io) is a smart image management solution. ⭐ [k stars]()
-- [Imagekit](https://imagekit.io) is a real-time image optimization and delivery service. ⭐ [k stars]()
-- [Sirv](https://sirv.com) is a real-time image optimization and delivery service. ⭐ [k stars]()
-- [Uploadcare](https://uploadcare.com) is a cloud-based file handling solution. ⭐ [k stars]()
+- [imgur](https://imgur.com) is a free image hosting service.
+- [Imgix](https://www.imgix.com) is a real-time image processing and delivery service.
+- [Cloudimage](https://www.cloudimage.io) is a smart image management solution. ⭐ [GitHub](https://github.com/scaleflex)
+- [Imagekit](https://imagekit.io) is a real-time image optimization and delivery service.
+- [Sirv](https://sirv.com) is a real-time image optimization and delivery service.
+- [Uploadcare](https://uploadcare.com) is a cloud-based file handling solution. ⭐ [GitHub](https://github.com/uploadcare)
 
 ## CDN
 
