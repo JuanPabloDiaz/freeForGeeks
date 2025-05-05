@@ -1,35 +1,43 @@
-# This workflow redeploys the Vercel app when there are changes in stars.json
-
 name: Redeploy on stars.json Update
 
 on:
   push:
+    branches: [main]
     paths:
-      - "data/stars.json"
+      - '**/stars.json'
+  workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *" # Run every 12 hours
+    - cron: "0 12 * * 6" # Run at 12:00 PM every Saturday
 
 jobs:
-  update-stars:
+  deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
 
       - name: Check for changes in stars.json
         id: check_changes
         run: |
-          if git diff --name-only HEAD^ HEAD | grep -q "data/stars.json"; then
+          if git diff --name-only HEAD^ HEAD | grep -q "stars.json"; then
             echo "stars_json_changed=true" >> $GITHUB_OUTPUT
           else
             echo "stars_json_changed=false" >> $GITHUB_OUTPUT
           fi
 
+      - name: Install Vercel CLI
+        run: npm install --global vercel@latest
+
       - name: Deploy to Vercel
-        if: steps.check_changes.outputs.stars_json_changed == 'true'
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
         run: |
-          npm install --global vercel
-          vercel pull --yes --environment=production --token=$VERCEL_TOKEN
-          vercel build --prod --token=$VERCEL_TOKEN
-          vercel deploy --prebuilt --prod --token=$VERCEL_TOKEN
+          vercel pull --yes --environment=production
+          vercel build --prod
+          vercel deploy --prebuilt --prod
