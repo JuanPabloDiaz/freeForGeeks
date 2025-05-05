@@ -6,3 +6,5 @@
 
 # Run lighthouse CI: npx unlighthouse --site https://freeforgeeks.jpdiaz.dev/
 /.unlighthouse/
+
+.env
