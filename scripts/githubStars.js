@@ -1,3 +1,6 @@
+// Lista de repositorios a excluir
+const excludedRepos = ["JuanPabloDiaz/freeForGeeks"];
+
 async function loadStarsData() {
   try {
     const response = await fetch("./data/stars.json");
@@ -16,7 +19,9 @@ async function updateGitHubStars() {
 
   for (const link of links) {
     const repo = extractRepoFromURL(link.href);
-    if (!repo || !(repo in starsData)) continue;
+
+    // Excluir repositorios en la lista de exclusión
+    if (!repo || excludedRepos.includes(repo) || !(repo in starsData)) continue;
 
     const stars = starsData[repo];
     const starTextRegex = /⭐\s?\d[\d,\.]*/;
@@ -47,7 +52,7 @@ function extractRepoFromURL(url) {
   return match ? match[1] : null;
 }
 
-// Integrate with Docsify
+// Integrar con Docsify
 window.$docsify = window.$docsify || {};
 window.$docsify.plugins = (window.$docsify.plugins || []).concat((hook) => {
   hook.doneEach(() => {
