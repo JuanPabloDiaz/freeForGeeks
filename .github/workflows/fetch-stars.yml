@@ -1,0 +1,35 @@
+name: Fetch GitHub Stars
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # Todos los días a las 3am UTC
+  workflow_dispatch:
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clona el repo
+        uses: actions/checkout@v3
+
+      - name: Instala Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Ejecuta script para obtener estrellas
+        run: |
+          npm install node-fetch@2
+          node scripts/fetch-stars.js
+
+      - name: Commit y push si hay cambios
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data/stars.json
+          git commit -m "Update star counts" || echo "No changes to commit"
+          git push
