@@ -11,6 +11,8 @@ on:
 jobs:
   update-stars:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       - name: Clona el repo
