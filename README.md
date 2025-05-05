@@ -310,7 +310,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 ## Others
 
-- [Biome.js](https://biomejs.com) is a `toolchain for web projects`, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. ⭐ [10k stars](https://github.com/biomejs/biome)
+- [Biome.js](https://biomejs.dev) is a `toolchain for web projects`, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. ⭐ [19k stars](https://github.com/biomejs/biome)
 - [Format.js](https://formatjs.io) is the monorepo home to all of the FormatJS related libraries, most notably react-intl. ⭐ [14k stars](https://github.com/formatjs/formatjs?tab=readme-ov-file)
 - [Orama](https://docs.askorama.ai) - 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! ⭐ [8k stars](https://github.com/askorama/orama)
 - [flagsmith](https://www.flagsmith.com) is an open-source, fully supported, Feature Flag and Remote Config service. Use our hosted API, deploy to your own private cloud, or run on-premise. ⭐ [4.5k stars](https://github.com/Flagsmith/flagsmith)
