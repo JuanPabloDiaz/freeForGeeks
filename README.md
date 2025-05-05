@@ -1421,14 +1421,14 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [SQLZoo](https://sqlzoo.net) is a website that provides an interactive, hands-on approach to learning Structured Query Language (SQL)
 - [SQLBolt](https://sqlbolt.com) is a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser.
 - [DataLemur](https://www.datalemur.com) is a place to practice SQL Interview and Data Science Interview questions.
-- [SQL Practice](https://www.sql-practice.com) is an SQL playground for you to practice SQL querys with an online terminal. Solve SQL query questions using a practice database.
+- [SQL Practice](https://www.sql-practice.com) is an SQL playground for you to practice SQL queries with an online terminal. Solve SQL query questions using a practice database.
 - [Mystery](https://mystery.knightlab.com) is a website and a game developed by Knight Lab at Northwestern University, designed to teach and practice SQL by solving a murder mystery.
 - [Data School](https://www.dataschool.com/learn-sql) is a community-driven school of free web books and content written by people who work with data for people who work with data.
 - [SQL Easy](https://www.sql-easy.com/es) is the best & quickest way to learn SQL
 
 ### Learn Python
 
-- [Curso Python](https://www.cursopython.dev) free Python cources in spanish by Midudev.
+- [CursoPython](https://www.cursopython.dev) free Python courses in spanish by Midudev.
 
 ## Job Boards
 
