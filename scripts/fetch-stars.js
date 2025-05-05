@@ -4,8 +4,8 @@ const fs = require("fs");
 const fetch = require("node-fetch");
 const path = require("path");
 
-// Usa dotenv si tienes un .env (opcional)
-require("dotenv").config();
+// Usa dotenv si tienes un .env (Remove For Production)
+// require("dotenv").config();
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
 const readmePath = path.join(__dirname, "../README.md");
