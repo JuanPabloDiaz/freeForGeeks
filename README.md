@@ -45,7 +45,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 # Frontend
 
-[Frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers. ⭐ 40k stars
+[Frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 
 ## Dashboards and Admin Panels
 
