@@ -1,6 +1,3 @@
-// Lista de repositorios a excluir
-const excludedRepos = ["JuanPabloDiaz/freeForGeeks"];
-
 async function loadStarsData() {
   try {
     const response = await fetch("./data/stars.json");
@@ -27,31 +24,48 @@ async function updateGitHubStars() {
 
   for (const link of links) {
     const repo = extractRepoFromURL(link.href);
-
-    // Excluir repositorios en la lista de exclusión
-    if (!repo || excludedRepos.includes(repo) || !(repo in starsData)) continue;
+    if (!repo) continue;
 
     const stars = starsData[repo];
-    const formattedStars = formatStarsCount(stars); // Format the star count
-    const starTextRegex = /⭐\s?\d[\d,\.]*\s?stars?/;
+    if (!stars) continue; // Skip if no stars data available
+
+    const formattedStars = formatStarsCount(stars);
+    const starTextRegex = /⭐\s?\d[\d,\.]*k?\s?stars?/i;
     const newStarText = `⭐ ${formattedStars} stars`;
 
-    let replaced = false;
-    for (const node of link.childNodes) {
-      if (
-        node.nodeType === Node.TEXT_NODE &&
-        starTextRegex.test(node.textContent)
-      ) {
-        node.textContent = node.textContent.replace(starTextRegex, newStarText);
-        replaced = true;
-        break;
-      }
-    }
+    // Check if this is a star count link
+    const isStarCountLink = link.textContent.match(/^\d[\d,\.]*k?\s?stars?$/i);
 
-    if (!replaced) {
-      const span = document.createElement("span");
-      span.textContent = ` ${newStarText}`;
-      link.appendChild(span);
+    if (isStarCountLink) {
+      // This is a star count link, update its text
+      link.textContent = `${formattedStars} stars`;
+    } else {
+      // This is a regular link, handle inline star count
+      let hasExistingStars = false;
+
+      // Remove any existing star spans
+      const existingStarSpans = link.querySelectorAll('span');
+      existingStarSpans.forEach(span => {
+        if (span.textContent.includes('⭐')) {
+          span.remove();
+          hasExistingStars = true;
+        }
+      });
+
+      // Check for and remove any inline star text
+      for (const node of link.childNodes) {
+        if (node.nodeType === Node.TEXT_NODE && starTextRegex.test(node.textContent)) {
+          node.textContent = node.textContent.replace(starTextRegex, '').trim();
+          hasExistingStars = true;
+        }
+      }
+
+      // Only add star count if there was one before
+      if (hasExistingStars) {
+        const span = document.createElement('span');
+        span.textContent = ` ${newStarText}`;
+        link.appendChild(span);
+      }
     }
   }
 }
@@ -61,7 +75,7 @@ function extractRepoFromURL(url) {
   return match ? match[1] : null;
 }
 
-// Integrar con Docsify
+// Integrate with Docsify
 window.$docsify = window.$docsify || {};
 window.$docsify.plugins = (window.$docsify.plugins || []).concat((hook) => {
   hook.doneEach(() => {
