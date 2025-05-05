@@ -1,5 +1,8 @@
 name: Fetch GitHub Stars
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 3 * * *" # Todos los días a las 3am UTC
