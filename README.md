@@ -38,6 +38,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 👩‍💻 This is for developers, designers, and tech enthusiasts who want to build better software. It includes resources for **Frontend**, **Backend**, **DevSecOps**, **competitive programming** and more.
 
 <!-- tabs:end -->
+
 <!-- #### **Badge <span class="tab-badge">New!</span>** -->
 
 <!-- ⭐ [Star on GitHub](https://github.com/JuanPabloDiaz/freeForGeeks) ⭐ ☕ [Buy me a coffee](https://www.buymeacoffee.com/1diazdev) ☕ -->
@@ -495,6 +496,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [Deck of Cards](https://deckofcardsapi.com) is an API to simulate a deck of cards. The API provides access to a deck of cards.
 - [Bored API](https://bored.api.lewagon.com) is a free API for `random activities`. The API provides access to random activities. ⭐ [GitHub](https://github.com/drewthoennes/Bored-API)
+- [Dragon Ball API](https://web.dragonball-api.com) is a free API for `Dragon Ball`. The API provides access to characters and more.
 
 #### **Scraping**
 
@@ -1241,6 +1243,7 @@ Comparison of major documentation tools:
 
 - [Filamentphp](https://filamentphp.com) is a beautifully designed **open-source admin panel** for Laravel. ⭐[GitHub](https://github.com/filamentphp/filament)
 - [Pkl lang](https://pkl-lang.org) is a **configuration-as-code language** that offers rich validation and tooling. ⭐ [GitHub](https://github.com/apple/pkl-lang.org)
+- [Encore](https://encore.dev) is a backend development engine built for the cloud, enabling developers to build scalable and maintainable backend applications. ⭐ [10k](https://github.com/encoredev/encore)
 
 <!-- tabs:end -->
 
@@ -1331,6 +1334,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Library of Congress](https://www.loc.gov) is the largest library in the world, with millions of books, recordings, photographs, newspapers, maps, and manuscripts in its collections.
 - [Organism Earth's The Library](https://organism.earth/library) is a collection of free books, articles, and other resources.
 - [Free-programming-books](https://ebookfoundation.github.io/free-programming-books) List of Free Learning Resources In Many Languages. ⭐ [336k stars](https://github.com/EbookFoundation/free-programming-books)
+- [Python for Everybody](https://www.py4e.com) is a free online book and course for learning Python programming.
 
 <!-- needs some work -->
 
@@ -1421,6 +1425,10 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Mystery](https://mystery.knightlab.com) is a website and a game developed by Knight Lab at Northwestern University, designed to teach and practice SQL by solving a murder mystery.
 - [Data School](https://www.dataschool.com/learn-sql) is a community-driven school of free web books and content written by people who work with data for people who work with data.
 - [SQL Easy](https://www.sql-easy.com/es) is the best & quickest way to learn SQL
+
+### Learn Python
+
+- [Curso Python](https://www.cursopython.dev) free Python cources in spanish by Midudev.
 
 ## Job Boards
 
