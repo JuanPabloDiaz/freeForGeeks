@@ -47,3 +47,4 @@ jobs:
               --exclude "data/stars.json" \
               --exclude "scripts/**" \
               --exclude "site/**"
+              --exclude-words "Curso"
