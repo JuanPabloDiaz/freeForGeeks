@@ -296,7 +296,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 1. [Laravel](https://laravel.com) is a PHP web application framework with expressive, elegant syntax, intended for the development of web applications following the model–view–controller (MVC) architectural pattern. ⭐ [77k stars](https://github.com/laravel/laravel)
 2. [Django](https://www.djangoproject.com) is a high-level Python web framework that encourages rapid development and clean, pragmatic design. ⭐ [77.1k stars](https://github.com/django/django)
 3. [Spring Boot](https://spring.io/projects/spring-boot) is an open-source Java-based framework used to create micro-services. It is developed by Pivotal Team and is used to build stand-alone and production-ready spring applications. ⭐ [73.1k stars](https://github.com/spring-projects/spring-boot)
-4. [Flask](https://flask.palletsprojects.com/en/3.0.x) is a lightweight WSGI web application framework. It is a `micro web framework` written in Python. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. ⭐ [66.5k stars](https://github.com/pallets/flask)
+4. [Flask](https://flask.palletsprojects.com) is a lightweight WSGI web application framework. It is a `micro web framework` written in Python. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. ⭐ [66.5k stars](https://github.com/pallets/flask)
 5. [NestJS](https://nestjs.com) is a framework for building efficient, scalable Node.js server-side applications. It uses progressive JavaScript, is built with TypeScript (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming). ⭐ [65k stars](https://github.com/nestjs/nest)
 6. [Express.js](https://expressjs.com) is a minimal and flexible Node.js web application framework, designed for building web applications and APIs. ⭐ [64k stars](https://github.com/expressjs/express)
 7. [Ruby on Rails](https://rubyonrails.org) is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller (MVC) framework, providing default structures for a database, a web service, and web pages. ⭐ [55k stars](https://github.com/rails/rails)
@@ -374,7 +374,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [Hook0](https://www.hook0.com) is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with seven days of history retention for free.
 - [Svix](https://www.svix.com) is a `webhooks as a Service`. Build a secure, reliable, and scalable webhook sending platform using the Svix webhook service. Send up to 50,000 messages/month for free.
-- [Webhook Store](https://www.openwebhook.io) is a tool for storing third-party webhooks and debug them on localhost (ngrok style). Open source and self-hostable. Free personal domain _username_.github.webhook.store, free public domains _anything_.webhook.store.
 
 #### **Data <span class="tab-badge">New!</span>**
 
@@ -387,7 +386,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Random User Generator](https://randomuser.me) is a free, open-source API for generating random user data. Like Lorem Ipsum, but for people. ⭐ [1.3k stars](https://github.com/RandomAPI/Randomuser.me-Node)
 - [Random Data](https://random-data-api.com) is a free API for random fake data. It does not require any authentication.
 - [Microenv](https://microenv.com) allow you to `create fake REST API` for developers with the possibility to generate code and app in a docker container.
-- [QuickMocker](https://quickmocker.com) is an API Mock, fake API, mock server, simulate or stub API, dummy API and web services, API for tests, test doubles, fake random data, response templating, create webhook, and more. Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header. The free account provides one random subdomain, ten endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, and 50 history records in the requests log.
 
 <h6>Database</h6>
 
@@ -924,14 +922,14 @@ Datos.gov...
 ## Projects (Beginner friendly Contribution)
 
 - [First Contributions](https://firstcontributions.github.io) helps beginners make your first open source contribution in 5 minutes. ⭐ [42k stars](https://github.com/firstcontributions/first-contributions)
-- [FindIssues](https://www.findissues.vercel.app/) aims to provide you access to the most recent created issues on github which is not assigned to anyone yet, with its advance search technique. ⭐ [GitHub](https://github.com/anand346/findissues)
+- [FindIssues](https://findissues.vercel.app) aims to provide you access to the most recent created issues on github which is not assigned to anyone yet, with its advance search technique. ⭐ [GitHub](https://github.com/anand346/findissues)
 - [First Timers Only](https://www.firsttimersonly.com) is a list of issues that are labeled "first-timers-only". These are issues that are easy to fix and are perfect for beginners. ⭐ [GitHub](https://github.com/shanselman/firsttimersonly)
 - [My First PR](https://my-first-pr.github.io) helps beginners make their first open-source contribution. ⭐ [GitHub](https://github.com/my-first-pr)
 - [Up For Grabs](https://up-for-grabs.net) is a list of projects with issues that are labeled "up-for-grabs". These are issues that are easy to fix and are perfect for beginners. ⭐ [GitHub](https://github.com/up-for-grabs/up-for-grabs.net)
 - [Good First Issue](https://goodfirstissue.dev) is a list of projects with issues that are labeled "good-first-issue". These are issues that are easy to fix and are perfect for beginners. ⭐ [GitHub](https://github.com/DeepSourceCorp/good-first-issue)
 - [CodeTriage](https://www.codetriage.com) is a platform that helps you find open-source projects that need help. You can subscribe to projects and get a new issue in your inbox every day. ⭐ [GitHub](https://github.com/codetriage/codetriage)
 - [24 Pull Requests](https://24pullrequests.com) is a platform that helps you find open-source projects that need help. You can get paid for fixing issues. ⭐ [GitHub](https://github.com/24pullrequests/24pullrequests)
-- [ProjectsHut](https://www.projectshut.tech) is an open source web app that enables users to freely publish their projects and create user profiles within the platform ⭐ [GitHub](https://github.com/priyankarpal/projectshut)
+- [ProjectsHut](https://projectshut.vercel.app) is an open source web app that enables users to freely publish their projects and create user profiles within the platform ⭐ [GitHub](https://github.com/priyankarpal/projectshut)
 - [ProjectMate](https://www.projectmate.net) Supercharge your open-source contributions with projectmate.net; Discover open-source projects, connect with experienced maintainers, and collaborate with a community of passionate contributors. Join over 200+ registered users who are already making a difference. ⭐ [GitHub](https://github.com/rohitdasu/projectmate)
 - [Open Source Friday](https://opensourcefriday.com) is a global movement that encourages open-source participation every Friday. ⭐ [GitHub](https://github.com/github/opensourcefriday)
 - [Open Source Guide](https://opensource.guide) is a community guide to open-source for contributors and maintainers. ⭐ [13.5k stars](https://github.com/github/opensource.guide#readme)
@@ -1075,7 +1073,6 @@ Datos.gov...
 
 - [Surveillance Self-Defense](https://ssd.eff.org/en) "Tips, tools, and how-tos for safer online communications," by the Electronic Frontier Foundation. Basic defense guides, tool guides, and more advanced topics covered.
 - [PrivacyTools](https://www.privacytools.io) "You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance." Considered the standard for finding privacy-conscious alternatives to popular software.
-- [DeleteMyData](https://deletemydata.io) Guides for the "simplest way to delete your online accounts". How to delete your account, from Amazon to Google to Facebook to LinkedIn.
 - [Switching Software](https://switching.software) "Ethical, easy-to-use and privacy-conscious alternatives to well-known software." Mixed recommendations; some good, some bad, but overall an OK reference.
 - [Security In-A-Box](https://securityinabox.org) Tools and tactics (guides) for digital security on Linux, Windows, Mac, Mobile, and Web.
 - [They Track You](https://theytrackyou.com) "A website to raise awareness of online privacy." Information on corporate and government tracking, defense of surveillance, and more. Very good for beginners.
