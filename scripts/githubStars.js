@@ -29,7 +29,8 @@ async function updateGitHubStars() {
     const stars = starsData[repo];
     if (!stars) continue; // Skip if no stars data available
 
-    const formattedStars = formatStarsCount(stars);
+    // const formattedStars = formatStarsCount(stars);
+    const formattedStars = stars;
     const starTextRegex = /⭐\s?\d[\d,\.]*k?\s?stars?/i;
     const newStarText = `⭐ ${formattedStars} stars`;
 
