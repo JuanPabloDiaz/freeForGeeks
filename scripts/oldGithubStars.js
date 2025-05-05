@@ -1,3 +1,5 @@
+// This script is not in use anymore
+
 window.$docsify = {
   plugins: [
     function (hook, vm) {
