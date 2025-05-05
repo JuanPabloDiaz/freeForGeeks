@@ -4,6 +4,7 @@ on:
   push:
     branches: [main]
     paths:
+      - 'data/stars.json'
       - '**/stars.json'
   workflow_dispatch:
   schedule:
@@ -32,12 +33,19 @@ jobs:
       - name: Install Vercel CLI
         run: npm install --global vercel@latest
 
+      - name: Debug Info
+        run: |
+          echo "Checking for stars.json changes..."
+          git diff --name-only HEAD^ HEAD
+
       - name: Deploy to Vercel
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
         run: |
-          vercel pull --yes --environment=production
-          vercel build --prod
-          vercel deploy --prebuilt --prod
+          echo "Using Project ID: $VERCEL_PROJECT_ID"
+          echo "Using Org ID: $VERCEL_ORG_ID"
+          vercel pull --yes --environment=production --token="$VERCEL_TOKEN" --scope="$VERCEL_ORG_ID"
+          vercel build --prod --token="$VERCEL_TOKEN"
+          vercel deploy --prebuilt --prod --token="$VERCEL_TOKEN"
