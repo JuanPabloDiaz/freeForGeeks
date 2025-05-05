@@ -1,21 +1,19 @@
-name: Update Stars
+# This workflow redeploys the Vercel app when there are changes in stars.json
+
+name: Redeploy on stars.json Update
 
 on:
   push:
     paths:
-      - 'data/stars.json'
+      - "data/stars.json"
   schedule:
-    - cron: '0 */12 * * *'  # Run every 12 hours
+    - cron: "0 */12 * * *" # Run every 12 hours
 
 jobs:
   update-stars:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
 
       - name: Check for changes in stars.json
         id: check_changes
@@ -26,10 +24,12 @@ jobs:
             echo "stars_json_changed=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy to Vercel
         if: steps.check_changes.outputs.stars_json_changed == 'true'
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
-          force_orphan: true
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          npm install --global vercel
+          vercel pull --yes --environment=production --token=$VERCEL_TOKEN
+          vercel build --prod --token=$VERCEL_TOKEN
+          vercel deploy --prebuilt --prod --token=$VERCEL_TOKEN
