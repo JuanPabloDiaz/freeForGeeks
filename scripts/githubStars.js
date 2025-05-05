@@ -4,7 +4,7 @@ async function fetchGitHubStars(repo) {
   const url = `https://api.github.com/repos/${repo}`;
   try {
     const response = await fetch(url);
-    if (!response.ok) throw new Error("Bad response");
+    if (!response.ok) throw new Error(`Bad response: ${response.status}`);
     const data = await response.json();
     return data.stargazers_count;
   } catch (err) {
