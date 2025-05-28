@@ -278,6 +278,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 <!-- Backend -->
 
 <section id="backend">
+- [jules](https://jules.google.com/task) https://jules.google.com/task
 
 # Backend
 
