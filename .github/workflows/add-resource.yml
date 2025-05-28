@@ -2,7 +2,7 @@ name: Add Resource
 
 on:
   issues:
-    types: [opened, labeled]
+    types: [opened]
   workflow_dispatch:
     inputs:
       issue_number:
@@ -14,119 +14,120 @@ jobs:
   process-resource:
     if: |
       (github.event_name == 'issues' && 
-       contains(github.event.issue.labels.*.name, 'resource-submission') && 
-       !contains(github.event.issue.labels.*.name, 'processed')) ||
+       contains(github.event.issue.labels.*.name, 'resource-submission')) ||
       github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     permissions:
       contents: write
       issues: write
       pull-requests: write
-      id-token: write
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-          fetch-tags: true
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
+        uses: actions/checkout@v4
 
       - name: Get issue data
         id: get-issue
-        uses: actions/github-script@v6
-        with:
-          script: |
-            let issueNumber;
-            let issueData;
-            
-            if (context.eventName === 'workflow_dispatch') {
-              issueNumber = context.payload.inputs.issue_number;
-              issueData = await github.rest.issues.get({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: parseInt(issueNumber)
-              });
-              issueData = issueData.data;
-            } else {
-              issueNumber = context.payload.issue.number;
-              issueData = context.payload.issue;
-            }
-            
-            core.setOutput('issue_number', issueNumber);
-            core.setOutput('issue_title', issueData.title);
-            core.setOutput('issue_body', issueData.body);
-            return issueData.body;
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            ISSUE_NUMBER="${{ github.event.inputs.issue_number }}"
+          else
+            ISSUE_NUMBER="${{ github.event.issue.number }}"
+          fi
+          echo "issue_number=$ISSUE_NUMBER" >> $GITHUB_OUTPUT
 
       - name: Parse issue body
         id: parse-issue
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         with:
           script: |
-            const issueBody = ${{ steps.get-issue.outputs.result }};
+            const issueNumber = "${{ steps.get-issue.outputs.issue_number }}";
             
-            // Extract data from form submission
-            function extractValue(body, field) {
-              const regex = new RegExp(`### ${field}\\s*([^#]*)`);
+            // Get issue data
+            const { data: issue } = await github.rest.issues.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: parseInt(issueNumber)
+            });
+            
+            const body = issue.body;
+            console.log("Issue body:", body);
+            
+            // Parse the GitHub form format
+            function parseFormField(body, fieldName) {
+              // GitHub forms create sections like:
+              // ### Resource Name
+              // 
+              // Value here
+              const regex = new RegExp(`### ${fieldName}\\s*\\n\\s*([^\\n#]+)`, 'i');
               const match = body.match(regex);
               return match ? match[1].trim() : '';
             }
             
-            const resourceName = extractValue(issueBody, 'Resource Name');
-            const resourceUrl = extractValue(issueBody, 'Resource URL');
-            const category = extractValue(issueBody, 'Category');
-            const subcategory = extractValue(issueBody, 'Subcategory');
-            const description = extractValue(issueBody, 'Description');
-            const tags = extractValue(issueBody, 'Tags');
-            const resourceType = extractValue(issueBody, 'Resource Type');
-            const isFree = extractValue(issueBody, 'Is it completely free\\?').includes('- [x] Yes');
-            const githubStars = extractValue(issueBody, 'GitHub Stars \\(if applicable\\)');
-            const githubUrl = extractValue(issueBody, 'GitHub URL \\(if applicable\\)');
+            function parseDropdownField(body, fieldName) {
+              // For dropdowns, GitHub creates: ### Category\n\nSelectedValue
+              const regex = new RegExp(`### ${fieldName}\\s*\\n\\s*([^\\n#]+)`, 'i');
+              const match = body.match(regex);
+              return match ? match[1].trim() : '';
+            }
+            
+            function parseCheckboxField(body, fieldName) {
+              // For checkboxes: - [x] Yes, this resource is completely free
+              const regex = new RegExp(`- \\[x\\] ([^\\n]+)`, 'i');
+              const match = body.match(regex);
+              return match ? true : false;
+            }
+            
+            const resourceName = parseFormField(body, 'Resource Name');
+            const resourceUrl = parseFormField(body, 'Resource URL');
+            const category = parseDropdownField(body, 'Category');
+            const subcategory = parseDropdownField(body, 'Subcategory');
+            const description = parseFormField(body, 'Description');
+            const tags = parseFormField(body, 'Tags');
+            const resourceType = parseDropdownField(body, 'Resource Type');
+            const isFree = parseCheckboxField(body, '');
+            const githubStars = parseFormField(body, 'GitHub Stars');
+            const githubUrl = parseFormField(body, 'GitHub URL');
+            
+            console.log("Parsed data:", {
+              resourceName, resourceUrl, category, subcategory, description
+            });
             
             // Validate required fields
             if (!resourceName || !resourceUrl || !category || !description) {
-              core.setFailed('Required fields are missing');
+              const missingFields = [];
+              if (!resourceName) missingFields.push('Resource Name');
+              if (!resourceUrl) missingFields.push('Resource URL');
+              if (!category) missingFields.push('Category');
+              if (!description) missingFields.push('Description');
+              
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: parseInt(${{ steps.get-issue.outputs.issue_number }}),
-                body: '❌ Error: Required fields are missing. Please fill in all required fields and try again.'
+                issue_number: parseInt(issueNumber),
+                body: `❌ **Submission Error**: Missing required fields: ${missingFields.join(', ')}\n\nPlease create a new issue with all required fields filled out.`
               });
+              
+              core.setFailed(`Missing required fields: ${missingFields.join(', ')}`);
               return;
             }
             
-            // Validate URL format
-            if (!resourceUrl.match(/^https?:\/\/.+\..+/)) {
+            // Validate URL
+            try {
+              new URL(resourceUrl);
+            } catch (e) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: parseInt(issueNumber),
+                body: `❌ **Submission Error**: Invalid URL format: ${resourceUrl}\n\nPlease provide a valid URL starting with http:// or https://`
+              });
+              
               core.setFailed('Invalid URL format');
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: parseInt(${{ steps.get-issue.outputs.issue_number }}),
-                body: '❌ Error: Invalid URL format. Please provide a valid URL starting with http:// or https://'
-              });
               return;
             }
             
-            // Format output for next steps
-            const data = {
-              resourceName,
-              resourceUrl,
-              category,
-              subcategory,
-              description,
-              tags,
-              resourceType,
-              isFree,
-              githubStars,
-              githubUrl
-            };
-            
-            console.log('Parsed data:', data);
-            
+            // Set outputs
             core.setOutput('resource_name', resourceName);
             core.setOutput('resource_url', resourceUrl);
             core.setOutput('category', category);
@@ -134,226 +135,135 @@ jobs:
             core.setOutput('description', description);
             core.setOutput('tags', tags);
             core.setOutput('resource_type', resourceType);
-            core.setOutput('is_free', isFree ? 'true' : 'false');
             core.setOutput('github_stars', githubStars);
             core.setOutput('github_url', githubUrl);
             
-            return data;
-
-      - name: Create branch name
-        id: branch-name
-        run: |
-          # Create a branch name from the resource name
-          RESOURCE_NAME="${{ fromJSON(steps.parse-issue.outputs.result).resourceName }}"
-          BRANCH_NAME="add-resource-$(echo "$RESOURCE_NAME" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | tr -cd '[:alnum:]-' | cut -c 1-50)"
-          echo "branch_name=$BRANCH_NAME" >> $GITHUB_OUTPUT
-
-      - name: Create branch
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git fetch --all
-          git checkout -b ${{ steps.branch-name.outputs.branch_name }}
+            return "success";
 
       - name: Update README.md
         id: update-readme
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const fs = require('fs');
-            const path = require('path');
-            
-            // Get parsed data
-            const data = ${{ steps.parse-issue.outputs.result }};
-            const { 
-              resourceName, 
-              resourceUrl, 
-              category, 
-              subcategory, 
-              description, 
-              githubStars, 
-              githubUrl 
-            } = data;
-            
-            // Read README.md
-            const readmePath = path.join(process.env.GITHUB_WORKSPACE, 'README.md');
-            let readmeContent = fs.readFileSync(readmePath, 'utf8');
-            
-            // Format the new resource entry
-            let resourceEntry = '';
-            
-            // Check if GitHub stars and URL are provided
-            const hasGithubInfo = githubStars && githubUrl;
-            
-            if (hasGithubInfo) {
-              resourceEntry = `- [${resourceName}](${resourceUrl}) ${description} ⭐ [${githubStars}](${githubUrl})\n`;
-            } else if (githubUrl) {
-              resourceEntry = `- [${resourceName}](${resourceUrl}) ${description} ⭐ [GitHub](${githubUrl})\n`;
-            } else {
-              resourceEntry = `- [${resourceName}](${resourceUrl}) ${description}\n`;
-            }
-            
-            // Find the appropriate section in README.md
-            const categoryHeading = new RegExp(`# ${category}`, 'i');
-            const subcategoryHeading = new RegExp(`## ${subcategory}`, 'i');
-            
-            let categoryMatch = readmeContent.match(categoryHeading);
-            
-            if (!categoryMatch) {
-              core.setFailed(`Category "${category}" not found in README.md`);
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: parseInt(${{ steps.get-issue.outputs.issue_number }}),
-                body: `❌ Error: Category "${category}" not found in README.md. Please choose a valid category.`
-              });
-              return;
-            }
-            
-            // Find the position to insert the new resource
-            let insertPosition;
-            let nextCategoryMatch;
-            
-            // If subcategory is specified and exists
-            if (subcategory && subcategory !== 'Other') {
-              const subcategoryMatch = readmeContent.substring(categoryMatch.index).match(subcategoryHeading);
-              
-              if (subcategoryMatch) {
-                // Find the position after the subcategory heading
-                insertPosition = categoryMatch.index + subcategoryMatch.index + subcategoryMatch[0].length;
-                
-                // Find the next heading after this subcategory
-                const nextHeadingMatch = readmeContent.substring(insertPosition).match(/\n(#{1,6} |<div style="float: right">)/);
-                
-                if (nextHeadingMatch) {
-                  // Insert before the next heading
-                  insertPosition += nextHeadingMatch.index;
-                }
-              } else {
-                // Subcategory doesn't exist, insert at the end of the category
-                nextCategoryMatch = readmeContent.substring(categoryMatch.index + categoryMatch[0].length).match(/\n# /);
-                
-                if (nextCategoryMatch) {
-                  insertPosition = categoryMatch.index + categoryMatch[0].length + nextCategoryMatch.index;
-                } else {
-                  // If no next category, insert at the end of the file
-                  insertPosition = readmeContent.length;
-                }
-                
-                // Create the subcategory heading
-                resourceEntry = `\n## ${subcategory}\n\n${resourceEntry}`;
-              }
-            } else {
-              // No subcategory specified, insert at the end of the category
-              nextCategoryMatch = readmeContent.substring(categoryMatch.index + categoryMatch[0].length).match(/\n# /);
-              
-              if (nextCategoryMatch) {
-                insertPosition = categoryMatch.index + categoryMatch[0].length + nextCategoryMatch.index;
-              } else {
-                // If no next category, insert at the end of the file
-                insertPosition = readmeContent.length;
-              }
-            }
-            
-            // Check for duplicate resource
-            if (readmeContent.includes(`[${resourceName}](${resourceUrl})`)) {
-              core.setFailed(`Resource "${resourceName}" with URL "${resourceUrl}" already exists in README.md`);
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: parseInt(${{ steps.get-issue.outputs.issue_number }}),
-                body: `❌ Error: Resource "${resourceName}" with URL "${resourceUrl}" already exists in README.md.`
-              });
-              return;
-            }
-            
-            // Insert the new resource
-            const updatedReadme = readmeContent.substring(0, insertPosition) + 
-                                 '\n' + resourceEntry + 
-                                 readmeContent.substring(insertPosition);
-            
-            // Write the updated README.md
-            fs.writeFileSync(readmePath, updatedReadme);
-            
-            core.setOutput('updated_readme', 'true');
-            return 'README.md updated successfully';
-
-      - name: Commit changes
-        if: steps.update-readme.outputs.updated_readme == 'true'
         run: |
-          git add README.md
-          git commit -m "Add ${{ fromJSON(steps.parse-issue.outputs.result).resourceName }} to ${{ fromJSON(steps.parse-issue.outputs.result).category }}"
-          # Try to push, if it fails due to remote changes, try to rebase and push again
-          if ! git push origin ${{ steps.branch-name.outputs.branch_name }}; then
-            echo "Push failed, trying to fetch and rebase..."
-            git fetch origin
-            # Check if branch exists on remote
-            if git ls-remote --heads origin ${{ steps.branch-name.outputs.branch_name }} | grep -q ${{ steps.branch-name.outputs.branch_name }}; then
-              # Branch exists, try to rebase
-              git pull --rebase origin ${{ steps.branch-name.outputs.branch_name }}
+          # Create resource entry
+          RESOURCE_NAME="${{ steps.parse-issue.outputs.resource_name }}"
+          RESOURCE_URL="${{ steps.parse-issue.outputs.resource_url }}"
+          DESCRIPTION="${{ steps.parse-issue.outputs.description }}"
+          CATEGORY="${{ steps.parse-issue.outputs.category }}"
+          GITHUB_STARS="${{ steps.parse-issue.outputs.github_stars }}"
+          GITHUB_URL="${{ steps.parse-issue.outputs.github_url }}"
+          
+          # Format the resource entry
+          if [[ -n "$GITHUB_STARS" && -n "$GITHUB_URL" ]]; then
+            RESOURCE_ENTRY="- [$RESOURCE_NAME]($RESOURCE_URL) $DESCRIPTION ⭐ [$GITHUB_STARS]($GITHUB_URL)"
+          elif [[ -n "$GITHUB_URL" ]]; then
+            RESOURCE_ENTRY="- [$RESOURCE_NAME]($RESOURCE_URL) $DESCRIPTION ⭐ [GitHub]($GITHUB_URL)"
+          else
+            RESOURCE_ENTRY="- [$RESOURCE_NAME]($RESOURCE_URL) $DESCRIPTION"
+          fi
+          
+          echo "Resource entry: $RESOURCE_ENTRY"
+          
+          # Check if resource already exists
+          if grep -q "\\[$RESOURCE_NAME\\]($RESOURCE_URL)" README.md; then
+            echo "duplicate=true" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          # Find category section and add resource
+          # This is a simple approach - add to the end of the category section
+          if grep -q "# $CATEGORY" README.md; then
+            # Find the line number of the category
+            CATEGORY_LINE=$(grep -n "# $CATEGORY" README.md | head -1 | cut -d: -f1)
+            
+            # Find the next category or end of file
+            NEXT_CATEGORY_LINE=$(tail -n +$((CATEGORY_LINE + 1)) README.md | grep -n "^# " | head -1 | cut -d: -f1)
+            
+            if [[ -n "$NEXT_CATEGORY_LINE" ]]; then
+              INSERT_LINE=$((CATEGORY_LINE + NEXT_CATEGORY_LINE - 1))
+            else
+              INSERT_LINE=$(wc -l < README.md)
+              INSERT_LINE=$((INSERT_LINE + 1))
             fi
-            # Try to push again, with force if needed
-            git push --force-with-lease origin ${{ steps.branch-name.outputs.branch_name }}
+            
+            # Insert the resource
+            {
+              head -n $((INSERT_LINE - 1)) README.md
+              echo "$RESOURCE_ENTRY"
+              tail -n +$INSERT_LINE README.md
+            } > README_temp.md
+            
+            mv README_temp.md README.md
+            echo "updated=true" >> $GITHUB_OUTPUT
+          else
+            echo "category_not_found=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Create Pull Request
-        if: steps.update-readme.outputs.updated_readme == 'true'
-        id: create-pr
-        uses: peter-evans/create-pull-request@v5
+      - name: Handle errors
+        if: steps.update-readme.outputs.duplicate == 'true' || steps.update-readme.outputs.category_not_found == 'true'
+        uses: actions/github-script@v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Add ${{ fromJSON(steps.parse-issue.outputs.result).resourceName }} to ${{ fromJSON(steps.parse-issue.outputs.result).category }}"
-          branch: ${{ steps.branch-name.outputs.branch_name }}
-          delete-branch: true
-          title: "Add ${{ fromJSON(steps.parse-issue.outputs.result).resourceName }} to ${{ fromJSON(steps.parse-issue.outputs.result).category }}${{ contains(fromJSON(steps.parse-issue.outputs.result).subcategory, 'Other') && fromJSON(steps.parse-issue.outputs.result).subcategory != '' ? '' : format(' ({0})', fromJSON(steps.parse-issue.outputs.result).subcategory) }}"
-          body: |
-            ## Resource Addition
-            
-            This PR adds [${{ fromJSON(steps.parse-issue.outputs.result).resourceName }}](${{ fromJSON(steps.parse-issue.outputs.result).resourceUrl }}) to the ${{ fromJSON(steps.parse-issue.outputs.result).category }} section${{ contains(fromJSON(steps.parse-issue.outputs.result).subcategory, 'Other') && fromJSON(steps.parse-issue.outputs.result).subcategory != '' ? '' : format(' under {0}', fromJSON(steps.parse-issue.outputs.result).subcategory) }}.
-            
-            ### Description
-            ${{ fromJSON(steps.parse-issue.outputs.result).description }}
-            
-            ### Resource Type
-            ${{ fromJSON(steps.parse-issue.outputs.result).resourceType }}
-            
-            ${{ fromJSON(steps.parse-issue.outputs.result).tags ? format('### Tags\n{0}', fromJSON(steps.parse-issue.outputs.result).tags) : '' }}
-            
-            Closes #${{ steps.get-issue.outputs.issue_number }}
-          labels: |
-            resource-addition
-            automated-pr
-          base: main
-          
-      - name: Process issue after PR creation
-        if: steps.create-pr.outputs.pull-request-number
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const issueNumber = ${{ steps.get-issue.outputs.issue_number }};
-            const prNumber = ${{ steps.create-pr.outputs.pull-request-number }};
+            const issueNumber = "${{ steps.get-issue.outputs.issue_number }}";
+            let message = "";
             
-            // Comment on the issue
+            if ("${{ steps.update-readme.outputs.duplicate }}" === "true") {
+              message = "❌ **Duplicate Resource**: This resource already exists in the README.md file.";
+            } else if ("${{ steps.update-readme.outputs.category_not_found }}" === "true") {
+              message = "❌ **Category Not Found**: The category '${{ steps.parse-issue.outputs.category }}' was not found in README.md.";
+            }
+            
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: parseInt(issueNumber),
-              body: `✅ Thank you for your submission! A pull request has been created: #${prNumber}`
+              body: message
             });
             
-            // Add 'processed' label to the issue
-            await github.rest.issues.addLabels({
+            core.setFailed("Resource submission failed");
+
+      - name: Create Pull Request
+        if: steps.update-readme.outputs.updated == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Add ${{ steps.parse-issue.outputs.resource_name }} to ${{ steps.parse-issue.outputs.category }}"
+          title: "Add ${{ steps.parse-issue.outputs.resource_name }} to ${{ steps.parse-issue.outputs.category }}"
+          body: |
+            ## 🚀 New Resource Addition
+            
+            **Resource**: [${{ steps.parse-issue.outputs.resource_name }}](${{ steps.parse-issue.outputs.resource_url }})
+            **Category**: ${{ steps.parse-issue.outputs.category }}
+            **Type**: ${{ steps.parse-issue.outputs.resource_type }}
+            
+            ### Description
+            ${{ steps.parse-issue.outputs.description }}
+            
+            ---
+            
+            Closes #${{ steps.get-issue.outputs.issue_number }}
+            
+            This PR was automatically created from a resource submission.
+          branch: add-resource-${{ steps.get-issue.outputs.issue_number }}
+          delete-branch: true
+          labels: |
+            resource-addition
+            automated-pr
+
+      - name: Comment on success
+        if: steps.update-readme.outputs.updated == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: parseInt(issueNumber),
-              labels: ['processed']
+              issue_number: parseInt("${{ steps.get-issue.outputs.issue_number }}"),
+              body: "✅ **Success!** Your resource submission has been processed and a Pull Request has been created. Thank you for contributing to freeForGeeks! 🎉"
             });
             
             // Close the issue
             await github.rest.issues.update({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: parseInt(issueNumber),
+              issue_number: parseInt("${{ steps.get-issue.outputs.issue_number }}"),
               state: 'closed'
             });
