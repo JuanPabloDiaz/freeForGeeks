@@ -16,9 +16,11 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [Frontend](#frontend)
 - [Backend](#backend)
+- [APIs & Services](#apis)
+- [Database & Data Management](#database)
 - [DevSecOps](#devsecops)
+- [Machine Learning](#machine-learning)
 - [Open Source](#open-source)
-- [Others](#others)
 - [Resources](#resources)
 - [Career Development](#career-development)
 - [Other Resources](#other-great-resources)
@@ -306,9 +308,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 9. [Phoenix](https://www.phoenixframework.org) is a web development framework written in Elixir which implements the server-side Model-View-Controller (MVC) pattern. ⭐ [20.7k stars](https://github.com/phoenixframework/phoenix)
 10. [ASP.NET Core](https://dotnet.microsoft.com/learn/aspnet/what-is-aspnet-core) is a free and open-source web framework developed by Microsoft for building modern internet-connected applications. It is a modular framework that runs on both the full .NET Framework, on Windows, and the cross-platform .NET Core. ⭐ [12.4k stars](https://github.com/dotnet/AspNetCore.Docs)
 
-<!-- need some work -->
-
-## Others
+## Backend Tools
 
 - [Biome.js](https://biomejs.dev) is a `toolchain for web projects`, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. ⭐ [19k stars](https://github.com/biomejs/biome)
 - [Format.js](https://formatjs.io) is the monorepo home to all of the FormatJS related libraries, most notably react-intl. ⭐ [14k stars](https://github.com/formatjs/formatjs?tab=readme-ov-file)
@@ -336,7 +336,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 <section id="apis">
 
-## APIs
+# APIs & Services
 
 <!-- tabs:start -->
 
@@ -391,7 +391,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 <h6>Database</h6>
 
-- [Pantry](https://usebruno.com) is a free API for hosting small pieces of data. It let you setup a small database in seconds. 100 mb of JSON storage. It's like TinyDB but in the cloud.
+- [Pantry](https://getpantry.cloud) is a free API for hosting small pieces of data. It let you setup a small database in seconds. 100 mb of JSON storage. It's like TinyDB but in the cloud.
 
 <h6>Diagram Creation</h6>
 
@@ -641,7 +641,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 </section>
 
-## Machine Learning
+# Machine Learning
 
 - [Arize AI](https://arize.com) - Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models.
 - [Bigml](https://bigml.com) — Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task.
@@ -691,6 +691,10 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 <!-- need work -->
 
+<section id="database">
+
+# Database & Data Management
+
 ## Authentication
 
 - [Auth0](https://auth0.com) is a flexible, drop-in solution to add authentication and authorization services to your applications. ⭐ [GitHub](https://github.com/auth0/nextjs-auth0)
@@ -702,7 +706,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [SuperTokens](https://supertokens.com) is an open-source alternative to Auth0/ Firebase Auth / AWS Cognito. ⭐ [12k stars](https://github.com/supertokens/supertokens-core)
 - [Logto](https://logto.io) is an Auth0 alternative designed for modern apps and SaaS products. It offers a seamless developer experience and is well-suited for individuals and growing companies. ⭐ [7.5k stars](https://github.com/logto-io/logto)
 
-## Database
+## Database Management
 
 1. [Supabase](https://supabase.io) is an open-source Firebase alternative. ⭐ [65k stars](https://github.com/supabase/supabase)
 2. [Redis](https://redis.io) is an `in-memory database` that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. ⭐ [65k stars](https://github.com/redis/redis)
@@ -721,6 +725,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 15. [Oracle Database](https://www.oracle.com/database/technologies/appdev/xe.html#:~:text=Free%20Oracle%20Database%20for%20Everyone&text=You%20get%20an%20Oracle%20Database,and%20redistribute%20%E2%80%93%20all%20completely%20free!) is a free Oracle Database for Everyone. You get an Oracle Database to use, develop, test, and deploy applications. You can redistribute it – all completely free! ⭐ [GitHub](https://github.com/oracle)
 
 ## Headless CMS
+
+</section>
 
 - [Directus](https://directus.io) is an open-source headless CMS and API for custom databases. It decouples the content from the presentation layer, making it easy to manage and deliver content to any device or platform. Directus handles APIs, Auth, Admin, and more. ⭐ [26k stars](https://github.com/directus/directus)
 
