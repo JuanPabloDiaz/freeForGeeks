@@ -61,6 +61,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 6. [Tailwind Components - Dashboard](https://tailwindcomponents.com/components/dashboard) is a free Tailwind CSS Dashboard template. ⭐ [568 stars](https://github.com/tailwindcomponents/dashboard)
 7. [Tailwind Toolbox - Dashboard](https://tailwindtoolbox.github.io/Admin-Template) is a free Tailwind CSS Dashboard template. ⭐ [328 stars](https://github.com/tailwindtoolbox/Admin-Template)
 
+- [jules](https://jules.google.com) https://jules.google.com/ ⭐ [_No response_](_No response_)
+
 ## Component Libraries
 
 🏆 [Shadcn](https://ui.shadcn.com) `Build your component library and own the code.` is a beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. ⭐ [51.4k stars](https://github.com/shadcn-ui/ui)
