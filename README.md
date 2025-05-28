@@ -45,6 +45,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 <!-- ⭐ [Star on GitHub](https://github.com/JuanPabloDiaz/freeForGeeks) ⭐ ☕ [Buy me a coffee](https://www.buymeacoffee.com/1diazdev) ☕ -->
 
+<section id="frontend">
+
 # Frontend
 
 [Frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
@@ -271,7 +273,11 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
+</section>
+
 <!-- Backend -->
+
+<section id="backend">
 
 # Backend
 
@@ -315,8 +321,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Orama](https://docs.askorama.ai) - 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! ⭐ [8k stars](https://github.com/askorama/orama)
 - [flagsmith](https://www.flagsmith.com) is an open-source, fully supported, Feature Flag and Remote Config service. Use our hosted API, deploy to your own private cloud, or run on-premise. ⭐ [4.5k stars](https://github.com/Flagsmith/flagsmith)
 
-<!-- need some work -->
-
 ## Serverless Frameworks
 
 - [Serverless Stack](https://serverless-stack.com) is a comprehensive guide to creating full-stack serverless applications. ⭐ [20k stars](https://github.com/sst/sst)
@@ -342,31 +346,35 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 #### **Development Tools**
 
-<h6>Web Development Tools</h6>
-
-- [Doczilla](https://www.doczilla.app) is a SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
-- [Doppio](https://doppio.sh) is a fully managed API to generate and privately store documents and screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.
-- [Geekflare API](https://geekflare.com/api) lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 3,000 API requests.
-- [Glitterly](https://glitterly.app) is a tool to generate dynamic images from base templates. Restful API and nocode integrations. The free tier comes with 50 images/month and five templates.
-
-<h6>API Development Tools</h6>
+<h6>API Development & Testing Tools</h6>
 
 - [Hoppscotch](https://hoppscotch.io) is a lightweight, fast, and customizable app for testing and designing APIs. A free, fast, and beautiful `API request builder`. ⭐ [61k stars](https://github.com/hoppscotch/hoppscotch)
 - [HTTPie](https://httpie.io) is a free command-line HTTP client for the API era. It's a user-friendly cURL alternative. HTTPie is making APIs simple and intuitive for those building the tools of our time. ⭐ [32.5k stars](https://github.com/httpie/cli)
 - [Insomnia](https://insomnia.rest) is a free API client that allows you to design, debug, test, and mock APIs locally, on Git, or cloud. ⭐ [33.5k stars](https://github.com/Kong/insomnia)
 - [tRPC](https://trpc.io) Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ⭐ [32.3k stars](https://github.com/trpc/trpc)
 - [Bruno](https://www.usebruno.com) is a Fast and Git-Friendly Open-source API client, aimed at revolutionizing the status quo represented by Postman, Insomnia and similar tools out there.⭐ [21k stars](https://github.com/usebruno/bruno)
-- [PipeDream](https://pipedream.com/requestbin) allow you to `create a free endpoint` to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services. ⭐ [8.5k stars](https://github.com/PipedreamHQ/pipedream)
-- [Wrap Api](https://wrapapi.com) `turns any website into a parameterized API`. 30k API calls per month.
 - [Postman](https://postman.com) is a simplify workflows and create better APIs – faster – with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits. ⭐ [6k stars](https://github.com/postmanlabs/postman-app-support)
 - [Thunder Client](https://thunderclient.com) is a free API client for `VS Code`. It's a lightweight, fast, and easy-to-use REST client. ⭐ [3.6k stars](https://github.com/thunderclient/thunder-client-support)
 - [Yaak](https://yaak.app) is a cross-platform desktop app for interacting with REST, GraphQL, and gRPC. It's a Postman alternative to try your APIs.
-- [Colab](https://colab.research.google.com) is a free Jupyter notebook (Python) environment that requires no setup and runs entirely in the cloud. It includes free GPU and TPU.
-- [CurlHub](https://curlhub.io) is a `proxy service` for inspecting and debugging API calls. The free plan includes 10,000 requests per month. ⭐ [GitHub](https://github.com/curlhub/curlhub)
 - [Firecamp](https://firecamp.io) is a free API tool for `API testing, debugging, monitoring, and automation`. ⭐ [1.7k stars](https://github.com/firecamp-dev/firecamp)
 - [Nightingale](https://nightingale.rest) A modern, resource-friendly REST client for Windows 10. ⭐ [723 stars](https://github.com/jenius-apps/nightingale-rest-api-client)
 - [Apidog](https://apidog.com) is a complete set of tools that connects the entire API lifecycle, helping R&D teams implement best practices for API Design-first development.
+
+<h6>API Monitoring & Debugging</h6>
+
+- [PipeDream](https://pipedream.com/requestbin) allow you to `create a free endpoint` to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services. ⭐ [8.5k stars](https://github.com/PipedreamHQ/pipedream)
+- [CurlHub](https://curlhub.io) is a `proxy service` for inspecting and debugging API calls. The free plan includes 10,000 requests per month. ⭐ [GitHub](https://github.com/curlhub/curlhub)
+- [API Toolkit](https://apitoolkit.io) - All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. The free plan covers servers with up to 20,000 requests per month.
+
+<h6>Web Development & Document Generation</h6>
+
+- [Doczilla](https://www.doczilla.app) is a SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
+- [Doppio](https://doppio.sh) is a fully managed API to generate and privately store documents and screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.
+- [Geekflare API](https://geekflare.com/api) lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 3,000 API requests.
+- [Glitterly](https://glitterly.app) is a tool to generate dynamic images from base templates. Restful API and nocode integrations. The free tier comes with 50 images/month and five templates.
+- [Wrap Api](https://wrapapi.com) `turns any website into a parameterized API`. 30k API calls per month.
 - [Render API](https://docs.render.com/api) provides a public REST API for managing your services and other resources programmatically. ⭐ [GitHub](https://github.com/renderinc)
+- [Colab](https://colab.research.google.com) is a free Jupyter notebook (Python) environment that requires no setup and runs entirely in the cloud. It includes free GPU and TPU.
 
 <h6>Documentation Tools</h6>
 
@@ -377,16 +385,19 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Hook0](https://www.hook0.com) is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with seven days of history retention for free.
 - [Svix](https://www.svix.com) is a `webhooks as a Service`. Build a secure, reliable, and scalable webhook sending platform using the Svix webhook service. Send up to 50,000 messages/month for free.
 
-#### **Data <span class="tab-badge">New!</span>**
+#### **Data & Testing <span class="tab-badge">New!</span>**
 
 <h6>Test Data Generation</h6>
 
 - [Fakerjs](https://fakerjs.dev) is a tool to generate massive amounts of `fake data` in the browser and node.js. ⭐ [11.5k stars](https://github.com/faker-js/faker)
-- [Retool](https://retool.com/api-generator) is a `REST API Generator`. A tool to generate `fake data` for testing and development. Generate a custom dataset that you can read and write to via a REST API.
-- [Beeceptor](https://beeceptor.com) is a Rest API mocking and intercepting in seconds. Replace the endpoint in the code and you are ready. It's that simple! Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone with a dashboard link can view submissions and answers).
 - [DummyJSON](https://dummyjson.com) is a tool to generate massive amounts of `fake data` in the browser and node.js. ⭐ [1.3k stars](https://github.com/Ovi/DummyJSON)
 - [Random User Generator](https://randomuser.me) is a free, open-source API for generating random user data. Like Lorem Ipsum, but for people. ⭐ [1.3k stars](https://github.com/RandomAPI/Randomuser.me-Node)
 - [Random Data](https://random-data-api.com) is a free API for random fake data. It does not require any authentication.
+
+<h6>API Mocking & Testing</h6>
+
+- [Retool](https://retool.com/api-generator) is a `REST API Generator`. A tool to generate `fake data` for testing and development. Generate a custom dataset that you can read and write to via a REST API.
+- [Beeceptor](https://beeceptor.com) is a Rest API mocking and intercepting in seconds. Replace the endpoint in the code and you are ready. It's that simple! Mock a rest API in seconds, fake API response and much more. Free 50 requests per day, public dashboard, open endpoints (anyone with a dashboard link can view submissions and answers).
 - [Microenv](https://microenv.com) allow you to `create fake REST API` for developers with the possibility to generate code and app in a docker container.
 
 <h6>Database</h6>
@@ -530,44 +541,38 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Open Weather API](https://openweathermap.org/api) is a free API for weather. The API provides access to current weather data, forecasts, and historical data. The free plan includes 1,000 API calls per day.
 - [Meteo Source](https://www.meteosource.com) is a `global weather API` for current and forecasted weather data. Forecasts are based on a machine learning combination of more weather models to achieve better accuracy. The free plan comes with 400 calls per day.
 
-#### **Others**
+#### **Specialized APIs**
 
-<!-- Countries -->
-<h6>Countries</h6>
+<h6>Countries & Geopolitical Data</h6>
 
 - [API COLOMBIA](https://api-colombia.com) is a public api that contains info about Colombia, departments, cities, tourists places and presidents. ⭐ [GitHub](https://github.com/Mteheran/api-colombia)
+- [Rest Countries](https://restcountries.com) is a free API to get information about countries.
 
-<!-- Security -->
-<h6>Security</h6>
+<h6>Security & Threat Intelligence</h6>
 
-- [IntelOwl’s](https://intelowlproject.github.io) is a free API for `threat intelligence`. The API provides access to threat intelligence data. ⭐ [3.2k stars](https://github.com/intelowlproject/IntelOwl)
+- [IntelOwl's](https://intelowlproject.github.io) is a free API for `threat intelligence`. The API provides access to threat intelligence data. ⭐ [3.2k stars](https://github.com/intelowlproject/IntelOwl)
 
-<!-- News -->
-  <h6>News</h6>
+<h6>News & Media</h6>
 
 - [World News](https://newsapi.org), [World News API](https://worldnewsapi.com) are free API for news. The World News API gives you access to thousands of news sources in over 50 languages from over 150 countries. News are semantically tagged allowing for semantic news search like never before.
 - [News API](https://newsapi.org) — Search news on the web with code, and get JSON results. Developers get 3,000 queries free each month.
 
-<!-- Write -->
-<h6>Write</h6>
+<h6>Language & Text Processing</h6>
 
 - [Free Dictionary API](https://dictionaryapi.dev) is a free API for `dictionary`. The API provides access to definitions, synonyms, antonyms, translations, and more. ⭐ [GitHub](https://github.com/meetDeveloper/freeDictionaryAPI)
 - [Zen Quotes](https://zenquotes.io) is a free API for `quotes`.
 
-<!-- Validation -->
-<h6>Validation</h6>
+<h6>Validation & Verification</h6>
 
 - [Mailbox Validator](https://www.mailboxvalidator.com) is an `email verification service` using real mail server connection to confirm valid email. The free API plan has 300 verifications per month.
 - [Vatcheckapi](https://vatcheckapi.com) is a simple and free `VAT number validation API`. Five hundred free requests per month.
 - [Numlookupapi](https://numlookupapi.com) is a free and reliable `phone number validation API` - 100k free requests / month.
 
-<!-- Health -->
-<h6>Health</h6>
+<h6>Health & Medical</h6>
 
 - [Disease](https://disease.sh) is a free API for Current cases and more stuff about COVID-19 and Influenza.
 
-<!-- Food -->
-<h6>Food</h6>
+<h6>Food & Nutrition</h6>
 
 - [Open Food Facts](https://world.openfoodfacts.org) is a free API for `food products`. The API provides access to food products, ingredients, and more.
 
@@ -689,24 +694,13 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Select Star](https://www.selectstar.com) - is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 Tables and 10 Users.
 - [Shipyard](https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user - more than enough to automate multiple workflows.
 
-<!-- need work -->
+</section>
 
 <section id="database">
 
 # Database & Data Management
 
-## Authentication
-
-- [Auth0](https://auth0.com) is a flexible, drop-in solution to add authentication and authorization services to your applications. ⭐ [GitHub](https://github.com/auth0/nextjs-auth0)
-- [Firebase Auth](https://firebase.google.com) is a platform developed by Google for creating mobile and web applications. ⭐ [GitHub](https://github.com/firebase)
-- [Clerk](https://clerk.dev) is a developer-first identity and user management platform. ⭐ [GitHub](https://github.com/clerk/javascript)
-- [Supabase Auth](https://supabase.io) is an open-source Firebase alternative. ⭐ [GitHub](https://github.com/supabase/auth)
-- [NextAuth.js / Auth.js](https://next-auth.js.org) is a complete open-source authentication solution for Next.js applications. ⭐ [22k stars](https://github.com/nextauthjs/next-auth)
-- [Appwrite Auth](https://appwrite.io) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [GitHub](https://github.com/appwrite/appwrite)
-- [SuperTokens](https://supertokens.com) is an open-source alternative to Auth0/ Firebase Auth / AWS Cognito. ⭐ [12k stars](https://github.com/supertokens/supertokens-core)
-- [Logto](https://logto.io) is an Auth0 alternative designed for modern apps and SaaS products. It offers a seamless developer experience and is well-suited for individuals and growing companies. ⭐ [7.5k stars](https://github.com/logto-io/logto)
-
-## Database Management
+## Database Management Systems
 
 1. [Supabase](https://supabase.io) is an open-source Firebase alternative. ⭐ [65k stars](https://github.com/supabase/supabase)
 2. [Redis](https://redis.io) is an `in-memory database` that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. ⭐ [65k stars](https://github.com/redis/redis)
@@ -724,13 +718,22 @@ A collection of links to **free resources** and **tools** for developers. It inc
 14. [MongoDB Atlas Device](https://www.mongodb.com/docs/realm) is a fully managed cloud database developed by the same people that build MongoDB. Atlas Device SDK is a mobile-first database designed for modern, data-driven applications.
 15. [Oracle Database](https://www.oracle.com/database/technologies/appdev/xe.html#:~:text=Free%20Oracle%20Database%20for%20Everyone&text=You%20get%20an%20Oracle%20Database,and%20redistribute%20%E2%80%93%20all%20completely%20free!) is a free Oracle Database for Everyone. You get an Oracle Database to use, develop, test, and deploy applications. You can redistribute it – all completely free! ⭐ [GitHub](https://github.com/oracle)
 
-## Headless CMS
+## Authentication & Identity Management
 
-</section>
+- [Auth0](https://auth0.com) is a flexible, drop-in solution to add authentication and authorization services to your applications. ⭐ [GitHub](https://github.com/auth0/nextjs-auth0)
+- [Firebase Auth](https://firebase.google.com) is a platform developed by Google for creating mobile and web applications. ⭐ [GitHub](https://github.com/firebase)
+- [Clerk](https://clerk.dev) is a developer-first identity and user management platform. ⭐ [GitHub](https://github.com/clerk/javascript)
+- [Supabase Auth](https://supabase.io) is an open-source Firebase alternative. ⭐ [GitHub](https://github.com/supabase/auth)
+- [NextAuth.js / Auth.js](https://next-auth.js.org) is a complete open-source authentication solution for Next.js applications. ⭐ [22k stars](https://github.com/nextauthjs/next-auth)
+- [Appwrite Auth](https://appwrite.io) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment. ⭐ [GitHub](https://github.com/appwrite/appwrite)
+- [SuperTokens](https://supertokens.com) is an open-source alternative to Auth0/ Firebase Auth / AWS Cognito. ⭐ [12k stars](https://github.com/supertokens/supertokens-core)
+- [Logto](https://logto.io) is an Auth0 alternative designed for modern apps and SaaS products. It offers a seamless developer experience and is well-suited for individuals and growing companies. ⭐ [7.5k stars](https://github.com/logto-io/logto)
+
+## Headless CMS
 
 - [Directus](https://directus.io) is an open-source headless CMS and API for custom databases. It decouples the content from the presentation layer, making it easy to manage and deliver content to any device or platform. Directus handles APIs, Auth, Admin, and more. ⭐ [26k stars](https://github.com/directus/directus)
 
-## DataSet
+## Data Sources & Datasets
 
 - [Public Data Sets](https://cloud.google.com/public-datasets) is a collection of public datasets that Google hosts for you to explore and analyze.
 - [Kaggle](https://www.kaggle.com/datasets) is the world's largest data science community with powerful tools and resources to help you achieve your data science goals.
@@ -754,7 +757,11 @@ Datos.gov...
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
+</section>
+
 <!-- DevSecOps -->
+
+<section id="devsecops">
 
 # DevSecOps
 
@@ -859,7 +866,11 @@ Datos.gov...
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
+</section>
+
 <!-- Open Source  -->
+
+<section id="open-source">
 
 # Open Source
 
@@ -1092,7 +1103,11 @@ Datos.gov...
 
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
+</section>
+
 <!-- Others -->
+
+<section id="others">
 
 # Others
 
@@ -1494,5 +1509,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 <div style="float: right"><a href="#"><img src="backtotop.jpg" width="100"></a></div>
 
 - [Electron](https://www.electronjs.org) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+</section>
 
 <footer id="mb-footer"></footer>
