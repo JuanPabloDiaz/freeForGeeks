@@ -1,0 +1,151 @@
+name: 🚀 Resource Submission
+description: Submit a new resource to be added to freeForGeeks
+title: "[Resource]: "
+labels: ["resource-submission", "needs-review"]
+assignees:
+  - JuanPabloDiaz
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Thanks for contributing to freeForGeeks!
+        Please fill out the information below to submit a new resource.
+        
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource Name
+      description: The name of the resource you want to add
+      placeholder: e.g., "Awesome Tool"
+    validations:
+      required: true
+      
+  - type: input
+    id: resource-url
+    attributes:
+      label: Resource URL
+      description: The URL of the resource
+      placeholder: e.g., https://example.com
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category does this resource belong to?
+      options:
+        - Frontend
+        - Backend
+        - DevSecOps
+        - Open Source
+        - Others
+        - Resources
+        - Career Development
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: subcategory
+    attributes:
+      label: Subcategory
+      description: Which subcategory does this resource belong to? (If none apply, select "Other")
+      options:
+        - Dashboards and Admin Panels
+        - Component Libraries
+        - Data Visualization Components
+        - Maps and Geolocation
+        - Utility libraries
+        - 3D and Animation Libraries
+        - Slider and Carousel Libraries
+        - TypeScript
+        - React
+        - Vue
+        - Starter Templates
+        - E-commerce
+        - Colors
+        - CSS
+        - Low Code
+        - Runtime Environments
+        - Server-Side Scripting
+        - Web Framework
+        - Logging Framework
+        - APIs
+        - Serverless Frameworks
+        - Database
+        - Headless CMS
+        - Other
+    validations:
+      required: true
+      
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A brief description of the resource (2-3 sentences)
+      placeholder: "This resource is a..."
+    validations:
+      required: true
+      
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Comma-separated list of relevant tags
+      placeholder: e.g., javascript, tools, productivity
+    validations:
+      required: false
+      
+  - type: dropdown
+    id: resource-type
+    attributes:
+      label: Resource Type
+      description: What type of resource is this?
+      options:
+        - Website
+        - Tool
+        - Library
+        - Framework
+        - Course
+        - Documentation
+        - Tutorial
+        - API
+        - Other
+    validations:
+      required: true
+      
+  - type: checkboxes
+    id: free
+    attributes:
+      label: Is it completely free?
+      description: Please confirm if this resource is completely free to use
+      options:
+        - label: Yes, this resource is completely free
+          required: true
+          
+  - type: input
+    id: github-stars
+    attributes:
+      label: GitHub Stars (if applicable)
+      description: If the resource has a GitHub repository, how many stars does it have?
+      placeholder: e.g., 10k stars
+    validations:
+      required: false
+      
+  - type: input
+    id: github-url
+    attributes:
+      label: GitHub URL (if applicable)
+      description: If the resource has a GitHub repository, please provide the URL
+      placeholder: e.g., https://github.com/username/repo
+    validations:
+      required: false
+      
+  - type: textarea
+    id: additional-notes
+    attributes:
+      label: Additional Notes
+      description: Any additional information you'd like to provide
+      placeholder: "Additional details..."
+    validations:
+      required: false
