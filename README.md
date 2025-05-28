@@ -239,7 +239,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [Create T3](https://create.t3.gg) is the best way to start a full-stack, typesafe Next.js app. Simply run `npm create t3-app@latest`. T3 stack includes Next.js, tRPC, Tailwind CSS, TypeScript, Prisma, Drizzle, NextAuth.js. ⭐ [GitHub](https://github.com/t3-oss/create-t3-app)
 - [Create React App](https://create-react-app.dev) is a tool to create React apps with no build configuration. Simply run `npx create-react-app my-app` ⭐ [102k stars](https://github.com/facebook/create-react-app)
-- [Create an Astro project](https://astro.build) Simply run `npm create astro@latest`. ⭐ [GitHub](https://github.com/withastro/astro)
 
 ## E-commerce
 
@@ -283,11 +282,9 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [Awesome Python](https://awesome-python.com) is a curated list of awesome Python frameworks, libraries, software, and resources. ⭐ [201k stars](https://github.com/vinta/awesome-python)
 
-- [ohmyzsh](https://ohmyz.sh) is a delightful, open-source, community-driven framework for managing your Zsh configuration. ⭐ [170k stars](https://github.com/ohmyzsh/ohmyzsh)
-
 1. [Amplication](https://amplication.com) is the Fastest Way in the World to Build Backend Services.🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding. ⭐ [13.3k stars](https://github.com/amplication/amplication)
 
-## Runtime Environments
+## Programming Languages & Runtime Environments
 
 - [Deno](https://deno.land) is a modern runtime for JavaScript and TypeScript. ⭐ [93k stars](https://github.com/denoland/deno)
 - [Go](https://go.dev) is an open-source programming language that makes it easy to build simple, reliable, and efficient software. ⭐ [120.1k stars](https://github.com/golang/go)
@@ -366,6 +363,10 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [CurlHub](https://curlhub.io) is a `proxy service` for inspecting and debugging API calls. The free plan includes 10,000 requests per month. ⭐ [GitHub](https://github.com/curlhub/curlhub)
 - [API Toolkit](https://apitoolkit.io) - All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. The free plan covers servers with up to 20,000 requests per month.
 
+<h6>Documentation Tools</h6>
+
+- [API Toolkit](https://apitoolkit.io) - All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. The free plan covers servers with up to 20,000 requests per month.
+
 <h6>Web Development & Document Generation</h6>
 
 - [Doczilla](https://www.doczilla.app) is a SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
@@ -376,9 +377,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Render API](https://docs.render.com/api) provides a public REST API for managing your services and other resources programmatically. ⭐ [GitHub](https://github.com/renderinc)
 - [Colab](https://colab.research.google.com) is a free Jupyter notebook (Python) environment that requires no setup and runs entirely in the cloud. It includes free GPU and TPU.
 
-<h6>Documentation Tools</h6>
 
-- [API Toolkit](https://apitoolkit.io) - All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. The free plan covers servers with up to 20,000 requests per month.
 
 <h6>Webhooks</h6>
 
@@ -447,7 +446,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [GeoDB Cities API](http://geodb-cities-api.wirefreethought.com) is an online places database. It exposes city, county, island, region, and country data via both GraphQL and REST APIs.
 - [GeoDataSource](https://www.geodatasource.com) Location Search Web Service is a REST API to lookup for city name by using latitude and longitude coordinate. It will return the result in either JSON or XML containing the information of the nearest country, region, city, latitude, longitude, currency code, and more. Free API queries up to 500 times per month.
 - [IP Geolocation API](https://ipgeolocation.io) is a free IP geolocation API. ⭐ [GitHub]()
-- [IP API](https://ipapi.com) is a free IP Geolocation API. Real-time Geolocation & Reverse IP Lookup REST API. ⭐ [GitHub](https://github.com/apilayer/ipapi)
 - [IP Api.co](https://ipapi.co) is a reliable `geolocation API` built on AWS, trusted by Fortune 500. The free tier offers 30k lookups/month (1k/day) without signup. ⭐ [GitHub](https://github.com/ipapi-co/ipapi-co.github.io)
 - [IP City](https://ip.city) is a free IP Geolocation API. 100 Free requests per day.
 - [IP Base](https://ipbase.com) is a IP geolocation API. Free forever that spans 150 monthly requests.
@@ -471,7 +469,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Free APIs](https://free-apis.github.io)<!-- https://free-apis.com/#/ --> is `collection of free APIs` derived from [Public APIs](https://github.com/public-apis/public-apis) ⭐ [286k stars](https://github.com/public-apis/public-apis) ⭐ [196k stars](https://github.com/Free-APIs/Free-APIs.github.io)
 - [Rapid api](https://rapidapi.com) is the world’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!) and interactive examples.
 - [OpenWeb Ninja](https://www.openwebninja.com) - Extremely comprehensive real-time SERP and public data APIs: Google Search, Shopping, Jobs, Images, Lens, News, Google Maps Businesses / Places, Reviews, Photos, Website Emails and Social Contacts Scraper, Amazon, Yelp and more. All APIs include a free tier with 100 to 200 free monthly requests.
-- [NASA (multiple APIs)](https://api.nasa.gov) is a collection of free API for `space`. The API provides access to images, videos, asteroids, and more.
 - [Apislist](https://apislist.com) is a collection of free APIs. Curated Playground for the Best Public Web APIs!
 
 #### **Entertainment <span class="tab-badge">New!</span>**
@@ -506,7 +503,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 <h6>Fun and Miscellaneous</h6>
 
 - [Deck of Cards](https://deckofcardsapi.com) is an API to simulate a deck of cards. The API provides access to a deck of cards.
-- [Bored API](https://bored.api.lewagon.com) is a free API for `random activities`. The API provides access to random activities. ⭐ [GitHub](https://github.com/drewthoennes/Bored-API)
+- [Bored API](https://bored.api.lewagon.com) is a free API for `random activities`. The API provides access to random activities. ⭐ [GitHub](https://github.com/drewtheclark/Bored-API)
 - [Dragon Ball API](https://web.dragonball-api.com) is a free API for `Dragon Ball`. The API provides access to characters and more.
 
 #### **Scraping**
@@ -838,10 +835,6 @@ Datos.gov...
 4. [checklyhq](https://checklyhq.com) is a **API monitoring** service that checks your APIs every 5 minutes and alerts you if your APIs are down. ⭐ [GitHub](https://github.com/checkly)
 5. [New Relic](https://newrelic.com) is a **performance monitoring** tool that helps you to monitor, troubleshoot, and optimize your application performance. ⭐ [GitHub](https://github.com/newrelic)
 
-- [lighthouse](https://developers.google.com/web/tools/lighthouse) is an automated auditing, performance metrics, and best practices. For improving the quality of web pages. ⭐ [28k stars](https://github.com/GoogleChrome/lighthouse)
-- [GTmetrix](https://gtmetrix.com) tells you how your website performs, why it's slow, and how to optimize it.
-- [Datadog](https://www.datadoghq.com) is a **cloud-scale monitoring** service that provides monitoring of servers, databases, tools, and services through a SaaS-based data analytics platform.
-
 ## Analytics
 
 - [Google Analytics](https://analytics.google.com) is a web analytics service offered by Google that tracks and reports website traffic.
@@ -895,7 +888,7 @@ Datos.gov...
 - [Sonarr](https://sonarr.tv) is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort, and rename them. ⭐ [9.8k stars](https://github.com/Sonarr/Sonarr)
 - [RPI Monitor](https://xavierberger.github.io/RPi-Monitor-docs/index.html) is a monitoring tool for Raspberry Pi. A monitoring solution for Docker hosts and containers with Prometheus, Grafana, cAdvisor, NodeExporter, and alerting with AlertManager. ⭐ [9.5k stars](https://github.com/XavierBerger/RPi-Monitor)
 - [Radarr](https://radarr.video) is a movie collection manager for Usenet and BitTorrent users. [9.2k stars](https://github.com/Radarr/Radarr)
-- [Homer](https://homer-demo.netlify.app) is a dead simple static HOMepage for your servER to keep your services on hand, from a simple yaml configuration file. ⭐ [8.5k stars](https://github.com/bastienwirtz/homer)
+- [Homer](https://homer-demo.netlify.app) is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. ⭐ [8.5k stars](https://github.com/bastienwirtz/homer)
 - [Heimdall](https://heimdall.site) is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like. ⭐ [7k stars](https://github.com/linuxserver/Heimdall)
 - [PiVPN](https://www.pivpn.io) is a simple OpenVPN installer, designed for Raspberry Pi. ⭐ [7k stars](https://github.com/pivpn/pivpn)
 - [Shell In A Box](https://code.google.com/archive/p/shellinabox) is a web-based terminal emulator that runs as a web-based SSH client on a web server. ⭐ [2.8k stars](https://github.com/shellinabox/shellinabox)
@@ -1070,7 +1063,6 @@ Datos.gov...
 - [Everything Fonts](https://everythingfonts.com) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
 - [Font Squirrel](https://www.fontsquirrel.com) - Freeware fonts licensed for commercial work. Hand-selected these typefaces and presented them in an easy-to-use format.
 - [Google Fonts](https://fonts.google.com) - Many free fonts are easy and quick to install on a website via a download or a link to Google's CDN.
-- [FontGet](https://www.fontget.com) - Has a variety of fonts available to download and sorted neatly with tags.
 - [Fontshare](https://www.fontshare.com) - is a free fonts service. It’s a growing collection of professional-grade fonts, 100% free for personal and commercial use.
 - [Befonts](https://befonts.com) - Provides several unique fonts for personal or commercial use.
 - [Font of web](https://fontofweb.com) - Identify all the fonts used on a website and how they are used.
@@ -1111,12 +1103,11 @@ Datos.gov...
 
 # Others
 
-## Tools
+## Design Tools
 
 - [Figma](https://www.figma.com) is a web-based graphics editing and user interface design app.
 - [Sketch](https://www.sketch.com) is a design toolkit for macOS.
 - [Canva](https://www.canva.com) is a **free-to-use online graphic design tool** that simplifies the process of creating visual content
-- [Shots](https://shots.so) is a tool to create beautiful screenshots for your app or website. Perfect to display your product in a professional way.
 
 ## Miscellaneous
 
@@ -1124,6 +1115,8 @@ Datos.gov...
 - [Readme](https://readme.com) — Beautiful documentation made easy, free for Open Source.
 - [Versionfeeds](https://versionfeeds.com) — Get notified when a new version of your favorite software is released.
 - [Tiledesk](https://tiledesk.com) — Open Source Live Chat and Chatbots for Customer Support.
+- [Shots](https://shots.so) is a tool to create beautiful screenshots for your app or website. Perfect to display your product in a professional way.
+- [jules](https://jules.google.com/task) - Google Task management tool with a free tier.
 - [Rocket Chat](https://rocket.chat) is a free and open-source `team chat collaboration platform` that allows users to communicate securely in real-time across devices on web, desktop, or mobile and to customize their interface with a range of plugins, themes, and integrations with other key software. ⭐ [39k stars](https://github.com/RocketChat/Rocket.Chat)
 - [Blynk](https://blynk.io) — A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices, Free Cloud & data storage. Mobile Apps are also available.
 - [Bricks Note Calculator](https://free.getbricks.app) - a note-taking app (PWA) with a powerful built-in multiline calculator.
@@ -1136,6 +1129,7 @@ Datos.gov...
 - [Form2Channel](https://form2channel.com) — Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram, or HTTP. No coding is necessary.
 - [Format Express](https://www.format-express.dev) - Instant online format for JSON / XML / SQL.
 - [Fossa](https://fossa.com) - Scalable, end-to-end management for third-party code, license compliance and vulnerabilities.
+- [Free File Convert](https://www.freeconvert.com) - Convert files from one format to another.
 - [Fullcontact](https://www.fullcontact.com/developer/pricing) — Help your users know more about their contacts by adding social profile to your app. 500 free Person API matches/month
 - [Hook Relay](https://www.hookrelay.dev) - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.
 - [Base64 decoder/encoder](https://devpal.co/base64-decode) — Online free tool for decoding & encoding data.
