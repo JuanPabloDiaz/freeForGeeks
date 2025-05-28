@@ -151,7 +151,12 @@ jobs:
           GITHUB_STARS="${{ steps.parse-issue.outputs.github_stars }}"
           GITHUB_URL="${{ steps.parse-issue.outputs.github_url }}"
           
-          # Format the resource entry
+          # Format the resource entry with proper style
+          # Make sure the description is properly formatted with a dash if not already present
+          if [[ "$DESCRIPTION" != *" - "* && "$DESCRIPTION" != "- "* ]]; then
+            DESCRIPTION="- $DESCRIPTION"
+          fi
+          
           if [[ -n "$GITHUB_STARS" && -n "$GITHUB_URL" ]]; then
             RESOURCE_ENTRY="- [$RESOURCE_NAME]($RESOURCE_URL) $DESCRIPTION ⭐ [$GITHUB_STARS]($GITHUB_URL)"
           elif [[ -n "$GITHUB_URL" ]]; then
@@ -168,27 +173,21 @@ jobs:
             exit 0
           fi
           
-          # Find category section and add resource
-          # This is a simple approach - add to the end of the category section
+          # Find category section and add resource properly
           if grep -q "# $CATEGORY" README.md; then
-            # Find the line number of the category
+            # Find the line number of the category heading
             CATEGORY_LINE=$(grep -n "# $CATEGORY" README.md | head -1 | cut -d: -f1)
             
-            # Find the next category or end of file
-            NEXT_CATEGORY_LINE=$(tail -n +$((CATEGORY_LINE + 1)) README.md | grep -n "^# " | head -1 | cut -d: -f1)
+            # Add resource AFTER the category heading (not before)
+            # First, get the content after the category heading
+            AFTER_HEADING=$((CATEGORY_LINE + 1))
             
-            if [[ -n "$NEXT_CATEGORY_LINE" ]]; then
-              INSERT_LINE=$((CATEGORY_LINE + NEXT_CATEGORY_LINE - 1))
-            else
-              INSERT_LINE=$(wc -l < README.md)
-              INSERT_LINE=$((INSERT_LINE + 1))
-            fi
-            
-            # Insert the resource
+            # Insert the resource right after the category heading
             {
-              head -n $((INSERT_LINE - 1)) README.md
+              head -n $CATEGORY_LINE README.md
+              echo ""
               echo "$RESOURCE_ENTRY"
-              tail -n +$INSERT_LINE README.md
+              tail -n +$AFTER_HEADING README.md
             } > README_temp.md
             
             mv README_temp.md README.md
