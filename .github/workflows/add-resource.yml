@@ -28,6 +28,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+          fetch-tags: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -150,6 +151,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+          git fetch --all
           git checkout -b ${{ steps.branch-name.outputs.branch_name }}
 
       - name: Update README.md
@@ -280,7 +282,18 @@ jobs:
         run: |
           git add README.md
           git commit -m "Add ${{ fromJSON(steps.parse-issue.outputs.result).resourceName }} to ${{ fromJSON(steps.parse-issue.outputs.result).category }}"
-          git push origin ${{ steps.branch-name.outputs.branch_name }}
+          # Try to push, if it fails due to remote changes, try to rebase and push again
+          if ! git push origin ${{ steps.branch-name.outputs.branch_name }}; then
+            echo "Push failed, trying to fetch and rebase..."
+            git fetch origin
+            # Check if branch exists on remote
+            if git ls-remote --heads origin ${{ steps.branch-name.outputs.branch_name }} | grep -q ${{ steps.branch-name.outputs.branch_name }}; then
+              # Branch exists, try to rebase
+              git pull --rebase origin ${{ steps.branch-name.outputs.branch_name }}
+            fi
+            # Try to push again, with force if needed
+            git push --force-with-lease origin ${{ steps.branch-name.outputs.branch_name }}
+          fi
 
       - name: Create Pull Request
         if: steps.update-readme.outputs.updated_readme == 'true'
