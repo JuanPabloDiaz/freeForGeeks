@@ -184,8 +184,10 @@ jobs:
             
             if (hasGithubInfo) {
               resourceEntry = `- [${resourceName}](${resourceUrl}) ${description} ⭐ [${githubStars}](${githubUrl})\n`;
+            } else if (githubUrl) {
+              resourceEntry = `- [${resourceName}](${resourceUrl}) ${description} ⭐ [GitHub](${githubUrl})\n`;
             } else {
-              resourceEntry = `- [${resourceName}](${resourceUrl}) ${description} ⭐ [GitHub](${githubUrl || 'https://github.com'})\n`;
+              resourceEntry = `- [${resourceName}](${resourceUrl}) ${description}\n`;
             }
             
             // Find the appropriate section in README.md
