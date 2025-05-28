@@ -22,6 +22,7 @@ jobs:
       contents: write
       issues: write
       pull-requests: write
+      id-token: write
 
     steps:
       - name: Checkout repository
@@ -298,52 +299,47 @@ jobs:
       - name: Create Pull Request
         if: steps.update-readme.outputs.updated_readme == 'true'
         id: create-pr
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Add ${{ fromJSON(steps.parse-issue.outputs.result).resourceName }} to ${{ fromJSON(steps.parse-issue.outputs.result).category }}"
+          branch: ${{ steps.branch-name.outputs.branch_name }}
+          delete-branch: true
+          title: "Add ${{ fromJSON(steps.parse-issue.outputs.result).resourceName }} to ${{ fromJSON(steps.parse-issue.outputs.result).category }}${{ fromJSON(steps.parse-issue.outputs.result).subcategory && fromJSON(steps.parse-issue.outputs.result).subcategory !== 'Other' ? ` (${fromJSON(steps.parse-issue.outputs.result).subcategory})` : '' }}"
+          body: |
+            ## Resource Addition
+            
+            This PR adds [${{ fromJSON(steps.parse-issue.outputs.result).resourceName }}](${{ fromJSON(steps.parse-issue.outputs.result).resourceUrl }}) to the ${{ fromJSON(steps.parse-issue.outputs.result).category }} section${{ fromJSON(steps.parse-issue.outputs.result).subcategory && fromJSON(steps.parse-issue.outputs.result).subcategory !== 'Other' ? ` under ${fromJSON(steps.parse-issue.outputs.result).subcategory}` : '' }}.
+            
+            ### Description
+            ${{ fromJSON(steps.parse-issue.outputs.result).description }}
+            
+            ### Resource Type
+            ${{ fromJSON(steps.parse-issue.outputs.result).resourceType }}
+            
+            ${{ fromJSON(steps.parse-issue.outputs.result).tags ? format('### Tags\n{0}', fromJSON(steps.parse-issue.outputs.result).tags) : '' }}
+            
+            Closes #${{ steps.get-issue.outputs.issue_number }}
+          labels: |
+            resource-addition
+            automated-pr
+          base: main
+          
+      - name: Process issue after PR creation
+        if: steps.create-pr.outputs.pull-request-number
         uses: actions/github-script@v6
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const data = ${{ steps.parse-issue.outputs.result }};
-            const { resourceName, category, subcategory } = data;
             const issueNumber = ${{ steps.get-issue.outputs.issue_number }};
-            
-            // Create PR
-            const pr = await github.rest.pulls.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: `Add ${resourceName} to ${category}${subcategory && subcategory !== 'Other' ? ` (${subcategory})` : ''}`,
-              head: '${{ steps.branch-name.outputs.branch_name }}',
-              base: 'main',
-              body: `
-              ## Resource Addition
-              
-              This PR adds [${resourceName}](${data.resourceUrl}) to the ${category} section${subcategory && subcategory !== 'Other' ? ` under ${subcategory}` : ''}.
-              
-              ### Description
-              ${data.description}
-              
-              ### Resource Type
-              ${data.resourceType}
-              
-              ${data.tags ? `### Tags\n${data.tags}` : ''}
-              
-              Closes #${issueNumber}
-              `,
-              draft: false
-            });
-            
-            // Add labels to PR
-            await github.rest.issues.addLabels({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: pr.data.number,
-              labels: ['resource-addition', 'automated-pr']
-            });
+            const prNumber = ${{ steps.create-pr.outputs.pull-request-number }};
             
             // Comment on the issue
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: parseInt(issueNumber),
-              body: `✅ Thank you for your submission! A pull request has been created: #${pr.data.number}`
+              body: `✅ Thank you for your submission! A pull request has been created: #${prNumber}`
             });
             
             // Add 'processed' label to the issue
@@ -361,5 +357,3 @@ jobs:
               issue_number: parseInt(issueNumber),
               state: 'closed'
             });
-            
-            return pr.data.number;
