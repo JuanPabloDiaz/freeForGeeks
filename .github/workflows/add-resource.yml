@@ -305,11 +305,11 @@ jobs:
           commit-message: "Add ${{ fromJSON(steps.parse-issue.outputs.result).resourceName }} to ${{ fromJSON(steps.parse-issue.outputs.result).category }}"
           branch: ${{ steps.branch-name.outputs.branch_name }}
           delete-branch: true
-          title: "Add ${{ fromJSON(steps.parse-issue.outputs.result).resourceName }} to ${{ fromJSON(steps.parse-issue.outputs.result).category }}${{ fromJSON(steps.parse-issue.outputs.result).subcategory && fromJSON(steps.parse-issue.outputs.result).subcategory !== 'Other' ? ` (${fromJSON(steps.parse-issue.outputs.result).subcategory})` : '' }}"
+          title: "Add ${{ fromJSON(steps.parse-issue.outputs.result).resourceName }} to ${{ fromJSON(steps.parse-issue.outputs.result).category }}${{ contains(fromJSON(steps.parse-issue.outputs.result).subcategory, 'Other') && fromJSON(steps.parse-issue.outputs.result).subcategory != '' ? '' : format(' ({0})', fromJSON(steps.parse-issue.outputs.result).subcategory) }}"
           body: |
             ## Resource Addition
             
-            This PR adds [${{ fromJSON(steps.parse-issue.outputs.result).resourceName }}](${{ fromJSON(steps.parse-issue.outputs.result).resourceUrl }}) to the ${{ fromJSON(steps.parse-issue.outputs.result).category }} section${{ fromJSON(steps.parse-issue.outputs.result).subcategory && fromJSON(steps.parse-issue.outputs.result).subcategory !== 'Other' ? ` under ${fromJSON(steps.parse-issue.outputs.result).subcategory}` : '' }}.
+            This PR adds [${{ fromJSON(steps.parse-issue.outputs.result).resourceName }}](${{ fromJSON(steps.parse-issue.outputs.result).resourceUrl }}) to the ${{ fromJSON(steps.parse-issue.outputs.result).category }} section${{ contains(fromJSON(steps.parse-issue.outputs.result).subcategory, 'Other') && fromJSON(steps.parse-issue.outputs.result).subcategory != '' ? '' : format(' under {0}', fromJSON(steps.parse-issue.outputs.result).subcategory) }}.
             
             ### Description
             ${{ fromJSON(steps.parse-issue.outputs.result).description }}
