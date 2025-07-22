@@ -67,11 +67,18 @@ async function updateGitHubStars() {
         }
       }
 
+      // After removing star spans and text, check if the link still contains a star emoji
+      const stillHasStarEmoji = link.textContent.includes("⭐");
+
       // Only add star count if there was one before
       if (hasExistingStars) {
         const span = document.createElement("span");
-        // Use only the formatted star count without the emoji if the link already had stars
-        span.textContent = ` ${formattedStars} stars`;
+        // Add the star emoji only if the link doesn't already have one after cleanup
+        if (stillHasStarEmoji) {
+          span.textContent = ` ${formattedStars} stars`;
+        } else {
+          span.textContent = ` ⭐ ${formattedStars} stars`;
+        }
         link.appendChild(span);
       }
     }
