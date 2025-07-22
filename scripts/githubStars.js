@@ -31,7 +31,6 @@ async function updateGitHubStars() {
 
     const formattedStars = formatStarsCount(stars);
     const starTextRegex = /⭐\s?\d[\d,\.]*k?\s?stars?/i;
-    const newStarText = `⭐ ${formattedStars} stars`;
 
     // Check if this is a star count link
     const isStarCountLink = link.textContent.match(/^\d[\d,\.]*k?\s?stars?$/i);
