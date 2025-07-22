@@ -71,7 +71,8 @@ async function updateGitHubStars() {
       // Only add star count if there was one before
       if (hasExistingStars) {
         const span = document.createElement("span");
-        span.textContent = ` ${newStarText}`;
+        // Use only the formatted star count without the emoji if the link already had stars
+        span.textContent = ` ${formattedStars} stars`;
         link.appendChild(span);
       }
     }
