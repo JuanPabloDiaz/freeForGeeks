@@ -218,7 +218,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Sonner](https://sonner.emilkowal.ski) is an opinionated **toast component** for React. ⭐ [7k stars](https://github.com/emilkowalski/sonner)
 - [Wouter](https://npm.im/wouter) is a tiny router for modern React and Preact apps that relies on Hooks. ⭐ [6.5k stars](https://github.com/molefrog/wouter)
 - [Plasmic](https://www.plasmic.app) is an open-source visual editing and content platform for building websites and apps. Integrate with existing codebases. Ship incredibly fast. ⭐ [5k stars](https://github.com/plasmicapp/plasmic)
-- [React Tabs](https://reactcommunity.org/react-tabs) is an accessible and easy tab component for ReactJS. ⭐ [3k stars](https://github.com/reactjs/react-tabs)
+
 - [ReactPlay](https://reactplay.io) is a **React code editor** that allows you to write and preview React code in real time. It is a great tool for learning React, testing code, and creating demos. ⭐ [2k stars](https://github.com/reactplay/react-play)
 - [Virtua](https://inokawa.github.io/virtua) is a zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte. ⭐ [1.5k stars](https://github.com/inokawa/virtua)
 - [React Aria Modal](https://davidtheclark.github.io/react-aria-modal/demo) is a fully accessible React modal component. ⭐ [1k stars](https://github.com/davidtheclark/react-aria-modal)
