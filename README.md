@@ -377,8 +377,6 @@ A collection of links to **free resources** and **tools** for developers. It inc
 - [Render API](https://docs.render.com/api) provides a public REST API for managing your services and other resources programmatically. ⭐ [GitHub](https://github.com/renderinc)
 - [Colab](https://colab.research.google.com) is a free Jupyter notebook (Python) environment that requires no setup and runs entirely in the cloud. It includes free GPU and TPU.
 
-
-
 <h6>Webhooks</h6>
 
 - [Hook0](https://www.hook0.com) is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with seven days of history retention for free.
@@ -503,7 +501,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 <h6>Fun and Miscellaneous</h6>
 
 - [Deck of Cards](https://deckofcardsapi.com) is an API to simulate a deck of cards. The API provides access to a deck of cards.
-- [Bored API](https://bored.api.lewagon.com) is a free API for `random activities`. The API provides access to random activities. ⭐ [GitHub](https://github.com/drewtheclark/Bored-API)
+- [Bored API](https://bored.api.lewagon.com) is a free API for `random activities`. The API provides access to random activities.
 - [Dragon Ball API](https://web.dragonball-api.com) is a free API for `Dragon Ball`. The API provides access to characters and more.
 
 #### **Scraping**
@@ -1205,7 +1203,7 @@ Datos.gov...
 
 ### Free Themes, Templates, and Starters
 
-- [Statichunt](https://statichunt.com) is a free open-source Jamstack directory that lists hundreds of themes, starters, and resources for static sites. ⭐ [151 stars](https://github.com/statichunt/statichunt)
+- [Statichunt](https://statichunt.com) is a free open-source Jamstack directory that lists hundreds of themes, starters, and resources for static sites.
 - [taxonomy](https://statichunt.com) is an open source application built using the new router, server components and everything new in Next.js 13.⭐ [17.4k stars](https://github.com/shadcn-ui/taxonomy)
 
 ## Documentation
