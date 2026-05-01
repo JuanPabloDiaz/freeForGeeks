@@ -438,6 +438,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [Big Data Cloud](https://www.bigdatacloud.com) provides fast, accurate, and free (Unlimited or up to 10K-50K/month) APIs for modern web like IP Geolocation, Reverse Geocoding, Networking Insights, Email and Phone Validation, Client Info and more.
 - [Country State City API](https://countrystatecity.in) is a free API to get country, state, and city details. ⭐ [6.3k stars](https://github.com/dr5hn/countries-states-cities-database)
+- [PostalCodes.info](https://postalcodes.info/api) provides a postal code lookup API and downloadable country datasets for address validation, checkout, logistics, CRM enrichment and geocoding workflows. The public search endpoint can be tested without an API key.
 - [DB-IP](https://db-ip.com/api/free) is a free IP geolocation API with 1k request per IP per day.lite database under the CC-BY 4.0 License is free too.
 - [Flags API](https://flagsapi.com) is a free API to get country flags. ⭐ [GitHub]()
 - [GeoCod](https://geocode.xyz) is a Free `geocoding API`: Convert postal addresses into geographic coordinates or convert geographic coordinates into postal addresses (reverse geocoding).
