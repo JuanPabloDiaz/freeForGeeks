@@ -1292,6 +1292,7 @@ Comparison of major documentation tools:
 
 - [Cloudinary](https://cloudinary.com) is a cloud-based image and video management solution. ⭐ [GitHub](https://github.com/cloudinary)
 - [imgur](https://imgur.com) is a free image hosting service.
+- [Mini-Tools.uk Upload](https://mini-tools.uk/upload) is a free image hosting and image-to-link page for quickly uploading images and copying Direct URL, Markdown, HTML or BBCode links for README files, docs, forums, support tickets and temporary screenshot sharing.
 - [Imgix](https://www.imgix.com) is a real-time image processing and delivery service.
 - [Cloudimage](https://www.cloudimage.io) is a smart image management solution. ⭐ [GitHub](https://github.com/scaleflex)
 - [Imagekit](https://imagekit.io) is a real-time image optimization and delivery service.
