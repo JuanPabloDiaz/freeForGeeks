@@ -49,6 +49,8 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 # Frontend
 
+- [Markstream](https://markstream.simonhe.me/) - Markstream is a multi-framework streaming Markdown renderer for AI chat interfaces. It renders incomplete token streams with low-jitter updates and supports Vue/Nuxt, React/Next.js/Remix, Svelte, Angular, and Vue 2, with Mermaid, KaTeX, Shiki, Monaco, safe HTML, SSR, and custom components.
+
 [Frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 
 ## Dashboards and Admin Panels
