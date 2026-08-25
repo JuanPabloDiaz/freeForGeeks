@@ -760,6 +760,8 @@ Datos.gov...
 
 # DevSecOps
 
+- [JSON Diff](https://alltoolsverse.com/tools/json-diff/) - Compare two JSON documents and inspect added, removed, and changed values by path. The browser tool supports side-by-side and unified views and requires no account.
+
 ## System Design
 
 - [System Design Primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. ⭐ [250k stars](https://github.com/donnemartin/system-design-primer)
