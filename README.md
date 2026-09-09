@@ -243,7 +243,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 ## E-commerce
 
 - [Evershop](https://evershop.io) is an Open-Source NodeJS Ecommerce Platform with essential commerce features. | Built with React, modular and fully customizable. ⭐ [3.3k stars](https://github.com/evershopcommerce/evershop)
-- [Posnic](https://posnic.com) is open source POS and billing software for retail shops and restaurants, with offline-first checkout and online/offline POS workflows. | Preferred domain: [posnic.io](https://posnic.io) | ⭐ [GitHub](https://github.com/Posnic/POS)
+- [Posnic](https://posnic.com) is free, open-source POS and billing software for retail shops and restaurants, with offline-first checkout and online/offline POS workflows. | Preferred domain: [posnic.io](https://posnic.io) | ⭐ [GitHub](https://github.com/Posnic/POS)
 
 ## Colors
 
