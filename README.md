@@ -968,6 +968,7 @@ Datos.gov...
 ## GitHub Tools
 
 - [Stats](https://github-readme-stats.vercel.app): Get `up-to-date stats` on your GitHub **activity** and **contributions**, automatically integrated into your README.md with Readme Stats. It is a **dynamically generated GitHub stats** on your READMEs. ⭐ [64k stars](https://github.com/anuraghazra/github-readme-stats)
+  - ⚠️ The official endpoint (`github-readme-stats.vercel.app`) has been down for an extended period. [github-readme-stats.shion.dev](https://github-readme-stats.shion.dev) is a compatible, free alternative deployment that is currently working. ([Details](https://github.com/Shion1305/github-readme-stats.shion.dev))
 - [Awesome GitHub Profile](https://github.com/abhisheknaiidu/awesome-github-profile-readme) is a curated list of **awesome GitHub Profile READMEs**. ⭐ [22k stars](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [Best Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator) is another tool to generate GitHub profile READMEs by filling out a **simple form**. ⭐ [19.5k stars](https://github.com/rahuldkjain/github-profile-readme-generator)
 - [Readme md Generator](https://www.npmjs.com/package/readme-md-generator) is a tool to generate a **README.md file** using a **CLI**. ⭐ [10.7k stars](https://github.com/kefranabg/readme-md-generator)
