@@ -1468,6 +1468,7 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) is a complete computer science study plan to become a software engineer. ⭐ [280k stars](https://github.com/jwasham/coding-interview-university)
 - [Doppler](https://www.doppler.com) is a curated **awesome list of lists of interview questions** 🎓⭐ [65k stars](https://github.com/DopplerHQ/awesome-interview-questions)
 - [Frontend Interview Questions](https://www.frontendinterviewquestions.com/interview-questions) is a collection of **interview questions** for **frontend developers**.
+- [FrontendAtlas Essential 60](https://frontendatlas.com/interview-questions/essential) is a publicly viewable shortlist of 60 frontend interview prompts covering JavaScript utilities, UI coding, accessibility, and frontend system design, with 7-, 14-, and 30-day practice guidance. Some linked exercises require Premium. 💲💲
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org) is a free curated interview preparation materials for busy people. Brought to you by the author of Blind 75. ⭐ [113k stars](https://github.com/yangshun/tech-interview-handbook)
 
 ## Competitive programming
