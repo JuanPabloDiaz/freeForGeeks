@@ -1034,6 +1034,7 @@ Datos.gov...
 - [Conversion Tools](https://conversiontools.io) is an online File Converter for documents, images, video, audio, and eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). The free tier is limited by file size and number of conversions per day.
 - [pdfEndpoint](https://pdfendpoint.com) - Effortlessly convert HTML or URLs to PDF with a simple API. One hundred conversions per month for free.
 - [Free File Convert](https://www.freeconvert.com) is a tool to convert files from one format to another.
+- [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 - [PDF To Image](https://pdftoimage.com) is a tool to convert PDF files to images.
 
 ## Image Optimization
