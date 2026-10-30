@@ -371,6 +371,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 - [Doczilla](https://www.doczilla.app) is a SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
 - [Doppio](https://doppio.sh) is a fully managed API to generate and privately store documents and screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.
+- [CurlShot](https://curlshot.com) is a screenshot API that turns a URL, HTML or Markdown into a full-page PNG, JPEG, WebP, PDF or scrolling video with one HTTP request, and has an MCP server for AI agents. The free plan allows 100 screenshots per month, no card required.
 - [Geekflare API](https://geekflare.com/api) lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 3,000 API requests.
 - [Glitterly](https://glitterly.app) is a tool to generate dynamic images from base templates. Restful API and nocode integrations. The free tier comes with 50 images/month and five templates.
 - [Wrap Api](https://wrapapi.com) `turns any website into a parameterized API`. 30k API calls per month.
