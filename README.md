@@ -1101,6 +1101,8 @@ Datos.gov...
 
 # Others
 
+- [Calendar by Xlinesoft](https://xlinesoft.com/freewebapps/calendar) - A free downloadable calendar web application for self-hosting on a PHP server with MySQLi and MySQL. The package includes a web installer and does not require purchasing or building with PHPRunner.
+
 ## Design Tools
 
 - [Figma](https://www.figma.com) is a web-based graphics editing and user interface design app.
