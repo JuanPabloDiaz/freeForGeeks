@@ -1405,6 +1405,8 @@ Internet Archive is a non-profit library of millions of free books, movies, soft
 
 # Career Development
 
+- [WebCheatSheet SQL tutorials](https://webcheatsheet.com/sql/index) - Free-to-read SQL lessons with practical examples of SELECT, filtering, joins, grouping and aggregate queries. The collection links related topics so learners can move from retrieving rows to combining and summarizing data.
+
 ## Learn to Code
 
 - [Developer Roadmaps](https://roadmap.sh) is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings. **To help developers grow** in their careers. ⭐ [279k stars](https://github.com/kamranahmedse/developer-roadmap)
