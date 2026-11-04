@@ -1283,6 +1283,7 @@ Comparison of major documentation tools:
 
 - [Vercel](https://vercel.com)
 - [Netlify](https://www.netlify.com)
+- [Shipvela](https://shipvela.com) hosts React, Vite and static websites from GitHub or a CLI. The free Hobby plan includes 3 projects, 20 publishes per month, custom domains and managed HTTPS.
 - [Heroku](https://www.heroku.com)
 - [GitHub Pages](https://pages.github.com)
 - [Surge](https://surge.sh) is a static web publishing for Front-End Developers. ⭐ [2.8k stars](https://github.com/sintaxi/surge)
