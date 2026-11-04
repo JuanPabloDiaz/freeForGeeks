@@ -1272,6 +1272,7 @@ Comparison of major documentation tools:
 - [Freenom](https://www.freenom.com) is a domain name registrar that provides free domain registration services.
 - [JS.org](https://js.org) is a free domain dedicated to JavaScript and its awesome community. ⭐ [5.1k stars](https://github.com/js-org/js.org)
 - [is-a.dev](https://is-a.dev) is a service that allows developers to get a sweet-looking .is-a.dev subdomain for their personal websites. ⭐ [2.5k stars](https://github.com/is-a-dev/register)
+- [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) is a catalog of programs that still give a $0 domain or subdomain (eu.org, is-a.dev, DuckDNS, and others), plus a live RDAP hunter for unused TLDs with low first-year prices, not forever-free registration.
 
 ### Domain tools
 
