@@ -759,6 +759,7 @@ Datos.gov...
 <section id="devsecops">
 
 # DevSecOps
+- [JSON Diff](https://alltoolsverse.com/tools/json-diff/) - Compare two JSON documents and inspect added, removed, and changed values by path. The browser tool supports side-by-side and unified views and requires no account.
 
 ## System Design
 
