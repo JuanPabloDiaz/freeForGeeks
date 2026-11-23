@@ -365,6 +365,7 @@ A collection of links to **free resources** and **tools** for developers. It inc
 
 <h6>Documentation Tools</h6>
 
+- [KaijuConverter](https://kaijuconverter.com) - Convert 201+ file formats and 54 precision Studio tools (PDF/A ISO archival, 20KB image cap, 12-language OCR) via Web Workbench, REST API v1, and Official MCP Server.
 - [API Toolkit](https://apitoolkit.io) - All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. The free plan covers servers with up to 20,000 requests per month.
 
 <h6>Web Development & Document Generation</h6>
